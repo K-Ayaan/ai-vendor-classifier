@@ -1,0 +1,1661 @@
+{
+  "category": "dairy_eggs",
+  "status": "complete",
+  "count": 236,
+  "outside": 86,
+  "points": [
+    {
+      "id": "chijebwxgflnujorbd23bkphjsg",
+      "title": "Sri Rama Dairy",
+      "address": "27, Karuneegar St, Ramapuram, Karuneegar, Paramesh Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.994202,
+      "lon": 80.20152709999999
+    },
+    {
+      "id": "chij1rxeqadeujortqwelsdaxbe",
+      "title": "Aavin Milk Depot",
+      "address": "X5JP+9F4 Aavin Milk Depot, 6th Main Rd, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9808872,
+      "lon": 80.1861989
+    },
+    {
+      "id": "chijv2q4sjbnujorsmuzh_uv_as",
+      "title": "Thayar Dairy",
+      "address": "11, Hanumar Kovil Street Facing, Station Rd, opp. to Narasus Coffee, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0386063,
+      "lon": 80.225966
+    },
+    {
+      "id": "chijg4ovt5pnujorqgzmzs5sjtg",
+      "title": "Mohammed Dairy products",
+      "address": "Sherfudeen gardan,Triplicane, Chennai, Tamil Nadu 600005, 2nd St, Chennai, Tamil Nadu 600014",
+      "lat": 13.0534324,
+      "lon": 80.2716423
+    },
+    {
+      "id": "chij-coouhbnujormh9p96avpa0",
+      "title": "Mother Dairy",
+      "address": "Shop No. 43/16, Perumal Koil W Mada St, Duraisamy Garden, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.0223009,
+      "lon": 80.2161577
+    },
+    {
+      "id": "chijxtibnpnnujor4dd4qq4et60",
+      "title": "Poonam Badam Milk",
+      "address": "921, TNHB colony, HIG block, 1st main road, 42, Velachery, Agaramthen, Tamil Nadu 600126",
+      "lat": 12.882793699999999,
+      "lon": 80.16444349999999
+    },
+    {
+      "id": "chijb1tomdxmujori3084f28djy",
+      "title": "Krishna Dairy Farm",
+      "address": "78, 1Perumal Mudali St, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0576975,
+      "lon": 80.26730719999999
+    },
+    {
+      "id": "chijj5ofuq5hujorxaafl8l0rs8",
+      "title": "A2 Cow Milk & Dairy Products",
+      "address": "Oil Mill, ANE Elumalai street, road, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600077",
+      "lat": 13.041557899999999,
+      "lon": 80.1366457
+    },
+    {
+      "id": "chijusbbivpgujorqalor9ucdj8",
+      "title": "Farm Fresh Milk Parlour",
+      "address": "No.48, Farm Fresh Milk Parlour, 3/352, Mugalivakkam Main Rd, Annai Velankanni Nagar Phase 1, Madhanandapuram, Chennai, Tamil Nadu 600125",
+      "lat": 13.022140499999999,
+      "lon": 80.14855349999999
+    },
+    {
+      "id": "chijccjf93znujorr5uchlrkz6m",
+      "title": "JM Dairy",
+      "address": "64, Gangaiamman Koil St, Gangai Amman Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0528009,
+      "lon": 80.2166324
+    },
+    {
+      "id": "chij5dst-1dnujordmontx7jy-q",
+      "title": "MAYURAM STORES, MAYURAM GREENS AND DAIRY",
+      "address": "46, Abbusali St, Kumaran Colony, SBI Colony, Saligramam, Chennai, Tamil Nadu 600092",
+      "lat": 13.052284199999999,
+      "lon": 80.19930029999999
+    },
+    {
+      "id": "chijh53fotf3ujoraxvjwhcetlo",
+      "title": "HAP daily",
+      "address": "10, Iyyenchery Main Rd, near Ravi Medical, Gandhi Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.86594,
+      "lon": 80.0783553
+    },
+    {
+      "id": "chijqduk8xldujor59i-ywq_0pc",
+      "title": "SK FARM’S (A1&A2 FRESH DAIRY PRODUCTS)",
+      "address": "204, 4th St, KPK Nagar West, Anna Nagar, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9656919,
+      "lon": 80.2288695
+    },
+    {
+      "id": "chij6aje2g1dujor_h74zjszfh4",
+      "title": "ANNAPOORANI MILK SUPPLY",
+      "address": "2/365,5TH STREET, 200 Feet Radial Rd, PERIYAKOVILAMBAKKAM, Tambaram, Tamil Nadu 600129",
+      "lat": 12.9472296,
+      "lon": 80.1922609
+    },
+    {
+      "id": "chijcxbvo2bnujor1sru8n4tn_k",
+      "title": "Nature Milk Saligramam Chennai",
+      "address": "6/1, Kamarajar Street, Fourth St, Gandhi Nagar, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.0575768,
+      "lon": 80.2045485
+    },
+    {
+      "id": "chijcxocvj33ujorqkhafwcjdhs",
+      "title": "HAP daily",
+      "address": "23, Station Rd, Selvaraj Nagar, Rohini Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603211",
+      "lat": 12.867713499999999,
+      "lon": 80.0662722
+    },
+    {
+      "id": "chij87mgtfxmujorsect8ld9wrg",
+      "title": "M M T Supermarket",
+      "address": "98/50, Balakrishna Naicker St, SM Nagar, Vivekanandapuram, Guindy, Chennai, Tamil Nadu 600033",
+      "lat": 13.039597899999999,
+      "lon": 80.2211849
+    },
+    {
+      "id": "chijnrz3u7dnujoreocp3ifzq-o",
+      "title": "DHANALAKSHMI MILK AGENCY",
+      "address": "33/17, VM St, Mirsahibpet, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.052303499999999,
+      "lon": 80.26947489999999
+    },
+    {
+      "id": "chij6-jlfq32ujorba51h4arkty",
+      "title": "HATSUN",
+      "address": "Shop No:5/687, HATSUN, New Otteri, Manikka Jalakanda Salai, Otteri, Otteri Extension, Vandalur, Chennai, Tamil Nadu 600048",
+      "lat": 12.8815105,
+      "lon": 80.07821679999999
+    },
+    {
+      "id": "chijtxsvkm9mujorrsihpx8hyce",
+      "title": "Erode Dairy Farm",
+      "address": "New No. 89, Old No. 36, Arcot Road, Saligramam, Sathya Garden,, Chennai, Tamil Nadu 600093",
+      "lat": 13.047283,
+      "lon": 80.1979681
+    },
+    {
+      "id": "chij8vpaog9nujoraaaa0hl3vya",
+      "title": "SHREE DIVYA DAIRY",
+      "address": "53/26, S Madha Church St, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.0223917,
+      "lon": 80.225506
+    },
+    {
+      "id": "chija5i6qjlnujoribr4lz6mgak",
+      "title": "Ayyan Dairy Products",
+      "address": "Krishnappa St, Appavu Nagar, Saidapet, Chennai, Tamil Nadu 600033",
+      "lat": 13.0274586,
+      "lon": 80.2203308
+    },
+    {
+      "id": "chijm1j3y0jdujorniwhtzkguxw",
+      "title": "HAP daily",
+      "address": "Ground Floor, HAP daily, No. 103, Parthasarathy Street, Ram Nagar South Extension, Ram Nagar South, Madipakkam, Chennai, Tamil Nadu 600100",
+      "lat": 12.953363999999999,
+      "lon": 80.20726599999999
+    },
+    {
+      "id": "chijyws3dihdujor37dlrfkkbsi",
+      "title": "Dairy Day",
+      "address": "No. 34, Throwpathy Amman Koil 1st St, Lakshmi Puram, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.987992,
+      "lon": 80.2204915
+    },
+    {
+      "id": "chijzfmrva5nujor8ovypa66slg",
+      "title": "NANDHI COW MILK",
+      "address": "600032, Ramapuram, Narasinga Colony, Maduvinkarai, Guindy, Chennai, Tamil Nadu 600032",
+      "lat": 13.003217399999999,
+      "lon": 80.2102945
+    },
+    {
+      "id": "chij03mvykf2ujorsto0cy-od0s",
+      "title": "Lakshmi Dairy Store",
+      "address": "No:17, Karanai Puducherry Rd, Senthil Nagar, Urapakkam, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8596185,
+      "lon": 80.0735425
+    },
+    {
+      "id": "chijy9y5r5hhujorjvrdwakozy8",
+      "title": "Village Milk Porur",
+      "address": "25/2, Arcot Rd, next to specsmakers, Thirumurugan Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.0376088,
+      "lon": 80.1612287
+    },
+    {
+      "id": "chijp-y4zcvfujoreon8oslgpvg",
+      "title": "Kabilai Farm - Fresh Cow Milk",
+      "address": "Door No 1, Kabilai Farm - Fresh Cow Milk, Plot No 5, Indian Colony, Balaji Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9571322,
+      "lon": 80.17961
+    },
+    {
+      "id": "chijb0feh01mujormqdwt3y8qy4",
+      "title": "MADRAS MILK",
+      "address": "S W Boag Rd, T Nagar, CIT Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0311322,
+      "lon": 80.2320009
+    },
+    {
+      "id": "chijsa1ucp8cuzorrw--wjvcvwa",
+      "title": "Uzhavarbumi - Fresh Cow Milk in Chennai",
+      "address": "R S NAGAR, 1/260, DR, Radha Krishnan St, JALLADIANPET, Medavakkam, Chennai, Tamil Nadu 600100",
+      "lat": 12.9280595,
+      "lon": 80.2020809
+    },
+    {
+      "id": "chijyrpbs4zbujorhylmabsdmz8",
+      "title": "Aavin Hi-tech Parlour",
+      "address": "Milk Production Dairy, Rajiv Gandhi Salai, Ezhil Nagar, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.893776599999999,
+      "lon": 80.2272636
+    },
+    {
+      "id": "chijrz1qpybbujorbqy6lfbibls",
+      "title": "Heritage Milk Parlour",
+      "address": "No.21, MGR Rd, Nedunchezian Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8970568,
+      "lon": 80.2313388
+    },
+    {
+      "id": "chij44vrq91fujorpwhhmbcavia",
+      "title": "Village Milk",
+      "address": "Oil Mill, Bus Stop, Velachery Main Rd, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9290349,
+      "lon": 80.202435
+    },
+    {
+      "id": "chijw_qfftnnujorhbmaz0jbaa4",
+      "title": "Kalathi Rose Milk Shop",
+      "address": "5, N Mada St, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.032029099999999,
+      "lon": 80.2709376
+    },
+    {
+      "id": "chijo1telvjnujorylksj76j1ia",
+      "title": "Nandhaa Dairy farm",
+      "address": "Madurai Veeran Koil St, CIT Nagar East, CIT Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0324368,
+      "lon": 80.23413099999999
+    },
+    {
+      "id": "chijrcttqznhujor49mce8kn0ng",
+      "title": "GANESH MILK AGENCY",
+      "address": "Hap Daily, 8/33, Bajanai Koil St, Police Commissioner Colony, Pozhichalur, Kanchipuram, Madanandapuram, Tamil Nadu 600074",
+      "lat": 12.989303399999999,
+      "lon": 80.1413621
+    },
+    {
+      "id": "chijw1rrwlfdujor0qwvn0j4h-0",
+      "title": "Rose Milk Raja",
+      "address": "W6CJ+C26 Rose Milk Raja, OMR Service Rd, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.921026699999999,
+      "lon": 80.2300111
+    },
+    {
+      "id": "chij6dprurvhujorm7n-ut-gtx8",
+      "title": "The Buttermilk Factory",
+      "address": "Landmark: Manikandan Nagar Bus Stop, 27 Mettu Street, Pallavaram - Kundrathur Main Rd, Karaima Nagar, Kundrathur, Chennai, Tamil Nadu 600069",
+      "lat": 12.988684699999999,
+      "lon": 80.1177388
+    },
+    {
+      "id": "chijk-zgu4fbujor_aj7iae8o8k",
+      "title": "Aavin Milk Production Dairy",
+      "address": "Milk Production Dairy, Rajiv Gandhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8942175,
+      "lon": 80.22744
+    },
+    {
+      "id": "chijdaxt8c73ujork2bgcc0tusw",
+      "title": "OXEN DAIRY PRODUCTS",
+      "address": "No 220, Rajiv Gandhi Nagar 2nd Street, Urapakkam, Tamil Nadu 603210",
+      "lat": 12.857655399999999,
+      "lon": 80.0760347
+    },
+    {
+      "id": "chija3vx4ozeujorwdhywcjeao4",
+      "title": "Aavin Milk Store.",
+      "address": "W5QJ+M22 Aavin Milk Store., Geetha Agencies, Chinna Kovilambakkam, Ullagaram, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9391293,
+      "lon": 80.18001369999999
+    },
+    {
+      "id": "chijdsdjnep2ujor73jr3gpavcu",
+      "title": "Aram Milk",
+      "address": "No 22, Aram Milk, Sri Sai baba, Ganesh Nagar, Bharani Dharan Boss, Urapakkam, Karanai, Chennai, Tamil Nadu 603210",
+      "lat": 12.8570637,
+      "lon": 80.07638589999999
+    },
+    {
+      "id": "chijdtib0ibbujorjmcrbcbynz0",
+      "title": "Aavin Ice Cream Parlour",
+      "address": "120, Rajiv Gandhi Salai, Nedunchezian Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8942638,
+      "lon": 80.2274365
+    },
+    {
+      "id": "chijwrc4c3zfujorp6udlyfxmsw",
+      "title": "PVS Aavin Park",
+      "address": "9/180, Patel Road, Ranganathapuram, Medavakkam, Kanchipuram, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.917660999999999,
+      "lon": 80.18740369999999
+    },
+    {
+      "id": "chijbz2i2obnujorbykhsejl_jw",
+      "title": "HAP DAILY - Yugapriya Milk Agency",
+      "address": "77/37, Canal Bank Rd, CIT Nagar West, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.030574399999999,
+      "lon": 80.2333185
+    },
+    {
+      "id": "chij76wvwxrnujorvhlckgzfqto",
+      "title": "Mjr Dairy products (Frozen Foods Supplier)",
+      "address": ": 19, Ponniamman Koil St, Avvai Colony, Kotturpuram, Chennai, Tamil Nadu 600085",
+      "lat": 13.0165642,
+      "lon": 80.2439122
+    },
+    {
+      "id": "chijtb7xktklujorx1p_cuvr4ge",
+      "title": "Sundairy Farm | Pure Cow Ghee | Organic Ghee | A2 Cow Ghee",
+      "address": "2/58, Nehruji St, Nazarathpettai, Chennai, Tamil Nadu 600123",
+      "lat": 13.0435667,
+      "lon": 80.0796797
+    },
+    {
+      "id": "chijgwn8z9bfujormtuol_n_y1s",
+      "title": "Arun Milk Agency",
+      "address": "12, Girigori Street, Pasumpon Nagar, Pammal, Tambaram, Tamil Nadu 600075",
+      "lat": 12.976920699999999,
+      "lon": 80.1330943
+    },
+    {
+      "id": "chijw691jnbmujoryvyf9ysfl1q",
+      "title": "Astra Dairy Farms Pvt Ltd",
+      "address": "1st floor, Astra Dairy Farms Pvt Ltd, 22, 47th St, Sarvamangala Colony, Manthope Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.036175,
+      "lon": 80.2153826
+    },
+    {
+      "id": "chijgd9lwdhmujorremxoch1pse",
+      "title": "Sri Murgan Milk Agencies",
+      "address": "82, Near Market, K.K. Salai, MGR Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.0358178,
+      "lon": 80.2012444
+    },
+    {
+      "id": "chijw08bpgb7ujoryihtaxqclzm",
+      "title": "C.ABU Egg CENTER",
+      "address": "7/36, Nethaji St, Chengalpattu, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.759392799999999,
+      "lon": 80.0064567
+    },
+    {
+      "id": "chijsqzcqyn9ujorcglgqvtgyn0",
+      "title": "Kumari Egg Shop",
+      "address": "Kumari Egg Center, Gandhi Salai, J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.695555299999999,
+      "lon": 79.976618
+    },
+    {
+      "id": "chiji6ckjlz5ujorlamw2l2smkm",
+      "title": "Sri Aandal Egg Mart",
+      "address": "Vallal Began St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.798033,
+      "lon": 80.022797
+    },
+    {
+      "id": "chijftziqwx8ujoraaaacanvoly",
+      "title": "N S M Egg Store",
+      "address": "57, Vedhaper St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.694415999999999,
+      "lon": 79.9741409
+    },
+    {
+      "id": "chijuuocmmf3ujorsdm6p4y17rg",
+      "title": "Yogaraj Egg Centre",
+      "address": "New No. 19, Old No. 90, Sadhaivam Rd, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8093015,
+      "lon": 80.0321809
+    },
+    {
+      "id": "chijy380z1n3ujornakdm0d9ygo",
+      "title": "Tamilnadu Egg Hatchery",
+      "address": "R29P+474 Tamilnadu Egg Hatchery, NH 32, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.817774499999999,
+      "lon": 80.03570289999999
+    },
+    {
+      "id": "chijq158tnf8ujorl_79r9wcve8",
+      "title": "KUMARI EGG CENTRE",
+      "address": "9/1E GST ROAD, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.701960699999999,
+      "lon": 79.9762111
+    },
+    {
+      "id": "chij_ym7awd3ujor97vrmwqi2qs",
+      "title": "AK Egg shop",
+      "address": "11, Ganapathy Nagar, Urapakkam, Chennai, Ayyancheri, Tamil Nadu 603210",
+      "lat": 12.858195799999999,
+      "lon": 80.079098
+    },
+    {
+      "id": "chijayb67rpnujorx32wsppt6kw",
+      "title": "EGG VARIETY WORLD",
+      "address": "2a, Gopal St, Barathi Block, VSM Garden, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+      "lat": 13.028215,
+      "lon": 80.2140611
+    },
+    {
+      "id": "chijdrjktabfujor14i2pdlopsw",
+      "title": "Shivanesh egg shop",
+      "address": "203, Elumalai Salai St, Vaithiyalingam Nagar, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.939373999999999,
+      "lon": 80.1815043
+    },
+    {
+      "id": "chijqx6p-_tdujorw604ufjzebu",
+      "title": "SPS EGGS - VELACHERY",
+      "address": "1/10 3rd main road, 2nd Cross St, Venkateswara Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.979907899999999,
+      "lon": 80.2177626
+    },
+    {
+      "id": "chij1rv5gzdeujorzoqe70jskwu",
+      "title": "GDS Egg Mart",
+      "address": "59, Railway Station Rd, Subramaniya, Pallavaram, Pallavaram (Contonment), Tamil Nadu 600043",
+      "lat": 12.9671535,
+      "lon": 80.15140869999999
+    },
+    {
+      "id": "chijxegwxhtnujor3_19w4ccvs4",
+      "title": "P N S Egg Market",
+      "address": "68, P N S Egg Market, Kodambakkam Rd, Ethiraj Nagar, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0301356,
+      "lon": 80.22016409999999
+    },
+    {
+      "id": "chija0din4xhujor8dsvgnd6k2k",
+      "title": "Egg Wholesale Shop",
+      "address": "2/440, Kumudam Nagar, Mugalivakkam, Chennai, Tamil Nadu 600125",
+      "lat": 13.019434299999999,
+      "lon": 80.1666825
+    },
+    {
+      "id": "chijgvrcgwbdujorvzputvtxs5e",
+      "title": "S.K.T Egg Shop",
+      "address": "27, Arul Murugan Nagar Main Rd, Kumaran Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9554099,
+      "lon": 80.188069
+    },
+    {
+      "id": "chijg5i5s-hhujorw9o3iezgq8c",
+      "title": "KS EGG Mart",
+      "address": "1/57, main road, Cowl Bazar, Pozhichalur, Cowl Bazaar, Tamil Nadu 600074",
+      "lat": 12.9886191,
+      "lon": 80.15108099999999
+    },
+    {
+      "id": "chij1duw-2tdujort0nmteq_adk",
+      "title": "Saravana Egg Mart",
+      "address": "Valmiki St, Kamaraj Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9879892,
+      "lon": 80.2600441
+    },
+    {
+      "id": "chija1xnmendujorvklo_e8atcg",
+      "title": "Sri Vari Egg Shop",
+      "address": "Door No. 4, Sri Vari Egg Shop, 385, Periyar St, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9073011,
+      "lon": 80.1978637
+    },
+    {
+      "id": "chijps0fdendujorv3-225klbkg",
+      "title": "PureNest Eggs",
+      "address": "3, Avvai 1st St, Periyar Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9330184,
+      "lon": 80.21082009999999
+    },
+    {
+      "id": "chijqtem5chfujorsdcmscgrt1e",
+      "title": "AKG Egg Shop",
+      "address": "131, Velachery Main Rd, Kamarajapuram, Sembakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9236633,
+      "lon": 80.1552355
+    },
+    {
+      "id": "chij0bfprqbdujormiywiptn3z4",
+      "title": "Egg wholesale shop",
+      "address": "31, Village High Rd, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.9054003,
+      "lon": 80.2328964
+    },
+    {
+      "id": "chijzzujnb5dujorp6gm9p34jdk",
+      "title": "RASI FOODS CHENNAI - Egg Distributer, Producer & Exporter",
+      "address": "kailveli,pallikaranai,velacheri main road, Major Mukund Varadharajan Rd, Ram Nagar South, Madipakkam, Chennai, Tamil Nadu 600042",
+      "lat": 12.9618158,
+      "lon": 80.2150458
+    },
+    {
+      "id": "chijq6rejsveujorzpr474rqhwi",
+      "title": "GS Egg Shop",
+      "address": "5, Madambakkam Main Rd, Madambakkam, Tambaram, Tamil Nadu 600126",
+      "lat": 12.907530999999999,
+      "lon": 80.1577073
+    },
+    {
+      "id": "chijdy4qwrlhujorjaloaw5tdzm",
+      "title": "BA EGG MART - Fresh & Healthy Country chicken Eggs, white eggs , Duck eggs, No.1 Wholesaler in Tamil Nadu, Chennai",
+      "address": "93, Kundrathur Main Rd, Astha Lakshmi Nagar, Indrani Nagar, Kumananchavadi, Kattuppakkam, Tamil Nadu 600122",
+      "lat": 13.040896199999999,
+      "lon": 80.114119
+    },
+    {
+      "id": "chijmx8b2tnfujoru1mydqp8pas",
+      "title": "Star Eggs",
+      "address": "hostel, 5, South Street, near Csi Corley Higher Secondary School, Ganapathipuram, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9180142,
+      "lon": 80.11419459999999
+    },
+    {
+      "id": "chijfwtptubhujorznmlhf74fyq",
+      "title": "B.A EGG MART - No.1 Best eggs, Retailer, Wholesale and Retail, Quail Eggs, Duck eggs, Kaadai Muttai, Original Country Chicken",
+      "address": "122, SANKARALINGANAR STREET, Gerugambakkam Main Rd, Gerugambakkam, Tamil Nadu 600122",
+      "lat": 13.0108456,
+      "lon": 80.13957479999999
+    },
+    {
+      "id": "chijeykfmltfujorupxcgqrpxgi",
+      "title": "A K WATER & EGG SUPPLY",
+      "address": "3 ,periyar nagar, 5th St, West Tambaram, Irumbuliyur, Tambaram, Tamil Nadu 600045",
+      "lat": 12.917508699999999,
+      "lon": 80.10382969999999
+    },
+    {
+      "id": "chijtbd451tnujorx4l3elrdsls",
+      "title": "Sri Muniyandi Egg Store",
+      "address": "Shop Number 22, Sri Muniyandi Egg Store, Masthan Gori St, Ramapuram, Paramesh Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.994716799999999,
+      "lon": 80.20285799999999
+    },
+    {
+      "id": "chijxzlmh79dujor0fubq0vh1y8",
+      "title": "Chennai Fresh Eggs",
+      "address": "10, Jawaharlal Nehru Salai, Kanagam, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.993694999999999,
+      "lon": 80.2426292
+    },
+    {
+      "id": "chijyybkbvalujorecznqaxacbk",
+      "title": "PETTAI ANPUSELVI EGG SHOP,Selling open farm country and white eggs wholesale and retail with delivery",
+      "address": "20, PETTAI ANPUSELVI EGG SHOP,Selling open farm country and white eggs wholesale and retail with delivery, RS Complex, Kamarajar Salai, near c.s haripriya mahal, Nazarathpettai, Chennai, Tamil Nadu 600123",
+      "lat": 13.0460964,
+      "lon": 80.07980239999999
+    },
+    {
+      "id": "chij2_zl1j-lujora5vacurfv7s",
+      "title": "BA EGG MART No.1 Retailer & Wholesaler of Chicken White Eggs, Country Chicken Eggs, Duck Eggs, Quail Eggs.",
+      "address": "X3XW+XR3 BA EGG MART No.1 Retailer & Wholesaler of Chicken White Eggs, Country Chicken Eggs, Duck Eggs, Quail Eggs., Kundrathur, Chennai, Sikkarayapuram, Tamil Nadu 600069",
+      "lat": 12.9999375,
+      "lon": 80.09706249999999
+    },
+    {
+      "id": "chijvfs2ijldujorchbsqymnlko",
+      "title": "Sri Ayyanar Egg Mart",
+      "address": "no.9, Andal Ave St, Gandhi Salai, Thirumalairayanpattinam, Seva Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9865014,
+      "lon": 80.2251306
+    },
+    {
+      "id": "chij5vqpvyndujorxbu1lzxcdm4",
+      "title": "Dhanalakshmi Egg Traders",
+      "address": "1A,9th Cross Street, A.G.'S Colony, Velacherry, Andal Nagar, Adambakkam, Chennai, Tamil Nadu 600042",
+      "lat": 12.9815425,
+      "lon": 80.2110775
+    },
+    {
+      "id": "chijuy8lfd9hujor7cgscjoho90",
+      "title": "EGG SPOT",
+      "address": "1/72, Mariamman Koil St, Ramapuram, Lakshmi Nagar, Girigori Nagar, Manapakkam, Kanchipuram, Chennai, Tamil Nadu 600125",
+      "lat": 13.011570899999999,
+      "lon": 80.1656536
+    },
+    {
+      "id": "chijkwzdc1vdujorklaqo2b3b0i",
+      "title": "NG Enterprises",
+      "address": "23A, 2nd Main Rd, MGR Nagar, Venkateswara Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9787441,
+      "lon": 80.2148036
+    },
+    {
+      "id": "chijl7plduhnujorm5s5tis8e0u",
+      "title": "Veluchamy egg mart",
+      "address": "4 65, Muthu Ln, Ganapathy Colony, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.053129,
+      "lon": 80.2624143
+    },
+    {
+      "id": "chij-fhjw01eujor-z5lq--mbko",
+      "title": "M.R. Egg Shop",
+      "address": "No.54, Radha Nagar Main Rd, Lakshmi Nagar, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9524793,
+      "lon": 80.1439214
+    },
+    {
+      "id": "chijcqknewxnujoreacodztancu",
+      "title": "SRI SAI EGG STORE",
+      "address": "69, PV Rajamannar Salai, Ottagapalayam, Kannika Puram, K. K. Nagar, Chennai, Tamil Nadu 600093",
+      "lat": 13.0434054,
+      "lon": 80.20385189999999
+    },
+    {
+      "id": "chija3fpjrhfujorxwtsn5an9s0",
+      "title": "SIVA EGG CENTER",
+      "address": "No. 16/18 Lakshmipuram Second Main Road Extn, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9251884,
+      "lon": 80.0990688
+    },
+    {
+      "id": "chijj8lt2ulnujorafzesclmkoo",
+      "title": "NATARAJAN EGG SHOP",
+      "address": "Natarajan Egg Shop, 36 D, Errikkari Road, Parthasarathy Nagar, Adambakkam, Kanchipuram, Chennai, Tamil Nadu 600088",
+      "lat": 12.9903345,
+      "lon": 80.20050239999999
+    },
+    {
+      "id": "chij6yqd0o5nujor965ii7ulmc8",
+      "title": "deen egg mart",
+      "address": "120 / 45, Bishop Garden St, Bishop Garden, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0195998,
+      "lon": 80.2596918
+    },
+    {
+      "id": "chijf0lmsdphujorh04tm0m4pqe",
+      "title": "Naaval egg shop",
+      "address": "2, Naaval egg shop, 55, Gangai Amman St, Ramachandra Nagar, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600056",
+      "lat": 13.037312499999999,
+      "lon": 80.1353087
+    },
+    {
+      "id": "chijabzlb9jmujorp2t77wn8afs",
+      "title": "Muthukrishna Egg Shop",
+      "address": "No.18, Vanniar St, Old Bangaru Colony, Pakkiri Garden, KK Nagar West, Virugambakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.044941099999999,
+      "lon": 80.1927176
+    },
+    {
+      "id": "chijl-phbwbhujorrd0iwayco5o",
+      "title": "SELVAM WHOLESALE EGG CENTER AND COOL DRINKS AND WATER BOTTLE Grocery store",
+      "address": "24J4+HM8 SELVAM WHOLESALE EGG CENTER AND COOL DRINKS AND WATER BOTTLE Grocery store, Mangadu Rd, Sri Chakra Nagar, Friends Nagar, Poonamallee, Mangadu, Tamil Nadu 600056",
+      "lat": 13.0312738,
+      "lon": 80.10691779999999
+    },
+    {
+      "id": "chij_xpygibnujorbjdvrcpizdi",
+      "title": "RPM wholesale egg shop",
+      "address": "4th, Anna Ln, Indira Nagar, Kanu Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.028391,
+      "lon": 80.19124049999999
+    },
+    {
+      "id": "chijdbmeaedfujorpkzhodfmpck",
+      "title": "SDS wholesale and retail egg shop",
+      "address": "25/9, Agasthiyar St, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.926649399999999,
+      "lon": 80.1273274
+    },
+    {
+      "id": "chijnzyh1yv1ujor2ppuk2djk1o",
+      "title": "Sai organic country eggs and quail eggs. Wholesale dealer",
+      "address": "Ram Nagar 3rd St, Mannivakkam, Chennai, Tamil Nadu 600048",
+      "lat": 12.893155,
+      "lon": 80.0647884
+    },
+    {
+      "id": "chijkq3fmkjhujoryjdr8dm2ddw",
+      "title": "Avp Egg traders",
+      "address": "No, 306/1, Avp Egg traders, vinayakar koil street, odama nagar, Odamanagar, Vanagaram, Tamil Nadu 600095",
+      "lat": 13.052956499999999,
+      "lon": 80.15616519999999
+    },
+    {
+      "id": "chijv5mbixfnujorjryecvn_ity",
+      "title": "KKR EGG MART",
+      "address": "Dr Natesan Rd, Ram Nagar, Sudandira Nagar, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.048855,
+      "lon": 80.27463
+    },
+    {
+      "id": "chijmzmyfwbnujoru2ics86gcja",
+      "title": "G.M.J. Egg Sales",
+      "address": "14/37, Gandhi Nagar Main Rd, Lakshmi Nagar, Sheik Abdullah Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.0507368,
+      "lon": 80.18856
+    },
+    {
+      "id": "chij1x3owgnhujor2tmk43eodkq",
+      "title": "Murugan egg center",
+      "address": "1st Floor, Murugan egg center, No.12, Perumal Koil St, Metpar Nagar, Rajankuppam, Vanagaram, Tamil Nadu 600095",
+      "lat": 13.0583578,
+      "lon": 80.15483329999999
+    },
+    {
+      "id": "chijiymsdethujor96ryb8ddgx4",
+      "title": "J.k.egg center",
+      "address": "1/536, Ponniyamman Koil St, Mahalakshmi Nagar, Iyyappanthangal, Chennai, Tamil Nadu 600056",
+      "lat": 13.0427693,
+      "lon": 80.13976029999999
+    },
+    {
+      "id": "chijqfymwgbnujorfmdpdvahbv8",
+      "title": "JA WHOLESALE EGG SHOP",
+      "address": "3629+877 JA WHOLESALE EGG SHOP, Palayakaran Cross St, VOC Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.050791799999999,
+      "lon": 80.2181743
+    },
+    {
+      "id": "chij1sa6q0fmujoruc_73yiyvxc",
+      "title": "I.Baba Egg and Chicken Suppliers",
+      "address": "48, Model School Rd, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006",
+      "lat": 13.056077499999999,
+      "lon": 80.2517773
+    },
+    {
+      "id": "chijmaqljgznujorer_0koww5n0",
+      "title": "A&JWHOLESALE EGG SHOP",
+      "address": "Palayakaran Cross St, VOC Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.050791799999999,
+      "lon": 80.2181743
+    },
+    {
+      "id": "chijjqpngczfujorwgbv1mhr48a",
+      "title": "Jai Integrated Farm",
+      "address": "No25, Deiva Nagar, 3rd Cross St, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.922439599999999,
+      "lon": 80.1090803
+    },
+    {
+      "id": "chijace-43wkujoru7ooa4r49l0",
+      "title": "SHREE EZHUMALAIYAAN EGG CENTER",
+      "address": "23WW+WWV, Ramanujakoodam St, Pudhu St, corner, Poonamallee, Tamil Nadu 600056",
+      "lat": 13.047355099999999,
+      "lon": 80.0972902
+    },
+    {
+      "id": "chijyqixrszdujorew7d0eaan8a",
+      "title": "Thangamani Egg House",
+      "address": "Thangamani egg shop, No: 16, 1st St, Balakrishna Nagar, Annai Indira Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.974337499999999,
+      "lon": 80.22846799999999
+    },
+    {
+      "id": "chijxzsjc-bnujorpq-tnjd0h6e",
+      "title": "F. N. R EGG SHOP",
+      "address": "27/1, Bazaar Rd, Madhavaperumalpuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0365314,
+      "lon": 80.2738301
+    },
+    {
+      "id": "chijz3tsanrhujorezzimowgbds",
+      "title": "GK EGG MART",
+      "address": "Melragunathapuram, Mahalakshmi Nagar, Janani Nagar, Mangadu, Tamil Nadu 600122",
+      "lat": 13.033730199999999,
+      "lon": 80.10267089999999
+    },
+    {
+      "id": "chijeeolhgvnujorgjuci680ega",
+      "title": "R.R. Egg Mart",
+      "address": "10A, Jenis Rd, Periyapet, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.0237795,
+      "lon": 80.2244353
+    },
+    {
+      "id": "chijlxeoggbfujordaob-p-3wna",
+      "title": "H_square Wholesale Egg Shop",
+      "address": "2nd Main Rd, Vijayanagaram, Santhosapuram, Medavakkam, Chennai, Vengavasal, Tamil Nadu 600100",
+      "lat": 12.9167312,
+      "lon": 80.1761894
+    },
+    {
+      "id": "chij_es57fvdujoraaaamit2y0a",
+      "title": "J S K Egg Mart",
+      "address": "X6Q4+35R J S K Egg Mart, Mohanapuri, Brindavan Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.987731,
+      "lon": 80.205384
+    },
+    {
+      "id": "chij1uhimuzhujorokmf31ahjkk",
+      "title": "Egg Center",
+      "address": "Kundrathur Main Rd, Sri Devi Karumari Amman Nagar, Y Moondramkattalai, Kunrattur, Tamil Nadu 600128",
+      "lat": 13.005454499999999,
+      "lon": 80.1097281
+    },
+    {
+      "id": "chijfa5hlpdcujors0i4ntei_vc",
+      "title": "Perumal Egg Mart",
+      "address": "PTC, 45D, VO Chidambaranaar St, Muttukkaranchavadi, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9315821,
+      "lon": 80.2337082
+    },
+    {
+      "id": "chij2wzoxpjnujorcffdif9i2fc",
+      "title": "A M Egg Stores",
+      "address": "1132, TamilNadu Housing Board Colony, Periyar Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9905166,
+      "lon": 80.21404679999999
+    },
+    {
+      "id": "chijm2botp9hujor-7pk5wtsry8",
+      "title": "B.A EGG MART",
+      "address": "1-265, Mariamman Koil St, Dhanam Nagar, Kumudam Nagar, Mugalivakkam, Chennai, Tamil Nadu 600125",
+      "lat": 13.0219375,
+      "lon": 80.16655109999999
+    },
+    {
+      "id": "chijxwtel-hfujor8dpo0qjwg9m",
+      "title": "Egg Shop",
+      "address": "73, Pammal Main Rd, near Rettai Pillaiyar Kovil, Krishna Nagar, Sambanthanar Nagar, Pammal, Tambaram, Tamil Nadu 600075",
+      "lat": 12.9730115,
+      "lon": 80.13770869999999
+    },
+    {
+      "id": "chij_yczqpznujorvpzxcsspfm8",
+      "title": "Shree Kala Egg Mart",
+      "address": "66, Kamaraj Salai, Radhakrishnan Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9921372,
+      "lon": 80.2616534
+    },
+    {
+      "id": "chij7yw5mdhnujoruy7e0bj9obo",
+      "title": "J. J. Egg Mart",
+      "address": "3, 2nd Main Rd, Ramakrishna Nagar, Raja Annamalaipuram, Chennai, Tamil Nadu 600004",
+      "lat": 13.0303986,
+      "lon": 80.2610828
+    },
+    {
+      "id": "chij6xvw791nujoreezw2j09vh8",
+      "title": "Sri Lakshmi Egg Mart",
+      "address": "No.9, Gangai Amman Koil St, Thangal karai, Dharan Singh Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.054611399999999,
+      "lon": 80.2091492
+    },
+    {
+      "id": "chijs4irldt9ujoreit1ux6_ors",
+      "title": "Vasantha Milk Shop",
+      "address": "23, Main Road, Sakthi Nagar, Vadalur, Thenur, Kanchipuram, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.681847699999999,
+      "lon": 79.9890283
+    },
+    {
+      "id": "chijea3boiz9ujorkatjkr3jsw4",
+      "title": "Day2Day Cow Milk",
+      "address": "17c, VOC St, near kulanthiamman kovil, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6923329,
+      "lon": 79.978009
+    },
+    {
+      "id": "chijvvvvvvn8ujor5khjj5u-phc",
+      "title": "Agaram Dairy products",
+      "address": "Chengalpattu, 14, Bharathi Nagar, Vedhanarayanapuram, Chengalpattu, Tamil Nadu 603111",
+      "lat": 12.6606156,
+      "lon": 79.97447129999999
+    },
+    {
+      "id": "chijn0pupi_9ujorvph4kduktns",
+      "title": "Rose Milk Raja-Chengalpattu",
+      "address": "No 380 B/3, TKM ROAD, VALLAM VILLAGE, MELAMAIYYUR, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.681471199999999,
+      "lon": 79.9904419
+    },
+    {
+      "id": "chijkyico2n8ujoreslucoghm3e",
+      "title": "Hatsun Daily",
+      "address": "MXQH+PGF Hatsun Daily, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6893022,
+      "lon": 79.9788038
+    },
+    {
+      "id": "chijk3o8a1z7ujorenqdtsbscfu",
+      "title": "Aavin milk shop",
+      "address": "PXMP+VJQ Aavin milk shop, 387, Pillayar Kovil St, Paranur, Tamil Nadu 603002",
+      "lat": 12.733995,
+      "lon": 79.98743999999999
+    },
+    {
+      "id": "chijy-mw_zj9ujorn1cfjblabiw",
+      "title": "HAP daily",
+      "address": "No. 202-A, Anna Salai, beside Arulmigu Sri Dhesigar Perumal Temple, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6895054,
+      "lon": 79.9764967
+    },
+    {
+      "id": "chij647jdad9ujorbnmathxrejq",
+      "title": "VRL Milk and Cycle shop",
+      "address": "MXQH+44V VRL Milk and Cycle shop, Periya Maniyakara St, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.687868499999999,
+      "lon": 79.9777822
+    },
+    {
+      "id": "chijpaezf0d5ujori_bmtmezi0s",
+      "title": "Milk Shop",
+      "address": "Q2XG+QJC Milk Shop, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7994484,
+      "lon": 80.0265191
+    },
+    {
+      "id": "chijb5kj8nj9ujorpzstkzzp4qg",
+      "title": "HAP daily",
+      "address": "7, Chengalpattu Main Rd, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603002",
+      "lat": 12.6901785,
+      "lon": 79.9815852
+    },
+    {
+      "id": "chijpd2xtuf9ujor-cdivhswny4",
+      "title": "Village Milk",
+      "address": "MXRJ+2C2 Village Milk, Gokulapuram, Hanumanthai, Tamil Nadu 603001",
+      "lat": 12.6900236,
+      "lon": 79.98108359999999
+    },
+    {
+      "id": "chij3d-higd9ujork8xssvotij0",
+      "title": "PM AAVIN",
+      "address": "J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6971245,
+      "lon": 79.9722829
+    },
+    {
+      "id": "chij8r7bgbt9ujor7-d4tz3wuyo",
+      "title": "Cream&fudge chengalpattu",
+      "address": "MSG COMPLEX, City Union Bank building, Santhi Nagar, Malainatham, Chengalpattu, Vallam R.F., Tamil Nadu 603003",
+      "lat": 12.6713284,
+      "lon": 80.0080565
+    },
+    {
+      "id": "chij46brnpf5ujortwpmr1j-oti",
+      "title": "AAVIN MILK Shop",
+      "address": "Thiruvalluvar Salai, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7966035,
+      "lon": 80.0251487
+    },
+    {
+      "id": "chijxqtlh8b9ujoretwhtxdmlza",
+      "title": "Aavin parlour.",
+      "address": "MXJV+29C Aavin parlour., SH58, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.680055,
+      "lon": 79.9933884
+    },
+    {
+      "id": "chijuqhkdgd9ujorflqq74kqlsw",
+      "title": "Aavin Milk Shop",
+      "address": "MXHH+3VW Aavin Milk Shop, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6777305,
+      "lon": 79.9797114
+    },
+    {
+      "id": "chijmxyoxwx8ujorgbu_kudnwb0",
+      "title": "RV Super Market",
+      "address": "No,21 vedappar Street, chinna natham Near Chengalpattu old bus stand, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6943875,
+      "lon": 79.9746201
+    },
+    {
+      "id": "chijpe17ml39ujorj5ub84eg-ze",
+      "title": "HAP daily",
+      "address": "134, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.693893599999999,
+      "lon": 79.9756599
+    },
+    {
+      "id": "chijrtknz6d9ujorjaj70rgpmry",
+      "title": "AAVIN MILK SHOP",
+      "address": "GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6891392,
+      "lon": 79.982461
+    },
+    {
+      "id": "chijeq9yngz3ujorfk2d9pbkllo",
+      "title": "My Cake Valley",
+      "address": "Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8184594,
+      "lon": 80.03938629999999
+    },
+    {
+      "id": "chij3evqbqd3ujor9qrcr4dbp6k",
+      "title": "Bapatla durga badham milk shop",
+      "address": "R2CR+VXW Bapatla durga badham milk shop, Intra College Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8223427,
+      "lon": 80.04254759999999
+    },
+    {
+      "id": "chijkrlftlp3ujorjzujcij4lzc",
+      "title": "Aavin parlour",
+      "address": "No:M-7, Maraimalai Adigalar Road NH-1, Maraimalai Nagar, opposite to Nagaratchi & DVVP hall, Chengalpattu, Tamil Nadu 603209",
+      "lat": 12.8007461,
+      "lon": 80.0266778
+    },
+    {
+      "id": "chijxave1zt3ujorkkkdaqrl8kq",
+      "title": "KD TRADERS",
+      "address": "25, Anna St, Potheri, POTHERI, Kanchipuram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.818090399999999,
+      "lon": 80.0390998
+    },
+    {
+      "id": "chijczsigtn3ujorc5zsh5fpat8",
+      "title": "Ooty Fresh",
+      "address": "Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8200031,
+      "lon": 80.0373169
+    },
+    {
+      "id": "chijeetcqm78ujoryekojb4rius",
+      "title": "Anbu Super Market",
+      "address": "No.29, Pillayar Kulam Street, New Bus Stand, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.690469799999999,
+      "lon": 79.9807233
+    },
+    {
+      "id": "chij3zjygpj3ujor9gotfysok8w",
+      "title": "Suja store",
+      "address": "No 14, Periyar St, Potheri, Chengalpattu, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8146597,
+      "lon": 80.03696339999999
+    },
+    {
+      "id": "chijy0frd3n3ujorw21qrrqy4di",
+      "title": "SURYA DAIRY FARM A2 Milk",
+      "address": "Padappai - Guduvancheri Rd, Neelamangalam, Tamil Nadu 603202",
+      "lat": 12.8605827,
+      "lon": 80.0331161
+    },
+    {
+      "id": "chijds--jkj3ujoraximjqtnlsa",
+      "title": "Amirtham Stores Supermarket",
+      "address": "2, Thiruvalluvar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8188716,
+      "lon": 80.0365102
+    },
+    {
+      "id": "chijneczjm_3ujoraaaa0ie6xjs",
+      "title": "SRI SAI RAM SUPER MARKET",
+      "address": "No 21, Periyar St, nearby SRM GREEN PEARL, Potheri, Apartment, Kanchipuram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.814830899999999,
+      "lon": 80.0370057
+    },
+    {
+      "id": "chijcwdyyxl9ujoroam6-eaycwe",
+      "title": "HAP daily",
+      "address": "NO.16, Sundareswarar St, NGGO Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6691221,
+      "lon": 79.9837443
+    },
+    {
+      "id": "chijyrrwf_n9ujorxc9emk3hgwg",
+      "title": "Shri Iyyan Sweets and Bakery",
+      "address": "GST Road, #2, Rajaji St, Near Manikoondu, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6938059,
+      "lon": 79.9790897
+    },
+    {
+      "id": "chij63zzigv_ujorgbfx6e1wqrw",
+      "title": "Vikash Stores",
+      "address": "Shop no3, Vikash Stores, Kumarasamy complex, near AMSAM MAHAL, Thirukazhukundram road, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6659916,
+      "lon": 80.0144108
+    },
+    {
+      "id": "chijv_gonbh9ujornjml2onkth8",
+      "title": "Aavin parlour",
+      "address": "no.189, Aavin parlour, 89, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6936134,
+      "lon": 79.9756649
+    },
+    {
+      "id": "chijgxhdfuh8ujor3r-wmdev44q",
+      "title": "Charles Mini Store",
+      "address": "4th cross,, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6804647,
+      "lon": 79.9825109
+    },
+    {
+      "id": "chijq-swpw33ujoreaf8axyh1cq",
+      "title": "R.K.MILK AGENCY",
+      "address": "Potheri, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.8197824,
+      "lon": 80.0403103
+    },
+    {
+      "id": "chijt8fdocp9ujornva8xgdojvo",
+      "title": "India Super Market",
+      "address": "MXJG+CXV India Super Market, Unnamed Road, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6811153,
+      "lon": 79.9774157
+    },
+    {
+      "id": "chijrxhitw78ujor24gq5zamt7e",
+      "title": "New India Supermarket",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6937398,
+      "lon": 79.9783463
+    },
+    {
+      "id": "chij51osead3ujorqdxc6bcakgq",
+      "title": "Big Save Supermarket",
+      "address": "R2CR+37G Big Save Supermarket, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8201948,
+      "lon": 80.0407075
+    },
+    {
+      "id": "chij40md-kp8ujorlje2h667lu0",
+      "title": "Sumathi Stores",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6791304,
+      "lon": 79.9801021
+    },
+    {
+      "id": "chij_fdz9uj9ujorwgqs9klymtu",
+      "title": "Ck's Bakery Chengalpattu",
+      "address": "Ground Floor, Ck's Bakery Chengalpattu, Adams Plaza, No.1, TKM Rd, Alapakkam, Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6820693,
+      "lon": 79.988963
+    },
+    {
+      "id": "chijc_dhafd8ujor7seirnu05uu",
+      "title": "More Supermarket",
+      "address": "No.1, Adams Plaza, T.K.M.Road Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.682089,
+      "lon": 79.9890729
+    },
+    {
+      "id": "chijg3kfumr8ujorluavll_4pkm",
+      "title": "Per Gratiam",
+      "address": "13 b, Ullavur-Chengalpattu Rd, Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.6801824,
+      "lon": 79.9793026
+    },
+    {
+      "id": "chijc5teyzv3ujorq3ha8nifdje",
+      "title": "Puttopia",
+      "address": "Pillayar Koil St, near SRM college, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8192153,
+      "lon": 80.0406574
+    },
+    {
+      "id": "chijzeiuivx7ujorbwlf-gy7c9c",
+      "title": "Aavin parlour",
+      "address": "2/7, Railway Station Road, Gandhi Salai, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7615781,
+      "lon": 80.00315669999999
+    },
+    {
+      "id": "chijfzcgfvp3ujorbgkrx9ca5ok",
+      "title": "FB Cakes Chengalpattu",
+      "address": "GST Rd, near New Bus Stand, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690709,
+      "lon": 79.98119799999999
+    },
+    {
+      "id": "chijw1exsw33ujorfpgo0tj8q_u",
+      "title": "Blue Berry Super Market",
+      "address": "70, Pillayar Koil St, Potheri, CHENNAI, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8203579,
+      "lon": 80.04085529999999
+    },
+    {
+      "id": "chijg6utdln9ujorbuei50v7yla",
+      "title": "Nilgiris",
+      "address": "No 89-90, PV Kalathur - Thirukazhukundram Rd, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6818621,
+      "lon": 79.98959359999999
+    },
+    {
+      "id": "chij4zj88un8ujor2_i-m5k--kq",
+      "title": "M.S.Raja Super Market",
+      "address": "NGGO Nagar, Kamarajar Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6683984,
+      "lon": 79.9853852
+    },
+    {
+      "id": "chij34lnlg78ujorq8r9oyhzhae",
+      "title": "Super Luck Store Supermarket",
+      "address": "No: 76/1, Rajaji St, near New Bus Stand, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6919762,
+      "lon": 79.9794058
+    },
+    {
+      "id": "chijhevug9p9ujorjlkbt_q0slg",
+      "title": "Arasan SuperMarket",
+      "address": "NGGO Nagar, Kamarajar Nagar, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6685771,
+      "lon": 79.9852263
+    },
+    {
+      "id": "chijetn4wqd9ujorom4-uehz91y",
+      "title": "லஷ்மி மளிகை கடை Basic Grocery store",
+      "address": "MXXF+63Q லஷ்மி மளிகை கடை Basic Grocery store, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6980953,
+      "lon": 79.9727198
+    },
+    {
+      "id": "chijo2z5owd9ujorkptqghfolwe",
+      "title": "Kovai Pazhamudir Nilayam - Vallam, Chennai",
+      "address": "Plot No 74 &75, TKM Rd, Nandha Gopal Nagar, Alapakkam, Chengalpattu, Vallam, Tamil Nadu 603003",
+      "lat": 12.6817291,
+      "lon": 79.9900463
+    },
+    {
+      "id": "chijcxv521p3ujorxygtnyqwc8a",
+      "title": "AMMU JUICE WORLD",
+      "address": "Kakkan St, Potheri, potheri, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.816746,
+      "lon": 80.03914689999999
+    },
+    {
+      "id": "chijw_sdexb9ujorpszu43lmfi4",
+      "title": "Mohith Aavin Parlour",
+      "address": "46, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.679616999999999,
+      "lon": 79.9804424
+    },
+    {
+      "id": "chijp5tat2_8ujor-mwtcmjncjy",
+      "title": "Flower Market, Chengalpattu",
+      "address": "Anna Salai High Rd J C K Nagar Chengalpattu Kanchipuram Tamil Nadu 603001 Republic of, Tamil Nadu 603002",
+      "lat": 12.6940729,
+      "lon": 79.9774043
+    },
+    {
+      "id": "chijg6habip9ujor0yonvm-6hpe",
+      "title": "KAAPI JUNCTION",
+      "address": "MXJQ+PVF KAAPI JUNCTION, SH58, Sakthi Nagar, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.681531399999999,
+      "lon": 79.9897829
+    },
+    {
+      "id": "chijuwk4hwz8ujor3ufzltsdlqe",
+      "title": "Sree Gupta Bhavan - SgB",
+      "address": "24, GST Rd, near New bus stand, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.691008799999999,
+      "lon": 79.9809492
+    },
+    {
+      "id": "chij99jn90p8ujorkgaobdclt78",
+      "title": "Saravana Bhava Bakery",
+      "address": "603001, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.678901,
+      "lon": 79.9799561
+    },
+    {
+      "id": "chijcxkbaad3ujorps_u7cbaphq",
+      "title": "Mama Atti Cafe",
+      "address": "11, Thiruvalluvar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.818809,
+      "lon": 80.03696459999999
+    },
+    {
+      "id": "chijl4oiqwd3ujorg72tmf6ppsw",
+      "title": "Melody cafe",
+      "address": "7, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8200653,
+      "lon": 80.037544
+    },
+    {
+      "id": "chijdz0elgv8ujortbercynzleg",
+      "title": "RR AVIN MILK PARLOUR",
+      "address": "77, G.S.T Road, Gokulapuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6891912,
+      "lon": 79.98253989999999
+    },
+    {
+      "id": "chijkfrmjhl9ujoriuvvoxcszvi",
+      "title": "HAP daily",
+      "address": "No. 26A, HAP daily, 2, Kanchipuram High Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.698353299999999,
+      "lon": 79.9703175
+    },
+    {
+      "id": "chijqxj0thf9ujorjz7rxtlyhja",
+      "title": "ibaco - Chengalpattu",
+      "address": "No. 5, ibaco - Chengalpattu, VND Complex, T.K.M Rd, beside Maruti Suzuki Showroom, Alapakkam, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6819981,
+      "lon": 79.98914429999999
+    },
+    {
+      "id": "chijmfi3hjd9ujor3g3xxxonpvg",
+      "title": "HAP daily",
+      "address": "No.76, HAP daily, 31A, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6945204,
+      "lon": 79.9762488
+    },
+    {
+      "id": "chijb-u4cob9ujor3lbsjga_z9o",
+      "title": "Anbu supermarket.",
+      "address": "No 380 B/3, TKM ROAD, VALLAM VILLAGE MELAMAIYYUR, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6814257,
+      "lon": 79.9905441
+    },
+    {
+      "id": "chijt3c_nrz3ujoranxgr8thzwe",
+      "title": "QUEEN FRESH JUICE & TEA SHOP",
+      "address": "R29Q+RHX QUEEN FRESH JUICE & TEA SHOP, Pillayar Koil St, SRM University, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.819600999999999,
+      "lon": 80.0389701
+    },
+    {
+      "id": "chij3xx0xqdlujorabb55x7dsqs",
+      "title": "THM AAVIN HUB",
+      "address": "Ruby urban town, Kanchipuram - Chengalpattu Rd, Palur, Tamil Nadu 603101",
+      "lat": 12.766701999999999,
+      "lon": 79.9045716
+    },
+    {
+      "id": "chijscslhqd7ujoramohxt6dmsi",
+      "title": "D-Mart - Chengalpattu",
+      "address": "Ganapathi Nagar, Chettipunniyam Rd, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.7398893,
+      "lon": 79.98919769999999
+    },
+    {
+      "id": "chijt-o-dsl9ujorol0-qkgtyvk",
+      "title": "S P STORE",
+      "address": "GST Rd, Chengalpattu, Venbakkam, Tamil Nadu 603111",
+      "lat": 12.6636539,
+      "lon": 79.96735509999999
+    },
+    {
+      "id": "chijv14p_cn7ujorkwl68yq4g48",
+      "title": "Hygreva Supermarket",
+      "address": "1,Rajendra Nagar,jubilee road,Chettipuniyam, near Mahendra city, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7464655,
+      "lon": 79.986519
+    },
+    {
+      "id": "chiji60ing78ujort6dfzfiikdw",
+      "title": "Arun Ice Cream Shop",
+      "address": "MXVH+V83 Arun Ice Cream Shop, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.69465,
+      "lon": 79.9783059
+    },
+    {
+      "id": "chij2bdqsnv8ujormg4jcddbvlu",
+      "title": "G K PARLOUR",
+      "address": "# 2, East Coast Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.698375599999999,
+      "lon": 79.9702338
+    },
+    {
+      "id": "chijmzansbx7ujor71wpqhjbpww",
+      "title": "Adikesavan Milk Centre",
+      "address": "20, Nethaji St, Mahindra World City, Veerapuram, Kanchipuram, Tamil Nadu 603002",
+      "lat": 12.7385013,
+      "lon": 80.0013015
+    },
+    {
+      "id": "chij-9vwvdv7ujor4hergibbb-o",
+      "title": "Home Needs Super Market",
+      "address": "Mahindra World, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.73789,
+      "lon": 80.0011081
+    },
+    {
+      "id": "chijjv7ly7z7ujore46ob8tnejo",
+      "title": "Syed's muttai mittai",
+      "address": "PX9J+5GC Syed's muttai mittai, Rajakulipettai, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7179375,
+      "lon": 79.9812656
+    },
+    {
+      "id": "chij1uaaeql7ujorrn4d4rh6czu",
+      "title": "VKR FOODS",
+      "address": "No5B sai, behind A2B, Srivari Nagar, Singaperumal Koil, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.764620899999999,
+      "lon": 80.0111786
+    },
+    {
+      "id": "chijz-7dhy_7ujori9jj49v3bk8",
+      "title": "SRI FAMILY MART",
+      "address": "Kanchipuram - Chengalpattu Rd, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.7071445,
+      "lon": 79.96241719999999
+    },
+    {
+      "id": "chijfxfk5r1lujorirzgbh-ar0q",
+      "title": "Metro dairy products (MAG)",
+      "address": "68, Kanchipuram - Chengalpattu Rd, Walajabad, Palur, Tamil Nadu 631605",
+      "lat": 12.7653771,
+      "lon": 79.9063285
+    },
+    {
+      "id": "chijd8qdssv9ujore_kepdtvzpg",
+      "title": "CHENGAI VK MART",
+      "address": "Dr Varadharajan St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6870187,
+      "lon": 79.9795568
+    },
+    {
+      "id": "chijq_rzk2h7ujorjjkbrgq__o0",
+      "title": "Amudhu Karupatti Coffee",
+      "address": "Veerapuram, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7384042,
+      "lon": 79.99996349999999
+    },
+    {
+      "id": "chijl9_ia8n7ujorkzaj9xeuaem",
+      "title": "Munees Super Market",
+      "address": "M. G. R Nagar, 3rd cross street, Chettipunniyam Rd, opposite to Mahendra world city, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7447646,
+      "lon": 79.9895166
+    },
+    {
+      "id": "chijwsr7clr7ujor5xvbv_3sg5a",
+      "title": "Arafath Store",
+      "address": "Mariamma Kovil Street, Paranur, Chengalpattu, Tamil Nadu 600032",
+      "lat": 12.7266903,
+      "lon": 79.98934919999999
+    },
+    {
+      "id": "chij_3h1z4_7ujorehpg4sywmwq",
+      "title": "Guna malligai",
+      "address": "107/4, Gandhi road, Pulipakkam, Kanthalur, Tamil Nadu 603002",
+      "lat": 12.7215593,
+      "lon": 79.9759928
+    },
+    {
+      "id": "chijmtjsonv7ujordrrmx7burfs",
+      "title": "Nilgiris Canopy",
+      "address": "Unit no.1-A, block-C, the canopy, ground floor, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7307179,
+      "lon": 80.00041039999999
+    },
+    {
+      "id": "chijxcptlht_ujorlcb0wy1jdee",
+      "title": "Vitamin Palace",
+      "address": "SH58, Santhi Nagar, Nenmeli, Chengalpattu, Vallam R.F., Tamil Nadu 603003",
+      "lat": 12.6700859,
+      "lon": 80.009
+    },
+    {
+      "id": "chij4zdh7-j7ujorf6l0g8anz8a",
+      "title": "Vilva Maligai store",
+      "address": "No.62 Road Street, Kancheepuram High Road, Kanchipuram, Athur, Tamil Nadu 603101",
+      "lat": 12.7286398,
+      "lon": 79.9489333
+    },
+    {
+      "id": "chijdabbapp_ujorshdconrlcuu",
+      "title": "VV Brothers Grocery shop",
+      "address": "Kootu road, Perundhandalam, Mullipakkam, Chengalpattu, Tamil Nadu 603108",
+      "lat": 12.6955643,
+      "lon": 80.06912179999999
+    },
+    {
+      "id": "chijoccyndr9ujorcrnnm1jadcw",
+      "title": "Lawrence supermarket",
+      "address": "MXRH+VQX Lawrence supermarket, No:81rajaji street, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692246299999999,
+      "lon": 79.9794938
+    },
+    {
+      "id": "chijavud_8rhujorpx7gp49samq",
+      "title": "Farm Direct 24| Pure Cow milk Chennai",
+      "address": "Pranav Foundations, Farm Direct 24| Pure Cow milk Chennai, Farm Direct 24, Manapakkam Main Rd, Chennai, Tamil Nadu 600089",
+      "lat": 13.020742,
+      "lon": 80.1817773
+    },
+    {
+      "id": "chijf6rij4fdujorrrtsgaznjsa",
+      "title": "Nature Milk Perungudi Chennai",
+      "address": "Shop No.4, Nature Milk Perungudi Chennai, Panchayat Main Rd, Phase-1, Thirumalai Nagar Annexe, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9598452,
+      "lon": 80.2404955
+    },
+    {
+      "id": "chijh5cyesbmujoryjszt2fwwa4",
+      "title": "Sri Hema Milk Depot",
+      "address": "73, Sri Hema Milk Depot, 35, Pycrofts Rd, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0586126,
+      "lon": 80.27569369999999
+    },
+    {
+      "id": "chij2f__r9lgujorlva6ftk4rl0",
+      "title": "Annam Native Cow Milk - A2 Organic Milk Chennai",
+      "address": "",
+      "lat": 13.043795,
+      "lon": 80.2339071
+    },
+    {
+      "id": "chij3xcw_ov3ujorb0khctnjmcs",
+      "title": "SHANTHI SELVAM DAIRY",
+      "address": "Door No, SHANTHI SELVAM DAIRY, 1, Perumal Koil St, near Deva Annai School, beside Perumal Koil, Kilambakkam, Urappakkam Post, Urapakkam, Kilampakkam, Tamil Nadu 603211",
+      "lat": 12.8706693,
+      "lon": 80.07284059999999
+    },
+    {
+      "id": "chijuyrutnjdujor6smanhls6ty",
+      "title": "Anbu Stores Grocery & Milk Shop",
+      "address": "1/409, Anbu Stores Grocery & Milk Shop, 1/409, S Kolathur Rd, S. Kolathur, S.Kolathur, Viduthalai Nagar, Kovilambakkam, Tambaram, Tamil Nadu 600129",
+      "lat": 12.9464888,
+      "lon": 80.19608389999999
+    },
+    {
+      "id": "chij6xoufwbdujor6vq6v-yc8jo",
+      "title": "The Village Raja - Rose milk",
+      "address": "Village High Rd, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.901859199999999,
+      "lon": 80.2325896
+    },
+    {
+      "id": "chijgwq7maxfujorywbb1h32qwm",
+      "title": "Milk Shop",
+      "address": "56, Kamarajapuram, Sembakkam, Kanchipuram, Tambaram, Tamil Nadu 600073",
+      "lat": 12.924835799999999,
+      "lon": 80.1551064
+    },
+    {
+      "id": "chijadyucu9eujoruo7qvxojexs",
+      "title": "Aavin Milk Shop",
+      "address": "56, Kamarajapuram Main Rd, Kamarajapuram, Sembakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9262439,
+      "lon": 80.1553867
+    },
+    {
+      "id": "chijc1bt8ztcujorheb8txgawzu",
+      "title": "Bhavani Provision Store",
+      "address": "No:4,Pilliyar Koil St,Jaladanpet Pallikarnai, Chennai, Tamil Nadu 600100",
+      "lat": 12.926119,
+      "lon": 80.2029323
+    },
+    {
+      "id": "chijpqc8ntdcujormmod8bcjojw",
+      "title": "MARAM MILK",
+      "address": "4, Thulukanathamman Koil St, New Colony, Selvam Nagar, Om Sakthi Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9328383,
+      "lon": 80.2062318
+    },
+    {
+      "id": "chijbvj0utfdujorppr_hovgpg4",
+      "title": "Village Milk",
+      "address": "6/73, Dr Ramadoss St, Vengaivasal, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9185935,
+      "lon": 80.1911272
+    },
+    {
+      "id": "chij1dsnib9cujorjorrpuowfbk",
+      "title": "I.M.T. Milk Center",
+      "address": "2/106, Velachery Main Rd, Munusamy Nagar, Vimala Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9170857,
+      "lon": 80.1917363
+    },
+    {
+      "id": "chijfy5unq9dujorap4kylnhqw0",
+      "title": "Akshayakalpa Organic Milk & Dairy | Josy Village Farm",
+      "address": "West, Bharathidasan St, nearby Waste Paper Mart, Periyar Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9328358,
+      "lon": 80.20891979999999
+    },
+    {
+      "id": "chijk4tzue1dujor08nsqaeuuku",
+      "title": "Appu Organic Milk",
+      "address": "Shop Address: 11, Appu Organic Milk, 100, Mambakkam - Medavakkam Main Rd, Munusamy Nagar, Vimala Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9164443,
+      "lon": 80.1921649
+    },
+    {
+      "id": "chijqvm5iwbdujorta_mora7g6e",
+      "title": "Pasumai Paalagam",
+      "address": "Door number 10, Pasumai Paalagam, V.G, P 490C, 1st Main Rd, Babu Nagar, Munusamy Nagar, Vimala Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9138817,
+      "lon": 80.1886483
+    },
+    {
+      "id": "chij951ahuzdujorh6-clf1eae8",
+      "title": "Saranya Enterprises (Aavin Hub)",
+      "address": "3/543, Mandaveli St, near Lions Club Blind School, United Colony, Somu Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9220875,
+      "lon": 80.1890226
+    },
+    {
+      "id": "chijcf4jbhvhujoruanqzrhoyiw",
+      "title": "V.M.S Village Milk",
+      "address": "12, Main Rd, Rajarathinam Nagar, Paraniputhur, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600056",
+      "lat": 13.0351799,
+      "lon": 80.134958
+    },
+    {
+      "id": "chijc58y5ophujorafdhfpbgu-s",
+      "title": "Happy Tales farm fresh pure cow milk",
+      "address": "150,16th street, Suresh Nagar Main Rd, New Choudhary Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.036246799999999,
+      "lon": 80.17954399999999
+    },
+    {
+      "id": "chij9suowsndujorzcbwhjecnta",
+      "title": "Rose Milk Raja - Pallikarnai",
+      "address": "Velachery Main Rd, MGR Nagar, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.925221899999999,
+      "lon": 80.1972562
+    },
+    {
+      "id": "chijlzaydh5cujorv16ayvappis",
+      "title": "Hatsun Milk Shop",
+      "address": "W63H+JHF Hatsun Milk Shop, Anna St, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.9040707,
+      "lon": 80.2289073
+    },
+    {
+      "id": "chijbuyr5fvdujorz-tsrmckrho",
+      "title": "Lakshmi Aavin Milk Shop",
+      "address": "X688+8FH Lakshmi Aavin Milk Shop, JV Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9658046,
+      "lon": 80.2162336
+    },
+    {
+      "id": "chijt8xghqx3ujor0q5ko3fuhvw",
+      "title": "VIJAY MILK",
+      "address": "28, Iyyenchery Main Rd, Ambika Nagar, Urapakkam, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.8659234,
+      "lon": 80.0794308
+    },
+    {
+      "id": "chijzuo_fqbdujor-kbqgby5hl0",
+      "title": "Nanban Rose milk",
+      "address": "Veerathamman Kovil St, Green Court, Medavakkam, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.909232099999999,
+      "lon": 80.2002329
+    },
+    {
+      "id": "chijir-btmxdujorjfxbycnlqii",
+      "title": "Aavin Milk and Aavin Ice Creams",
+      "address": "81, Chevaliyar, Sivaji St, Anjaneyar Nagar, Chennai, Tamil Nadu 600100",
+      "lat": 12.9199595,
+      "lon": 80.2042062
+    },
+    {
+      "id": "chijfzzjvohdujorjdr866lryxo",
+      "title": "Moo Raw Milk",
+      "address": "no:8A, Nehru St, MGR Nagar, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.925422999999999,
+      "lon": 80.1962691
+    },
+    {
+      "id": "chijtbjc34rnujore3gsrtkh__g",
+      "title": "FatCow Dairy l A2 Milk Chennai",
+      "address": ": 112, Velachery Main Rd, Harini Avenue, Guindy, Chennai, Tamil Nadu 600032",
+      "lat": 13.009050499999999,
+      "lon": 80.2208146
+    }
+  ],
+  "updated_at_utc": "2026-09-27T12:34:59.050194+00:00"
+}

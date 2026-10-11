@@ -1,0 +1,975 @@
+{
+  "category": "beauty_personal_care",
+  "status": "complete",
+  "count": 138,
+  "outside": 42,
+  "points": [
+    {
+      "id": "chijk2keswb9ujordnkvyazjwmy",
+      "title": "CHEAPest & Best - Unisex Family Salon and Spa",
+      "address": "No: 105, First Floor, Krishna Mahal Complex, GST Rd, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6870785,
+      "lon": 79.9831689
+    },
+    {
+      "id": "chijy-qnzzh9ujornl3avqwjtou",
+      "title": "BEAUTY MAX",
+      "address": "53, Kanchipuram High Rd, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.697878399999999,
+      "lon": 79.9712684
+    },
+    {
+      "id": "chijqdjeo3l9ujorf8xe8yr6tuu",
+      "title": "Lakshmi Krishna Naturals Chengalpattu",
+      "address": "123/29, GST Rd, Thimmarajakulam, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6845956,
+      "lon": 79.98349499999999
+    },
+    {
+      "id": "chijla1-fgh9ujorlyxn1gnwph4",
+      "title": "Sree Sai Fancy Store",
+      "address": "Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6937634,
+      "lon": 79.97776309999999
+    },
+    {
+      "id": "chij2x8pfmt9ujor7c_t4ivw9hk",
+      "title": "Mom’s Herbs’",
+      "address": "31/32, Murugesanar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.689082599999999,
+      "lon": 79.9741598
+    },
+    {
+      "id": "chijsuir9fl9ujorywjaaa18jaa",
+      "title": "Naturals Salon",
+      "address": "No 12A, opposite Railway Station, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693471299999999,
+      "lon": 79.9793667
+    },
+    {
+      "id": "chijtelpfd_9ujorg2d4dasby2o",
+      "title": "Sumyuktha Beauty care",
+      "address": "high Road, 1, VOC St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692199299999999,
+      "lon": 79.9775798
+    },
+    {
+      "id": "chijcxi2zuh8ujorgebup8dd0gc",
+      "title": "GreenTrends Unisex Hair & Style Salon",
+      "address": "2nd Floor, GreenTrends Unisex Hair & Style Salon, PBM Towers, No: 7C, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6928656,
+      "lon": 79.97954399999999
+    },
+    {
+      "id": "chijjynxe9_7ujor5ag9c0lkrcq",
+      "title": "Pro plus smart salon",
+      "address": "6/289, GST Rd, near Mahindra World City, thirutheri, Singaperumal Koil, Chengalpattu, Tamil Nadu 603204",
+      "lat": 12.752761399999999,
+      "lon": 80.0001709
+    },
+    {
+      "id": "chijj2dq70x9ujor62e7ypz3geu",
+      "title": "Essensuals by TONI&GUY, Chengalpattu",
+      "address": "MXJJ+5C Essensuals by TONI&GUY, Chengalpattu, 50, 2nd Floor, Rahamath Shopping Mall, GST Rd, Alagesan Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6804916,
+      "lon": 79.9809446
+    },
+    {
+      "id": "chijt-j8eyf9ujor0gjlh9fgjbu",
+      "title": "Naturals Salon Thimavaram",
+      "address": "No 14, Naturals Salon Thimavaram, Thimmavaram Village, opposite Shri Venkateswara Mahal, Vaibhav Lakshmi Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603101",
+      "lat": 12.700171399999999,
+      "lon": 79.96672
+    },
+    {
+      "id": "chija_2kwoj9ujoreh_bwntuanu",
+      "title": "Fazhuna creations",
+      "address": "16f, GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.681874599999999,
+      "lon": 79.98186989999999
+    },
+    {
+      "id": "chijl3h7-bn9ujor2srlfyxhjpm",
+      "title": "Vogue Trends unisex Style And Beauty Salon",
+      "address": "SH58, Santhi Nagar, Nenmeli, Vallam, Tamil Nadu 603003",
+      "lat": 12.673532199999999,
+      "lon": 80.0058258
+    },
+    {
+      "id": "chijdwzwcud8ujorgtcttuv27au",
+      "title": "Arul Beauty Salon",
+      "address": "Thiruporur Road, Santhi Nagar, Alapakkam, Chengalpattu, Pattaravakkam, Tamil Nadu 603003",
+      "lat": 12.6830646,
+      "lon": 79.9856552
+    },
+    {
+      "id": "chijtujth0p9ujorebm3imbz1t0",
+      "title": "Vels Beauty Parlour",
+      "address": "142, Vels Beauty Parlour, 58c, Chinna Maniyakara St, near ramar koil, J C K Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6902593,
+      "lon": 79.9795888
+    },
+    {
+      "id": "chijc_ef71j9ujorscbqimdy31q",
+      "title": "MEDPLUS ANNA SALAI J C K NAGAR",
+      "address": "Shop No.1&2, MEDPLUS ANNA SALAI J C K NAGAR, 101B, Door No, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6923996,
+      "lon": 79.9774492
+    },
+    {
+      "id": "chijrsbyyx79ujorectykezy0d8",
+      "title": "Suji's Beauty queen lounge",
+      "address": "No 133/254 Nehru Nagar, Thiruporur Rd, kootroad, Nenmeli, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6750289,
+      "lon": 80.00366989999999
+    },
+    {
+      "id": "chijd7ois4l9ujorcgptn9rkf2s",
+      "title": "KAVIYA BRIDAL STUDIO",
+      "address": "First Floor, KAVIYA BRIDAL STUDIO, Dhimarajakulam Street, 111, GST Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6875726,
+      "lon": 79.9830605
+    },
+    {
+      "id": "chija3r1bs79ujorkig2oelqjkw",
+      "title": "Roots N Rouge Chengalpattu",
+      "address": "Shop No.4, VND Complex No.83, Thirukalukundram Main Road Above More Supermarket, Near Thirukalukundram Road Overbridge Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6820468,
+      "lon": 79.9891526
+    },
+    {
+      "id": "chij21_htkh8ujorwozqcnvtzew",
+      "title": "MedPlus Chengalpet Rajaji Street",
+      "address": "No 77, MedPlus Chengalpet Rajaji Street, 74, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6917952,
+      "lon": 79.97999109999999
+    },
+    {
+      "id": "chijzaoqy_t9ujorvyi_fznakks",
+      "title": "Vogue Trends",
+      "address": "7, GST Rd, J C K Nagar, Chengalpattu, Hanumanthai, Tamil Nadu 603001",
+      "lat": 12.6932069,
+      "lon": 79.9793349
+    },
+    {
+      "id": "chij2zymknz9ujornfyibgfkins",
+      "title": "Swaroop marketing Chengalpattu",
+      "address": "Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.694399899999999,
+      "lon": 79.9760613
+    },
+    {
+      "id": "chijgxdwgx79ujorfufpgfwdjq4",
+      "title": "Dk Profile",
+      "address": "7/5, CN Mahadevan St, near SAI HOSPITAL, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6901662,
+      "lon": 79.979861
+    },
+    {
+      "id": "chijdxduzpv7ujorebeveer0ihu",
+      "title": "Lady World Beauty Parlour",
+      "address": "GST Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.687854999999999,
+      "lon": 79.98307369999999
+    },
+    {
+      "id": "chiji6u5v9d9ujorhu_egl0-67u",
+      "title": "Mom's Twin Bliss",
+      "address": "2nd Floor, Mom's Twin Bliss, C16, 2nd Cross St, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6823363,
+      "lon": 79.9728057
+    },
+    {
+      "id": "chijrwoplrf9ujorhf-ujav09mo",
+      "title": "Advanced GroHair & GloSkin - Chengalpattu",
+      "address": "2nd Floor, Advanced GroHair & GloSkin - Chengalpattu, Arasan Towers, 50A, GST Rd, opposite to Reliance Trends, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6805662,
+      "lon": 79.98104579999999
+    },
+    {
+      "id": "chij80qblsd9ujorzjdnsr4krgq",
+      "title": "S3 Professional Family Saloon",
+      "address": "No 176 Maniyan Street Tkm Bridge, Service Road, Flyover, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6826055,
+      "lon": 79.9871519
+    },
+    {
+      "id": "chijt8fdocp9ujornva8xgdojvo",
+      "title": "India Super Market",
+      "address": "MXJG+CXV India Super Market, Unnamed Road, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6811153,
+      "lon": 79.9774157
+    },
+    {
+      "id": "chij-9vwvdv7ujor4hergibbb-o",
+      "title": "Home Needs Super Market",
+      "address": "Mahindra World, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.73789,
+      "lon": 80.0011081
+    },
+    {
+      "id": "chijf0fo-lr9ujorpvxhzvi8xke",
+      "title": "MUSK & TUSK at Chengalpattu",
+      "address": "M.S.TOWERS, 3, GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6899369,
+      "lon": 79.9818823
+    },
+    {
+      "id": "chijzfrp8m78ujorvxhlpn84e1o",
+      "title": "Shifa Medicals",
+      "address": "No 73, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6917931,
+      "lon": 79.9800266
+    },
+    {
+      "id": "chij1-qukxd8ujoronhsgfl1ihy",
+      "title": "NSK Thanga Maaligai",
+      "address": "20, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6957156,
+      "lon": 79.9775487
+    },
+    {
+      "id": "chijy8lrawd7ujorsjlc2s7j8xk",
+      "title": "VANTHA VETTUVOM Men's Parlour",
+      "address": "Thimmavaram, opposite ST-PAUL School, Chengalpattu, Thimmavaram, Tamil Nadu 603101",
+      "lat": 12.7188245,
+      "lon": 79.9559319
+    },
+    {
+      "id": "chijmqgwumr8ujor7eqgrriwxi4",
+      "title": "National Salon & Spa",
+      "address": "SH58, Vedachalam Nagar, Anna Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6910134,
+      "lon": 79.9802713
+    },
+    {
+      "id": "chijqvkz9fz7ujorh56lhkamoti",
+      "title": "Riya's budjet finds and beauty care",
+      "address": "No:4/30,Gandhi street, Railway, staion road, near murugan temple, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7619609,
+      "lon": 80.0019482
+    },
+    {
+      "id": "chijvdd1mcz7ujoromdnh1pog74",
+      "title": "SiriMakeupArtist",
+      "address": "Flat 69, SiriMakeupArtist, Anbu Nagar, Mahindra World City, Chettipunniyam Rd, Tamil Nadu 603002",
+      "lat": 12.7396832,
+      "lon": 79.984366
+    },
+    {
+      "id": "chij57y5eqd9ujorw1if1suhroy",
+      "title": "Ekin",
+      "address": "Kamarajar Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6775127,
+      "lon": 79.9822126
+    },
+    {
+      "id": "chijg3sxnyp7ujordvyfvzakkyu",
+      "title": "Shreshth Care Organic Natural Skin & Hair care Products. Handmade Soap.",
+      "address": "Mahindra World City, Chengalpattu, Thirutheri R.F., Tamil Nadu 603002",
+      "lat": 12.725694899999999,
+      "lon": 79.99365929999999
+    },
+    {
+      "id": "chijofrnw8h9ujorw8ak4uji7w4",
+      "title": "GROW N CUTZ Men's Salon",
+      "address": "7/6, CN Mahadevan St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6908934,
+      "lon": 79.9796472
+    },
+    {
+      "id": "chijpb_mehz9ujorn0oceij3tt0",
+      "title": "Vinoth Saloon (Mens beauty parlour)",
+      "address": "MXVF+W58 Vinoth Saloon (Mens beauty parlour), Chinna Rathinam St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694791799999999,
+      "lon": 79.9729777
+    },
+    {
+      "id": "chijscslhqd7ujoramohxt6dmsi",
+      "title": "D-Mart - Chengalpattu",
+      "address": "Ganapathi Nagar, Chettipunniyam Rd, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.7398893,
+      "lon": 79.98919769999999
+    },
+    {
+      "id": "chijvc1btgd9ujorfw6s3im9jfw",
+      "title": "Sri Lakshmi Fancy Store Chengalpattu",
+      "address": "MXVH+J5W Sri Lakshmi Fancy Store Chengalpattu, Anna Salai, J C K Nagar, Chengalpattu, Hanumanthai, Tamil Nadu 603001",
+      "lat": 12.694111399999999,
+      "lon": 79.9779628
+    },
+    {
+      "id": "chijkfvptjn7ujorsvjeslhppi8",
+      "title": "Lakshmi Trends",
+      "address": "68,First floor,Bharathiyar street, VeerPuram, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7380269,
+      "lon": 80.0007155
+    },
+    {
+      "id": "chijpzqnxed3ujorerrg5ney0si",
+      "title": "MedPlus Mahalakshmi Nagar Thimaavaram",
+      "address": "Ground Floor Shop No.2, MedPlus Mahalakshmi Nagar Thimaavaram, Plot No- 26, Mahalakshmi Nagar, Thimaavaram, Athur, Tamil Nadu 603101",
+      "lat": 12.7015941,
+      "lon": 79.96601989999999
+    },
+    {
+      "id": "chiji7pwwsj7ujorrvmaf73gqqy",
+      "title": "Style & Smile Beauty Care",
+      "address": "Bagavathsingh Nagar, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.743715199999999,
+      "lon": 79.990814
+    },
+    {
+      "id": "chijvzr2wad9ujorzy4qzvoukr4",
+      "title": "I Herbal Products",
+      "address": "116, RV St, Varadharaja Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6840513,
+      "lon": 79.97905519999999
+    },
+    {
+      "id": "chijfv8vxm79ujorqy7uylfdhfy",
+      "title": "Suvaiyum Nalamum",
+      "address": "Rahamath Shopping Mall, 50, GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6803875,
+      "lon": 79.98097469999999
+    },
+    {
+      "id": "chijka2teup9ujorrfwzhnhe5gc",
+      "title": "Radhis Ladies Beauty Parlour",
+      "address": "FIRST FLOOR, Radhis Ladies Beauty Parlour, MS PLAZA, No2, GST Rd, opp. to T.E.L.C Church, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6815453,
+      "lon": 79.9816826
+    },
+    {
+      "id": "chijav2oiqd9ujorcaborfsb3is",
+      "title": "jo beauty care",
+      "address": "39/9, Gandhi Salai, Jeevanantham street, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6923439,
+      "lon": 79.9749178
+    },
+    {
+      "id": "chij9svgmct9ujor9lwnmvai1fa",
+      "title": "BARBER Cutz - Chengalpattu Thimmavaram",
+      "address": "No:259, Kanchipuram High road, Mahalakshmi Nagar, Thimmavaram, opp. to CITY UNION BANK, Chengalpattu, Tamil Nadu 603101",
+      "lat": 12.7016865,
+      "lon": 79.9657898
+    },
+    {
+      "id": "chijt6oduap7ujorcbrtru4hsfa",
+      "title": "V style & minimart",
+      "address": "No:123,veerapandia katta Bowman st, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7389314,
+      "lon": 79.9995775
+    },
+    {
+      "id": "chijcr1ofsh9ujorvbnry8afhca",
+      "title": "Tattoo articles Chengalpattu",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.681657,
+      "lon": 79.9817417
+    },
+    {
+      "id": "chijc7d43bj7ujorp249hdda9kg",
+      "title": "Regal Stars Angels Beauty Parlour And Training Institute",
+      "address": "Green Residency, Plot 3, Srivari Nagar, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.7642128,
+      "lon": 80.0062243
+    },
+    {
+      "id": "chijwzqi5kh7ujorgws41px0psk",
+      "title": "Lalith men's park",
+      "address": "Central Ave, Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7378144,
+      "lon": 80.0013618
+    },
+    {
+      "id": "chijeetcqm78ujoryekojb4rius",
+      "title": "Anbu Super Market",
+      "address": "No.29, Pillayar Kulam Street, New Bus Stand, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.690469799999999,
+      "lon": 79.9807233
+    },
+    {
+      "id": "chiji3cr59t7ujorwws8grzykzq",
+      "title": "Studieo7 family salon and Bridal studio - Singaperumal Koil",
+      "address": "1st Floor, Studieo7 family salon and Bridal studio - Singaperumal Koil, 5/80, GST Rd, next to Indian Overseas Bank, Vinjiambakkam, Tamil Nadu 603204",
+      "lat": 12.7588606,
+      "lon": 80.0025386
+    },
+    {
+      "id": "chijdfcdhj77ujor_kpbj0mwiy4",
+      "title": "Essensuals by Toni&Guy Mahindra World City",
+      "address": "The Canopy, Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7308683,
+      "lon": 80.0004525
+    },
+    {
+      "id": "chijg2bmo6r9ujor5adxlxbkleo",
+      "title": "Highlights beauty saloon",
+      "address": "No 26A/2, kancheepuram high road, opp. SRK theatre, opp. SRK cinimas, periya, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.698361,
+      "lon": 79.97056409999999
+    },
+    {
+      "id": "chijgvvm4lp9ujor7qkpzccyche",
+      "title": "Naturals Salon",
+      "address": "Srinivasan Arcade, 10, GST Rd, J C K Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.680013599999999,
+      "lon": 79.9811792
+    },
+    {
+      "id": "chijd8akayf9ujorywh-lpts5rc",
+      "title": "Studieo 7 Family Salon & Bridal Studio Chengalpattu",
+      "address": "first floor, Studieo 7 Family Salon & Bridal Studio Chengalpattu, Chezhiyan Complex, No 84, GST Rd, near ICICI Bank, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6833174,
+      "lon": 79.9831935
+    },
+    {
+      "id": "chijpanvikn9ujorvjf734gfnym",
+      "title": "INFINITY TRENDS UNISEX SALON",
+      "address": "NO.260/C, kanchipuram Highway Road Thimavaram, Mahalakshmi Nagar, Chengalpattu, Tamil Nadu 603101",
+      "lat": 12.7021949,
+      "lon": 79.9653771
+    },
+    {
+      "id": "chijme3lxbv7ujor1jl6l-ysotk",
+      "title": "Naturals Salon",
+      "address": "1st Floor, Naturals Salon, Sofia Nivas, No 122, Gandhi St, above City Union Bank, Mahindra World City, Veerapuram, Kanchipuram, Tamil Nadu 603004",
+      "lat": 12.738745399999999,
+      "lon": 79.999945
+    },
+    {
+      "id": "chijfqifrfh9ujorixm5hseftfu",
+      "title": "Mermaid's hair and beauty",
+      "address": "chinnamelamaiyur IGP complex, 60, Pillayar Koil St, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.685091799999999,
+      "lon": 79.9833347
+    },
+    {
+      "id": "chij8vtkbz_8ujor83veq0abf98",
+      "title": "MedPlus Sunnambukara Street Chengalpattu",
+      "address": "Door No. 37, MedPlus Sunnambukara Street Chengalpattu, Ground Floor, Shop No. 2&3, Sunnambukara Street, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6942729,
+      "lon": 79.9749228
+    },
+    {
+      "id": "chijmx3uz2f3ujorwhm3unkq23q",
+      "title": "Sai Cosmetics",
+      "address": "8/5 Railway Station Road, Arignar Anna St, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.844555999999999,
+      "lon": 80.0593707
+    },
+    {
+      "id": "chij1ufi01z8ujordtlhsenywfg",
+      "title": "SINGAPORE SHOPPING CENTER",
+      "address": "96, GST Rd, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6877651,
+      "lon": 79.98280319999999
+    },
+    {
+      "id": "chijyd3esd_9ujorwaeoir91snu",
+      "title": "RR18 MAKEOVER STUDIO n academy",
+      "address": "17, VOC St, opposite Gokulapuram, Kulunthiamman kovil, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692208299999999,
+      "lon": 79.9785179
+    },
+    {
+      "id": "chijgxmjwcn9ujoryjwxza9ze7c",
+      "title": "King Salon",
+      "address": "Angamuthu Complex, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6915949,
+      "lon": 79.97708999999999
+    },
+    {
+      "id": "chijnek-lqb5ujorv4ybovthvhi",
+      "title": "Saranya Beauty Care home services",
+      "address": "No: 3, Kollamedu St, Srivari Nagar, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.7612028,
+      "lon": 80.0085288
+    },
+    {
+      "id": "chij4ulvq-j7ujor5xev7ppjr6i",
+      "title": "Vogue Trends",
+      "address": "Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.738208,
+      "lon": 79.9998507
+    },
+    {
+      "id": "chijhf3gihd9ujorpgjecsaozx8",
+      "title": "Shifa Medical Mart",
+      "address": "No 21-A, Chairman Ekambaranar St, nearby to State Bank of India, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.689112999999999,
+      "lon": 79.9803712
+    },
+    {
+      "id": "chijudtj1rhnujord0gxf2wym_i",
+      "title": "PLUSH Cosmetics - Best Cosmetic Store in Chennai",
+      "address": "Gf - a, PLUSH Cosmetics - Best Cosmetic Store in Chennai, 119, Arcot Rd, Rajeswari Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.0468652,
+      "lon": 80.193224
+    },
+    {
+      "id": "chijhcorkjlnujorxabjykx500k",
+      "title": "Jazz The Beauty Shop",
+      "address": "121/3, Velachery Bypass Rd, Maheshwari Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9797368,
+      "lon": 80.2188331
+    },
+    {
+      "id": "chijo6qvacfdujorotpj6ooyov8",
+      "title": "Pixies - The Beauty Shop (Velachery)",
+      "address": "Shop no 1, No: 2, Pixies - The Beauty Shop (Velachery), 42, Dandeeshwaram Main Rd, opp. to Latha Super Market, Ram Nagar, Ramnagar South, Dhadeswaram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.982574999999999,
+      "lon": 80.2224815
+    },
+    {
+      "id": "chijsd7jm4hdujornjusfdhhsc0",
+      "title": "Jawla Beauty Cosmetics",
+      "address": "No:11, 100 ft Road Opp. Sangeetha Hotel, Throwpathy Amman Koil St, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9880698,
+      "lon": 80.2186023
+    },
+    {
+      "id": "chijrbywwgrdujorr1f89p3h_sg",
+      "title": "ROYAL COSMETICS",
+      "address": "VGP, Ramaiah Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.913577799999999,
+      "lon": 80.1924567
+    },
+    {
+      "id": "chijj4b9celnujor5c7tumliais",
+      "title": "M.A.C Cosmetics",
+      "address": "UG 49,50,51, M.A.C Cosmetics, Phoniex Mall, PHOENIX MARKET CITY, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9922244,
+      "lon": 80.2171254
+    },
+    {
+      "id": "chijy5o7xk1eujoruwwsa3idhcs",
+      "title": "Isokart Cosmetics",
+      "address": "108-1, Palani Andavar St, Radha Nagar Extension, Panchayat Colony, Chromepet, Kanchipuram, Tambaram, Tamil Nadu 600044",
+      "lat": 12.950769,
+      "lon": 80.1499029
+    },
+    {
+      "id": "chijwzwxfzjbujorgh0btax6vle",
+      "title": "Blac&Pink",
+      "address": "No 1, Sea Cliff avenue, East Coast Rd, Akkarai, Chennai, Tamil Nadu 600119",
+      "lat": 12.895824099999999,
+      "lon": 80.2471798
+    },
+    {
+      "id": "chijgzoitmpnujor5weei-986iu",
+      "title": "SEPHORA",
+      "address": "Shop No 7B, UGF, SEPHORA, Phoenix Market City, 142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9929001,
+      "lon": 80.2179001
+    },
+    {
+      "id": "chijfxnzajddujorq9pgdbkt_u0",
+      "title": "Hushpurr",
+      "address": "Ground Floor, Hushpurr, 12/18, 1st Main Rd, opp. Bank Of Baroda Bank, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9759589,
+      "lon": 80.2191789
+    },
+    {
+      "id": "chijudhtnu9dujorialu-awhjzc",
+      "title": "Lakshmi Krishna Naturals Velachery Chennai",
+      "address": "No.15/26, 1st Floor, Lakshmi Krishna Naturals Velachery Chennai, North, Velachery Bypass Rd, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.977755799999999,
+      "lon": 80.2191721
+    },
+    {
+      "id": "chij9fnewjnnujor4vra4tigsb8",
+      "title": "Health & Glow - Adyar",
+      "address": "55/2, Health & Glow - Adyar, Ground Floor, Plot No -55/1, Kamaraj Ave 1st St, opposite Jockey Showroom, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0021618,
+      "lon": 80.2518142
+    },
+    {
+      "id": "chijmxwrviddujorvuicjd76nn0",
+      "title": "Health & Glow - Nanganallur",
+      "address": "Door No 17, Health & Glow - Nanganallur, Sri Renga Complex, Plot No 87, 1st Main Rd, near Vv Mart, Macmillan Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.982709,
+      "lon": 80.1918726
+    },
+    {
+      "id": "chij0qaplqpdujorh-zckzsc0dq",
+      "title": "AGNI BEAUTY COSMETICS",
+      "address": "No:38, Rajiv Gandhi Salai, OMR, Seevaram, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.952656,
+      "lon": 80.24222499999999
+    },
+    {
+      "id": "chijrxhoggbdujorxsrcp6r2zsc",
+      "title": "Aura Cosmetics",
+      "address": "153-B, Velachery Bypass Rd, Devi Karumariamman Nagar Extension, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9775639,
+      "lon": 80.2197339
+    },
+    {
+      "id": "chijff4gdpvfujor9iyminwneye",
+      "title": "Chennai Beauty",
+      "address": "ground floor, Chennai Beauty, Sarala flat, 27 E block, Ramasamy St, Subhash Nagar, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9502739,
+      "lon": 80.1482714
+    },
+    {
+      "id": "chijzebvzyhnujoryybbkogwxcq",
+      "title": "Deyga Store - Chennai - Natural Skincare & Haircare Products Shop",
+      "address": "114, St, Cathedral Rd, opp. to Stella Mary's College, Gopalapuram, Chennai, Tamil Nadu 600086",
+      "lat": 13.047564,
+      "lon": 80.2543597
+    },
+    {
+      "id": "chijffzzhh9cujorl-59etihw7q",
+      "title": "Feminine Corner",
+      "address": "1st floor, Feminine Corner, 10/80, Velachery Main Rd, opposite Max showroom, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9180733,
+      "lon": 80.1893226
+    },
+    {
+      "id": "chijcycvcbpnujor3ikfxef2l2q",
+      "title": "Bhagwati Cosmetic",
+      "address": "116, Bhagwati Cosmetic, 116, 69 114/70, Sir Thyagaraya Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.041300999999999,
+      "lon": 80.2346124
+    },
+    {
+      "id": "chijxxjl9q5dujor2xiwr-6g8bk",
+      "title": "J.K. Cosmetics And Gift Articles",
+      "address": "33, 1st Main Rd, Telephone Nagar, Phase-1, Thirumala Nagar Annexe, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9596865,
+      "lon": 80.24044649999999
+    },
+    {
+      "id": "chij57mq4rrnujorg2fjpzzkxte",
+      "title": "NARS - SEPHORA - PHOENIX MARKETCITY CHENNAI",
+      "address": "Shop No : UG - 7B Upper Ground Floor,New No : 142, NARS - SEPHORA - PHOENIX MARKETCITY CHENNAI, PHOENIX MARKET CITY, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9913026,
+      "lon": 80.2166199
+    },
+    {
+      "id": "chijo8j8q3vdujorqjg0u7w6d0s",
+      "title": "Purplle - Grand Square Mall, Chennai",
+      "address": "Ground Floor, Purplle - Grand Square Mall, Chennai, Grand Square mall, Shop No, 6B & 7, Major Mukund Varadharajan Rd, Chennai, Tamil Nadu 600042",
+      "lat": 12.971957999999999,
+      "lon": 80.22036709999999
+    },
+    {
+      "id": "chijy5fqfo1nujork8xjuoyiyso",
+      "title": "PAC Cosmetics",
+      "address": "#59/3, Inner Ring Road,100 feet main road, Sathya electroni, near PNG nursing home, Chennai, Tamil Nadu 600026",
+      "lat": 13.0477619,
+      "lon": 80.2123295
+    },
+    {
+      "id": "chijz61bqz1mujor9qoyb66hvta",
+      "title": "SEPHORA",
+      "address": "49, SEPHORA, Express Ave Mall, SN S/001C & S/014, 17, 50L, Whites Rd, Chennai, Tamil Nadu 600002",
+      "lat": 13.0589772,
+      "lon": 80.2628343
+    },
+    {
+      "id": "chijftqv2sznujorejvaq69m83c",
+      "title": "SSBeauty by Shoppers Stop - PMC, Chennai",
+      "address": "1st Flr, SSBeauty by Shoppers Stop - PMC, Chennai, Phoenix Market City Mall, No 142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.990816299999999,
+      "lon": 80.2167932
+    },
+    {
+      "id": "chijvzzjnbpnujor7sqfzlvo6hs",
+      "title": "SUGAR Cosmetics",
+      "address": "49, SUGAR Cosmetics, SUGAR Cosmetics,Lifestyle, 50L, Whites Rd, Express Estate, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0588181,
+      "lon": 80.2648561
+    },
+    {
+      "id": "chijyvrteg5fujoryqasbincqbm",
+      "title": "Sri Balaji Beauty Cosmetics",
+      "address": "No.17/3,Padmasai Complex,, Venkatesan St, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9274477,
+      "lon": 80.1142821
+    },
+    {
+      "id": "chijxyv0ikrnujoro8_w3lskipy",
+      "title": "Kryolan City GN Chetty Road",
+      "address": "147, Gopathy Narayana Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0422432,
+      "lon": 80.2354989
+    },
+    {
+      "id": "chij-fklupvhujorduwdyvusi54",
+      "title": "Shasha Beauty products",
+      "address": "1st floor, Shasha Beauty products, 9 A, Arcot Rd, opposite to Poorvika Mobiles, signal, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.035154499999999,
+      "lon": 80.1565562
+    },
+    {
+      "id": "chijgvk9l_pnujorrc_3cpt2heq",
+      "title": "Trends Cosmetics",
+      "address": "No. E, Trends Cosmetics, 33, 2nd Ave, GOCHS Colony, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.9971403,
+      "lon": 80.2678363
+    },
+    {
+      "id": "chijpyei4xxhujorlqe9fl9mjnc",
+      "title": "R.b.cosmetics",
+      "address": "No.325, Sarvana tower Guindy, Mount Poonamallee Rd, Alwartirunagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.034324499999999,
+      "lon": 80.15632509999999
+    },
+    {
+      "id": "chijd9saywd1ujor26b2au5hd8c",
+      "title": "Gustto Beauty Parlours",
+      "address": "3/12, Bypass, walajabad, Mannivakkam, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8930315,
+      "lon": 80.06658639999999
+    },
+    {
+      "id": "chijlr6k0ubnujorcmimpckirzg",
+      "title": "Modern cosmetics",
+      "address": "1st floor, 4th Main Rd, NCBS Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.986403699999999,
+      "lon": 80.1884951
+    },
+    {
+      "id": "chijqbej1fvmujore6jlyaunj2q",
+      "title": "Five Star Beauty Center",
+      "address": "Shop #1 Ground Floor, Five Star Beauty Center, Fathima Plaza, 98, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0411523,
+      "lon": 80.23587979999999
+    },
+    {
+      "id": "chijf6vgjfznujortdkxeabv0bg",
+      "title": "SUGAR Cosmetics",
+      "address": "SUGAR Cosmetics,Health & Glow Pondy Bazaar,Ground Floor Msr House Complex, No: 68, Old No: 89 ir, Sir Thyagaraya Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0408776,
+      "lon": 80.237752
+    },
+    {
+      "id": "chijgbs1xotdujornp5uvznsls0",
+      "title": "Health & Glow - Pallikaranai",
+      "address": "No. 48, VGA, Vaigai Block, Natwest Vijay Velachery Temabaram, Main Rd, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9291255,
+      "lon": 80.2029876
+    },
+    {
+      "id": "chij4t4ifl9cujorxw1cvdtetp4",
+      "title": "Pixies - The Beauty Shop in Chennai (OMR) | Salon Supply & Professional Distribution",
+      "address": "Bus stop, Plot no 5/319 Shop no 4F, Okkiyam Thoraipakkam Old Mahabalipuram Road OMR), Behind Okkiyam thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.925442499999999,
+      "lon": 80.23054069999999
+    },
+    {
+      "id": "chijh-tkfjvnujorsmod7f3omd4",
+      "title": "Vilvah Store - Phoenix Market City Velachery Chennai | Natural Skincare & Haircare",
+      "address": "Vilvah Store, Phoenix Market City, F-45 (First rrrrrrr fc deta, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9913026,
+      "lon": 80.2166199
+    },
+    {
+      "id": "chijnxlgrdxnujorqszgkcr6em4",
+      "title": "Mamaearth Exclusive Store",
+      "address": "UGK-08, Upper Ground Floor, Nexus Vijaya Mall N.S.K Salai, Arcot Rd, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0499574,
+      "lon": 80.2095061
+    },
+    {
+      "id": "chijk3r4hsjnujorwz5grg4mvu0",
+      "title": "Vilvah Store - T Nagar Chennai | Natural Skincare & Haircare",
+      "address": "Varnamala Wedding Experience Centre, 13, Habibullah Rd, Satyamurthy Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0489983,
+      "lon": 80.2423311
+    },
+    {
+      "id": "chijx2k6zmfhujort5fqctkqf6o",
+      "title": "Purplle - Kundrathur Main Road - Gerugambakkam",
+      "address": "1441, Ground Floor, S, Purplle - Kundrathur Main Road - Gerugambakkam, Shop No, 160/1, Kundrathur Main Rd, Gerugambakkam, Chennai, Tamil Nadu 600128",
+      "lat": 13.0124,
+      "lon": 80.1336
+    },
+    {
+      "id": "chijx2h0_dnmujordiupwzwarwk",
+      "title": "Health & Glow - K K Nagar west",
+      "address": "1047, Lakshmanaswamy Salai, KK Nagar West, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.039703699999999,
+      "lon": 80.1933318
+    },
+    {
+      "id": "chijkze3mprnujorlcxkah5hi18",
+      "title": "Vilvah Store - Natural & Organic Skincare, Haircare products, EA Mall, Royapettah",
+      "address": "EA Chambers, Express avenue, K-SF-1, Whites Rd, Express Estate, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.058205899999999,
+      "lon": 80.2640516
+    },
+    {
+      "id": "chijw_uazczhujorvozglalujgc",
+      "title": "Health & Glow - Iyyapanthangal",
+      "address": "Plot No 01 and 02, Pushpa Nagar Cross Street Mount Poonamalle High Road, Apartments, opposite to PRESTIGE BELLA VISTA, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600056",
+      "lat": 13.039202699999999,
+      "lon": 80.13190759999999
+    },
+    {
+      "id": "chijjzv5xd1mujorkprrjwe5c2k",
+      "title": "Health & Glow -Express Avenue Mall",
+      "address": "S- 242, 2nd Floor 50L, Royapettah High Road Whites Road, Opposite Royapettah Clock Tower, Chennai, Tamil Nadu 600014",
+      "lat": 13.0589737,
+      "lon": 80.2641926
+    },
+    {
+      "id": "chijvxp_tujnujorfs0hqugta_i",
+      "title": "Vilvah Store - Alwarpet Chennai | Natural Skincare & Haircare",
+      "address": "39/15(38/18, CP Ramaswamy Rd, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.032502899999999,
+      "lon": 80.25701169999999
+    },
+    {
+      "id": "chijdvavewjdujorz25yruimdic",
+      "title": "Health & Glow - Phoenix Mall",
+      "address": "2nd Floor, Health & Glow - Phoenix Mall, Phoenix Market City, Plot No 142, Old No 66, Block S 24, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9913026,
+      "lon": 80.2166199
+    },
+    {
+      "id": "chijpzv7fg1fujorqebbdffsbee",
+      "title": "SheZone | Skin Hair and Beauty Lounge",
+      "address": "Plot No 7 & 8, 100 Feet road, Camp Rd, above Durairaj Paradise, Rajeshwari Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9235721,
+      "lon": 80.14274259999999
+    },
+    {
+      "id": "chijczbazdfnujor2sb1a46h36a",
+      "title": "Health & Glow -Palladium Mall",
+      "address": "No 142,G34, Palladium mall- Lower Ground Floor, Phoenix Market City St, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9930708,
+      "lon": 80.21746499999999
+    },
+    {
+      "id": "chija4yqpmrnujorsebbj__snbe",
+      "title": "Lakshmi Krishna Naturals",
+      "address": "no 21 no H, Lakshmi Krishna Naturals, New, 16, 100 Feet Road, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0467722,
+      "lon": 80.2124323
+    },
+    {
+      "id": "chijza2tyvjnujorwrprw-gvzsk",
+      "title": "Health & Glow - RA Puram",
+      "address": "Shop No 29/14, Health & Glow - RA Puram, Karpagambal Apartments, 2nd Main Rd, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0269444,
+      "lon": 80.25763839999999
+    },
+    {
+      "id": "chijr2umbzrnujorw-iafquesqk",
+      "title": "Purplle - Adyar, Chennai",
+      "address": "GF, Purplle - Adyar, Chennai, Sagarika Towers, Northern Portion of Building, 18, 3rd Cross St, Kasturba Nagar, Chennai, Tamil Nadu 600020",
+      "lat": 13.003705,
+      "lon": 80.25175089999999
+    },
+    {
+      "id": "chijktsqjnzeujoregtmkvsnjji",
+      "title": "Health & Glow - Keelkattalai",
+      "address": "Door No, Health & Glow - Keelkattalai, 14, Medavakkam Main Rd, Venkateswara Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9576289,
+      "lon": 80.1871369
+    },
+    {
+      "id": "chijo4g2rf9mujormkez9xv7pqs",
+      "title": "Pandiyan Beauty Centre",
+      "address": "Shop No. 52/A, Janatha Bazzar, 1st Floor, Thiyagaraya Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0372516,
+      "lon": 80.2293801
+    },
+    {
+      "id": "chij6zgh8w5nujorvd6podov30u",
+      "title": "Health & Glow - MG Road",
+      "address": "NO: 30, MG Ramachandran Rd, RBI Colony, Shastri Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9964674,
+      "lon": 80.25881559999999
+    },
+    {
+      "id": "chijj3leiebdujor5tgfqhs52tk",
+      "title": "Health & Glow - Kottivakkam",
+      "address": "No: 54 East Coast Road, SH 49, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.975799199999999,
+      "lon": 80.258678
+    },
+    {
+      "id": "chijk9faovxnujorfqld2inh_dm",
+      "title": "Health & Glow - Mylapore",
+      "address": "Shop No 112/220, Ground Floor, Health & Glow - Mylapore, Ramakrishna Mutt Rd, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.032304499999999,
+      "lon": 80.2672097
+    },
+    {
+      "id": "chijh3qdrx1hujor_vr-ds4fjxu",
+      "title": "Pooja shree beauty cosmetic centre",
+      "address": "2ndstreet, Pooja shree beauty cosmetic centre, 2, Re nagar, Kundrathur Main Rd, Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.0335261,
+      "lon": 80.15486969999999
+    },
+    {
+      "id": "chij08corvpdujormcvdubpbyuk",
+      "title": "Beauty & Health Products",
+      "address": "24th St, Sowmiya Nagar, VGP Layout, Perumbakkam, Vengavasal, Tamil Nadu 600100",
+      "lat": 12.9052704,
+      "lon": 80.1935249
+    },
+    {
+      "id": "chij03d3a-lmujordlphqw1giok",
+      "title": "Wholesale Human Hair Extensions - Human Hair Suppliers in Chennai Factory hair extensions",
+      "address": "Ayyanar Complex, 225, Arcot Rd, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0503735,
+      "lon": 80.2136785
+    },
+    {
+      "id": "chijy-7apcjhujorks0haxurxby",
+      "title": "Health & Glow - Valasaravakkam",
+      "address": "No: 163, Arcot Rd, Venkateswara Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.0421567,
+      "lon": 80.1793752
+    },
+    {
+      "id": "chij_qu5k_dnujoraaaamghij24",
+      "title": "Sri Rameshwar Beauty Cosmetics",
+      "address": "1st floor, Sri Rameshwar Beauty Cosmetics, Annai Towers, N.61, Annai Velankanni Road, Vannanthurai, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.996339899999999,
+      "lon": 80.2621763
+    },
+    {
+      "id": "chijf0agmd39ujornnqupgzvm7o",
+      "title": "Shree Kannika Beauty World",
+      "address": "134, 62, Anna Salai, Chengalpattu, Hanumanthai, Tamil Nadu 603001",
+      "lat": 12.6940248,
+      "lon": 79.9778291
+    },
+    {
+      "id": "chij5ayhxvj9ujorujmhq9sp3u4",
+      "title": "Bismillah stationery And Fancy Store",
+      "address": "64, Bazaar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694200799999999,
+      "lon": 79.9763589
+    },
+    {
+      "id": "chijl1ubfwpnujor-dzbn4_ermw",
+      "title": "Kryolan Cosmetics India Private Limited",
+      "address": "P9, 1st Avenue, Mahindra World City, Chengalpet, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7355618,
+      "lon": 79.9981127
+    },
+    {
+      "id": "chijafvohkj9ujori6pvkbkfx30",
+      "title": "AYISHA'S BEAUTY LOUNGE",
+      "address": "Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6900242,
+      "lon": 79.9747457
+    },
+    {
+      "id": "chijz5t3wqd9ujorulp0u3egd_k",
+      "title": "SEMPARUTHI STORE",
+      "address": "21/16, SEMPARUTHI STORE, Two wheeler, Parking Stand, Pilliyar Kullam St, near New Bus Stand, above chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6906137,
+      "lon": 79.9807316
+    }
+  ],
+  "updated_at_utc": "2026-09-27T13:56:06.608936+00:00"
+}

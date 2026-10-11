@@ -1,0 +1,961 @@
+{
+  "category": "optical",
+  "status": "complete",
+  "count": 136,
+  "outside": 44,
+  "points": [
+    {
+      "id": "chijqxxdzkh8ujorcdr2qcitxh8",
+      "title": "Purple Opticals",
+      "address": ": 187, GST Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6859471,
+      "lon": 79.9835757
+    },
+    {
+      "id": "chijv3jsc3f9ujors_2fetxfot0",
+      "title": "Specsmakers at Anna Nagar, Chengalpattu (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No-10, GF, Chengalpattu Main Rd, near Reliance Trends, Anna Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.680004199999999,
+      "lon": 79.9811343
+    },
+    {
+      "id": "chijrsgcdof5ujorux5kbi-lcew",
+      "title": "Titan Eye+ at Gst Road, Chengalpet (Buy 1 Get 1 Free)",
+      "address": "10, Srinivasan Arcade, GST Rd, opposite Rahmath Complex, next to Jockey Showroom, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6799273,
+      "lon": 79.9810938
+    },
+    {
+      "id": "chijr5z7z2l9ujorfg3oto57yfm",
+      "title": "Pro Vision Optics",
+      "address": "No 1-B, GST Rd, opposite Yanaikaal hospital, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.695410299999999,
+      "lon": 79.97788179999999
+    },
+    {
+      "id": "chijjzaenwh9ujor8ddkxadf0x4",
+      "title": "Dr Agarwals Eye Clinic",
+      "address": "No 39 A, New No 158, Ground Floor, Dr Agarwals Eye Clinic, Bus Stand, Rattinakinaru, GST Rd, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6839417,
+      "lon": 79.9831044
+    },
+    {
+      "id": "chij5_yvhw39ujorfmnv1m3kpdu",
+      "title": "Lenskart.com at Chengalpet, Kanchipuram (First Lens Replacement Free)",
+      "address": "NO 11, Joesph Towers, GST Main Road Alagesan Nagar Extention, Chengalpet, Kanchipuram, Tamil Nadu 603001",
+      "lat": 12.6802654,
+      "lon": 79.98111569999999
+    },
+    {
+      "id": "chijfucn9m78ujory0yvijlmqe8",
+      "title": "SRI KRISHNA OPTICALS",
+      "address": "90, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692751099999999,
+      "lon": 79.979001
+    },
+    {
+      "id": "chij151dcht7ujora9jwzffsl9e",
+      "title": "Namma Optical (Optical Shop near me)",
+      "address": "No-99, Namma Optical (Optical Shop near me), Mahindra World City, Veerapuram, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7384171,
+      "lon": 79.9997073
+    },
+    {
+      "id": "chijqz1nhtv7ujor-s1v_m80htw",
+      "title": "Life Vision Opticals & Eye Clinic",
+      "address": "No 122/190, Central Ave, opp. spirax company, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7390194,
+      "lon": 79.99925999999999
+    },
+    {
+      "id": "chijsro1wq79ujorj-4qhuvo9ai",
+      "title": "Balu opticals",
+      "address": "31, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6933229,
+      "lon": 79.9789849
+    },
+    {
+      "id": "chijurcfzgd9ujory1cfl7vb1po",
+      "title": "Sarahopticals",
+      "address": "19, Alagesan Rd, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6879309,
+      "lon": 79.9782788
+    },
+    {
+      "id": "chijicektj_9ujorubl584wfoyi",
+      "title": "S M Opticals - Chengalpattu",
+      "address": "No.12/10, GST Road, Periyar Nagar, Opp. Government Hospital, Gate No 3, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6775407,
+      "lon": 79.9790656
+    },
+    {
+      "id": "chijguxwtg78ujor8021rbpeat0",
+      "title": "Baskaran Opticals",
+      "address": "Big Chetty St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6934665,
+      "lon": 79.9783808
+    },
+    {
+      "id": "chij6eoahmn8ujor-qlmr63qnia",
+      "title": "Eye Care Opticals",
+      "address": "43, Dr Varadharajan St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6866194,
+      "lon": 79.9825436
+    },
+    {
+      "id": "chijcxktdgx8ujorxebve79zzkg",
+      "title": "Sri Ragavendra Opticals",
+      "address": "No 1 Main Road, No. 74, Big, Vedappa Chetty Street, J C K Nagar, Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.692649,
+      "lon": 79.97826189999999
+    },
+    {
+      "id": "chijq6o9ryn7ujorha-r-6zg0dy",
+      "title": "Jai Sri Opticals",
+      "address": "1B, GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.704417099999999,
+      "lon": 79.9771942
+    },
+    {
+      "id": "chijddc88p33ujora3ksmtfbubw",
+      "title": "Lenskart.com at Guduvanchery (First Lens Replacement Free)",
+      "address": "Shop No 116, Lenskart.com at Guduvanchery (First Lens Replacement Free), GST Rd, next to Chellamani & CO, Gandhi Nagar, Guduvancheri, Chengalpattu, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8421653,
+      "lon": 80.05820489999999
+    },
+    {
+      "id": "chijge_p-ub3ujor1c8_py5-ihw",
+      "title": "Vision Plus Optics",
+      "address": "Bus Stop, Village, Chennai - Theni Hwy, Potheri, SRM Nagar, Thailavaram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.831188099999999,
+      "lon": 80.046731
+    },
+    {
+      "id": "chij21cqvwt9ujorpy_sbfbntyg",
+      "title": "Fastrack store - Chengalpattu, Chennai",
+      "address": "Shop No.2 Ground Floor, Fastrack store - Chengalpattu, Chennai, Nandagopal Nagar, 76 & 77 .225/A, TKM Rd, Alapakkam, Melamaiyur, Chennai, Tamil Nadu 603003",
+      "lat": 12.682043499999999,
+      "lon": 79.98931429999999
+    },
+    {
+      "id": "chijq2fxb8l5ujorn59qfcevlvi",
+      "title": "Specsmakers at Vallal MGR Salai, Maraimalai Nagar (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "HIG 45, Vallal MGR Salai, near Bata Showroom, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7975119,
+      "lon": 80.0222199
+    },
+    {
+      "id": "chijdrsvqs76ujorqudftkjxham",
+      "title": "Prism optics",
+      "address": "2, Prism optics, thalapathi Nagar, GST Rd, near co-operative Bank, Vinjiambakkam, Tamil Nadu 603204",
+      "lat": 12.7592731,
+      "lon": 80.0027336
+    },
+    {
+      "id": "chijzcodqf37ujorswsuefxrk2q",
+      "title": "Lenskart.com at Singaperumal Koil, Chennai (First Lens Replacement Free)",
+      "address": "9/6, GST Road, Periyar Street, Periya Vinjiyam Bakkam Singaperumal Koil, opposite ICICI Bank, Chennai, Tamil Nadu 603204",
+      "lat": 12.7575351,
+      "lon": 80.0023046
+    },
+    {
+      "id": "chijkt_lhkv3ujor2n7tpoustq0",
+      "title": "Vishnu Opticals",
+      "address": "19/F , 176/3, Chennai - Theni Hwy, Guduvancheri, Chennai, Tamil Nadu 603202",
+      "lat": 12.843196299999999,
+      "lon": 80.0585048
+    },
+    {
+      "id": "chij7ytzhnv7ujoria1e0das2ie",
+      "title": "Vmax Opticals Mahindra World City",
+      "address": "No:123, veerapuram,new Chennai, Mahendra world city, Chengalpet, Thirutheri R.F., Tamil Nadu 603004",
+      "lat": 12.7389236,
+      "lon": 79.99951879999999
+    },
+    {
+      "id": "chijayhw_cj6ujorhtihjsw5y4o",
+      "title": "S.A Sports (MAHINDRA WORLD CITY)",
+      "address": "No:18, AM Complex, Jubliee Road, Signal, Chettipunniyam Rd, opposite to Mahindra World city, Singaperumal Koil, Tamil Nadu 603004",
+      "lat": 12.743308599999999,
+      "lon": 79.99168499999999
+    },
+    {
+      "id": "chijva4tx_d5ujoroghvvguzuea",
+      "title": "Purple Optics",
+      "address": "No 5/33, GST Rd, Potheri, Peramanur, Singaperumal Koil, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.786498499999999,
+      "lon": 80.01524739999999
+    },
+    {
+      "id": "chijibb5v937ujorgta3gsknl0q",
+      "title": "Spexbay",
+      "address": "No:123, above MAHINDRA WORLD CITY, Veerapuram, Mwc, Tamil Nadu 603004",
+      "lat": 12.7388111,
+      "lon": 79.99951279999999
+    },
+    {
+      "id": "chija9ygj0d2ujoryqyq1cnkd7s",
+      "title": "Purple Opticals",
+      "address": "95, Purple Opticals, 96, GST Rd, Bharathi Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.8665942,
+      "lon": 80.0749749
+    },
+    {
+      "id": "chijjysfxwx8ujorxcics_baijw",
+      "title": "M.R. OPTICALS",
+      "address": "MXVF+PV5 M.R. OPTICALS, Vedhaper St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6942729,
+      "lon": 79.9747308
+    },
+    {
+      "id": "chijgtrzhkr8ujorss29_a_phse",
+      "title": "SM OPTICALS",
+      "address": "No. 12/10 G. S. T. Road, Periyar Nagar, Chengalpattu - 603001, Tamil Nadu 603111",
+      "lat": 12.6644546,
+      "lon": 79.986098
+    },
+    {
+      "id": "chijo6x0a2j9ujorinyleezj_0m",
+      "title": "Magic Eye electronics and security solutions",
+      "address": "TKM Rd, Santhi Nagar, MALALINATHAM, Chennai, Vallam R.F., Tamil Nadu 603003",
+      "lat": 12.672159299999999,
+      "lon": 80.0070635
+    },
+    {
+      "id": "chijvvuf7g78ujorsq0hjpd8y10",
+      "title": "Jothi Opticals",
+      "address": "No:11, VOC St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6919794,
+      "lon": 79.9791102
+    },
+    {
+      "id": "chijmczl51v3ujor7tu8kbaypp4",
+      "title": "Lenskart.com at Urapakkam, Chennai (First Lens Replacement Free)",
+      "address": "Urapakkam Flyover, Sri Balaji Nagar, Urapakkam, Perungalathur, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.869944199999999,
+      "lon": 80.07612859999999
+    },
+    {
+      "id": "chijgzvnekz3ujorx8m1ruggr9o",
+      "title": "Ruby Optics( Opticals shop near me)",
+      "address": "K.R.J. COMPLEX, 101, GST Rd, nearby AVN Saradhambal mandapam, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8427828,
+      "lon": 80.05870209999999
+    },
+    {
+      "id": "chijoz3qwul3ujorykpjdpwkeme",
+      "title": "Lens Zone Optics",
+      "address": "Puthukovil, Srm Public School, 182, Nellikuppam Rd, opposite Nandhivaram, Periyar Nagar West, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8318569,
+      "lon": 80.071428
+    },
+    {
+      "id": "chijnypp0av3ujorqzovs24htrs",
+      "title": "Purple Optics",
+      "address": "NH Service Road, N.G.O Colony, N.G, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8414571,
+      "lon": 80.0566479
+    },
+    {
+      "id": "chijfxj4yor3ujora8nbrr9xbek",
+      "title": "Spexbay opticals",
+      "address": "Thiruvalluvar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8189421,
+      "lon": 80.0366866
+    },
+    {
+      "id": "chijd-wie5v3ujorssmoi9uakkq",
+      "title": "SpecsFit",
+      "address": "No.166/D1, SpecsFit, GST Rd, N.G.O Colony, Srinivasapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8417332,
+      "lon": 80.0569732
+    },
+    {
+      "id": "chijk6jflfl2ujoripsszuim9zq",
+      "title": "Surya Sports Zone",
+      "address": "20/1, GST Rd, near Al Sham Restaurant, Jaibeemnagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8491901,
+      "lon": 80.0646143
+    },
+    {
+      "id": "chij1wld_vp1ujorr3qgbori-vg",
+      "title": "Specs store Optical",
+      "address": "Plot No.'A, Specs store Optical, 4, Sathyamurthy St, Srinivasa Nagar, New Perungalathur, Chennai, Tambaram, Tamil Nadu 600063",
+      "lat": 12.910217,
+      "lon": 80.092343
+    },
+    {
+      "id": "chijnxxmrtp9ujorhoe7a0al0pe",
+      "title": "GM Communication",
+      "address": "Periya Manikar Street, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6892537,
+      "lon": 79.9778935
+    },
+    {
+      "id": "chij8xojlan3ujorcilicgb1xt4",
+      "title": "Mathew Garments",
+      "address": "No 5, E Corner, 5, GST Rd, Srinivasapuram, Guduvancheri, Chennai, Tamil Nadu 603202",
+      "lat": 12.839404799999999,
+      "lon": 80.0553177
+    },
+    {
+      "id": "chijv7cdlgd9ujord-mplc6myxo",
+      "title": "Hotspot Menswear chengalpattu",
+      "address": "9/A, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6922002,
+      "lon": 79.97988959999999
+    },
+    {
+      "id": "chij3xy_3vj5ujorbyknq8zt1gc",
+      "title": "SPECSHOP",
+      "address": "Thiruthakkadevar St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.798753699999999,
+      "lon": 80.02311639999999
+    },
+    {
+      "id": "chij-9vwvdv7ujor4hergibbb-o",
+      "title": "Home Needs Super Market",
+      "address": "Mahindra World, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.73789,
+      "lon": 80.0011081
+    },
+    {
+      "id": "chijcr1ofsh9ujorvbnry8afhca",
+      "title": "Tattoo articles Chengalpattu",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.681657,
+      "lon": 79.9817417
+    },
+    {
+      "id": "chijvfaph8_7ujork0vhkswuqem",
+      "title": "Purple Optics",
+      "address": "Tamil Nadu 603004",
+      "lat": 12.7444551,
+      "lon": 79.99354989999999
+    },
+    {
+      "id": "chij81jrgi73ujorq_p_xdwvpow",
+      "title": "Zudio - Guduvancheri, Chennai",
+      "address": "V326+4QW Zudio - Guduvancheri, Chennai, 7, GST Rd, Nandivaram, Guduvancheri, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8509751,
+      "lon": 80.0649349
+    },
+    {
+      "id": "chijx3dewvn9ujorjglojpllhou",
+      "title": "MATHAJI FANCY STORE",
+      "address": "215, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6944577,
+      "lon": 79.97611859999999
+    },
+    {
+      "id": "chijyrv95al5ujormqyahsi5dj4",
+      "title": "Lenskart.com at Maraimalai Nagar, Chennai (First Lens Replacement Free)",
+      "address": "HIG 31, NH 1, Vallal MGR Road, Maraimalai Nagar Kanchipuram, Chengalpattu, next to Spencers Super Market, Chennai, Tamil Nadu 603209",
+      "lat": 12.798632099999999,
+      "lon": 80.0229535
+    },
+    {
+      "id": "chijbc3rcgn8ujorqie8g4dm8qy",
+      "title": "Eswari Clinic Laboratory",
+      "address": "603 001, Eswari Clinic Laboratory, 24, Alagesan Street Vedachalam Nagar Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.687567099999999,
+      "lon": 79.9788403
+    },
+    {
+      "id": "chijjwljfc_3ujorodgclkf9thc",
+      "title": "VSG Potheri Pharmacy",
+      "address": "73, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.820197499999999,
+      "lon": 80.04089689999999
+    },
+    {
+      "id": "chijg-0hwzj3ujory_pbyy1iyjs",
+      "title": "Allen Solly Factory Outlet",
+      "address": "9a, GST Rd, Abnirami Nagar, Urapakkam, Chengalpattu, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.860408,
+      "lon": 80.0721772
+    },
+    {
+      "id": "chijowtbjfv3ujorbn4qu6f6uwk",
+      "title": "VISION PLUS",
+      "address": "262, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8436107,
+      "lon": 80.05900299999999
+    },
+    {
+      "id": "chije5zqvmx3ujorvqlg1mead8c",
+      "title": "Specsmakers at Guduvanchery, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No.116, Specsmakers at Guduvanchery, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), krishna complex, GST Rd, near GRT Jewellers, Gandhi Nagar, Guduvancheri, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8420595,
+      "lon": 80.0580337
+    },
+    {
+      "id": "chijct5dpx31ujor9msec-bhgme",
+      "title": "SPECS STORE OPTICAL",
+      "address": "No.7, Krishna Rd, Balaji Nagar, New Perungalathur, Perungalathur, Tambaram, Tamil Nadu 600063",
+      "lat": 12.9037191,
+      "lon": 80.0931268
+    },
+    {
+      "id": "chijf2teger3ujoraqx78wol8zc",
+      "title": "Girias",
+      "address": "140, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.840726499999999,
+      "lon": 80.0567298
+    },
+    {
+      "id": "chijl3ebj39cujorhxrtuoswgw8",
+      "title": "Lavanya Opticals",
+      "address": "2, ECR Link Road, near Rainbow children hospital, Ezhil Nagar, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.9007202,
+      "lon": 80.229102
+    },
+    {
+      "id": "chijls0ti4vdujorgx1-6alsjec",
+      "title": "VISION OPTICS | DHANDEESWARAM MAIN ROAD | VELACHERY",
+      "address": "Lingam Complex, 27, Dandeeshwaram Main Rd, next to LINGAM SUPER MARKET, above LATTA SUPER MARKET, Gowrivakkam, Ramnagar South, Dhandeeswaram, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.982527399999999,
+      "lon": 80.22269419999999
+    },
+    {
+      "id": "chij8bd6uernujorj2pm_rhamde",
+      "title": "VISION OPTICS",
+      "address": "36, Nethaji Rd, Ramapuram, TNHB Colony, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.994143699999999,
+      "lon": 80.21011279999999
+    },
+    {
+      "id": "chijlt9qngvdujorf1qbxdjpwzk",
+      "title": "Elite Optics | Opticals in Pallikaranai | Optical shop in Pallikaranai | Medavakkam",
+      "address": "No: 152, Velachery Main Rd, near Chandra Mahal, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.928022499999999,
+      "lon": 80.1985582
+    },
+    {
+      "id": "chij8ti2dlbjujorwaiuxzioyz8",
+      "title": "NuVision optics",
+      "address": "138/4, Bazaar Main Rd, Meenatchi Sundareswarar Koil, Sadasiva Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.965741,
+      "lon": 80.202424
+    },
+    {
+      "id": "chijgxpjotpcujori4e0be0bk1y",
+      "title": "OGLO OPTICS| Optical Shop in Pallikaranai , Optician, Lens Shop, Eye Testing, Rayban Sunglasses",
+      "address": "1 Alagiri Street, Velachery Main Rd, near Infant Jesus Church, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9301987,
+      "lon": 80.2030302
+    },
+    {
+      "id": "chijny1q_bbfujorosrts_f7uiu",
+      "title": "Eye plus optics. Care ‍",
+      "address": "NO 7/9, Shanthi Complex, Velachery Main Rd, United Colony, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9202988,
+      "lon": 80.1864599
+    },
+    {
+      "id": "chijbrgb8creujoruqscptpoas0",
+      "title": "S.N.OPTICALS",
+      "address": "Madambakkam Main Rd, Madambakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.910820699999999,
+      "lon": 80.1563693
+    },
+    {
+      "id": "chijd6mflipfujorc1krtvkr3bi",
+      "title": "Specsmakers at Sembakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 248 A, Specsmakers at Sembakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), Velachery Main Rd, opposite to V.v.mart, Durga Colony, Sembakkam, Chennai, Tambaram, Tamil Nadu 600072",
+      "lat": 12.923182899999999,
+      "lon": 80.15958599999999
+    },
+    {
+      "id": "chij65cnppzfujormq_neoxongq",
+      "title": "Muruga Optical",
+      "address": "95, Madambakkam Main Rd, Gnanananda Nagar, Madambakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9038673,
+      "lon": 80.1587454
+    },
+    {
+      "id": "chijd1pwhyldujorzv6chvdoebs",
+      "title": "Titan Eye+ at Velachery, Chennai (Buy 1 Get 1 Free)",
+      "address": "Bye Pass Road, 83, 100 Feet Rd, Rajalakshmi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9853657,
+      "lon": 80.2181155
+    },
+    {
+      "id": "chijmwpmbp5dujorpykgnfjgjuc",
+      "title": "Specsmakers at Perumbakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "19, 4th St, Sholinganallur Main Rd, VGP Prabhu Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9077074,
+      "lon": 80.2011861
+    },
+    {
+      "id": "chiju2dqwv5cujor3prxvmxejzw",
+      "title": "OGLO OPTICS | Optical Shop in Mettukuppam, Optician, Lens Shop, Eye Testing, Rayban Sunglasses",
+      "address": "No:3/344, Rajiv Gandhi Salai, opp. ASV Suntech Park, NJK Avenue, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9391912,
+      "lon": 80.23573929999999
+    },
+    {
+      "id": "chijc40bnpveujorteta-2xkqdq",
+      "title": "Specsmakers at Gowrivakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "162, Velachery Main Rd, opposite Kannan Furniture, Gowriwakkam, Sembakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9207311,
+      "lon": 80.1680629
+    },
+    {
+      "id": "chij87eq_phfujor3kto5m_2lh4",
+      "title": "Specsmakers at Medavakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 7/494, Velachery Main Rd, near Pommys Nighties, Viyaja Nagaram, Medavakkam, Chennai, Tambaram, Tamil Nadu 600100",
+      "lat": 12.9225356,
+      "lon": 80.1617401
+    },
+    {
+      "id": "chijo5abghzeujorbhg0kivttxy",
+      "title": "Specsmakers at Keelkattalai, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "72, Medavakkam Main Rd, opp. Grand Sweets Shop, Rajamanickam Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9588462,
+      "lon": 80.18688329999999
+    },
+    {
+      "id": "chijnt1epfdnujor6jmyymoxv38",
+      "title": "Titan Eye+ at T Nagar, Chennai (Buy 1 Get 1 Free)",
+      "address": "Shop No.1, Titan Eye+ at T Nagar, Chennai (Buy 1 Get 1 Free), Titan Company Owned Store, Ground Floor, Sir Thyagaraya Rd, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0399984,
+      "lon": 80.24121079999999
+    },
+    {
+      "id": "chijxcyx_nhfujorj7l6jqavzo0",
+      "title": "Sudharsan Optical",
+      "address": "1, Jawaharlal Nehru Rd, Mutharulandi Nagar, Anakaputhur, Kanchipuram, Tambaram, Tamil Nadu 600070",
+      "lat": 12.983091799999999,
+      "lon": 80.1284505
+    },
+    {
+      "id": "chijhzygse5nujorkejkpiigy6c",
+      "title": "Visioncare India Pvt Ltd | Optical shop & Eye Testing | Adyar",
+      "address": "Old#131, Visioncare India Pvt Ltd | Optical shop & Eye Testing | Adyar, New#2, Besant Ave Rd, Padmanabha Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0071342,
+      "lon": 80.2602864
+    },
+    {
+      "id": "chijn6iipnjnujorku-g4irtsfs",
+      "title": "The spectacle zone at South Usman Road, T.Nagar",
+      "address": "52, S Usman Road, Kannammapet, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0327042,
+      "lon": 80.23040759999999
+    },
+    {
+      "id": "chij--wrjvzmujorckr11yukakw",
+      "title": "Titan Eye+ at T Nagar, Chennai (Buy 1 Get 1 Free)",
+      "address": "Titan Company Owned showroom, 147, Gopathy Narayana Rd, opposite Murugan Idli Shop, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0421845,
+      "lon": 80.2353242
+    },
+    {
+      "id": "chijn6ynfslmujortiifr1yazzq",
+      "title": "Titan Eye+ at Mylapure, Chennai (Buy 1 Get 1 Free)",
+      "address": "Dowlani Towers, 27/28, Dr Radha Krishnan Salai, opp. Krishna Sweets, Dwarka Colony, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0443302,
+      "lon": 80.2678008
+    },
+    {
+      "id": "chijttkqr1hdujoravd_ygrc5-g",
+      "title": "Specsmakers at Sholinganallur, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "Deluxe Residential Houses, Rajiv Gandhi Salai, near WOW China, Ezhil Nagar, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.899892099999999,
+      "lon": 80.2282455
+    },
+    {
+      "id": "chijx3cfwf9mujor9nfxo68rr-k",
+      "title": "Shiva Opticals",
+      "address": "80, N Usman Rd, Postal Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0361795,
+      "lon": 80.23065199999999
+    },
+    {
+      "id": "chijkw20fn1mujorqqgse788rse",
+      "title": "Optical Expressions",
+      "address": "No.1 Udhayam Marvel's, P.T. Rajan Salai, Kalinga Colony, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.0394138,
+      "lon": 80.2050745
+    },
+    {
+      "id": "chijrzpivebmujorjhcb65ntzum",
+      "title": "The Optical Park",
+      "address": "New no 18 Old No, The Optical Park, 41, Model School Rd, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006",
+      "lat": 13.0581175,
+      "lon": 80.2518444
+    },
+    {
+      "id": "chijx4mueo1nujorkfg7fhsrtli",
+      "title": "Adyar Optical World",
+      "address": "Ganapathy Ram Theatre, No 20/ Opposite, LB Rd, Sector 3, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.003509699999999,
+      "lon": 80.25704189999999
+    },
+    {
+      "id": "chijmusv9-dnujorgtylls7wr2q",
+      "title": "Specsmakers at Virugambakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "49, Arcot Rd, near Thangamail Jewelery, Udhayam Colony, Lambert Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.046075799999999,
+      "lon": 80.1884044
+    },
+    {
+      "id": "chijyuct9bfnujor1kq7df7wecs",
+      "title": "Specs Wear & Contact Lens",
+      "address": "21, Chamiers Rd, Rathna Nagar, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.0297348,
+      "lon": 80.2444695
+    },
+    {
+      "id": "chijfa3xpdvnujor1cklaepildi",
+      "title": "Eye Zense - The Optic Store",
+      "address": "Ground Floor, Eye Zense - The Optic Store, 46, Besant Ave Rd, Urur, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.008196499999999,
+      "lon": 80.2641017
+    },
+    {
+      "id": "chijat3nejznujorfqiisznxnmi",
+      "title": "Titan Eye+ at Adyar, Chennai (Buy 1 Get 1 Free)",
+      "address": "NO.6, Titan Eye+ at Adyar, Chennai (Buy 1 Get 1 Free), 17, 3rd Cross St, near NALLI SILKS, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.002348699999999,
+      "lon": 80.25207669999999
+    },
+    {
+      "id": "chijeyoee0xnujorq1j4kyi11pm",
+      "title": "Lens & Frames ( Premium Eyewear Boutique )",
+      "address": "1, 6th lane, 1st Main Rd, Shastri Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.9993774,
+      "lon": 80.2594783
+    },
+    {
+      "id": "chijtqsolkzmujorpgzhokfd320",
+      "title": "Lawrence & Mayo | Eye Testing & Opticians | T. Nagar",
+      "address": "80, Gopathy Narayana Rd, near Raghavendra Temple, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.043147399999999,
+      "lon": 80.2357399
+    },
+    {
+      "id": "chij68km48pnujortnoeda_atti",
+      "title": "GKB | Hearing Aid & Eyewear Store",
+      "address": "No 41, GKB | Hearing Aid & Eyewear Store, New No 45, Old, CP Ramaswamy St, opposite Nilgiri, Sriram Colony, Abiramapuram, Chennai, Tamil Nadu 600018",
+      "lat": 13.031988799999999,
+      "lon": 80.2566409
+    },
+    {
+      "id": "chijpwrotvdmujorxizcucox6zg",
+      "title": "Kapleshwar Optics",
+      "address": "14, Coats Rd, Off North Usman Road, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0440343,
+      "lon": 80.23360009999999
+    },
+    {
+      "id": "chijkrn-sovdujorcpk0jhw7iim",
+      "title": "Titan Eye+ at Madipakkam, Chennai (Buy 1 Get 1 Free)",
+      "address": "45, Medavakkam Main Rd, opp. Sri Krishna Sweets, Ullagaram, Nanganallur, Chennai, Tamil Nadu 600091",
+      "lat": 12.9744963,
+      "lon": 80.19206559999999
+    },
+    {
+      "id": "chijeumxg2lnujorip5hdxrmnxe",
+      "title": "SRI RAMANA OPTICALS AND COMPUTERIZED EYE CLINIC",
+      "address": "No. 42/2, City Link Road, Maduvinkarai, Ramapuram, Old Narasingapuram, Race View Colony, Guindy, Chennai, Tamil Nadu 600032",
+      "lat": 12.9993828,
+      "lon": 80.2076633
+    },
+    {
+      "id": "chijhrg5o8fmujorv-mlqajxhre",
+      "title": "OPTICAL EXPRESSIONS VADAPALANI - The Best Place for Eye Testing and Spectacles | Contact Lenses | Sunglasses",
+      "address": "4,5, OPTICAL EXPRESSIONS VADAPALANI - The Best Place for Eye Testing and Spectacles | Contact Lenses | Sunglasses, Kumaran Colony Main Road, Kumaran Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0529715,
+      "lon": 80.20756209999999
+    },
+    {
+      "id": "chijt0m6ah1hujor_70ftjjwtdk",
+      "title": "Trinity Optics,Optometry Eye Clinic, Vision Therapy and Contact Lens Clinic",
+      "address": "68/2, Arcot Rd, Ganesh Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.037848199999999,
+      "lon": 80.16071649999999
+    },
+    {
+      "id": "chija_dmow5nujorzsjk0g3zua4",
+      "title": "OPTICS CENTRE",
+      "address": "31, Kamarajar Salai, Sector 13, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.0411869,
+      "lon": 80.20893079999999
+    },
+    {
+      "id": "chiji7gzkhlfujoryh5wmzctf30",
+      "title": "Esun Optics",
+      "address": "1, Velachery Main Rd, Adi Nagar, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9224777,
+      "lon": 80.1330768
+    },
+    {
+      "id": "chijc38c2nrhujor5jtamtnzk6m",
+      "title": "Lenskart Ramapuram Valluvar Salai Chennai",
+      "address": "5/38, Lenskart Ramapuram Valluvar Salai Chennai, South, Valluvar Salai, Andavar Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0302367,
+      "lon": 80.183616
+    },
+    {
+      "id": "chij423xis1mujorravcoddrol8",
+      "title": "Turakhia Opticians",
+      "address": "92, Dr Radha Krishnan Salai, Jagadambal Colony, Block Z, Thulukkanam Thottam, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.044794999999999,
+      "lon": 80.2677664
+    },
+    {
+      "id": "chijd5tnholdujorkces_xvopfo",
+      "title": "Lawrence & Mayo | Eye Testing & Opticians | Velachery",
+      "address": "No 2, Old No 22, New, No.2 2/84, 2nd Main Rd, Venkateswara Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9811575,
+      "lon": 80.2177792
+    },
+    {
+      "id": "chijw4rlyr9dujor6xfspzmtkzs",
+      "title": "Specsmakers at Neelankarai, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 106A, Specsmakers at Neelankarai, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), Police Station, East Coast Rd, near Neelankarai, Saraswathi Nagar, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.9488791,
+      "lon": 80.2543772
+    },
+    {
+      "id": "chijqb_kw_9mujor6wazsazokve",
+      "title": "Jayaram Opticals (since 1986)",
+      "address": "Shop No:2, Jayaram Opticals (since 1986), Sidhi centre, NO:26, S Usman Road, near Shree leathers, Kannammapet, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.033574,
+      "lon": 80.2303627
+    },
+    {
+      "id": "chij15jx8dfnujordtshv-cwpb0",
+      "title": "Abbas Opticals",
+      "address": "56, Abbas Opticals, 243, Peter's Rd, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0537146,
+      "lon": 80.26785579999999
+    },
+    {
+      "id": "chij5-wu401nujor1si8vg-jt2k",
+      "title": "New View Eyewear Boutique - Essilor Experts",
+      "address": "Shop No 1, Dhandayuthapani Nagar, First Street, Gandhi Mandapam Rd, below Dominos Restaurant, Kotturpuram, Chennai, Tamil Nadu 600085",
+      "lat": 13.0237682,
+      "lon": 80.2427003
+    },
+    {
+      "id": "chij6w77ms1mujorqhyjub7levc",
+      "title": "Specsmakers at Dr Radha Krishnan Salai, Mylapore, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 27/28, Specsmakers at Dr Radha Krishnan Salai, Mylapore, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), Dowalani Towers, Dr Radha Krishnan Salai, near Louis Philippe, Dwarka Colony, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0444065,
+      "lon": 80.2677865
+    },
+    {
+      "id": "chije4erljn1ujorbglswt3r6py",
+      "title": "Vision Plus Optics (Optical Shop near me)",
+      "address": "Ground Floor, Vision Plus Optics (Optical Shop near me), SHA Complex, 567, Mudichur Rd, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.925139,
+      "lon": 80.1009029
+    },
+    {
+      "id": "chijn5ypytfmujorpmcmjlo3mao",
+      "title": "Specsmakers at KK Nagar, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "Grace Enclave, No. 33&887, Munusamy Salai, near Naturals Salon, KK Nagar West, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.041542999999999,
+      "lon": 80.19342209999999
+    },
+    {
+      "id": "chij____s_jnujor0l2ehz4snfq",
+      "title": "Lawrence & Mayo | Eye Testing & Opticians | Adyar",
+      "address": "Plot No: 68 B, Door (29) 55, B. Venkatarathinam Nagar, Opp. Hero Honda, Showroom, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.000030599999999,
+      "lon": 80.25186099999999
+    },
+    {
+      "id": "chijcccsbdfeujorrqx6yjir-ng",
+      "title": "Specsmakers at Pallavaram, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 8/24, Specsmakers at Pallavaram, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), Indira Gandhi Rd, near Canara Bank, Pallavaram, Pallavaram (Contonment), Tamil Nadu 600043",
+      "lat": 12.9680257,
+      "lon": 80.1488773
+    },
+    {
+      "id": "chijx2m-slnnujormjjwwm7qwd8",
+      "title": "Titan Eye+ Flagship store at Alwarpet Chennai (Buy 1 Get 1 Free)",
+      "address": "37, CP Ramaswamy Rd, opp. SRI KRISHNA SWEETS, next to SPENCER GO, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0325831,
+      "lon": 80.256982
+    },
+    {
+      "id": "chijlxo_wvrdujoruyc9m20cyj4",
+      "title": "Specsmakers at Lakshmi Nagar, Velachery, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "32, 100 Feet Rd, near Dr Agarwals Eye Hospital, Lakshmi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9828691,
+      "lon": 80.2175298
+    },
+    {
+      "id": "chijcylmiennujornd8-twhgq6o",
+      "title": "Specsmakers at Mandaveli, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 32/2, Specsmakers at Mandaveli, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), Venkatakrishna Rd, near IndusInd Bank, O-Block, Jeth Nagar, Mandaveli, Chennai, Tamil Nadu 600028",
+      "lat": 13.026687599999999,
+      "lon": 80.2638429
+    },
+    {
+      "id": "chijxrxdwo31ujorfxwhz-btjdk",
+      "title": "S.N.OPTICALS",
+      "address": "268/7, Mudichur Rd, Kumaran Nagar, Bharathi Nagar, Old Perungalathur, Chennai, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.9207535,
+      "lon": 80.08877059999999
+    },
+    {
+      "id": "chijofob6efeujormztg4_qvrjw",
+      "title": "Specsmakers at Selaiyur, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 440, Velachery Main Rd, near PNB, Rajeshwari Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.922262499999999,
+      "lon": 80.14061439999999
+    },
+    {
+      "id": "chiji_b-8-lvbrershf0_nggtle",
+      "title": "Titan Eye+ at Adyar, Chennai (Buy 1 Get 1 Free)",
+      "address": "119, Sardar Patel Rd, opp. to Viveks, bhakthavachalam Nagar, Theosophical Society, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.006432,
+      "lon": 80.25619569999999
+    },
+    {
+      "id": "chijjx-x4jbnujorkmlzjnynltq",
+      "title": "OPTICAMART VADAPALANI | Opticals | Opticals in Vadapalani",
+      "address": "SHOP 1, OPTICAMART VADAPALANI | Opticals | Opticals in Vadapalani, 63/22, Duraiswamy Rd, Dr.Subbaraya Nagar, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.047217199999999,
+      "lon": 80.21451789999999
+    },
+    {
+      "id": "chijecflssbhujoruvmjekajvqg",
+      "title": "Specsmakers at Alwarthirunagar, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No.173/4, Specsmakers at Alwarthirunagar, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), RA Complex, Arcot Rd, Alwartirunagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.043583,
+      "lon": 80.1828539
+    },
+    {
+      "id": "chijl07gnllnujordzawpsnhsfo",
+      "title": "New Mount Opticals",
+      "address": "No.144, New Mount Opticals, 1, Karuneegar St, Paramesh Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.9928925,
+      "lon": 80.2012135
+    },
+    {
+      "id": "chijz0z13cfdujorkya0ijrm4di",
+      "title": "Specsmakers at Sadhasivam Nagar, Madipakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 68, near Icici Bank ATM, Sadasiva Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9655136,
+      "lon": 80.2055202
+    },
+    {
+      "id": "chij52vru-lfujorwhfhawwpjaa",
+      "title": "Abbas Opticals",
+      "address": "186, Grand Southern Trunk Rd, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9503839,
+      "lon": 80.13964849999999
+    },
+    {
+      "id": "chijz8cmr9t3ujorxhrko9r452o",
+      "title": "Specsmakers at Chromepet, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 4,5, Specsmakers at Chromepet, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), 6, Grand Southern Trunk Rd, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9506043,
+      "lon": 80.13982539999999
+    },
+    {
+      "id": "chijv8ptyhnfujorbulmsqxdflq",
+      "title": "Specsmakers at Hasthinapuram, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "35, Dr Rajendra Prasad Rd, near City Union Bank, Hasthinapuram, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.942243699999999,
+      "lon": 80.1421348
+    },
+    {
+      "id": "chijubri6uxnujorxhxipkenzuq",
+      "title": "Specsmakers at Gandhi Nagar, Adyar, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "D. No. 77, Specsmakers at Gandhi Nagar, Adyar, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), S. No. 1, near Viveks Showroom, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0067805,
+      "lon": 80.2563089
+    },
+    {
+      "id": "chij282miuvdujorrg5vpavy7ms",
+      "title": "Specsmakers at Okkiyampet, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 5/350, Specsmakers at Okkiyampet, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), Rajiv Gandhi Salai, near iPlanet, Sri Sowdeswari Nagar, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.928308999999999,
+      "lon": 80.23096199999999
+    },
+    {
+      "id": "chij0xnglnnnujorkswfxyv6uuc",
+      "title": "Specsmakers at Mylapore, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 17 (93, Specsmakers at Mylapore, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), S.M.S. Centre, Royapettah High Rd, Luz, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0392283,
+      "lon": 80.2677355
+    },
+    {
+      "id": "chijxdievvrmujor8l0odajypko",
+      "title": "Specsmakers at Venkatanarayana Road, T. Nagar, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "49, Venkatanarayana Rd, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0356971,
+      "lon": 80.2365353
+    },
+    {
+      "id": "chijryulrfpdujor1wyjlfik_5s",
+      "title": "Specsmakers at Thoraipakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "3, 200 Feet Radial Rd, near 70MM, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9502847,
+      "lon": 80.23547529999999
+    },
+    {
+      "id": "chijyyystujmujorjbofbvxzawo",
+      "title": "Specsmakers at West Mambalam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "118, Aryagowda Rd, opp. QnQ Pharmacy, Gokulam Colony, Ramakrishnapuram, West Mambalam, Chennai, Tamil Nadu 600004",
+      "lat": 13.0362844,
+      "lon": 80.2207166
+    },
+    {
+      "id": "chijl3vdhifdujorzwodpk5bimm",
+      "title": "Specsmakers at Nanganallur, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "No. 21/28, 4th Main Rd, below Dominos Pizza, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9834339,
+      "lon": 80.1883166
+    },
+    {
+      "id": "chiju9faj71dujoruwkk6x7m9zm",
+      "title": "Specsmakers at Palavakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "1/82A, East Coast Rd, near CSI Church, Palavakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.9644081,
+      "lon": 80.25670199999999
+    },
+    {
+      "id": "chijtvzit-bdujor4amxqbaljgu",
+      "title": "Specsmakers at Madipakkam, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "3/192, Medavakkam Main Rd, opp. KFC, Senthuran Colony, Madipakkam, Moovarasampettai, Tamil Nadu 600091",
+      "lat": 12.9674604,
+      "lon": 80.1893624
+    },
+    {
+      "id": "chij9wirk0rmujorm1_xllkmgcg",
+      "title": "GKB - Optical Store in T Nagar, Chennai",
+      "address": "Ground And First Floor, GKB - Optical Store in T Nagar, Chennai, No 76, Gopathy Narayana Rd, nearby State Bank of India, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0423979,
+      "lon": 80.2349002
+    },
+    {
+      "id": "chijgxdrxodfujorthgxmtanpnq",
+      "title": "Specsmakers at Pammal, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "73/A, Pammal Main Rd, opp. Nilgiris, Krishna Nagar, Sambanthanar Nagar, Pammal, Tambaram, Tamil Nadu 600075",
+      "lat": 12.972992399999999,
+      "lon": 80.137712
+    },
+    {
+      "id": "chijry3fwb1nujorr4cgjae9i9m",
+      "title": "Specsmakers at Ashok Nagar, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "GROUND FLOOR, Specsmakers at Ashok Nagar, Chennai (Buy 1 Get 1 FREE on all Eyeglasses), 43/2, 10th Ave, near IDFC BANK, Sarvamangala Colony, Manthope Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.0343442,
+      "lon": 80.2164088
+    },
+    {
+      "id": "chijsx3gpmxdujornsjpkz36onc",
+      "title": "Specsmakers at Perungudi, Chennai (Buy 1 Get 1 FREE on all Eyeglasses)",
+      "address": "3, Rajiv Gandhi Salai, near LGP Bus Stop, Judges Colony, Nehru Nagar, Perungudi, Chennai, Tamil Nadu 600041",
+      "lat": 12.9740978,
+      "lon": 80.25023329999999
+    }
+  ],
+  "updated_at_utc": "2026-09-27T14:13:38.286063+00:00"
+}

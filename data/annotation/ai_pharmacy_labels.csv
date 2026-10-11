@@ -1,0 +1,201 @@
+vendor_id,expected_is_pharmacy,rationale
+V1707,0,Tea stall
+V1951,1,Country drug store; sells traditional medicines
+V0414,0,Supermarket
+V3748,1,Pharmacy by name
+V0427,0,Provision shop (maligai)
+V3982,1,Medical shop
+V0956,0,Idli eatery
+V0569,0,General store
+V2528,1,Pharmacy by name
+V3482,1,Medicals shop
+V2955,0,Cake shop
+V3228,0,Furniture store
+V2840,0,Clothing store
+V3617,1,Medicals shop
+V0021,1,MedPlus pharmacy chain
+V3494,0,Food outlet
+V1364,1,Medical shop
+V4455,0,Meat shop
+V3404,0,Fabric shop
+V0046,0,Xerox shop
+V2050,0,Sweets shop
+V3561,1,Medicals shop
+V3115,0,Tea stall
+V4351,0,Xerox shop
+V1660,1,Medical shop
+V1179,1,Medicals shop
+V3649,0,Glassware shop
+V4057,1,Apollo Pharmacy
+V3062,1,Homoeopathy pharmacy
+V0922,0,Computer shop
+V3271,0,Xerox shop
+V3923,0,Plant nursery
+V1086,0,Home furnishings
+V0545,0,Ration shop
+V3537,1,Drug store
+V4105,1,Pharma shop in a commercial complex
+V0625,0,Pet shop
+V3629,0,Fruit and vegetable shop
+V0228,0,Auto parts shop
+V3236,0,Ration shop
+V4441,1,Medical shop
+V0693,1,Medicals shop
+V2841,0,General store
+V2168,0,Fashion store
+V3140,1,Medicals shop
+V3031,1,Pharmacy by name
+V1896,0,Mini grocery store
+V0732,0,Mobile phone shop
+V4578,0,Greens grocery
+V1715,0,Fruit and vegetable shop
+V2243,1,Medicals shop
+V2455,0,Ration shop
+V4222,0,"Traders, no medical cue"
+V1765,1,Pharmacy by name
+V0365,1,Pharma shop by name
+V0576,0,General store
+V0865,0,Vegetable and fruit shop (Tamil name)
+V4086,1,Pharmacy by name
+V4014,1,Medical shop
+V3240,0,Mobile shop
+V0688,0,Siddha practice; unclear it sells medicines
+V3815,0,"Medical college, not a shop"
+V0199,1,Apollo Pharmacy
+V4209,0,Optical store
+V2454,1,Medical shop
+V1857,1,Pharmacy selling diabetes and pediatric medicines
+V3501,0,Ration shop
+V3399,0,Name suggests a residence; no medical cue
+V2371,0,Vegetable exporter
+V1258,0,Ration shop
+V1123,0,Mobile shop
+V3253,0,Sweet shop
+V0844,1,Medicals and general store
+V1953,1,Medicals and general store
+V1375,1,Medicals shop
+V0885,0,Ration shop
+V0675,0,Textile shop
+V2687,1,Pharmacy by name
+V0864,1,Pharmacy by name
+V3392,0,Vegetable market
+V1201,0,Supermarket
+V0554,0,Juice shop
+V2177,1,Medical shop
+V4430,0,Beef stall
+V2217,0,Cosmetics store
+V2032,1,Medicals shop
+V3518,1,Medical store
+V4240,0,Paint shop
+V0377,0,"Hospital, not a retail pharmacy"
+V1859,0,Battery shop
+V3570,1,Medicals shop
+V1051,0,Name only; no evidence of a pharmacy
+V4597,1,Medicals shop
+V3249,1,Medicals shop
+V0892,0,Provision shop
+V1016,1,Pharmacy by name
+V3250,0,Electricals dealer
+V3225,0,Coffee shop
+V3158,0,"Veterinary clinic and pet store, not a pharmacy"
+V3301,1,Pharmacy by name
+V0426,0,Women's clothing store
+V1088,1,Hospital pharmacy outlet
+V1809,0,Clothing store
+V0259,1,Medicals shop
+V4395,1,Pharmacy by name
+V3169,1,Pharmacy by name
+V3192,0,Computer shop
+V2838,0,Spares business
+V2813,0,Industrial firm
+V0253,0,"Enterprises, no medical cue"
+V1420,0,Clothing brand store
+V2976,0,Home decor and gifts
+V1540,1,Medicals shop
+V2770,0,"Enterprises, no medical cue"
+V3858,0,Sweets and bakery
+V1178,0,Provision shop (maligai)
+V3245,0,Naturals beauty salon
+V2091,0,Fish market
+V1552,0,Xerox shop
+V3743,0,Chemistry tuition academy
+V2833,1,Pharmacy by name
+V1345,0,Auto parts shop
+V3903,1,Medicals shop
+V2476,0,Apparel store
+V1431,1,Medical shop
+V2015,1,Medicine distributor; sells medicines wholesale
+V1681,0,Fruit and vegetable shop
+V0506,0,Phone service centre
+V1513,1,Medical mart
+V3156,0,Textile and supermarket
+V4124,0,Supermarket
+V0211,0,"Enterprises, no medical cue"
+V3937,1,Medicals shop
+V2674,1,Pharmacy by name
+V1803,0,Tea stall
+V2488,1,Pharmacy by name
+V4408,1,Medicals shop
+V2832,1,Medicals shop
+V2082,0,Market
+V3661,1,Medicals shop
+V4187,0,"Hospital, not a retail pharmacy"
+V0609,0,Mobile shop
+V4154,0,Food cart manufacturer
+V1150,0,Electronics and appliances store
+V4357,1,Makkal Marunthagam generic medicine store
+V3876,1,Medicals shop
+V0449,0,Fruit and vegetable shop
+V1539,0,Provision shop (maligai)
+V2971,0,Aquarium and pet shop
+V2580,1,Pharmacy by name
+V3569,1,Apollo Pharmacy
+V3141,1,Medicals shop
+V0444,0,"Traders, no medical cue"
+V3468,0,Electronics shop
+V0345,0,"General stores, no medical cue"
+V3393,1,Pharmacy by name
+V2787,1,Medicals shop
+V0879,0,Clothing store
+V2061,0,Chicken and mutton shop
+V4506,1,Apollo Pharmacy
+V4158,1,Pharmacy and general store
+V2576,1,Hetero pharmacy chain
+V0020,0,Fair price ration shop
+V0019,1,Medical shop
+V1887,0,Milk agency
+V4483,1,Apollo Pharmacy
+V4394,0,Aquarium shop
+V0401,0,Tea and tiffin centre
+V1764,0,Cake shop
+V3413,0,Electricals and hardware
+V1566,1,Pharmacy by name
+V2851,1,Pharmacy by name
+V4020,1,Apollo Pharmacy
+V2854,1,Medicals shop
+V2071,1,Apollo Pharmacy
+V3823,0,"Pharmacy chain head office, not a retail outlet"
+V4287,1,Medicals shop
+V4503,1,Apollo Pharmacy
+V1438,1,Makkal Marunthagam generic medicine store
+V3969,0,Rabbit farm
+V2906,1,Medical shop
+V4498,0,Sweet shop
+V1726,1,Pharmacy by name
+V3744,0,Bicycle shop
+V3613,0,Electronics and appliances store
+V0521,0,Buttermilk shop
+V1866,0,Flower shop
+V1899,0,Surgical supplies shop; medicines not indicated
+V0452,0,Clothing store
+V4322,0,Organic farm produce shop
+V1278,0,Optical shop
+V1995,0,Florist
+V3205,1,Pharmacy with home delivery
+V2643,0,Two-wheeler shop
+V0515,1,Jan Aushadhi generic medicine store
+V0754,1,MedPlus pharmacy franchisee
+V3281,1,Medicals shop
+V3145,1,MedPlus pharmacy
+V3232,1,Country drug shop; sells traditional medicines
+V1885,0,Person's name only; no medical cue

@@ -1,0 +1,2844 @@
+{
+  "category": "kirana_provisions",
+  "status": "complete",
+  "count": 405,
+  "outside": 100,
+  "points": [
+    {
+      "id": "chijnelgdtz8ujordo0vpkbszgg",
+      "title": "NEW JAYA STORES",
+      "address": "NO31/1, T.K.M Rd, Alapakkam, Chengalpattu, Alappakkam, Tamil Nadu 603002",
+      "lat": 12.6795867,
+      "lon": 79.993859
+    },
+    {
+      "id": "chijt8fdocp9ujornva8xgdojvo",
+      "title": "India Super Market",
+      "address": "MXJG+CXV India Super Market, Unnamed Road, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6811153,
+      "lon": 79.9774157
+    },
+    {
+      "id": "chijmxyoxwx8ujorgbu_kudnwb0",
+      "title": "RV Super Market",
+      "address": "No,21 vedappar Street, chinna natham Near Chengalpattu old bus stand, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6943875,
+      "lon": 79.9746201
+    },
+    {
+      "id": "chijetn4wqd9ujorom4-uehz91y",
+      "title": "லஷ்மி மளிகை கடை Basic Grocery store",
+      "address": "MXXF+63Q லஷ்மி மளிகை கடை Basic Grocery store, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6980953,
+      "lon": 79.9727198
+    },
+    {
+      "id": "chij63zzigv_ujorgbfx6e1wqrw",
+      "title": "Vikash Stores",
+      "address": "Shop no3, Vikash Stores, Kumarasamy complex, near AMSAM MAHAL, Thirukazhukundram road, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6659916,
+      "lon": 80.0144108
+    },
+    {
+      "id": "chij57rqvad9ujorzs7h2vetuua",
+      "title": "Divya maligai kadai",
+      "address": "M253+C99 Divya maligai kadai, Nenmeli, Chengalpattu, Meleripakkam, Tamil Nadu 603003",
+      "lat": 12.6585351,
+      "lon": 80.0034951
+    },
+    {
+      "id": "chijfctkisv7ujorr8v1yp5x6qe",
+      "title": "SHRI MEENAKSHI MALIGAI WHOLESALE",
+      "address": "No 104, Kanchipuram High Road, Thimmavaram, Palur, Athur, Tamil Nadu 603101",
+      "lat": 12.7138318,
+      "lon": 79.959177
+    },
+    {
+      "id": "chijpyst0kh8ujorgkeqxof7qy0",
+      "title": "Vinayaga Wholesale market",
+      "address": "Thulasinga nagar, 5th street , Vedhanarayanapuram, Po, Venbakkam, Chengalpattu, Tamil Nadu 603111",
+      "lat": 12.6530913,
+      "lon": 79.9662165
+    },
+    {
+      "id": "chijg6utdln9ujorbuei50v7yla",
+      "title": "Nilgiris",
+      "address": "No 89-90, PV Kalathur - Thirukazhukundram Rd, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6818621,
+      "lon": 79.98959359999999
+    },
+    {
+      "id": "chij40md-kp8ujorlje2h667lu0",
+      "title": "Sumathi Stores",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6791304,
+      "lon": 79.9801021
+    },
+    {
+      "id": "chij3s8lqdn9ujorvwz9r5juclq",
+      "title": "Shanmugam Store",
+      "address": "43, Pillayar Kovil St, Anumanthaputheri, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.681307799999999,
+      "lon": 79.97331679999999
+    },
+    {
+      "id": "chijeetcqm78ujoryekojb4rius",
+      "title": "Anbu Super Market",
+      "address": "No.29, Pillayar Kulam Street, New Bus Stand, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.690469799999999,
+      "lon": 79.9807233
+    },
+    {
+      "id": "chijl5dymvb9ujor473owrxgpv4",
+      "title": "S.P Maligai",
+      "address": "GST Rd, Vembakkam, Chengalpattu, Tamil Nadu 603111",
+      "lat": 12.664216,
+      "lon": 79.9683603
+    },
+    {
+      "id": "chijrxhitw78ujor24gq5zamt7e",
+      "title": "New India Supermarket",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6937398,
+      "lon": 79.9783463
+    },
+    {
+      "id": "chijhevug9p9ujorjlkbt_q0slg",
+      "title": "Arasan SuperMarket",
+      "address": "NGGO Nagar, Kamarajar Nagar, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6685771,
+      "lon": 79.9852263
+    },
+    {
+      "id": "chij4zj88un8ujor2_i-m5k--kq",
+      "title": "M.S.Raja Super Market",
+      "address": "NGGO Nagar, Kamarajar Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6683984,
+      "lon": 79.9853852
+    },
+    {
+      "id": "chijt4vzhwx9ujor3gz6ulo0bk0",
+      "title": "Arasan Maligai",
+      "address": "No 13, Arasan Maligai, Jigini plaza, New bus stand, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690521799999999,
+      "lon": 79.9806898
+    },
+    {
+      "id": "chijm1sdbs_9ujor2biuabu1xz8",
+      "title": "Ayyapan Maligai",
+      "address": "Ayyapan Maligai Nagar Road, Sakthi Nagar, Thenur, Kanchipuram, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6818055,
+      "lon": 79.98903399999999
+    },
+    {
+      "id": "chij0ampl7b_ujorhp3fo7nqg-u",
+      "title": "VIRUTCHAAM MAART supermarket",
+      "address": "B9,TKM ROAD , SAI KIRUBA, Nenmeli, Nemmeli, Tamil Nadu 603405",
+      "lat": 12.665671699999999,
+      "lon": 80.01689879999999
+    },
+    {
+      "id": "chijl-cwnp39ujortcekyeax5ei",
+      "title": "Saravanan Stores",
+      "address": "PX28+Q98 Saravanan Stores, East Coast Rd, Mahalakshmi Nagar, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.701919799999999,
+      "lon": 79.9659444
+    },
+    {
+      "id": "chij0qaspqr9ujoraaaacgeojyw",
+      "title": "VISHWA STORES",
+      "address": "GST Rd, near vidhya Sagar women's college, Vedhanarayanapuram, Chengalpattu, Tamil Nadu 603111",
+      "lat": 12.659053799999999,
+      "lon": 79.9625928
+    },
+    {
+      "id": "chijoccyndr9ujorcrnnm1jadcw",
+      "title": "Lawrence supermarket",
+      "address": "MXRH+VQX Lawrence supermarket, No:81rajaji street, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692246299999999,
+      "lon": 79.9794938
+    },
+    {
+      "id": "chij1wzizwt8ujorpphl23ebod0",
+      "title": "Vairam Store Maligai Kadai",
+      "address": "No.132/A, காத்தான் தெரு, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.695272399999999,
+      "lon": 79.9716765
+    },
+    {
+      "id": "chijb-u4cob9ujor3lbsjga_z9o",
+      "title": "Anbu supermarket.",
+      "address": "No 380 B/3, TKM ROAD, VALLAM VILLAGE MELAMAIYYUR, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6814257,
+      "lon": 79.9905441
+    },
+    {
+      "id": "chijjceij6p9ujorzkol0r2953o",
+      "title": "Jeba Maligai Store",
+      "address": "N074, Main Road, KK Nagar, Chengalpattu, Vallam R.F., Tamil Nadu 603111",
+      "lat": 12.6645351,
+      "lon": 79.9858991
+    },
+    {
+      "id": "chijzqlex0h8ujorbdisy8xd0i4",
+      "title": "Maria Stores",
+      "address": "603001, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.680010699999999,
+      "lon": 79.9808764
+    },
+    {
+      "id": "chijzf4jkyx9ujorqu3lrzkfdck",
+      "title": "Arasan Store",
+      "address": "Dhimarajakulam Street, 111, GST Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.687740199999999,
+      "lon": 79.9831231
+    },
+    {
+      "id": "chijb_nqmzr_ujorl0uubl8690q",
+      "title": "Greens supermarket",
+      "address": "No 6, Tkm road, Santhi Nagar, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6661486,
+      "lon": 80.01351269999999
+    },
+    {
+      "id": "chijrqohoe39ujorwuklyyxy-ry",
+      "title": "Kumar Maligai Store",
+      "address": "No54 E, malai Street, Bignatham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6949544,
+      "lon": 79.96993479999999
+    },
+    {
+      "id": "chijt-0nl2r8ujorkbzanxkgusq",
+      "title": "Vinayaga Super Market",
+      "address": "3, Vinayaga Super Market, 13, Dr Varadharajan St, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6868207,
+      "lon": 79.9813005
+    },
+    {
+      "id": "chijfyuqsoj9ujorvqxzwrjippw",
+      "title": "More Supermarket - Chengalpattu B",
+      "address": "82/25, Pillaiyar Kovil St, Chinnamelamaiyur, Alapakkam, Chengalpattu, Tamil Nadu 603301",
+      "lat": 12.68258,
+      "lon": 79.98873999999999
+    },
+    {
+      "id": "chijqz2gqw_8ujorkk_guglq-p8",
+      "title": "RAJAN MALIGAI STORES",
+      "address": "216, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692749099999999,
+      "lon": 79.9777775
+    },
+    {
+      "id": "chijjtumtyb9ujordyh1znvj59e",
+      "title": "Elumalaiyan Stores",
+      "address": "MXVG+MCW Elumalaiyan Stores, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6942369,
+      "lon": 79.9760872
+    },
+    {
+      "id": "chijf-ujjad_ujorow4foqvvje4",
+      "title": "Namma Annachi Supermarket",
+      "address": "SH58, Santhi Nagar, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6658194,
+      "lon": 80.01423009999999
+    },
+    {
+      "id": "chija3uxkyp9ujorjmjvap6fldc",
+      "title": "Thanalakshmi Stores",
+      "address": "1, Chinnamman Koil St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6944366,
+      "lon": 79.9777513
+    },
+    {
+      "id": "chijo2z5owd9ujorkptqghfolwe",
+      "title": "Kovai Pazhamudir Nilayam - Vallam, Chennai",
+      "address": "Plot No 74 &75, TKM Rd, Nandha Gopal Nagar, Alapakkam, Chengalpattu, Vallam, Tamil Nadu 603003",
+      "lat": 12.6817291,
+      "lon": 79.9900463
+    },
+    {
+      "id": "chijfy22mit9ujorqtdfy0noae0",
+      "title": "Karupasamy Stores",
+      "address": "32, Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6943447,
+      "lon": 79.974879
+    },
+    {
+      "id": "chijexw-k4v9ujor5sqituiuf7s",
+      "title": "ANBAR MALIGAI STORE",
+      "address": "No. 445/1,1 St Street, Post, Bethal Nagar, Alapakkam, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6788593,
+      "lon": 79.99805529999999
+    },
+    {
+      "id": "chij0ctqgwh9ujorndubhrw9u10",
+      "title": "JSPROVISION STORES",
+      "address": "66, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694506299999999,
+      "lon": 79.9764775
+    },
+    {
+      "id": "chijcsov7g_8ujoraaaasdl8-ny",
+      "title": "Navarag Traders",
+      "address": "Market Street, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6945868,
+      "lon": 79.9760259
+    },
+    {
+      "id": "chijz-7dhy_7ujori9jj49v3bk8",
+      "title": "SRI FAMILY MART",
+      "address": "Kanchipuram - Chengalpattu Rd, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.7071445,
+      "lon": 79.96241719999999
+    },
+    {
+      "id": "chijnzzayad9ujord7ydjcpgywk",
+      "title": "Indra stores Chengalpattu",
+      "address": "74, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.691808499999999,
+      "lon": 79.9800114
+    },
+    {
+      "id": "chijbfcjnzv8ujorox18qbowthk",
+      "title": "Hari Surya Store",
+      "address": "174 /1, Tkm Road, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6780239,
+      "lon": 79.99697669999999
+    },
+    {
+      "id": "chijleoaeqd9ujormmjvccp93wm",
+      "title": "A V N Maligai Kadai",
+      "address": "MXGR+86P A V N Maligai Kadai, Thenur, Chengalpattu, Ammanambakkam, Tamil Nadu 603003",
+      "lat": 12.6758449,
+      "lon": 79.9905759
+    },
+    {
+      "id": "chijka7keij_ujorqzyojzqmzri",
+      "title": "TSJ SUPER MARKET",
+      "address": "21Thirukazhukunram Road, Nenmeli, Nemmeli, Tamil Nadu 603405",
+      "lat": 12.665508299999999,
+      "lon": 80.0202836
+    },
+    {
+      "id": "chij2_cobqj9ujort6en2zfdii0",
+      "title": "Magilchi Stores",
+      "address": "1, VOC St, near Kulunthi amman temple, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692699999999999,
+      "lon": 79.97825639999999
+    },
+    {
+      "id": "chijt1-6rgr8ujor1skwiptm21w",
+      "title": "Greenways Organic",
+      "address": "MXPM+H56 Greenways Organic, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.686402999999999,
+      "lon": 79.98288199999999
+    },
+    {
+      "id": "chijlf80trf_ujormjyf15_okmm",
+      "title": "Sathya Store",
+      "address": "Repute, Sathya Store, Prosperity Avenue, Metro Sameera Garden, main Road, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6586007,
+      "lon": 80.0131796
+    },
+    {
+      "id": "chijh4tddmh9ujor9xhkheyeili",
+      "title": "Amman Maligai",
+      "address": "22, Puthagaram, Mayiladuthurai, Tamil Nadu 603003",
+      "lat": 12.681795,
+      "lon": 79.9890726
+    },
+    {
+      "id": "chiju120wzz9ujorbrjdmkwz7a4",
+      "title": "Selvi",
+      "address": "Selvi Kadai Nithinatham, Kanchipuram, Tamil Nadu 603003",
+      "lat": 12.681794499999999,
+      "lon": 79.9896736
+    },
+    {
+      "id": "chijvtbohhx9ujor--obwd_vzxm",
+      "title": "Balamurugan Store",
+      "address": "No.7, Balamurugan Store, Balamurugan store, Karupuchetty Kulam Street, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6930711,
+      "lon": 79.9735852
+    },
+    {
+      "id": "chijawi-bz_8ujorptomatp9dsk",
+      "title": "Greenland super stores",
+      "address": "TKM Rd, Sakthi Nagar, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6818378,
+      "lon": 79.9886952
+    },
+    {
+      "id": "chij3zpffdn9ujorvv02kw-hwxm",
+      "title": "Sri sakthi provision",
+      "address": "#52/A, Kanchipuram - Chengalpattu Rd, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6972145,
+      "lon": 79.9721747
+    },
+    {
+      "id": "chijp1bbkjz8ujorlszedsh3doa",
+      "title": "N.M Maligai Store",
+      "address": "MXJR+RVG N.M Maligai Store, Alapakkam, Vallam, Tamil Nadu 603003",
+      "lat": 12.6820536,
+      "lon": 79.99220009999999
+    },
+    {
+      "id": "chijfegirj_9ujorpra6rhib6mi",
+      "title": "Fresh Hub",
+      "address": "40/15, Dr Varadharajan St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.686788799999999,
+      "lon": 79.9805887
+    },
+    {
+      "id": "chij4a31boh5ujorpizwbbipgzm",
+      "title": "Sathyanarayanan Provision Store",
+      "address": "No 1 Raghava Nagar, Sengundram Road, Singaperumal Koil, Chengalpattu, Tamil Nadu 603204",
+      "lat": 12.757612499999999,
+      "lon": 80.01348209999999
+    },
+    {
+      "id": "chijv14p_cn7ujorkwl68yq4g48",
+      "title": "Hygreva Supermarket",
+      "address": "1,Rajendra Nagar,jubilee road,Chettipuniyam, near Mahendra city, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7464655,
+      "lon": 79.986519
+    },
+    {
+      "id": "chijo-gwnnl9ujorx_rdiggwvgq",
+      "title": "Ravi Shop",
+      "address": "39, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6930227,
+      "lon": 79.9746929
+    },
+    {
+      "id": "chijjs4zhif9ujorjha0uqvxmi8",
+      "title": "மளிகை கடை",
+      "address": "MWGJ+HCQ மளிகை கடை, Sampathinallur, Tamil Nadu 603111",
+      "lat": 12.676461,
+      "lon": 79.9311441
+    },
+    {
+      "id": "chij1z6djgf9ujorrh4dedaoo0q",
+      "title": "Queen Enterprises - Chengalpattu",
+      "address": "Old Ganapathy theatre complex, 16/40, Ground floor, Ganapathy Appartments, Vedappar St, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6940061,
+      "lon": 79.9733122
+    },
+    {
+      "id": "chijl-gzjxp9ujor6phextrvgaa",
+      "title": "DELLI VEGETABLES SHOP",
+      "address": "No 35 Cinnamman Kovil Street, Neer, Chinnamman Koil St, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6956788,
+      "lon": 79.9770484
+    },
+    {
+      "id": "chijs22f3kj9ujorc9tgsd_haus",
+      "title": "Anandan Maligai Store",
+      "address": "137a, JCK Nagar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6999093,
+      "lon": 79.97286919999999
+    },
+    {
+      "id": "chij-9vwvdv7ujor4hergibbb-o",
+      "title": "Home Needs Super Market",
+      "address": "Mahindra World, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.73789,
+      "lon": 80.0011081
+    },
+    {
+      "id": "chijv8j7nid9ujorkz0dlt_7m8a",
+      "title": "PERIYANDAVAR STORE",
+      "address": "14, Bharathiyar St, Kanchipuram, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6854584,
+      "lon": 79.98133849999999
+    },
+    {
+      "id": "chijeapkq_d9ujorwm8y4aaza0o",
+      "title": "National super market",
+      "address": "39, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.693830499999999,
+      "lon": 79.975599
+    },
+    {
+      "id": "chijc58htwv9ujordzkd3fqtuwy",
+      "title": "Sri Vinayaga Store",
+      "address": "Pillayar Kovil Street, Thenur, Melamaiyur, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.677001299999999,
+      "lon": 79.9887139
+    },
+    {
+      "id": "chij6ylwepb9ujorr_y_lkwai3y",
+      "title": "India stores",
+      "address": "64, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6938008,
+      "lon": 79.9777632
+    },
+    {
+      "id": "chijru6irdh9ujorwmw8uzrfn64",
+      "title": "NATIONAL STORES",
+      "address": "12, Gandhi Salai, Market, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6946362,
+      "lon": 79.9761336
+    },
+    {
+      "id": "chijjvmj5bx9ujorn_nyoqni3fm",
+      "title": "MR MALAR MALIGAI STORE",
+      "address": "New Bus Stand, J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693132,
+      "lon": 79.9777202
+    },
+    {
+      "id": "chiji41mh3_9ujorqd1enalv1g4",
+      "title": "Kasthuri stores",
+      "address": "95, Chinnamman Koil St, near Chinnamman koil, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6944111,
+      "lon": 79.97753159999999
+    },
+    {
+      "id": "chijy_bltdr9ujorja3xeb3gsmy",
+      "title": "Sri Murugan Provision",
+      "address": "99, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692881199999999,
+      "lon": 79.9776895
+    },
+    {
+      "id": "chijreslknv9ujor_1mhq2zjfge",
+      "title": "Shanmugam Store",
+      "address": "MXXC+3M9 Shanmugam Store, Kanchipuram - Chengalpattu Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.697656,
+      "lon": 79.9717478
+    },
+    {
+      "id": "chij9aofy4d9ujorizfeas0d0e0",
+      "title": "PADMATHVATHI SUPER MARKET",
+      "address": "Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6784547,
+      "lon": 79.9696276
+    },
+    {
+      "id": "chij8vtkbz_8ujor83veq0abf98",
+      "title": "MedPlus Sunnambukara Street Chengalpattu",
+      "address": "Door No. 37, MedPlus Sunnambukara Street Chengalpattu, Ground Floor, Shop No. 2&3, Sunnambukara Street, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6942729,
+      "lon": 79.9749228
+    },
+    {
+      "id": "chijmw4t-8n9ujort00bgxfssk8",
+      "title": "Jeya Store",
+      "address": "J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694305199999999,
+      "lon": 79.9764338
+    },
+    {
+      "id": "chijwrm5r5l9ujorwipbaewdaiw",
+      "title": "SUPREME STORE",
+      "address": "34/3/14B, Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6943421,
+      "lon": 79.9745947
+    },
+    {
+      "id": "chijpyst0kh8ujorzhjdrk38otq",
+      "title": "New Ananda store",
+      "address": "24 A, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6930316,
+      "lon": 79.9788804
+    },
+    {
+      "id": "chijqyynqr79ujoriirawuguyks",
+      "title": "Siva Ganapathy store",
+      "address": "25, Gundur Church Rd, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.683391199999999,
+      "lon": 79.9811285
+    },
+    {
+      "id": "chijj8suh5_7ujornbbil49vgy4",
+      "title": "Akka provision store",
+      "address": "VOC St, Mahindra World City, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7400129,
+      "lon": 80.001307
+    },
+    {
+      "id": "chijfrbq0y76ujorpkpedy8gryk",
+      "title": "JK SUPERMARKET",
+      "address": "Gandhi street, Railway Station Rd, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.761537599999999,
+      "lon": 80.0027818
+    },
+    {
+      "id": "chijy8lccep9ujor9bufy6dkpvy",
+      "title": "SK STORE",
+      "address": "152/335, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.689020099999999,
+      "lon": 79.97631229999999
+    },
+    {
+      "id": "chijazfvv0h8ujoraaaamj8g-jm",
+      "title": "LAKSHMI STORES",
+      "address": "51/A, Gundur Church Rd, near by Lic Office, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.683143999999999,
+      "lon": 79.9824512
+    },
+    {
+      "id": "chijd8q75mh9ujor6gumst10i5c",
+      "title": "Surya Store",
+      "address": "Thirumani Rd, Indira Nagar, KK Nagar, Thirumani Rf, Tamil Nadu 603111",
+      "lat": 12.6613461,
+      "lon": 79.9848222
+    },
+    {
+      "id": "chijws36nff9ujorvv0ziuax0b4",
+      "title": "Rathna Stores (Chengalpattu)",
+      "address": "T.K.M Rd, Sakthi Nagar, Thenur, Melamaiyur, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6819054,
+      "lon": 79.9885355
+    },
+    {
+      "id": "chijiwfgqrh9ujoryhnjxqjdpnk",
+      "title": "Sri srinivasa supermarket",
+      "address": "MXQJ+V3C Sri srinivasa supermarket, Devarajanar St, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6896776,
+      "lon": 79.98015529999999
+    },
+    {
+      "id": "chij7_8p7g78ujoraaaa0nejfuq",
+      "title": "M/s. SHREE OM PROVISION STORE",
+      "address": "11, VOC St, opp. Eswaran Koil Street, Kanchipuram, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.691978899999999,
+      "lon": 79.9791102
+    },
+    {
+      "id": "chijc_dhafd8ujor7seirnu05uu",
+      "title": "More Supermarket",
+      "address": "No.1, Adams Plaza, T.K.M.Road Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.682089,
+      "lon": 79.9890729
+    },
+    {
+      "id": "chijmtjsonv7ujordrrmx7burfs",
+      "title": "Nilgiris Canopy",
+      "address": "Unit no.1-A, block-C, the canopy, ground floor, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7307179,
+      "lon": 80.00041039999999
+    },
+    {
+      "id": "chijfzba8278ujorhbrbufvnqo4",
+      "title": "Queen's Super Shopping",
+      "address": "87, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6925513,
+      "lon": 79.9791697
+    },
+    {
+      "id": "chijqqoomel9ujorh_o41djyglg",
+      "title": "ANDAVAR STORE 2",
+      "address": "Municipal Colony, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.682832,
+      "lon": 79.9749906
+    },
+    {
+      "id": "chijl5ejagd9ujorxgsdkrhlnim",
+      "title": "Seshna General Stores",
+      "address": "MXWC+X5R Seshna General Stores, Osur Amman Koil St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6974778,
+      "lon": 79.97039629999999
+    },
+    {
+      "id": "chijr7249kr9ujor7ztbwzvepqy",
+      "title": "SRI SRINUVASAN STORE",
+      "address": "29, Bazaar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6941668,
+      "lon": 79.9771433
+    },
+    {
+      "id": "chijizifbmn8ujorwqjwwr_hdqe",
+      "title": "AROGYAM ORGANIC SUPER STORES",
+      "address": "Devarajanar Street, Vedhachala Nagar Near St. Joseph Matriculation Hr. Sec School Chengalpet - 603 002 CHENALPATTU, Tamil Nadu 603001",
+      "lat": 12.687632899999999,
+      "lon": 79.9786853
+    },
+    {
+      "id": "chij9fb7nmv9ujorpel7gf16cks",
+      "title": "Sathya Agencies, Chengalpattu - Electronics and Home Appliances Store",
+      "address": "6 A, GST Rd, near Anjaneyar Koil Petrol Bunk, Vedachalam Nagar, Dimmarajakulam, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.689262,
+      "lon": 79.982316
+    },
+    {
+      "id": "chijl_a2xor7ujory7helq7sby4",
+      "title": "Kanniga store",
+      "address": "No.390, Chettipunniyam Rd, Anbu Nagar, Tamil Nadu 603004",
+      "lat": 12.7397707,
+      "lon": 79.9842413
+    },
+    {
+      "id": "chij9-87ff77ujorg-bmuhepy0y",
+      "title": "Sri Hayagriva Stores",
+      "address": "Shop 2, Pallava Garden Pulipakkam, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7221438,
+      "lon": 79.9756627
+    },
+    {
+      "id": "chij-bwdbrn9ujoreejthisd5g4",
+      "title": "MANIKANDAN STORE",
+      "address": "Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6948445,
+      "lon": 79.9686261
+    },
+    {
+      "id": "chijefikrah9ujorin4ayssryf8",
+      "title": "DKG GREEN GROCERY",
+      "address": "23, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6959036,
+      "lon": 79.9767318
+    },
+    {
+      "id": "chiju_-a4lj9ujorcnlfru0-rja",
+      "title": "Barathi Stores",
+      "address": "3, Alagesan Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.679755499999999,
+      "lon": 79.9802907
+    },
+    {
+      "id": "chij34lnlg78ujorq8r9oyhzhae",
+      "title": "Super Luck Store Supermarket",
+      "address": "No: 76/1, Rajaji St, near New Bus Stand, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6919762,
+      "lon": 79.9794058
+    },
+    {
+      "id": "chijk_nso2_8ujoryxqo2taz6vo",
+      "title": "Kumaran Store, Anna Salai, Chengalpattu",
+      "address": "MXRG+9QW Kumaran Store, Anna Salai, Chengalpattu, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.690994,
+      "lon": 79.976961
+    },
+    {
+      "id": "chijizc7jtb9ujorufzj-aohqis",
+      "title": "Deepam Store",
+      "address": "TKM Rd, Alapakkam, Chennai, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6842656,
+      "lon": 79.9876912
+    },
+    {
+      "id": "chijr3xbnan9ujoraf3pdmzlx9y",
+      "title": "KANNIKA STORES",
+      "address": "61, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693859199999999,
+      "lon": 79.97791169999999
+    },
+    {
+      "id": "chijhafiuod5ujorzgfadg6iiro",
+      "title": "Sri Bhavani Privision Store",
+      "address": "Sengundram, road, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.758602,
+      "lon": 80.00960099999999
+    },
+    {
+      "id": "chija042srb9ujoru-xrdyttqok",
+      "title": "Kannika Store",
+      "address": "No 4/7, Anumanthaputheri, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6796358,
+      "lon": 79.9753726
+    },
+    {
+      "id": "chijx8onqm_8ujorb9t9focjl0u",
+      "title": "SARAVANA STORE",
+      "address": "296/1, SARAVANA STORE, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6949027,
+      "lon": 79.9778583
+    },
+    {
+      "id": "chij84w-rx39ujorwxrmjzkc3vc",
+      "title": "Papu Provision",
+      "address": "60, Big Chetty St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6933365,
+      "lon": 79.9783065
+    },
+    {
+      "id": "chijsag5tkr9ujorlmaqmd_n1b8",
+      "title": "Sridhar store",
+      "address": "119, Anna Salai, J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6939847,
+      "lon": 79.9777692
+    },
+    {
+      "id": "chijgxhdfuh8ujor3r-wmdev44q",
+      "title": "Charles Mini Store",
+      "address": "4th cross,, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6804647,
+      "lon": 79.9825109
+    },
+    {
+      "id": "chije4rvopz9ujor5pvfvb8l2j4",
+      "title": "Sekar Stores",
+      "address": "33,T.E.l.c Compound, 4th Cross St, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6803192,
+      "lon": 79.9839251
+    },
+    {
+      "id": "chijcqzaz3l3ujorkpwpffccqva",
+      "title": "Durgaswamy Supermarket",
+      "address": "R2FV+6QF Durgaswamy Supermarket, Intra College Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.823065399999999,
+      "lon": 80.0444103
+    },
+    {
+      "id": "chijxbe7sm_3ujors5foxr0rco8",
+      "title": "RIDVEY SUPERMARKET",
+      "address": "GST Rd, Srinivasapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8396978,
+      "lon": 80.0556871
+    },
+    {
+      "id": "chijt4h_kw_9ujorpbkpxl5zaoa",
+      "title": "Sk Store",
+      "address": "No 87 Vedachalam Nagar Nearby SBI ATM Vedachalam Nagar Chengalpattu Post, Kanchipuram, Tamil Nadu 603001",
+      "lat": 12.6888504,
+      "lon": 79.97799959999999
+    },
+    {
+      "id": "chijc9_gqf79ujorasqhonodirc",
+      "title": "LAKSHMI STORES",
+      "address": "No 66A, Main, Bazaar Rd, Kanchipuram, Tamil Nadu 603002",
+      "lat": 12.6945439,
+      "lon": 79.9763727
+    },
+    {
+      "id": "chijafqdbcr9ujorlmomsktcuzu",
+      "title": "JENCY STORES",
+      "address": "MXPJ+244 JENCY STORES, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6850192,
+      "lon": 79.9803189
+    },
+    {
+      "id": "chijd8qdssv9ujore_kepdtvzpg",
+      "title": "CHENGAI VK MART",
+      "address": "Dr Varadharajan St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6870187,
+      "lon": 79.9795568
+    },
+    {
+      "id": "chijoeyssoz9ujorafk1su7mway",
+      "title": "Varshini store",
+      "address": "MXHG+976 Varshini store, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603002",
+      "lat": 12.6784053,
+      "lon": 79.9756512
+    },
+    {
+      "id": "chijs_eteez9ujorfulpmd8hkak",
+      "title": "Gk Store",
+      "address": "No.1, Gk Store, Main Road, Chidambaram Main Road, Sakthi Nagar, Periyapattu, Thenur, Kanchipuram, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6816978,
+      "lon": 79.9889942
+    },
+    {
+      "id": "chijnsg9p_f5ujorgbvuxh0k-jy",
+      "title": "GANAPATHI STORES",
+      "address": "No.118, Vivekananda Nagar, Peramanur, Kanchipuram, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.786858299999999,
+      "lon": 80.01355819999999
+    },
+    {
+      "id": "chijh3xoez39ujorpehevehgm1y",
+      "title": "M. G. Store",
+      "address": "No179, Kamarajar Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6706202,
+      "lon": 79.9818602
+    },
+    {
+      "id": "chijscslhqd7ujoramohxt6dmsi",
+      "title": "D-Mart - Chengalpattu",
+      "address": "Ganapathi Nagar, Chettipunniyam Rd, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.7398893,
+      "lon": 79.98919769999999
+    },
+    {
+      "id": "chijbatkjc79ujormg8wskjdnq0",
+      "title": "Bismi Store",
+      "address": "Kavarai St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6894657,
+      "lon": 79.97492799999999
+    },
+    {
+      "id": "chijp5xjpv37ujoryfmyruix8fi",
+      "title": "Tamil Nadu Store",
+      "address": "Q263+3F7 Tamil Nadu Store, Unnamed Road, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7601617,
+      "lon": 80.00366609999999
+    },
+    {
+      "id": "chijoukxjwx8ujorbx-d_fe3tdm",
+      "title": "JK STORE",
+      "address": "Chinna Rathinam St, J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6948163,
+      "lon": 79.9729598
+    },
+    {
+      "id": "chijxw5tenf9ujor3blomwgp7da",
+      "title": "Siva Chitra Stores",
+      "address": "44, Main Road, Sakthi Nagar, Ilupanthoppu, Thenur, Mayiladuthurai, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.681779299999999,
+      "lon": 79.9890602
+    },
+    {
+      "id": "chijh01f7ht9ujoryq3iaeweqhk",
+      "title": "MSK STORE",
+      "address": "Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6902428,
+      "lon": 79.9746661
+    },
+    {
+      "id": "chijhz28g_x9ujortrrut9nr7y8",
+      "title": "M S K SHOP",
+      "address": "GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6981784,
+      "lon": 79.9706566
+    },
+    {
+      "id": "chijbb9l2o79ujor7_wftifycra",
+      "title": "SRI KUMARAN STORES",
+      "address": "No74, Main Road, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6940265,
+      "lon": 79.977211
+    },
+    {
+      "id": "chijv_-sgid9ujora2prqwtjq38",
+      "title": "JAJAKUMAR STORES",
+      "address": "97, Big Chetty St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6865031,
+      "lon": 79.974096
+    },
+    {
+      "id": "chijcbwtuox9ujorijlno_ftcde",
+      "title": "Murugan Shop",
+      "address": "No.100, Sasthiri Nagar, Road, near Dhasara, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.687915199999999,
+      "lon": 79.9749149
+    },
+    {
+      "id": "chijfxgv6yf7ujoraaaamh7ezxq",
+      "title": "Jayam Stores",
+      "address": "106, RAJAJI STREET Pulipakkam-74, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7082752,
+      "lon": 79.9743104
+    },
+    {
+      "id": "chijia-0tkj9ujorkakzvyhhwdm",
+      "title": "Rithiga Stores",
+      "address": "Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694497499999999,
+      "lon": 79.97414739999999
+    },
+    {
+      "id": "chij_1avnkj9ujordag7zzsbhzu",
+      "title": "SHREE BHARATHI STORES",
+      "address": "159, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.687172499999999,
+      "lon": 79.9754942
+    },
+    {
+      "id": "chij9butptnlujor7ngwqx8xxr8",
+      "title": "New Kumaran Store",
+      "address": "147/6, Periya Street, Seshadri Nagar, Palur, Chengalpattu, Tamil Nadu 603101",
+      "lat": 12.768678,
+      "lon": 79.9148657
+    },
+    {
+      "id": "chijeqri2ex9ujoryvsbqy5ck5y",
+      "title": "Ram Fancy Store & Gift Articles",
+      "address": "1, Kanchipuram High Rd, near Ayyappan Kovil, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6979639,
+      "lon": 79.9711947
+    },
+    {
+      "id": "chijdarqzwt9ujorpucidvnotdo",
+      "title": "Neelas live colours aquarium and pets",
+      "address": "391, Neelas live colours aquarium and pets, Melamaiyur, 1, TKM Rd, Anna Nagar, Vallam, Tamil Nadu 603003",
+      "lat": 12.6843463,
+      "lon": 79.9878706
+    },
+    {
+      "id": "chijn7cbhgt9ujorfleazipav84",
+      "title": "Pet junction",
+      "address": "Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6949916,
+      "lon": 79.9737476
+    },
+    {
+      "id": "chijd_quuel2ujorpp3jparq190",
+      "title": "Kalani Pet Shop",
+      "address": "No:44, Railway Station Road, Selvaraj Nagar 5th Street, Sri Balaji Nagar, Selvaraj Nagar-V, Urapakkam, Kilampakkam, Tamil Nadu 603211",
+      "lat": 12.8674646,
+      "lon": 80.06812169999999
+    },
+    {
+      "id": "chijoqwfqw_8ujor5eg6fyujfck",
+      "title": "MR Aquarium",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6932029,
+      "lon": 79.9777412
+    },
+    {
+      "id": "chijq5o8aot5ujorve2xqm5te4k",
+      "title": "SaiRam Aquarium & Pets",
+      "address": "Anna Salai Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7936718,
+      "lon": 80.0244494
+    },
+    {
+      "id": "chijtbryfqd3ujort6tfom2nelg",
+      "title": "Pets park & aquariums",
+      "address": "193, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8438726,
+      "lon": 80.0593588
+    },
+    {
+      "id": "chijw5p65lj2ujorl96c8r8izrc",
+      "title": "Sara Kennel",
+      "address": "bus stop, 1, Krishnapuri, Erikarai Rd, Guduvancheri, Adhanur, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.857268,
+      "lon": 80.0576987
+    },
+    {
+      "id": "chijy9jhy-n5ujoraepev3vdcws",
+      "title": "BHAIRAV PET SHOP",
+      "address": "815 Nellikuppam Road Moolakazhani, Guduvancheri, Kayarambedu, Chennai, Tamil Nadu 603202",
+      "lat": 12.816386,
+      "lon": 80.07685839999999
+    },
+    {
+      "id": "chijwykyywr3ujoriqgbnskvf5u",
+      "title": "Sairam pets",
+      "address": "Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.811833799999999,
+      "lon": 80.031454
+    },
+    {
+      "id": "chijj5os0st5ujor84echjfdcye",
+      "title": "Saba pets",
+      "address": "6/20, Thirukuda rassaper street, NH-2, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.793744799999999,
+      "lon": 80.02773839999999
+    },
+    {
+      "id": "chijjx72ykj3ujora4eldqxyf1c",
+      "title": "Giftys Pet Shop",
+      "address": "1 Lakshmi Garden Street, Nellikuppam Rd, Nandivaram, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8393561,
+      "lon": 80.06323549999999
+    },
+    {
+      "id": "chijvxs58sz5ujor7ll7pdgjsxk",
+      "title": "Visha Pet Clinic & Shop",
+      "address": "No. 581, Velli Veethiyar St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.794499499999999,
+      "lon": 80.0233738
+    },
+    {
+      "id": "chijh9kyhrj9ujorf96mxwa8fg8",
+      "title": "Zam Zam Pet Shop",
+      "address": "No.2, Zam Zam Pet Shop, Jayalakshmi Kalyana Mandapam Complex, GST Rd, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6866972,
+      "lon": 79.9830325
+    },
+    {
+      "id": "chijhwizxgr8ujorkcc2ow_6o8u",
+      "title": "Neelas's Live Colours Aquarium & Pets",
+      "address": "No.1F, Gandeeban Street, V.N.A Complex, behind Axis Bank, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.686193399999999,
+      "lon": 79.9828418
+    },
+    {
+      "id": "chijgb5ax6r5ujorj1w0mfrznka",
+      "title": "MN aquarium",
+      "address": "7/140, Thangamal Colony, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7557692,
+      "lon": 80.0093986
+    },
+    {
+      "id": "chijy9luli_3ujor1urqiacv2ik",
+      "title": "All Birds farm guduvancherry Chennai",
+      "address": "104, MGR St, opposite Molakalani, near SHRIRAM SHANKARI, Thangappapuram, Guduvancheri, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8148498,
+      "lon": 80.07934259999999
+    },
+    {
+      "id": "chijl37tuan9ujorepohzd6kow8",
+      "title": "Joseph Pets",
+      "address": "7th street, 5th Cross St, Sakthi Nagar, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.679025399999999,
+      "lon": 79.9919493
+    },
+    {
+      "id": "chijx-byqeh5ujoredeo7m1y7o0",
+      "title": "AGS Super Market Pavendar Salai",
+      "address": "#84/5, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7953672,
+      "lon": 80.0265029
+    },
+    {
+      "id": "chijj7zftkn8ujorhnulhipdz4e",
+      "title": "Pon deepa Stores",
+      "address": "NGGO Nagar, Kamarajar Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6698881,
+      "lon": 79.9847144
+    },
+    {
+      "id": "chijtv4geg33ujorlm_itiekeju",
+      "title": "L-Tech laptop serivce centre",
+      "address": "Bramanar Cross Street, Bajanai Kovil St, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.820540999999999,
+      "lon": 80.0415846
+    },
+    {
+      "id": "chijk3_y9pl3ujorcywxozg8_00",
+      "title": "JOTHI FARMS",
+      "address": "to, railway track, Kanniyappan Nagar, Parallel, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.849121,
+      "lon": 80.0596408
+    },
+    {
+      "id": "chija6lm6av3ujormbm-ki_mxlk",
+      "title": "Giffy Pawsitive Tails | Pet Store | Guduvanchery",
+      "address": "First floor, Giffy Pawsitive Tails | Pet Store | Guduvanchery, Max Showroom, No:2, GST Rd, opposite EB Stop, Adhiparasakthi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.851100299999999,
+      "lon": 80.0661789
+    },
+    {
+      "id": "chij7yb2ufr5ujoruygh2xugf7o",
+      "title": "Petty Shop",
+      "address": "Q2R8+6HQ Petty Shop, Baba Koil Rd, Peramanur, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.790582299999999,
+      "lon": 80.01649239999999
+    },
+    {
+      "id": "chijss1h5zl3ujorin557axmeh4",
+      "title": "Sri Balaji Build Mart",
+      "address": "8/3 GST ROAD Near Rane TRW Steering system ltd Guduvanchery, Chengalpattu, Tamil Nadu 603202",
+      "lat": 12.8360057,
+      "lon": 80.051824
+    },
+    {
+      "id": "chijcdprif_3ujorxqbcdprdtl4",
+      "title": "CU Pets Hub",
+      "address": "No.7, CU Pets Hub, Plot No.5, Thiruvalluvar salad, Karanaipuducheri, Tamil Nadu 603202",
+      "lat": 12.8447401,
+      "lon": 80.0846545
+    },
+    {
+      "id": "chij44azr073ujorumol8yliq80",
+      "title": "Smiley Pet Shop & Aquarium",
+      "address": "64, GST Rd, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8093069,
+      "lon": 80.0291676
+    },
+    {
+      "id": "chijvfusowl5ujorz17tr1_zt1g",
+      "title": "Noor rabbit farm house",
+      "address": "30, pillaiyar kovil Street, Sengunram, chengalpattu dt,tamilnadu,60324, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.7616485,
+      "lon": 80.0235391
+    },
+    {
+      "id": "chijzyrfsgd3ujor8aof2wjecc4",
+      "title": "Bettas world",
+      "address": "Bettas World, near Urapakkam, Signal, Urapakkam, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8597751,
+      "lon": 80.07268859999999
+    },
+    {
+      "id": "chijm-kxasd3ujorltwziqazoc0",
+      "title": "Feathers and Fur",
+      "address": "No.34, Selva Vinayagar Kovil Street, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8581644,
+      "lon": 80.0617972
+    },
+    {
+      "id": "chij5e2vdg32ujoru9m5shcjlza",
+      "title": "Giffy Tails & Meds",
+      "address": "4/109, Perumal Complex GST Road, Opp Vandalur Zoo, Vandalur, Tamil Nadu 600127",
+      "lat": 12.870431799999999,
+      "lon": 80.1077033
+    },
+    {
+      "id": "chijj6yjv0z3ujorotqxjkoxar4",
+      "title": "Aju birds farm",
+      "address": "R3Q7+WX5 Aju birds farm, Krishnapuram First Street, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8397509,
+      "lon": 80.06498719999999
+    },
+    {
+      "id": "chiji7u2gwb8ujorwrughro6n5q",
+      "title": "THE EXCLUSIVE PET SHOP",
+      "address": "MXQF+GWQ THE EXCLUSIVE PET SHOP, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6888265,
+      "lon": 79.9748444
+    },
+    {
+      "id": "chijgw0fo6n1ujorjiii5b569ss",
+      "title": "ANIMAUX PETS HUB",
+      "address": "BEFORE MITHRAN TRADERS, 102, MUDICHUR ROAD, MGR NAGAR, MUDICHUR CHENNAI 600048, Chennai, Tamil Nadu 600048",
+      "lat": 12.9071407,
+      "lon": 80.06753069999999
+    },
+    {
+      "id": "chijqftztkd2ujorkt78n7t3nds",
+      "title": "SPN Pet Shop",
+      "address": "444, GST Rd, Senthil Nagar, Urapakkam, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8646605,
+      "lon": 80.0747799
+    },
+    {
+      "id": "chijhf3gihd9ujorpgjecsaozx8",
+      "title": "Shifa Medical Mart",
+      "address": "No 21-A, Chairman Ekambaranar St, nearby to State Bank of India, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.689112999999999,
+      "lon": 79.9803712
+    },
+    {
+      "id": "chijc7dbyw33ujor3ae3mdrafu0",
+      "title": "Patti Shop",
+      "address": "R2HW+426 Patti Shop, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.827798099999999,
+      "lon": 80.0450285
+    },
+    {
+      "id": "chiji7jaoq75ujorqi47hlyqukm",
+      "title": "Sri Ganapathi Pets",
+      "address": "13/14, Nagavalli Amman Koil St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.787922199999999,
+      "lon": 80.0380656
+    },
+    {
+      "id": "chijds--jkj3ujoraximjqtnlsa",
+      "title": "Amirtham Stores Supermarket",
+      "address": "2, Thiruvalluvar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8188716,
+      "lon": 80.0365102
+    },
+    {
+      "id": "chijn7cep-r3ujorhdm70al5vve",
+      "title": "JOTHI FARMS",
+      "address": "169, Madambakkam Main Rd, Guduvancheri, Madambakkam, Tamil Nadu 603202",
+      "lat": 12.8503855,
+      "lon": 80.04955509999999
+    },
+    {
+      "id": "chijurgjhjt3ujorw7cbbaz6gtm",
+      "title": "MANI PETS",
+      "address": "No.32, Gnanambigai street, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8108697,
+      "lon": 80.02727089999999
+    },
+    {
+      "id": "chijazaadqd3ujoriqcg6elordm",
+      "title": "Love birds sale",
+      "address": "R25P+J27 Love birds sale, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8090348,
+      "lon": 80.035038
+    },
+    {
+      "id": "chijd11inln3ujoratp-x5nxzcq",
+      "title": "The Paw hevan Pets",
+      "address": "256, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.847139799999999,
+      "lon": 80.0623689
+    },
+    {
+      "id": "chijhteq50f2ujorinelpofccqc",
+      "title": "OCEAN AQUARIUM & PETS SHOP",
+      "address": "No 865, OCEAN AQUARIUM & PETS SHOP, Main Road, Senthil Nagar, Urapakkam, Karanaipuducheri, Chennai, Tamil Nadu 603210",
+      "lat": 12.8593894,
+      "lon": 80.07427779999999
+    },
+    {
+      "id": "chije9q3xvl2ujorsyfmsibphu0",
+      "title": "New Parasakthi Department Store",
+      "address": "141, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8474361,
+      "lon": 80.0625766
+    },
+    {
+      "id": "chijtx0s8jr3ujorf9abz15uwsk",
+      "title": "PET'S KINGDOM JEHOVAH - JIREH",
+      "address": "HIG 84, Sekkizhar St, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7951894,
+      "lon": 80.0255732
+    },
+    {
+      "id": "chij0dz9vgn9ujorf53ktmftgti",
+      "title": "Pets Online",
+      "address": "32, 83Pillayar Kovilst, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6812206,
+      "lon": 79.9746133
+    },
+    {
+      "id": "chiji5o5dw73ujorbwkzi1kifmg",
+      "title": "kirana store",
+      "address": "Kakkan St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.817198399999999,
+      "lon": 80.0406477
+    },
+    {
+      "id": "chiji_jjyafdujorvk6vtv8aqm4",
+      "title": "Chellam Stores (Wholesale Groceries)",
+      "address": "11/236, Perumbakkam Main Rd, Bharathi 1st Street, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.916304199999999,
+      "lon": 80.1937416
+    },
+    {
+      "id": "chijnruqzbfnujorjzbgz32fbf0",
+      "title": "Amma Naana Supermarket Chennai",
+      "address": "Pasumpon Muthuramalinga Thevar Rd, Raja Annamalaipuram, Chennai, Tamil Nadu 600035",
+      "lat": 13.028750599999999,
+      "lon": 80.2495983
+    },
+    {
+      "id": "chijg6cx9jbdujor7brtas5mm70",
+      "title": "Tamilnadu Super Market",
+      "address": "4b, 1st Cross St, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9746113,
+      "lon": 80.21960899999999
+    },
+    {
+      "id": "chijtw5vv6jfujorzdzz2sba4kc",
+      "title": "Latha Super Bazaar",
+      "address": "114/2 114/5A, 200 Feet Radial Rd, Zamin Pallavaram, Perumal Nagar, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9518841,
+      "lon": 80.1729761
+    },
+    {
+      "id": "chijy4qwry1mujorpzlmmfh_u4i",
+      "title": "New Balaji Supermarket",
+      "address": "85, Royapettah High Rd, Luz, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0399285,
+      "lon": 80.2679362
+    },
+    {
+      "id": "chijmwmd3ndeujorouuk2nqvd7k",
+      "title": "S.INDIRA SUPER MARKET",
+      "address": "No.29, Medavakkam Main Rd, Arul Murugan Nagar Extension, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.955518399999999,
+      "lon": 80.1871568
+    },
+    {
+      "id": "chijk39tcmfdujor0bmphc_swyg",
+      "title": "Rejoice Supermarket",
+      "address": "Plot 01, Sastha Nagar 2nd St, Sowmya Nagar, Soumya Nagar, Perumbakkam, Vengavasal, Tamil Nadu 600100",
+      "lat": 12.908603099999999,
+      "lon": 80.1916272
+    },
+    {
+      "id": "chije-8tzd1mujor-7e1j6ai7xi",
+      "title": "Reliance Smart Bazaar",
+      "address": "Basement 1 Express Avenue, Whites Road 2, Club House Road, Anna Salai, Express Estate, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0587349,
+      "lon": 80.26431219999999
+    },
+    {
+      "id": "chijv3ojhvbdujorocpogvxw0fm",
+      "title": "MITHRAN STORE",
+      "address": "Vedachalam St, Jalladianpet, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.925293199999999,
+      "lon": 80.20449889999999
+    },
+    {
+      "id": "chijqr2y_5bdujornwhh7vwrlpq",
+      "title": "Sri Venkateshwara Supermarket",
+      "address": "PLOT ,NO ,28, Sri Venkateshwara Supermarket, 28, 11th Main Rd, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.971931699999999,
+      "lon": 80.2190284
+    },
+    {
+      "id": "chijtz7uz_jdujorz-nnqzlqxtq",
+      "title": "Malar Super Store",
+      "address": "No : 75 /A, Velachery Main Rd, Devi Karumariamman Nagar, Green Court, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9284783,
+      "lon": 80.2010023
+    },
+    {
+      "id": "chijtapwjyhhujorehoha7_svmy",
+      "title": "INDIAN MALIGAI AND SHOP",
+      "address": "4/B thiruvalluvar salai meenakshi amman nagar, 1, Thiruvalluvar Salai, Meenakshi Amman Nagar, Alwartirunagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.0549869,
+      "lon": 80.1830422
+    },
+    {
+      "id": "chij7crym3l2ujorsanxg9z0-3y",
+      "title": "Sri Sastha Supermarket",
+      "address": "No 4/59, thiruvallur street, New Otteri 1st Main Rd, Otteri Extension, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8816162,
+      "lon": 80.074007
+    },
+    {
+      "id": "chijwdul2rzmujorpronvqisnbu",
+      "title": "Sri Lakshmi Stores",
+      "address": "No.7-A, Sayee Nagar Near Sayee Nagar Bus Stop, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.0598048,
+      "lon": 80.1955289
+    },
+    {
+      "id": "chijdsaueajcujorezb3boh4uoe",
+      "title": "Sekar Stores",
+      "address": "W54P+2R5 Sekar Stores, Krishnaveni Nagar, Medavakkam, Vengavasal, Tamil Nadu 600100",
+      "lat": 12.904698699999999,
+      "lon": 80.1877173
+    },
+    {
+      "id": "chijwvshvpfdujorvpzrzypnkmg",
+      "title": "Sivaram Provision Store",
+      "address": "No. 9/10, 4th Street, Sri Devi Karumari Amman Nagar Main Rd, Devi Karumariamman Nagar Extension, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9758637,
+      "lon": 80.21696949999999
+    },
+    {
+      "id": "chijc7h1egbnujorltoompm5ma0",
+      "title": "Kiran Store",
+      "address": "26VW+6RM Kiran Store, Vijayaraghava Rd, Thiru Vi Ka Kudiyiruppu, T. Nagar, Chennai, Tamil Nadu 600018",
+      "lat": 13.043018,
+      "lon": 80.2469527
+    },
+    {
+      "id": "chij6yvdx7fnujor5fxo4oylv6m",
+      "title": "RAKSHANA STORE",
+      "address": "92, Mundakanni Amman Koil St, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.039244499999999,
+      "lon": 80.27015089999999
+    },
+    {
+      "id": "chijc09j6ftdujorttfcxqg2nju",
+      "title": "VN Nila Super Market",
+      "address": "S23, VN Nila Super Market, S24, Bazaar Main Rd, Sastri Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.965651399999999,
+      "lon": 80.2048263
+    },
+    {
+      "id": "chij1dhweyvbujorif95r2lpjak",
+      "title": "NEW NELLAI KUMAR STORES",
+      "address": "25TH CROSS STREET VILLAGE HIGH ROAD, NEAR ECR LINK ROAD TOLL PLAZA, Chennai, Tamil Nadu 600119",
+      "lat": 12.8971339,
+      "lon": 80.2328723
+    },
+    {
+      "id": "chijzz7mkbbnujorp5f3bsksnyu",
+      "title": "AN GROCERY",
+      "address": "No:89, 7th Ave, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.0324712,
+      "lon": 80.2161369
+    },
+    {
+      "id": "chijqc10owpfujor557sxwm-hau",
+      "title": "GOPAL GROCERY STORE",
+      "address": "4, 2nd Main Rd, Jeeva Nagar Extension, IIT Colony, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9316097,
+      "lon": 80.2058584
+    },
+    {
+      "id": "chijsui6e1jeujornbgl74f2sjc",
+      "title": "Shree General Stores",
+      "address": "77, Radha Nagar Main Rd, Srinivasapuram, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9517065,
+      "lon": 80.1461223
+    },
+    {
+      "id": "chijb_dquq9cujorvkqzvp6lnvk",
+      "title": "MARWA SUPERMARKET",
+      "address": "Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9032944,
+      "lon": 80.1988348
+    },
+    {
+      "id": "chijbz9tvvjeujor6olyigmfqhe",
+      "title": "VSP Supermarket",
+      "address": "Bharathi Street, Radha Nagar, Doctors Colony, Chromepet, Kanchipuram, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9513609,
+      "lon": 80.1442907
+    },
+    {
+      "id": "chijh3vzdyhmujortp7kk5svsj8",
+      "title": "Friends grocery shop",
+      "address": "46, Dr Natesan Rd, krishnampet, Mirsahibpet, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0478186,
+      "lon": 80.2746597
+    },
+    {
+      "id": "chijf9yldxhcujorzdmik4x_auy",
+      "title": "Selvam Maligai Store",
+      "address": "4/803, Major Mukund Varadharajan Rd, Jalladiampet, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.919618,
+      "lon": 80.1965946
+    },
+    {
+      "id": "chijex4ksdlcujorhedqtkpzt6w",
+      "title": "Harish Stores",
+      "address": "6, Erikarai Street, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.926660499999999,
+      "lon": 80.2055524
+    },
+    {
+      "id": "chijkuwskyfmujorbw5brvcgd28",
+      "title": "Solaiappan Stores",
+      "address": "48, Devarajan Mudali St, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.057708,
+      "lon": 80.2723604
+    },
+    {
+      "id": "chijlzzr5o31ujor4cnzwpywrzc",
+      "title": "AYYA DEPARTMENTAL STORES",
+      "address": "No.11, Ark Nagar Extension, Karasangal, Tamil Nadu 601301",
+      "lat": 12.8964225,
+      "lon": 80.05644579999999
+    },
+    {
+      "id": "chij61m3xarnujorb_xpvofnoue",
+      "title": "Manju grocery store",
+      "address": "80, 2nd Cross St, TNHB Colony, Adambakkam, Chennai, Tamil Nadu 600042",
+      "lat": 12.9904972,
+      "lon": 80.2096129
+    },
+    {
+      "id": "chij1-7ndqbdujorfeuoqjyawhy",
+      "title": "Kovai Pazhamudir Nilayam - Velacherry, Chennai",
+      "address": "Shop No 1, Kovai Pazhamudir Nilayam - Velacherry, Chennai, Road, Ram Nagar, Ramnagar South, Dhadeswaram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.983852599999999,
+      "lon": 80.2226869
+    },
+    {
+      "id": "chijvwd5xundujordow8sgxdgi4",
+      "title": "C. K. Selvam Store",
+      "address": "No. 45, Medavakkam Main Rd, Puzhuthivakkam, Tamil Nadu 600061",
+      "lat": 12.9721736,
+      "lon": 80.1911567
+    },
+    {
+      "id": "chijn_oh0gdmujorjr-63waegpq",
+      "title": "S.T.M.S General Store",
+      "address": "Shop No, S.T.M.S General Store, 124, Valluvar Kottam High Rd, Ponnangipuram, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.0570583,
+      "lon": 80.2429329
+    },
+    {
+      "id": "chijlxazaidhujor6qjmwyaevg4",
+      "title": "Chennai Stores",
+      "address": "Plot No.9 & 10, First Cross Street, Krishna Nagar, Madhanandapuram, Chennai, Tamil Nadu 600125",
+      "lat": 13.019120299999999,
+      "lon": 80.1568767
+    },
+    {
+      "id": "chijf72pd-ngujorj6qcldkw7uk",
+      "title": "Rathna Super Market",
+      "address": "No. 1, 4th Ave, Ramakrishna Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.0273293,
+      "lon": 80.15671329999999
+    },
+    {
+      "id": "chijquudivheujorqanl9pumwuy",
+      "title": "Greens Super Market",
+      "address": "6, 6th Street, Kannammal Street, near Bus Stand, Hasthinapuram, Tambaram, Tamil Nadu 600064",
+      "lat": 12.9399058,
+      "lon": 80.1511913
+    },
+    {
+      "id": "chijs285ilzzujor9g2gqiy_4h0",
+      "title": "AAJ Super Market",
+      "address": "V5QM+XV7 AAJ Super Market, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.8899032,
+      "lon": 80.1846807
+    },
+    {
+      "id": "chijyeexu9znujor0sivwvch3tg",
+      "title": "Mohan Stores",
+      "address": "40, Chitrakulam N St, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.031469,
+      "lon": 80.271911
+    },
+    {
+      "id": "chijk8flh6nhujor4liyzfattd0",
+      "title": "Sri Maha Supermarket",
+      "address": "Plot no 41,shop no 1,parven&brothers complex,selva ganapathy nagar, Maruthi Nagar, Numbal, Poonamallee, Thiruverkadu, Tamil Nadu 600077",
+      "lat": 13.04886,
+      "lon": 80.13531499999999
+    },
+    {
+      "id": "chijz9zzbk9dujorsodxz2f5whq",
+      "title": "JUNGLII - PETTING ZOO (Concept Petshop)",
+      "address": "49, 27D, ECR [East Coast Road, Injambakkam, Chennai, Tamil Nadu 600115",
+      "lat": 12.9111142,
+      "lon": 80.2502792
+    },
+    {
+      "id": "chijcyqmcfveujorkeducxhg4vc",
+      "title": "Arun pet shop",
+      "address": "FIRST FLOOR, Arun pet shop, 99, 64, Dr Rajendra Prasad Rd, Hasthinapuram, Tambaram, Tamil Nadu 600064",
+      "lat": 12.941571699999999,
+      "lon": 80.1451675
+    },
+    {
+      "id": "chijawvdjxzeujorupnxlpfnua4",
+      "title": "Divya Aquarium and Pet Shop",
+      "address": "82a, Medavakkam Main Rd, Rajamanickam Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.957281,
+      "lon": 80.186871
+    },
+    {
+      "id": "chij8w5n-kddujorscmzovb3ur0",
+      "title": "Lovely Pet shop",
+      "address": "18A1, 18A2, Rajiv Avenue, SH 49, Akkarai, Injambakkam, chennnai, Tamil Nadu 600115",
+      "lat": 12.9050766,
+      "lon": 80.24927509999999
+    },
+    {
+      "id": "chijsxsya_hcujors3xniy9ad6o",
+      "title": "Lovely Pet Shop",
+      "address": "335A, Shantham Avenue Okkiyam Pettai, Rajiv Gandhi Salai, near Indian Oil Petrol Bunk, Chennai, Tamil Nadu 600097",
+      "lat": 12.926777999999999,
+      "lon": 80.23121669999999
+    },
+    {
+      "id": "chijm-c_kkjhujorarwbernqg9e",
+      "title": "Elite Pet Store",
+      "address": "No5, Mount Poonamallee Rd, Kattupakkam, Kattuppakkam, Tamil Nadu 600056",
+      "lat": 13.0453162,
+      "lon": 80.11738129999999
+    },
+    {
+      "id": "chijq7lxu-xfujorjdgocv2jtzc",
+      "title": "Pet Souq",
+      "address": "170A, Velachery Main Rd, East Tambaram, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9226765,
+      "lon": 80.1367317
+    },
+    {
+      "id": "chijeyaqyzzeujorgtsbehfrboc",
+      "title": "Lovely Pet Shop",
+      "address": "No57, Grand Southern Trunk Rd, Sunnambu Colony, Pallavaram, Pallavaram (Contonment), Tamil Nadu 600043",
+      "lat": 12.964137099999999,
+      "lon": 80.14760869999999
+    },
+    {
+      "id": "chijru-smpvnujorq39wa5hizdk",
+      "title": "Classic Pet Shop",
+      "address": "94, Jawaharlal Nehru Salai, Bhakthavathchalam Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0557691,
+      "lon": 80.21173189999999
+    },
+    {
+      "id": "chijdtxbpq9nujor7mq6h7ugfoe",
+      "title": "Royal Pet Shop",
+      "address": "No 12, Royal Pet Shop, 13, 7th Cross Street, Lakshmipuram, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9525208,
+      "lon": 80.1348441
+    },
+    {
+      "id": "chijhytj3mxhujorshhwxwwusqm",
+      "title": "ALPHA PET STORE",
+      "address": "10, Arcot Rd, near to Sathya Electronics, Lakshmi Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.038384899999999,
+      "lon": 80.1643016
+    },
+    {
+      "id": "chijyqaycdzdujor_estf3vdfge",
+      "title": "Heads Up For Tails Pet Store & Spa - Velachery, Chennai",
+      "address": "Shop No 15, Heads Up For Tails Pet Store & Spa - Velachery, Chennai, 8, Velachery Main Rd, opp. Phoenix Market City, Indira Gandhi Nagar, Guindy, Chennai, Tamil Nadu 600042",
+      "lat": 12.9941617,
+      "lon": 80.2177884
+    },
+    {
+      "id": "chijaqbjddzhujorsg9a79sfbdu",
+      "title": "Best For Pets - Ramapuram, Chennai",
+      "address": "4 23, Valluvar Salai, Rayala Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0300728,
+      "lon": 80.1838684
+    },
+    {
+      "id": "chijcaozqr1fujorvxn8psqvrfe",
+      "title": "SHRI SAI NUTRIMENTS",
+      "address": "Jeeva St, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9306998,
+      "lon": 80.115516
+    },
+    {
+      "id": "chijfzslbadnujorqeexw30p2-k",
+      "title": "Golden India Aquarist",
+      "address": "4, CIT 1st Main Rd, CIT Nagar West, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.030617399999999,
+      "lon": 80.2305925
+    },
+    {
+      "id": "chij8_zgc5vnujorhinwnee99ie",
+      "title": "Oliver pet shop",
+      "address": "3rd Cross St, Ramakrishna Nagar, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.026668599999999,
+      "lon": 80.2569347
+    },
+    {
+      "id": "chijj9xibhtdujorpl_jyv0rfr0",
+      "title": "Pet Spot",
+      "address": "No. 142, Pet Spot, Mount, Medavakkam Main Rd, Shanthi Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.9878895,
+      "lon": 80.1977491
+    },
+    {
+      "id": "chijo8tgscjnujormagsu-somqs",
+      "title": "Heads Up For Tails Pet Store & Spa - Kotturpuram, Chennai",
+      "address": "1 No, Heads Up For Tails Pet Store & Spa - Kotturpuram, Chennai, Door No 47F GF, 2, Gandhi Mandapam Rd, Kotturpuram, Chennai, Tamil Nadu 600085",
+      "lat": 13.0222959,
+      "lon": 80.2422698
+    },
+    {
+      "id": "chij-ss49wjfujorgljthudnmhs",
+      "title": "Sri pet shop",
+      "address": "520, Mudichur Rd, opposite to OM SARAVANA SWEET & BAKERY, Pandian Nagar, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.924880199999999,
+      "lon": 80.0995985
+    },
+    {
+      "id": "chijmyg4mqbnujoreykfpjukcx0",
+      "title": "Pet shop",
+      "address": "2, Pet shop, 169, NSC Bose St, Arasankalani, Manapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.0388518,
+      "lon": 80.1999818
+    },
+    {
+      "id": "chijmzkc5c1mujorilaklfsj4xk",
+      "title": "GV Pets & Clinic",
+      "address": "No.127-B, E Vanniar St, KK Nagar West, Virugambakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.0456667,
+      "lon": 80.1927343
+    },
+    {
+      "id": "chijdat0oflnujoraahsl9acx8i",
+      "title": "Heads Up For Tails Pet Store & Spa - Besant Nagar, Chennai",
+      "address": "H/136/1, H/136/2, 6th Avenue, Elliot's Promenade, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 13.000490099999999,
+      "lon": 80.2707835
+    },
+    {
+      "id": "chijw3h8fwvfujorknxb0rkfnwg",
+      "title": "Yadhavi Pet Shop",
+      "address": "No.77 & 78, Rajaji Rd, East Tambaram, Tambaram Sanatoruim, Tambaram, Tamil Nadu 600045",
+      "lat": 12.926443599999999,
+      "lon": 80.1078617
+    },
+    {
+      "id": "chijvx2ynxrfujoryfnwlt5yh6i",
+      "title": "C.R Pets & Aquarium",
+      "address": "No.30, C.R Pets & Aquarium, ACSM Complex, Railway, Station Rd, Kadaperi, Tambaram, Tambaram Sanatorium, Chennai, Tamil Nadu 600047",
+      "lat": 12.9371303,
+      "lon": 80.1287315
+    },
+    {
+      "id": "chijhcxtanxfujorf4huhupr8lk",
+      "title": "S.P.S Pet Shop",
+      "address": "No.151,ALS Nagar, 5th Street Madambakkam, Selaiyur, Tambaram, Tamil Nadu 600126",
+      "lat": 12.9027912,
+      "lon": 80.1545802
+    },
+    {
+      "id": "chijiwoolkzmujorqd51ogqtqic",
+      "title": "Classic Pet Products",
+      "address": "Old 104, G N, Classic Pet Products, Arihant Vtn Square, T, Gopathy Narayana Rd, Thirumurthy Nagar, Satyamurthy Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.046427,
+      "lon": 80.24204999999999
+    },
+    {
+      "id": "chijk-ymaujdujorql8waja_o7e",
+      "title": "Pets Hub",
+      "address": "Balaji Nagar Extn-II, Sivaprakash Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9750526,
+      "lon": 80.2079931
+    },
+    {
+      "id": "chijo8z107lfujorqrfrpba54em",
+      "title": "SOS pet shop",
+      "address": "105, SOS pet shop, 920, Grand Southern Trunk Rd, Kamaraj Nagar, Tambaram Sanatoruim, Tambaram Sanatorium, Tambaram, Tamil Nadu 600047",
+      "lat": 12.938333499999999,
+      "lon": 80.1292576
+    },
+    {
+      "id": "chijeenozydjujori-7cijplpzy",
+      "title": "Luxury Paws Pet Shop",
+      "address": "Ist Floor, Luxury Paws Pet Shop, Mambakkam - Medavakkam Main Rd, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.8942116,
+      "lon": 80.1805128
+    },
+    {
+      "id": "chijt7x_63fdujorqlcvb2lihiu",
+      "title": "Charlie and Cooper Pet store",
+      "address": "No.1/588 A, Charlie and Cooper Pet store, New 12/588, Old, Mambakkam - Medavakkam Main Rd, Sastha Nagar, VGP Layout, Medavakkam, Vengavasal, Tamil Nadu 600100",
+      "lat": 12.907226699999999,
+      "lon": 80.18963769999999
+    },
+    {
+      "id": "chijlwyaenzfujor1ncntkifzxm",
+      "title": "STAR PET SHOP",
+      "address": "28, Grand Southern Trunk Rd, Sanatorium, Kamaraj Nagar, Tambaram Sanatoruim, Tambaram Sanatorium, Chennai, Tamil Nadu 600047",
+      "lat": 12.9397237,
+      "lon": 80.1304708
+    },
+    {
+      "id": "chijcyz5am5fujornigpaodigym",
+      "title": "Tamil Nadu Pet Shop",
+      "address": "28-a, Venkatesan St, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.929915099999999,
+      "lon": 80.1146115
+    },
+    {
+      "id": "chijaaualshnujorlduw6qojv28",
+      "title": "Pet Campus",
+      "address": "1st St, Kamarajar Colony, Dr.Subbaraya Nagar, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0493094,
+      "lon": 80.21937919999999
+    },
+    {
+      "id": "chije0l2tb1nujormvsordxfqpu",
+      "title": "Pets 101 Alwarpet",
+      "address": "18, Seethammal Rd, Seethammal Colony, Lubdhi Colony, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0371934,
+      "lon": 80.2540387
+    },
+    {
+      "id": "chijy4dfrh5zujor2lcw7ypskxe",
+      "title": "Chennai Pets & Aquarium",
+      "address": "No. 5/60, Plot, Chennai Pets & Aquarium, bus stop, Ottiambakkam Main Rd, Devlaxmi Nagar, Valluvar nagar, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.893371,
+      "lon": 80.18340959999999
+    },
+    {
+      "id": "chijlavceljdujoraxrguyq0vfy",
+      "title": "Metro Pet Shop",
+      "address": "41, Perumbakkam Main Rd, opposite to Reliance Smart Point, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9101403,
+      "lon": 80.1967356
+    },
+    {
+      "id": "chijjwbn-xzdujora5cvj_ssftg",
+      "title": "Fancy Birds Chennai",
+      "address": "Natesan Avenue, No.1/418, Rajiv Gandhi Salai, OMR, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9155488,
+      "lon": 80.2305918
+    },
+    {
+      "id": "chijwswhgannujormjoezeqdlss",
+      "title": "Excellent Pet Shop & Clinic",
+      "address": "63, Reddy Kuppam Rd, Panneerselvam Nagar, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.029105999999999,
+      "lon": 80.2241263
+    },
+    {
+      "id": "chijdf8xgb5nujorndcd8umiob4",
+      "title": "Lovely Pet Shop",
+      "address": "239, TTK Rd, opp. Samsung Showroom, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0338561,
+      "lon": 80.2535798
+    },
+    {
+      "id": "chijk1rvihtnujorcohhwqjqnuo",
+      "title": "GV PET SHOP",
+      "address": "No.90 Kasi estate Shop No 2 ground floor, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+      "lat": 13.0292648,
+      "lon": 80.2086143
+    },
+    {
+      "id": "chijq_-w7yvdujorfzq2t0qb5wi",
+      "title": "lovely pet needs",
+      "address": "No. 28, Velachery Main Rd, Dhandeeswaram, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9823942,
+      "lon": 80.22185139999999
+    },
+    {
+      "id": "chijpdjneibfujor3gly0dzeclg",
+      "title": "DB Pet Shop",
+      "address": "Jawaharlal Nehru Rd, Chamundeshwari Nagar, Anakaputhur, Tambaram, Tamil Nadu 600070",
+      "lat": 12.9844978,
+      "lon": 80.1244098
+    },
+    {
+      "id": "chijdtbj8a9nujor6_ymwqee4vm",
+      "title": "Bhairav Pet Shop",
+      "address": "30/27, Kavarai St, near AMR Kalyana Mandapam, Moovendar Colony, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0334246,
+      "lon": 80.2194742
+    },
+    {
+      "id": "chijea__tazdujorz6tykmz97yo",
+      "title": "Om6 classic pet & Aquarium",
+      "address": "5/357, Rajiv Gandhi Salai, Old, Mamallapuram Road, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9295528,
+      "lon": 80.2311835
+    },
+    {
+      "id": "chijfzmjlldnujorj4vadoz1ceu",
+      "title": "JP PET SHOP",
+      "address": "319, Avvai Shanmugham Salai, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.047635699999999,
+      "lon": 80.26898729999999
+    },
+    {
+      "id": "chij4wbrtllfujoruj1zbcadzjg",
+      "title": "NRN's SOS Pet shop",
+      "address": "202, NRN's SOS Pet shop, 253, Velachery Main Rd, Leela Colony, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9227033,
+      "lon": 80.1300667
+    },
+    {
+      "id": "chijcd9g18tfujordubdujdxqza",
+      "title": "Alpha Pet Foods & Vet Pharmacy",
+      "address": "30, Medavakkam Main Rd, opposite to Indian Overseas Bank, Soundararajan Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.954609099999999,
+      "lon": 80.1868228
+    },
+    {
+      "id": "chijk6332srnujorpi4hriisgdi",
+      "title": "AR RAHMAN Chennai Persian kittens and cats in sales",
+      "address": "23/12, Alagiri St, Ramapuram, Alandur, Chennai, Tamil Nadu 600016",
+      "lat": 13.000210599999999,
+      "lon": 80.2051755
+    },
+    {
+      "id": "chijv4cuxs5dujorf8ieybqr9nc",
+      "title": "Cluster Pet World",
+      "address": "3/63, Rajiv Gandhi Salai, next to chennai mobiles showroom, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.911133399999999,
+      "lon": 80.22909589999999
+    },
+    {
+      "id": "chijv3zs4arnujornguhfkkwj1o",
+      "title": "The Pet's Country - Pets Store, Pet Clinic & Vet Pharmacy",
+      "address": "Old No.30, The Pet's Country - Pets Store, Pet Clinic & Vet Pharmacy, New 49, N Usman Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.050470299999999,
+      "lon": 80.2337933
+    },
+    {
+      "id": "chij744ihopmujortwnogsrtxgm",
+      "title": "Sai Maligai Store",
+      "address": "3636+V33 Sai Maligai Store, Dharan Singh Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.054627,
+      "lon": 80.2101832
+    },
+    {
+      "id": "chijt--tyarhujornhwqqts3yes",
+      "title": "SV Maligai kadai",
+      "address": "சீனிவாச நகர், வடக்கு, 297, வா. உ். சி தெரு, Srinivasa Nagar, Mangadu, Malayambakkam, Tamil Nadu 600122",
+      "lat": 13.031563799999999,
+      "lon": 80.09791249999999
+    },
+    {
+      "id": "chijc5z0ujlnujorwbawafsnjiu",
+      "title": "New Selvi store (புதிய செல்வி மளிகை கடை)",
+      "address": "No 50, New Selvi store (புதிய செல்வி மளிகை கடை), 81, 4th St, Vijayaraghavapuram, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.044690099999999,
+      "lon": 80.1998629
+    },
+    {
+      "id": "chijk0l6_sznujorypwjrvbzvoe",
+      "title": "Balaji Maligai Kadai",
+      "address": "160, Sathyamoorthy Block, V.M.Balakrishnan Street, Sapthagiri Colony, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+      "lat": 13.0313179,
+      "lon": 80.202102
+    },
+    {
+      "id": "chijezxp4dhmujor7ooknysdngi",
+      "title": "Vanaraj Store",
+      "address": "42/10, 96th St, Ottagapalayam, 15th Sector, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.046045999999999,
+      "lon": 80.2107982
+    },
+    {
+      "id": "chijxwxtpo1mujortyt_1_uf6mo",
+      "title": "Periyandavar Stores",
+      "address": "A2-63, Sivan Kovil S St, Muthu Thottam, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0563535,
+      "lon": 80.2188662
+    },
+    {
+      "id": "chijaw9nachmujorj7r3qxp4hie",
+      "title": "Chennai Maligai",
+      "address": "No.25 A.S.M, Anna Salai, Mylapore, Chennai, Tamil Nadu 600005",
+      "lat": 13.046826099999999,
+      "lon": 80.2748076
+    },
+    {
+      "id": "chijvrda9n1nujorhoy_nsmzzr8",
+      "title": "Chennai Grocers Poes Garden",
+      "address": "51, Kasturi Rangan Rd, Kasturi Estate, Teynampet, Chennai, Tamil Nadu 600086",
+      "lat": 13.0448323,
+      "lon": 80.25619429999999
+    },
+    {
+      "id": "chijrzn-djtnujordqema1q6smc",
+      "title": "Grace Super Market",
+      "address": "No 16, Grace Super Market, 35, South, Gangai Amman Koil St, Lane, Choolaimedu, Chennai, Tamil Nadu 600094",
+      "lat": 13.059945299999999,
+      "lon": 80.2270894
+    },
+    {
+      "id": "chijc-nfl_xmujor6iboxa-pvgi",
+      "title": "Hari Krishna Store",
+      "address": "7/4, Kuppaiah St, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.038153999999999,
+      "lon": 80.225904
+    },
+    {
+      "id": "chijwrndbvfnujor6kxjxxyjjek",
+      "title": "Adyar Departmental Stores",
+      "address": "37, 1st Main Rd, Shastri Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.998433499999999,
+      "lon": 80.2595362
+    },
+    {
+      "id": "chijtdrfcu5dujorkhcc5g4jj3k",
+      "title": "Thanjai grocery store",
+      "address": "161, Building, Chennai, Tamil Nadu 600091",
+      "lat": 12.9755799,
+      "lon": 80.20371159999999
+    },
+    {
+      "id": "chijmxezntfhujorqomgutowepu",
+      "title": "Selvavinayagar Maligai Kadai",
+      "address": "31, Velan Nagar 4th St, Ashtalakshmi Nagar, Velan Nagar, New SBS Colony, Chennai, Tamil Nadu 600087",
+      "lat": 13.0501261,
+      "lon": 80.180347
+    },
+    {
+      "id": "chijwy7u9ohmujordhkuscumnsq",
+      "title": "S Rajalakshmi Stores",
+      "address": "39, Saidapet Rd, Sarvamangala Colony, Aruna Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0472966,
+      "lon": 80.2127125
+    },
+    {
+      "id": "chijhwfkoabnujorzksvh9nuxz0",
+      "title": "ANBU STORES",
+      "address": "Dhanasekaran St, Samiyar Madam, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0445158,
+      "lon": 80.2204603
+    },
+    {
+      "id": "chij6-tzzn1hujorpdayfac8nae",
+      "title": "MS MALIGAI STORE",
+      "address": "No 3, MS MALIGAI STORE, 162 Annai, Anna Main Rd, Theresa Nagar, Kolapakkam, Tamil Nadu 600128",
+      "lat": 13.0116131,
+      "lon": 80.1573568
+    },
+    {
+      "id": "chijwfg98srdujorxyssaznq_2u",
+      "title": "நகுல் ஸ்டோர்ஸ் மளிகை கடை",
+      "address": "X736+MP5 நகுல் ஸ்டோர்ஸ் மளிகை கடை, Anna Salai Rd, Chinna Nilangarai Kuppam, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.9541417,
+      "lon": 80.2618626
+    },
+    {
+      "id": "chijexf_bxr1ujorqhlygabtmt8",
+      "title": "Sri Saravana Maligai Stores",
+      "address": "1/5, Walajabad Rd, [no name], Vandalur, Tamil Nadu 600048",
+      "lat": 12.893196,
+      "lon": 80.085014
+    },
+    {
+      "id": "chijux9ux75dujor8q_rq4hhfhm",
+      "title": "Pon Aruna",
+      "address": "X677+8GM Pon Aruna, Ram Nagar South, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9633329,
+      "lon": 80.2137861
+    },
+    {
+      "id": "chije-61x1vmujorwem0nl-5gqk",
+      "title": "Sri Murugan Maligai Stores",
+      "address": "59, Motilal St, Postal Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.036706899999999,
+      "lon": 80.2312791
+    },
+    {
+      "id": "chijow_g49nnujorvmwcbklwzam",
+      "title": "Sakthii Provision Stores",
+      "address": "40, S Mada St, Old Narasingapuram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0322006,
+      "lon": 80.2704842
+    },
+    {
+      "id": "chija6vc1tjdujorxgy6qvulxzm",
+      "title": "Ponniyamman Maligai Store",
+      "address": "W5VW+7C3 Ponniyamman Maligai Store, Ponni Amman Koil Main Rd, S. Kolathur, S.Kolathur, Kovilambakkam, Chennai, Tamil Nadu 600129",
+      "lat": 12.943138999999999,
+      "lon": 80.1960549
+    },
+    {
+      "id": "chij2xbbbgpeujorzrka2xi7-c8",
+      "title": "Thiru Murugan Maligai",
+      "address": "34, Sarah Nagar, Pallavaram, Chennai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9601961,
+      "lon": 80.16611979999999
+    },
+    {
+      "id": "chijstv8ekffujorz-9xwo01gjq",
+      "title": "PasumaiSanthai",
+      "address": "Nehru St, State Bank Of India Colony, Chitlapakkam, Tambaram, Tamil Nadu 600064",
+      "lat": 12.937340899999999,
+      "lon": 80.1422625
+    },
+    {
+      "id": "chijkzxng5lfujor9guakntxzqw",
+      "title": "Maligai",
+      "address": "2/67, Maligai, 8th St, Raghava Nagar, Moovarasampet, Chennai, St.Thomas Mount-cum-Pallavaram, Tamil Nadu 600091",
+      "lat": 12.968019499999999,
+      "lon": 80.1867824
+    },
+    {
+      "id": "chijizdkq3b2ujorjq3jeo1u8le",
+      "title": "செந்தில் முருகன் மளிகை & காய்கனி சிரப்பு அங்காடி",
+      "address": "V3R9+6F3 செந்தில் முருகன் மளிகை & காய்கனி சிரப்பு அங்காடி, Mannivakkam Extension, Vandalur, Tamil Nadu 600048",
+      "lat": 12.890502099999999,
+      "lon": 80.06866509999999
+    },
+    {
+      "id": "chijhydodnpmujorsynptjcsmcy",
+      "title": "Grace Super Market In K.K Nagar",
+      "address": "100A, Grace Super Market In K.K Nagar, 5, Ponnambalam Salai, Sector 11, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.0409626,
+      "lon": 80.19664709999999
+    },
+    {
+      "id": "chijctjj6s1dujorb-nzn_yfh0c",
+      "title": "Sri Vinayaga Stores",
+      "address": "55/74, S Mada St, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.983025099999999,
+      "lon": 80.2599438
+    },
+    {
+      "id": "chijrxemmsbdujoralimigf4qki",
+      "title": "CK Selvam Super Market",
+      "address": "Bazaar Main Rd, Meenatchi Sundareswarar Koil, Ram Nagar South, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9637613,
+      "lon": 80.2067533
+    },
+    {
+      "id": "chijsqab9stmujoroouxa2t06cg",
+      "title": "Shanmuga stores சண்முகா ஸ்டோர்ஸ்",
+      "address": "Phase 1, Shanmuga stores சண்முகா ஸ்டோர்ஸ், 158-27, Kaliamman Koil St, Phase 1, Balambiga Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.0507343,
+      "lon": 80.1921466
+    },
+    {
+      "id": "chijq44yzndnujorbmnt7hezzxe",
+      "title": "Senthil Stores",
+      "address": "New no.51,old no. 23, Lazarus Church Rd, Pattinapakkam, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.025900799999999,
+      "lon": 80.2732638
+    },
+    {
+      "id": "chijeebbhulnujorvtv9y1s7oqm",
+      "title": "Raajan Maligai Store",
+      "address": "41, St Patricks Church Rd, Ramapuram, Parangi Malai, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 13.0070742,
+      "lon": 80.1960065
+    },
+    {
+      "id": "chijyvwldapnujori1fe_jsh9ae",
+      "title": "Kovai Pazhamudir Nilayam - Nandanam, Chennai",
+      "address": "No.12/86, Kovai Pazhamudir Nilayam - Nandanam, Chennai, Bagavathi Amman Fruits, S W Boag Rd, CIT Nagar West, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.031455,
+      "lon": 80.2348162
+    },
+    {
+      "id": "chijoe20r1tdujorphxwpqkbkyy",
+      "title": "KARTHIKEYAN MALIGAI STORE",
+      "address": "9, 1st Seaward Rd, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9827886,
+      "lon": 80.26226779999999
+    },
+    {
+      "id": "chij60xfjmpnujorq_ltwvtrnyi",
+      "title": "Ambika Appalam Depot",
+      "address": "65, CP Ramaswamy Rd, Vidhya Thirtha Nagar, Abiramapuram, Chennai, Tamil Nadu 600018",
+      "lat": 13.030890099999999,
+      "lon": 80.2563497
+    },
+    {
+      "id": "chija6t6iwtnujorjzonaij9cec",
+      "title": "Sakthi Maligai Kadai",
+      "address": "Saradapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.031933299999999,
+      "lon": 80.2640921
+    },
+    {
+      "id": "chij-6wx9t9eujorhlaf6517zlc",
+      "title": "சந்திரா மளிகை கடை",
+      "address": "Barathi Nagar, East Tambaram, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9169409,
+      "lon": 80.14284049999999
+    },
+    {
+      "id": "chij0szsv0ndujorhmjc1p8x1eu",
+      "title": "JK Stores",
+      "address": "34, East Coast Rd, Valmiki Nagar, Kannappa Nagar, Lakshman Perumal Nagar, Chennai, Tamil Nadu 600041",
+      "lat": 12.9737774,
+      "lon": 80.2581201
+    },
+    {
+      "id": "chijp0hxqvdnujoruqmgcsfy2h8",
+      "title": "Jothi Shoppe",
+      "address": "59/26, Muthulakshmi St, Lakshmipuram, Radhakrishnan Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9935256,
+      "lon": 80.26299089999999
+    },
+    {
+      "id": "chijzwn1bapnujor-snfbi7fwhi",
+      "title": "New Sakthi Meenakshi Sundaram Stores",
+      "address": "New No. 42, Next To Krishna Koil, S W Boag Rd, T Nagar, CIT Nagar West, CIT Nagar, Chennai, Tamil Nadu 600035",
+      "lat": 13.031138499999999,
+      "lon": 80.2328345
+    },
+    {
+      "id": "chijssbwn4joujorv3nv61srrzc",
+      "title": "லட்சுமி மளிகை & ஜெனரல் ஸ்டோர்ஸ்",
+      "address": "krishnampet, Meccapuram, Mylapore, Chennai, Tamil Nadu 600005",
+      "lat": 13.0466254,
+      "lon": 80.27673349999999
+    },
+    {
+      "id": "chijm7zqa35eujorqxty7ynmqqq",
+      "title": "Thiruchendur Murugan Vegetable Store",
+      "address": "Medavakkam Main Rd, Chinna Kovilambakkam, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9436994,
+      "lon": 80.1830729
+    },
+    {
+      "id": "chijd1yqnr1eujort0tnshqb2yk",
+      "title": "Fatima General Store",
+      "address": "X5PF+J93 Fatima General Store, Indian Cargo & Travels, Dr Ambedkar St, Opp. South, Meenambakkam, Chennai, Tamil Nadu 600016",
+      "lat": 12.9865216,
+      "lon": 80.1734352
+    },
+    {
+      "id": "chijewtjhezgujort5dunggzopm",
+      "title": "Arush Retail",
+      "address": "1, Main Rd, Guruswamy Nagar, Extension, Madhanandapuram, Chennai, Tamil Nadu 600125",
+      "lat": 13.021184,
+      "lon": 80.1602362
+    },
+    {
+      "id": "chijjdwwsq5dujor_vcvqhpjbcg",
+      "title": "Krishnaveni Amma general stores",
+      "address": "No.1270, Ram Nagar South, Ram Nagar 17th Main Rd, Kuberan Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.956281899999999,
+      "lon": 80.20967089999999
+    },
+    {
+      "id": "chij0vr3gjtmujorcz5jtlsycqo",
+      "title": "Grocery And general stores",
+      "address": "21, Muthu St, Ganapathy Colony, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.052809499999999,
+      "lon": 80.2626693
+    },
+    {
+      "id": "chijc2ihup9eujor_uuwplsxotw",
+      "title": "Murugan General Stores",
+      "address": "No.22/2, Vadakkupattu Main Road, V.G.P Pushpa Nagar, Medavakkam, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.922285599999999,
+      "lon": 80.18582239999999
+    },
+    {
+      "id": "chijzc-isl9mujorxrbwfac1iq4",
+      "title": "Sat General Stores & Stationery",
+      "address": "Shop No, Sat General Stores & Stationery, 97, Mahalingapuram Main Rd, Kamdar Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.0558123,
+      "lon": 80.2348873
+    },
+    {
+      "id": "chij0_bumw1dujorwickn8sgjfw",
+      "title": "Sri Sivagami Annai Store",
+      "address": "No.30, Annanedusalai, Kandanchavadi, Chennai, Tamil Nadu 600096",
+      "lat": 12.967661099999999,
+      "lon": 80.2451451
+    },
+    {
+      "id": "chijxzbilrhfujorqdidibfy0q4",
+      "title": "S.A General stores",
+      "address": "Ambal Nagar, 3rd Street, Mullai Nagar Main Rd, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.932453899999999,
+      "lon": 80.10360829999999
+    },
+    {
+      "id": "chijlx8y79beujor1snutoxn-jm",
+      "title": "Muthu General stores",
+      "address": "W532+R3X Muthu General stores, Bhuvaneshwari Nagar, Padamavathy Nagar, Yeswanth Nagar, Selaiyur, Tambaram, Tamil Nadu 600126",
+      "lat": 12.9046088,
+      "lon": 80.1502294
+    },
+    {
+      "id": "chij1bzzxv5nujornm_fw5kith0",
+      "title": "Sri Velu Store",
+      "address": "1st Main Rd, Kakkan Nagar, Adambakkam, Kanchipuram, Chennai, Tamil Nadu 600088",
+      "lat": 12.9916697,
+      "lon": 80.2056254
+    },
+    {
+      "id": "chij_0g-kuleujorqlwdrnxpt-w",
+      "title": "General Store",
+      "address": "W5F5+9VG General Store, Ponniamman Koil St, Kamarajapuram, Gowriwakkam, Sembakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9234388,
+      "lon": 80.1596986
+    },
+    {
+      "id": "chijysbmhqbzujorekqjxzgex3e",
+      "title": "JS General Store",
+      "address": "9/476/B (Plot No 2A), Thendral Avenue, Ottiambakkam Main Rd, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.877469699999999,
+      "lon": 80.192574
+    },
+    {
+      "id": "chijfwodiv9nujorrjgogujbunm",
+      "title": "Thirumalai Srinivasa Stores",
+      "address": "61, Kakkan Nagar Main Rd, Balakrishnapuram, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.9911554,
+      "lon": 80.2055268
+    },
+    {
+      "id": "chijaqgcdp5oujor61pecx4mxyc",
+      "title": "Thenmani stores",
+      "address": "21, Thenmani stores, 41, Car St, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.054771599999999,
+      "lon": 80.27791909999999
+    },
+    {
+      "id": "chijtrzq8ubdujorwytby1chbbe",
+      "title": "Sri Murugan Departmental Stores",
+      "address": "1/618, SH 49, Valmiki Nagar, Kannappa Nagar, Kottivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.973600999999999,
+      "lon": 80.258016
+    },
+    {
+      "id": "chij5suhmmldujorrhrcdqs6dwu",
+      "title": "JAGADAMBA PROVISION STORE",
+      "address": "No 9 Arun Nagar, 1st Street, Thulukanataman Koil, Main Rd, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9308857,
+      "lon": 80.2111843
+    },
+    {
+      "id": "chijr31etujmujorms-tyijsxbm",
+      "title": "Jayapandian General Stores",
+      "address": "71/38, Rama St, Ponnangipuram, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.05692,
+      "lon": 80.243319
+    },
+    {
+      "id": "chijzbf4jrhcujoroqqvqptp0za",
+      "title": "Jayajothi Store",
+      "address": "No. 1/908, Jayajothi Store, Anna Salai, Nesavalar nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9179,
+      "lon": 80.1981383
+    },
+    {
+      "id": "chijpw6s7aleujord-pnwfkedfg",
+      "title": "praveen stores",
+      "address": "18, Easwaran Colony 2nd St, Lakshmi Nagar, AGS Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9717588,
+      "lon": 80.18629949999999
+    },
+    {
+      "id": "chijzw5m5wl1ujor9evubj2s2js",
+      "title": "SK General Store",
+      "address": "No.32, SK General Store, Shiva Shanmuga Nagar Puduper, Kundrathur, Chennai, Puduppair, Tamil Nadu 600069",
+      "lat": 12.9805108,
+      "lon": 80.0457768
+    },
+    {
+      "id": "chiju4bczcpnujorst5a2v07pio",
+      "title": "Nellai Supermarket",
+      "address": "No:4, Nellai Supermarket, 8, Kamarajar Salai, Nehru Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.031709,
+      "lon": 80.18787789999999
+    },
+    {
+      "id": "chijp0ix-pdcujorskprbyv0yp8",
+      "title": "Ganapathy Store",
+      "address": "P.T.C.Quaters, 4/656, Rajiv Gandhi Salai, Muttukkaranchavadi, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9325247,
+      "lon": 80.2325431
+    },
+    {
+      "id": "chij99zulkt3ujornbl82vky_7k",
+      "title": "Big SAVE SUPERSTORE",
+      "address": "1, GST Rd, Potheri, Srm Hospital, Kanchipuram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8194468,
+      "lon": 80.0367133
+    },
+    {
+      "id": "chij56_vegcnujor6tqhwny_g3y",
+      "title": "General Store DDR",
+      "address": "2254+CWW General Store DDR, Thandalam, Tamil Nadu 602105",
+      "lat": 13.0087551,
+      "lon": 80.00740909999999
+    },
+    {
+      "id": "chijcquhsu9dujoreq1xcgtkpdc",
+      "title": "Sri Narayanan Store",
+      "address": "Nanganallur 2nd Main Rd, NCBS Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9857061,
+      "lon": 80.192483
+    },
+    {
+      "id": "chijvyfgj1r2ujorolsipsinscq",
+      "title": "NEW BALAJI STORE",
+      "address": "No,26, NEW BALAJI STORE, Yamuna Nagar, Arul Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603211",
+      "lat": 12.8591524,
+      "lon": 80.06269329999999
+    },
+    {
+      "id": "chijs0p7s-31ujorrzn9nftt_va",
+      "title": "Sri Provision Store",
+      "address": "No 2/71, Sri Provision Stores Netaji Nagar, 1st Main Road, West Lakshmi Nagar, Muduchur, Chennai, Kanchipuram, Tamil Nadu 600048",
+      "lat": 12.9058043,
+      "lon": 80.0649242
+    },
+    {
+      "id": "chij0rla3k5hujor-kwop2nho6c",
+      "title": "Sri Balaji General Store",
+      "address": ": 76, ANI Road, Balaji Avenue, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600056",
+      "lat": 13.0394299,
+      "lon": 80.1361464
+    },
+    {
+      "id": "chijwvxensnhujorkklekmbaph0",
+      "title": "Sri Ganapati Store",
+      "address": "21/23, Building, Senneerkuppam, Tamil Nadu 600056",
+      "lat": 13.048814799999999,
+      "lon": 80.11228229999999
+    },
+    {
+      "id": "chijnr8jvzj3ujorrrkgp_ve07q",
+      "title": "mathaji general store",
+      "address": "V37J+JV5 mathaji general store, Ambika Nagar, Revathipuram, Urapakkam, Ayyancheri, Tamil Nadu 603210",
+      "lat": 12.8640168,
+      "lon": 80.08224059999999
+    },
+    {
+      "id": "chijk97kowbnujorfpcajympcaw",
+      "title": "JS STORE",
+      "address": "no.117, Malligaipoo Kuppam Road, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0105934,
+      "lon": 80.2581129
+    },
+    {
+      "id": "chijpyma1qteujorynlb6sxcfcg",
+      "title": "Raja Maligai Store",
+      "address": "No.06, A.M.Jain College, Staff Colony, South Bakthavatsalam Nagar, Nangainallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9708849,
+      "lon": 80.18456979999999
+    },
+    {
+      "id": "chijmqaalchdujor6t8zuhskv0g",
+      "title": "JK Supermarket & Home Appliances",
+      "address": "PLOT NO. 41, 1st Main Rd, Thirumalai Nagar Annexe, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.959854199999999,
+      "lon": 80.243563
+    },
+    {
+      "id": "chijcw8cucpdujorfzdpxazpgec",
+      "title": "Gomati Store",
+      "address": "56, Sengeninamman Koil, Chennai, Tamil Nadu 600115",
+      "lat": 12.9516625,
+      "lon": 80.25300469999999
+    },
+    {
+      "id": "chijxxr8bud3ujordtghrdmtxqc",
+      "title": "SHREE SELVAN STORE",
+      "address": "No.1 3rd Street, Main Near, Church Road, Karanai Puduchery, Gokulam Colony Extension, Kanchipuram, Tamil Nadu 603202",
+      "lat": 12.848792099999999,
+      "lon": 80.0861327
+    },
+    {
+      "id": "chijdbv3nwd3ujorsw2wkefbypq",
+      "title": "Sri Murugan Departmental Store",
+      "address": "88, D.S.Nagar, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8811711,
+      "lon": 80.07439269999999
+    },
+    {
+      "id": "chij85uk8gpeujorlu7cbltbmvu",
+      "title": "Raja Stores",
+      "address": "X58P+X6C Raja Stores, Moovarasanpet, Raghava Nagar, Moovarasampet, Chennai, Tambaram, Tamil Nadu 600091",
+      "lat": 12.9674348,
+      "lon": 80.1855034
+    },
+    {
+      "id": "chijqylay85dujor4e4obbrmkvk",
+      "title": "General Store",
+      "address": "Elcot Sez, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.901215299999999,
+      "lon": 80.2234434
+    },
+    {
+      "id": "chijp5aj1fhnujore1vdo2bgdqw",
+      "title": "M. J. Provision Store",
+      "address": "31, South Main Road, 1st St, Balakrishnapuram, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.990414999999999,
+      "lon": 80.2040019
+    },
+    {
+      "id": "chijeqaredxnujorkjmiypap9js",
+      "title": "Sri Saravana Stores",
+      "address": "2/33, Ambal Nagar Main Rd, Poomagal Nagar, Gandhi Nagar, Chennai, Tamil Nadu 600032",
+      "lat": 13.017822899999999,
+      "lon": 80.2051781
+    },
+    {
+      "id": "chijszw7rmbmujorxb5qg6rw4vc",
+      "title": "General Stores",
+      "address": "Shop No 64, General Stores, Pushpa Nagar Main Rd, Pushpa Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.0585455,
+      "lon": 80.237389
+    },
+    {
+      "id": "chij63vmskt2ujorqg3og4cqm-u",
+      "title": "Annai Provisional Store",
+      "address": "V377+6R5 Annai Provisional Store, Jagadish Nagar, MG Nagar 1a, Urapakkam, Urappakkam, Tamil Nadu 603211",
+      "lat": 12.8630132,
+      "lon": 80.06459509999999
+    },
+    {
+      "id": "chijl_vn6ennujork2gng-5kjas",
+      "title": "Gowsik Stores",
+      "address": "31, Vembuli Subedar St, Ramapuram, Mela Ilandaikulam, Alandur, Chennai, Tamil Nadu 600016",
+      "lat": 13.0048236,
+      "lon": 80.20537639999999
+    },
+    {
+      "id": "chij8aabovfmujorf8kuiycq4hw",
+      "title": "Ambika Retail",
+      "address": "#25,Dr.Nair Road,T Nagar, Opp to Agada Hospital, Chennai, Tamil Nadu 600017",
+      "lat": 13.0435424,
+      "lon": 80.2410294
+    },
+    {
+      "id": "chij_95k93xdujoruwbibuynqhw",
+      "title": "Government Department Stores",
+      "address": "X6PR+G7H Government Department Stores, Periyar St, Kanaga Nagar, Anbalagan Nagar, Mahathma Gandhi Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.9863073,
+      "lon": 80.2407257
+    },
+    {
+      "id": "chijnqbuh2_3ujor7fomyharsvi",
+      "title": "Sri Ranga Store",
+      "address": "No 40, KALEDASSAN STREET, Revathipuram, Urapakkam, Chennai, Ayyancheri, Tamil Nadu 603210",
+      "lat": 12.8647563,
+      "lon": 80.08021719999999
+    },
+    {
+      "id": "chij73fwpftdujorgae_mrrup8c",
+      "title": "Singapore Shoppe",
+      "address": "3, Singapore Shoppe, 1, Kottivakkam Kuppam Rd, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9828719,
+      "lon": 80.2619235
+    },
+    {
+      "id": "chijgx_y7a73ujorn7tccdza0z8",
+      "title": "TamilNadu stores",
+      "address": "R2JW+59H TamilNadu stores, GST Rd, Potheri, SRM Nagar, Urapakkam, Thailavaram, Tamil Nadu 603203",
+      "lat": 12.830449999999999,
+      "lon": 80.0459833
+    },
+    {
+      "id": "chijltq71xtdujork1wkjy4zavk",
+      "title": "SHANMUGAM STORE",
+      "address": "No40a, Erikkari St, Anna Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.981581199999999,
+      "lon": 80.23794769999999
+    },
+    {
+      "id": "chijlwto71hnujor3zokhh0be8g",
+      "title": "Bhavani provision store",
+      "address": "No.1B, Kamarajar salai, Palavakkam, Radhakrishnan Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9912881,
+      "lon": 80.26153939999999
+    },
+    {
+      "id": "chijf9nbyqvcujorwf-thnc6zim",
+      "title": "S M PROVISION STORE",
+      "address": "1/160, Mettu St, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.906965099999999,
+      "lon": 80.1983805
+    },
+    {
+      "id": "chijcv6sngtdujorx81whnroqfs",
+      "title": "Krishna Provision Stores",
+      "address": "X68P+JCP Krishna Provision Stores, 2nd Main Rd, Phase-1, Kamarajar Nagar, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9665976,
+      "lon": 80.2360786
+    },
+    {
+      "id": "chij16pxfdbzujornt-zn-_jk9u",
+      "title": "PROVISION GROCERY",
+      "address": "39, Agaram Then Main Road Kamarajar, 1st St, Paduvanchery, Kanchipuram, Tamil Nadu 600126",
+      "lat": 12.888841999999999,
+      "lon": 80.1446332
+    },
+    {
+      "id": "chijbdgrwwlnujorlxtbroi5wqo",
+      "title": "Ammaiyappan provision stores",
+      "address": "37, Muthu St, Ganapathy Colony, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.052688999999999,
+      "lon": 80.26263999999999
+    },
+    {
+      "id": "chijxy6dwabzujorpahloblzmsy",
+      "title": "Laxmi provision store",
+      "address": "Bliss in the town, Suren tower, plot 42, phase 2, Polachery, Mambakkam, Chennai, Tamil Nadu 600127",
+      "lat": 12.8468415,
+      "lon": 80.1766293
+    },
+    {
+      "id": "chijc1bt8ztcujorheb8txgawzu",
+      "title": "Bhavani Provision Store",
+      "address": "No:4,Pilliyar Koil St,Jaladanpet Pallikarnai, Chennai, Tamil Nadu 600100",
+      "lat": 12.926119,
+      "lon": 80.2029323
+    },
+    {
+      "id": "chijyrwjmv5dujorvybroayn3nk",
+      "title": "PERUMAL PROVISION STORE",
+      "address": "10, MGR Main Rd, Kandhanchavadi, Perungudi, Kanchipuram, Chennai, Tamil Nadu 600096",
+      "lat": 12.969696599999999,
+      "lon": 80.24516969999999
+    },
+    {
+      "id": "chij9dlgzjfnujor07jk74qnm6i",
+      "title": "ADAYAR PROVISION STORE",
+      "address": "181/30, Canal Bank Rd, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0052124,
+      "lon": 80.2484959
+    },
+    {
+      "id": "chijn7zmtb9hujorcprbgu94ej0",
+      "title": "General Provisions Store",
+      "address": "X4PF+CX7 General Provisions Store, Netaji Nagar, Anakaputhur, Tambaram, Tamil Nadu 600070",
+      "lat": 12.986044,
+      "lon": 80.12491469999999
+    },
+    {
+      "id": "chijdzibowbdujortfyhlb06ane",
+      "title": "Sri mahalakshmi provision stores",
+      "address": "3, Sri Devi Karumari Amman Nagar Main Rd, Sri Devi Karumari Amman Nagar Devi, Devi Karumariamman Nagar Extension, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9771931,
+      "lon": 80.2169025
+    },
+    {
+      "id": "chijcx11ienbujoregny5wocv_e",
+      "title": "Ganesh Provision Store",
+      "address": "No.320, Karanai Main Road, Arasankazhani Bus Stop, Sithalakpakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.8817268,
+      "lon": 80.19290989999999
+    },
+    {
+      "id": "chijzfgqdy1mujoru97gdwcqkty",
+      "title": "Bharath Provision Store",
+      "address": "No 51, R H Road, Luz, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0389365,
+      "lon": 80.26759489999999
+    },
+    {
+      "id": "chijuynnce_3ujor5vx0kn-5dts",
+      "title": "Joan Provision Store",
+      "address": "No 8, Joan Provision Store, Thungabathra Nagar, Perumanttunallur, Tamil Nadu 603202",
+      "lat": 12.823223599999999,
+      "lon": 80.08225949999999
+    },
+    {
+      "id": "chijnzqwgkvzujorqt32r2d96jc",
+      "title": "New Madha Provision Store - Grocery Kandigai",
+      "address": "5th street, Vengadamangalam Rd, Chennai, Vengadamangalam, Tamil Nadu 600127",
+      "lat": 12.865948099999999,
+      "lon": 80.15174499999999
+    },
+    {
+      "id": "chijfyx39e9fujorxzcbotpppdc",
+      "title": "JAS PROVISION STORE",
+      "address": "8, Krishnaswami street, Krishnasamy Salai, Kattabomman Nagar, Old Pallavaram, Chennai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9580557,
+      "lon": 80.1629399
+    },
+    {
+      "id": "chij_11ycrhcujord8wwiwbowku",
+      "title": "Selvaganesh Provision Store",
+      "address": "3/150, Green Court, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9195298,
+      "lon": 80.1967318
+    },
+    {
+      "id": "chijm10bpxikujorfdh88wlpiuk",
+      "title": "Shree Namdev Provisions",
+      "address": "Lakshmipuram Main Rd, Nanbargal Nagar, Lakshmipuram, Ramachandran Nagar, Poonamallee, Tamil Nadu 600056",
+      "lat": 13.0388238,
+      "lon": 80.0959764
+    },
+    {
+      "id": "chija39vkx1nujor-xhogj43flq",
+      "title": "Provision store",
+      "address": "26JC+4JF Provision store, Panneerselvam Nagar, Saidapet, Chennai, Tamil Nadu 600033",
+      "lat": 13.0303198,
+      "lon": 80.2215623
+    },
+    {
+      "id": "chijqas1nf32ujormg-bvena3oo",
+      "title": "Welcome Provision Stores",
+      "address": "No:10, West Urappakkam, Station Rd, Velmurugan Nagar, Urapakkam, Chennai, Tamil Nadu 603202",
+      "lat": 12.8678163,
+      "lon": 80.0645572
+    },
+    {
+      "id": "chijsqzjbqd3ujor-jwtoo3gedg",
+      "title": "RK provisional store",
+      "address": "20, Railway Station Street, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.808676499999999,
+      "lon": 80.0273404
+    },
+    {
+      "id": "chijhastgut3ujorsuwt4wppz9i",
+      "title": "Sana Provision Store",
+      "address": "45, Karthick Nagar, Guduvancheri, Madambakkam, Tamil Nadu 603202",
+      "lat": 12.855456,
+      "lon": 80.05134439999999
+    },
+    {
+      "id": "chijofbehtvgujorufqvnscl1n4",
+      "title": "Provision Store",
+      "address": "24H9+R65 Provision Store, Balaji Ave, Sri Pandian Nagar, Ambal Nagar, MGR Nagar, Mangadu, Tamil Nadu 600122",
+      "lat": 13.029513,
+      "lon": 80.11810849999999
+    },
+    {
+      "id": "chijmyjlmcvmujorxcazn4tnuxs",
+      "title": "Lamcy Provision",
+      "address": "No:117/52, VM St, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0491806,
+      "lon": 80.2689706
+    },
+    {
+      "id": "chijj5muj8thujorob-kbsfc0ta",
+      "title": "STR Provisional Shop",
+      "address": "2nd street, Manali Ramakrishna Ave, Ambal Nagar, MGR Nagar, Mangadu, Tamil Nadu 600122",
+      "lat": 13.03431,
+      "lon": 80.11556
+    },
+    {
+      "id": "chij2sjpl-5dujorqmofs89cfmo",
+      "title": "Velmurugan Store",
+      "address": "32, Murugappa St, Lakshmi Nagar 1st St, Ganesh Nagar, Puzhuthivakkam, Goparasanallur, Tamil Nadu 600056",
+      "lat": 13.0449001,
+      "lon": 80.1247297
+    },
+    {
+      "id": "chijqws1wxzhujorjog4lmbfrlc",
+      "title": "MAHADEV PROVISION STORE",
+      "address": "NO 1/2 VANAGARAM MAN ROAD SRI KAMATCHIAMMAN NAGAR ALAPAKKAM PORUR, Chennai, Tamil Nadu 600116",
+      "lat": 13.0463653,
+      "lon": 80.16079979999999
+    },
+    {
+      "id": "chijusw89nrbujorvdn_6w1850w",
+      "title": "Shri Shanmuga Provision Store",
+      "address": "1a Vigneswara Nagar 2nd Street, TNHB, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8815067,
+      "lon": 80.2299961
+    },
+    {
+      "id": "chijf_nbelzhujorbkx_ms6q0wq",
+      "title": "Sri Krishana Provision Store",
+      "address": "131, Sornapuri, Kattupakkam, Kattuppakkam, Tamil Nadu 600056",
+      "lat": 13.037604499999999,
+      "lon": 80.12137419999999
+    },
+    {
+      "id": "chij71jluuldujort9np9bjeqts",
+      "title": "D S PROVISION STORE",
+      "address": "Plot No 511, 2nd Block Mylai, Balaji Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9553657,
+      "lon": 80.2124044
+    },
+    {
+      "id": "chijwfvmzkfnujorjzmid-znq4y",
+      "title": "Pandiyan Provision Store",
+      "address": "1A, Lourd Doss Grotto Rd, Arokya Matha Nagar, Little Mount, Chinnamalai, Chennai, Tamil Nadu 600015",
+      "lat": 13.0180589,
+      "lon": 80.2277745
+    },
+    {
+      "id": "chijr_gofyrdujor4owguslxe20",
+      "title": "SRI AYYANAR PROVISION STORE",
+      "address": "No5, 7th Main Rd, GKM Colony, Dhadeswaram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9823746,
+      "lon": 80.2254167
+    },
+    {
+      "id": "chij4evcsb5nujor11abcc8voqk",
+      "title": "Ulfath Provision Stores",
+      "address": "7/41, Raghava Colony W St, Ragavan Colony, Mettuppalayam, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.028920699999999,
+      "lon": 80.2145602
+    },
+    {
+      "id": "chijm_i4swbbujorwppzzf3hvj0",
+      "title": "Mataji Provision Store",
+      "address": "V66G+GWH Mataji Provision Store, Sardar Patel Rd, Semmancheri, Chennai, Tamil Nadu 600119",
+      "lat": 12.8613099,
+      "lon": 80.2273486
+    },
+    {
+      "id": "chij37xqylpdujordila9zd9cqc",
+      "title": "Sri Naveen Provision Store",
+      "address": "W792+G26 Sri Naveen Provision Store, Anna Enclave, Pallavan Nagar, Chennai, Tamil Nadu 600115",
+      "lat": 12.9187364,
+      "lon": 80.25000829999999
+    },
+    {
+      "id": "chijndjjvkpdujordgsyho2zk3w",
+      "title": "Velavan Provision Store",
+      "address": "No. 121, 5th E St, Kamaraj Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.987153399999999,
+      "lon": 80.25727909999999
+    },
+    {
+      "id": "chije7wytydhujorifcbxh5cqmm",
+      "title": "S.S. PROVISION STORE",
+      "address": "17, Ganapathinayagar St, Puttuppedu, Annai Sathya Nagar, Ramapuram, Chennai, Tamil Nadu 600116",
+      "lat": 13.0336539,
+      "lon": 80.17128989999999
+    },
+    {
+      "id": "chija8n2w8dnujorwrdljdlgqrk",
+      "title": "Siva Sundaram Provision Store",
+      "address": "New No 36; Old, Siva Sundaram Provision Store, 90, Greenways Rd, Bishop Garden, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0187647,
+      "lon": 80.2597579
+    },
+    {
+      "id": "chijn53e5yvnujorgigj5frjhv0",
+      "title": "S.S. Provision Store",
+      "address": "1-1, Kazhikundram, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.996264,
+      "lon": 80.24228579999999
+    },
+    {
+      "id": "chijh_kh00bdujorwbkhp_ocrya",
+      "title": "Mahalakshmi provision store",
+      "address": "No.1HB, Panchayat Main Rd, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9606184,
+      "lon": 80.24055349999999
+    },
+    {
+      "id": "chijubupkx9hujorb8w0vtewv1a",
+      "title": "SANTHOSH PROVISION STORES",
+      "address": "25HG+5RR SANTHOSH PROVISION STORES, 3, Appadurai St, Shanthi Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0280913,
+      "lon": 80.1770375
+    },
+    {
+      "id": "chijtwzhkztnujorpq6-fnybzgm",
+      "title": "New Ambal provision Store",
+      "address": "82/89, Kamaraj Ave 2nd St, Venkata Rathnam Nagar Extension, Venkata Rathinam Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0013911,
+      "lon": 80.2534411
+    }
+  ],
+  "updated_at_utc": "2026-09-27T11:00:39.276164+00:00"
+}

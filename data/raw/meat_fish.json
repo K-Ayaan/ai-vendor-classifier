@@ -1,0 +1,2270 @@
+{
+  "category": "meat_fish",
+  "status": "complete",
+  "count": 323,
+  "outside": 71,
+  "points": [
+    {
+      "id": "chijz4pdk7z3ujorzlfxb4glmeq",
+      "title": "Showgathali Mutton & Chicken Center",
+      "address": "V35C+WW4 Showgathali Mutton & Chicken Center, Chennai - Theni Hwy, Abnirami Nagar, Urapakkam, Chennai, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.859769799999999,
+      "lon": 80.0723269
+    },
+    {
+      "id": "chijh4r_3yh7ujorkbx3-2izkec",
+      "title": "KC Mutton",
+      "address": "No 04,Senkeani Amman Koil Street,Veerapuram Mahindhracity, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.740076,
+      "lon": 80.0005662
+    },
+    {
+      "id": "chijiqq1rth9ujorsar8iv0x3yq",
+      "title": "AL KABEER MUTTON AND CHICKEN STAR",
+      "address": "10 B Old, TKM Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6830099,
+      "lon": 79.9845887
+    },
+    {
+      "id": "chijo1p-hqazvtorrndrmrkuipc",
+      "title": "SS FRESH MEAT SHOP",
+      "address": "R29J+X5Q SS FRESH MEAT SHOP, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8199744,
+      "lon": 80.03047219999999
+    },
+    {
+      "id": "chijnyynaan5ujors9tdp2xk1ge",
+      "title": "KUTTY PROTEINS",
+      "address": "No 162 Sungudram road singaprumal koil, Chengalpattu, Tamil Nadu 603204",
+      "lat": 12.7588294,
+      "lon": 80.0099872
+    },
+    {
+      "id": "chijd1gpg2_8ujorrwnlcg7tijo",
+      "title": "K S Broilers",
+      "address": "239, Anna Salai, J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692377299999999,
+      "lon": 79.9775049
+    },
+    {
+      "id": "chijfy1vsnt9ujor5skjveybl8q",
+      "title": "Murfy fish center",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6802505,
+      "lon": 79.98083539999999
+    },
+    {
+      "id": "chijs-20fhf7ujorgybfym4u5a0",
+      "title": "JD Meat stall and fishes",
+      "address": "Mahindra world city, thirutheri, Tamil Nadu 603004",
+      "lat": 12.7383186,
+      "lon": 79.9993983
+    },
+    {
+      "id": "chijkz415bfrujordsrcfe-boyq",
+      "title": "ASHIQ MEAT MART - HALAL MUTTON, CHICKEN, TURKEY & RABBIT",
+      "address": "25, Rajiv Gandhi Salai, Thiruporur, Tamil Nadu 603110",
+      "lat": 12.7193808,
+      "lon": 80.18777159999999
+    },
+    {
+      "id": "chijffma3yt3ujora0yopodky-m",
+      "title": "A1 beef stall",
+      "address": "1, Meenakshi Nagar, Narayanapuram, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.83624,
+      "lon": 80.0680536
+    },
+    {
+      "id": "chijh7ukvar3ujor27bvn5pr0t0",
+      "title": "Quality Chicken",
+      "address": "R23J+F9G Quality Chicken, Aishwaryam Nagar, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.803684899999999,
+      "lon": 80.0309515
+    },
+    {
+      "id": "chijjrdqdn35ujornxvij7uk4hy",
+      "title": "AAA MEAT CENTER",
+      "address": "Q2RJ+GW3 AAA MEAT CENTER, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.791256899999999,
+      "lon": 80.03229069999999
+    },
+    {
+      "id": "chijuswlewd3ujorzpltptopmxm",
+      "title": "KRISPY KING",
+      "address": "849, Nellikuppam Rd, Kameshwary Nagar, Perumanttunallur, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.817149899999999,
+      "lon": 80.0768949
+    },
+    {
+      "id": "chijlrp8s-j5ujora3qcbojg_lo",
+      "title": "S K MUTTON & CHICKEN STALL",
+      "address": "P2FG+2FC S K MUTTON & CHICKEN STALL, Kunnvakkam Anjur Rd, Mahindra World City, Kondamangalam, Anjur, Tamil Nadu 603204",
+      "lat": 12.72257,
+      "lon": 80.0261415
+    },
+    {
+      "id": "chijwyqxr6z3ujorhqaa8xoaf_s",
+      "title": "Raheem Basha & Brothers Mutton Store",
+      "address": "140/8, Nellikuppam Rd, Kamarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8424141,
+      "lon": 80.0608228
+    },
+    {
+      "id": "chijy7tjp8f3ujorndumjjjz5me",
+      "title": "Al Hayath Chicken Point",
+      "address": "4/8A, GST Rd, Pandian Nagar, Thailavaram, Tamil Nadu 603202",
+      "lat": 12.830636799999999,
+      "lon": 80.0454056
+    },
+    {
+      "id": "chijmvzkfuh5ujorxv3ocnhkwe8",
+      "title": "SM BASHA CHICKEN AND MUTTON STALL",
+      "address": "Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7958996,
+      "lon": 80.0274037
+    },
+    {
+      "id": "chijsx1xtad3ujoraewv-wiu8za",
+      "title": "Beef Stall",
+      "address": "114, Thailavaram, Tamil Nadu 603203",
+      "lat": 12.8354767,
+      "lon": 80.0443647
+    },
+    {
+      "id": "chijss8qka33ujorxjkmt1cb4oc",
+      "title": "Plaza Chicken & Fish Corner",
+      "address": "Fish Market, 17, Nandhivaram Main Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8462041,
+      "lon": 80.0624828
+    },
+    {
+      "id": "chijkcqi8nb3ujorjfoyw1a37us",
+      "title": "MUSTAFA MUTTON AND CHICKEN CENTER",
+      "address": "4, Kaiyarambedu Road, Kayarambedu, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.838686599999999,
+      "lon": 80.0657957
+    },
+    {
+      "id": "chijyymep0p5ujorze1kwi2k8hw",
+      "title": "Fresh Meat",
+      "address": "Q2F7+X2P Fresh Meat, Abdul Kalam Rd, Maraimalai Nagar, Kattankolatur R.F., Tamil Nadu 603204",
+      "lat": 12.774968099999999,
+      "lon": 80.0125738
+    },
+    {
+      "id": "chijswpel2n3ujorlpb9ep2rxci",
+      "title": "Bismillah Chicken Centre",
+      "address": "R28P+2F6 Bismillah Chicken Centre, Periyar St, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8150412,
+      "lon": 80.0361382
+    },
+    {
+      "id": "chijwzyjhup5ujorfuzrw-3qacq",
+      "title": "Boy Kadai Mutton Shop (Paay Kadai Aattu Kari)",
+      "address": "Q2WG+67J Boy Kadai Mutton Shop (Paay Kadai Aattu Kari), Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7955899,
+      "lon": 80.0256344
+    },
+    {
+      "id": "chijzzlf5vz5ujorve25vmyeqdy",
+      "title": "Suguna Chicken",
+      "address": "#B/6, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7960177,
+      "lon": 80.0281105
+    },
+    {
+      "id": "chijk4t5ge72ujor6drlgoyuepa",
+      "title": "B S Y Chicken Center",
+      "address": "6, 1st Cross St, Mahalakshmi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8525987,
+      "lon": 80.06749239999999
+    },
+    {
+      "id": "chijcvinm479ujorsgy_o57rrps",
+      "title": "Meat and eat",
+      "address": "Ground Floor, Meat and eat, RAHAMATH MALL, 50, GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6803894,
+      "lon": 79.9809629
+    },
+    {
+      "id": "chijh8qyl633ujor3rebjg64-w4",
+      "title": "Abdul Chicken Center",
+      "address": "4, Fish Market Road, near Fish Market, Jaibeemnagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8461147,
+      "lon": 80.0624474
+    },
+    {
+      "id": "chije13ldwh3ujor-0iagycohp8",
+      "title": "A.J Mutton Stall",
+      "address": "1/1, Pillayar Kovil st, Kamarajapuram, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8437191,
+      "lon": 80.0600262
+    },
+    {
+      "id": "chijo8gmlqz3ujorceozstxn_b4",
+      "title": "Fathima Proteins",
+      "address": "12, Nellikuppam Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8397341,
+      "lon": 80.0633007
+    },
+    {
+      "id": "chijn2eqz5_3ujor4ddcoxqv33u",
+      "title": "Basith Chicken & Motton Centre",
+      "address": "Masoodi Complex, 1, Nellikuppam Rd, Kamarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8422804,
+      "lon": 80.061075
+    },
+    {
+      "id": "chijzyxqdav3ujornsqvepmwhdc",
+      "title": "Government poultry farm kattupakkam",
+      "address": "83, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8180404,
+      "lon": 80.0360025
+    },
+    {
+      "id": "chijhegdcph5ujor8lonox-npyu",
+      "title": "MDM நாட்டுக்கோழி பண்ணை",
+      "address": "Rajive gandhi nagar, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.797951,
+      "lon": 80.04263519999999
+    },
+    {
+      "id": "chijqru65ur3ujorz3klojfx_to",
+      "title": "ANBU CHICKEN CENTER",
+      "address": "No.457, ThiruValluvar Salai, Guruganesh Nagar, Iyyapa Nagar, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8097546,
+      "lon": 80.07660969999999
+    },
+    {
+      "id": "chijl9blpsj3ujor1a7_inrpjac",
+      "title": "A R & SONS BEEF STALL",
+      "address": "No. 5, Adhanur Main Rd, Anna Ambedhkar Nagar, Urapakkam, Mannivakkam, Tamil Nadu 603211",
+      "lat": 12.8697997,
+      "lon": 80.0605743
+    },
+    {
+      "id": "chijxv-fagd5ujoroyueufghntg",
+      "title": "BISMILLAH CHICKEN AND MUTTIN CENTER",
+      "address": "Kambar Rd, nh2, Maraimalai Nagar, Chennai, Tamil Nadu 603209",
+      "lat": 12.791539799999999,
+      "lon": 80.03195579999999
+    },
+    {
+      "id": "chijkdpcr6z3ujorn9e4376mowg",
+      "title": "Bismilllah Chicken Mart",
+      "address": "No-140, Mask Complex, First Shop, Chennai, Nellikuppam Rd, Nandhivaram, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.842348999999999,
+      "lon": 80.060875
+    },
+    {
+      "id": "chij1zbihzb3ujortn8g1du1vxq",
+      "title": "Aandavar meat & Fish shop.",
+      "address": "R3X5+8H3 Aandavar meat & Fish shop., Madambakkam Main Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.848252899999999,
+      "lon": 80.0589304
+    },
+    {
+      "id": "chijc0mdgp_3ujor-kzgpsduvmq",
+      "title": "Thaadikaaran’s BBQ",
+      "address": "NH Service Road, Potheri, SRM Nagar, Thailavaram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8286185,
+      "lon": 80.04404
+    },
+    {
+      "id": "chijfvimotr9ujoryeyma6-mfiy",
+      "title": "Bismilla Chicken and Mutton Center",
+      "address": "54, Manapakkam Kanni Koil Rd, opp. to Priya Tailor, Chengalpattu, Irungkundrampalli, Tamil Nadu 603111",
+      "lat": 12.650980299999999,
+      "lon": 79.9651966
+    },
+    {
+      "id": "chijmssci_f3ujork8jdwvfisjo",
+      "title": "Bismillah Chicken center",
+      "address": "dead end, No 17 Gandhi Nagar 3 rd street, rd street, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.840017099999999,
+      "lon": 80.0594564
+    },
+    {
+      "id": "chijatevfw_9ujorg1-yonlafue",
+      "title": "Mutton shop",
+      "address": "MXVG+M6V Mutton shop, Vedhaper St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694229,
+      "lon": 79.9756484
+    },
+    {
+      "id": "chijauypqqz3ujorxfzwf733p1w",
+      "title": "Madeena Chicken Centre",
+      "address": "No-142, Madeena Chicken Centre, 3, Nellikuppam Rd, Kamarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8433732,
+      "lon": 80.0602735
+    },
+    {
+      "id": "chij4wtlla33ujorahuit5xgj0e",
+      "title": "Thilagavathi Chicken Centre",
+      "address": "25, Fish Market, NH Service Road, Jaibeemnagar, Chennai, Tamil Nadu 603202",
+      "lat": 12.8463358,
+      "lon": 80.0625227
+    },
+    {
+      "id": "chijivuozsp3ujor8pmdt_jpl_a",
+      "title": "RIB MEATS",
+      "address": "Shop No.2 Anaithu peruratchi, RIB MEATS, Anna marumalarchi thittam Complex, Nellikuppam Rd, Kamarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.841528799999999,
+      "lon": 80.061487
+    },
+    {
+      "id": "chijutk4arb9ujorestg4wlsfqs",
+      "title": "AMMANAULLA A1 BEEF STALL",
+      "address": "MXMP+57X AMMANAULLA A1 BEEF STALL, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.682979399999999,
+      "lon": 79.9858268
+    },
+    {
+      "id": "chijdqhoma33ujor1gah-box1xi",
+      "title": "B. Abubakkar Mutton Stall",
+      "address": "Fish Market, 10/7, Nandhivaram Main Rd, Nandhivaram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.846211499999999,
+      "lon": 80.0626174
+    },
+    {
+      "id": "chijp5tat2_8ujor-mwtcmjncjy",
+      "title": "Flower Market, Chengalpattu",
+      "address": "Anna Salai High Rd J C K Nagar Chengalpattu Kanchipuram Tamil Nadu 603001 Republic of, Tamil Nadu 603002",
+      "lat": 12.6940729,
+      "lon": 79.9774043
+    },
+    {
+      "id": "chijpthvked3ujor_rkeoh2llm8",
+      "title": "Mustafa Mutton And Chicken Stall",
+      "address": "Nellikuppam Rd, Iyyapa Nagar, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8102033,
+      "lon": 80.077117
+    },
+    {
+      "id": "chijvtu4fwd5ujorobz254hkzs8",
+      "title": "Bismi Broilers",
+      "address": "Q2V9+XRQ Bismi Broilers, Peramanur, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7949705,
+      "lon": 80.0196045
+    },
+    {
+      "id": "chijw1exsw33ujorfpgo0tj8q_u",
+      "title": "Blue Berry Super Market",
+      "address": "70, Pillayar Koil St, Potheri, CHENNAI, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8203579,
+      "lon": 80.04085529999999
+    },
+    {
+      "id": "chij4x0mrff3ujor-xveiyaaf1e",
+      "title": "GST Food Street",
+      "address": "GST FOOD STREET, GST Rd, Chennai, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.833270899999999,
+      "lon": 80.0490851
+    },
+    {
+      "id": "chijjfwwi6jxujorlegvhleejqa",
+      "title": "SR Protein Chicken & Mutton Shop",
+      "address": "Bharath petrol, No. 1 Vandalur Walajabath main road karanithangal, opp. Kanchipuram, Karanaithangal, Tamil Nadu 601301",
+      "lat": 12.8706544,
+      "lon": 79.9784303
+    },
+    {
+      "id": "chij1uaaeql7ujorrn4d4rh6czu",
+      "title": "VKR FOODS",
+      "address": "No5B sai, behind A2B, Srivari Nagar, Singaperumal Koil, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.764620899999999,
+      "lon": 80.0111786
+    },
+    {
+      "id": "chij81ks5ol5ujorj_g4ij-nhdq",
+      "title": "A k Malik mutton and chicken shop",
+      "address": "15, GST Rd, Peramanur, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.7893779,
+      "lon": 80.01654549999999
+    },
+    {
+      "id": "chijg8j2lq33ujoranyyfvblfua",
+      "title": "Fish Market",
+      "address": "Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.846269699999999,
+      "lon": 80.06242
+    },
+    {
+      "id": "chijv53imk33ujoraz11xwohepu",
+      "title": "R3W7+94X Fish Market",
+      "address": "Nandhivaram Main Rd, near kayarambedu, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8460323,
+      "lon": 80.0628893
+    },
+    {
+      "id": "chiji7foma33ujorybzmujwkafe",
+      "title": "Fish Market",
+      "address": "10/7, Nandhivaram Main Rd, Nandhivaram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8462303,
+      "lon": 80.06262149999999
+    },
+    {
+      "id": "chij69ohoejpujoruoys-g4kmmm",
+      "title": "Marina Beach Fish Market",
+      "address": "113, Kamarj Salai, Nochi Nagar, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.038715499999999,
+      "lon": 80.28037239999999
+    },
+    {
+      "id": "chijhqpy2ezdujoro357ivxcquk",
+      "title": "Vettuvankeni Fish Market",
+      "address": "3/235-A, Vettuvankeni Fish Market, Bismillah Nagar, Pandian Nagar, Vettuvankeni, Chennai, Tamil Nadu 600115",
+      "lat": 12.937460699999999,
+      "lon": 80.2524038
+    },
+    {
+      "id": "chijmqs3llrdujorxehi6hby9yo",
+      "title": "PSR Fish Market",
+      "address": "Munusamy Nagar, Vimala Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9146027,
+      "lon": 80.19111769999999
+    },
+    {
+      "id": "chij-w_nrzrhujore5iex1gbqpo",
+      "title": "Chennai Fish Mart",
+      "address": "Plot No 261, Indira Gandhi Rd, Alwartirunagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.0504003,
+      "lon": 80.18316109999999
+    },
+    {
+      "id": "chijotfzab1hujorjhenduqv2w0",
+      "title": "N.S.N Market, Porur",
+      "address": "25P4+2H7 N.S.N Market, Porur, Arcot Rd, Ramakrishna Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.035045799999999,
+      "lon": 80.1564289
+    },
+    {
+      "id": "chijo6epemlfujoreyms-16g9by",
+      "title": "PKS fish market",
+      "address": "Muthuppalaniappan Nagar, Nagalkeni, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9650161,
+      "lon": 80.134778
+    },
+    {
+      "id": "chijs1ggdsnhujorjkv604l0eau",
+      "title": "AGS mini fish market",
+      "address": "No.56, AGS mini fish market, 4, Mugalivakkam Main Rd, Annai Velankanni Nagar Phase 1, Madhanandapuram, Chennai, Tamil Nadu 600125",
+      "lat": 13.0222792,
+      "lon": 80.14872679999999
+    },
+    {
+      "id": "chijlurvrn9eujorjcjz1cviqec",
+      "title": "Indira Nagar Fish Market",
+      "address": "W47V+8FM Indira Nagar Fish Market, Agaram Main Rd., KVK Nagar, Indira Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9133348,
+      "lon": 80.14367179999999
+    },
+    {
+      "id": "chijgqfzvvlnujor72eiq-qdbu4",
+      "title": "Odaimannagar Fish Market",
+      "address": "X7WC+H76 Odaimannagar Fish Market, Odaimanagar, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.9964184,
+      "lon": 80.2706489
+    },
+    {
+      "id": "chij-_pjwmxdujorgqt3bqkma6u",
+      "title": "Palavakkam Fish Market",
+      "address": "X765+RFH Palavakkam Fish Market, VGP Layout, Palavakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.9620713,
+      "lon": 80.25874809999999
+    },
+    {
+      "id": "chij0soewifbujorba5vxrudv5m",
+      "title": "Sholinganallur Fish Market",
+      "address": "V6VH+24M Sholinganallur Fish Market, Rajiv Gandhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8925983,
+      "lon": 80.22779659999999
+    },
+    {
+      "id": "chijlzmzttpdujor181_bcxoide",
+      "title": "Kottivakkam Fish Market",
+      "address": "X787+QXX Kottivakkam Fish Market, New Waterlans Dr, Kottivakkam Kuppam, Kottivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.9669884,
+      "lon": 80.2649747
+    },
+    {
+      "id": "chijbtu7n6b2ujorx_yfxsdh-yg",
+      "title": "Padappai Fish Market",
+      "address": "V2PC+RFX, Bazzar Street, Vandalur - Oragadam - Walajabad Rd, Thiru Nagar, Navashakti Nagar, Padappai, Tamil Nadu 601301",
+      "lat": 12.8871577,
+      "lon": 80.02133119999999
+    },
+    {
+      "id": "chija-shsihhujorftprpugi36q",
+      "title": "Mettukuppam Fish market",
+      "address": "NT Patel Rd, Mettukuppam, Chennai, Tamil Nadu 600107",
+      "lat": 13.0563715,
+      "lon": 80.1795534
+    },
+    {
+      "id": "chijoxlr18vdujorh0jjlr-hhmu",
+      "title": "Diya Seafoods Market",
+      "address": "FOOT BALL GROUND, No: 2/1795, Dr Ambedkar Salai, opp. to FC MEENA, S. Kolathur, LIC Nagar, Alaiamman Nagar, Madipakkam, Tambaram, Tamil Nadu 600091",
+      "lat": 12.953472,
+      "lon": 80.19957269999999
+    },
+    {
+      "id": "chijqz_b4lxdujorn2yjlmyps6q",
+      "title": "Kottivakkam Fish Market",
+      "address": "X795+V3J Kottivakkam Fish Market, East Coast Rd, Swaminathan Nagar, Kottivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.9697021,
+      "lon": 80.2576321
+    },
+    {
+      "id": "chijx3zxysjdujoriednew3goym",
+      "title": "Fish Market",
+      "address": "X734+962 Fish Market, East Coast Rd, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.953393499999999,
+      "lon": 80.2555105
+    },
+    {
+      "id": "chij7xnytw1nujortiz-5qvlgvq",
+      "title": "Urur Olcott Kuppam Fish Market",
+      "address": "2, Ellaiamman Koil St, Urrur Kuppam, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 13.003850799999999,
+      "lon": 80.2728024
+    },
+    {
+      "id": "chij_2evdgbpujorww7adpmls-s",
+      "title": "Lighthouse Fish market",
+      "address": "27PH+2WP Lighthouse Fish market, Loop Rd, Dummingkuppam, Chennai, Tamil Nadu 600004",
+      "lat": 13.0348317,
+      "lon": 80.2796061
+    },
+    {
+      "id": "chij0_x4oofdujor8lln6umheao",
+      "title": "Madipakkam Fish Market",
+      "address": "4/4A, Puzhuthivakkam, Madipakkam, Moovarasampettai, Tamil Nadu 600091",
+      "lat": 12.9693481,
+      "lon": 80.1902853
+    },
+    {
+      "id": "chijrcfzkyboujorz-yf4epci3i",
+      "title": "NOCHIKUPPAM Fish Market",
+      "address": "27QJ+535 NOCHIKUPPAM Fish Market, Loop Salai, Loop Rd, Kamarj Salai, Nochi Nagar, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.037877199999999,
+      "lon": 80.2802304
+    },
+    {
+      "id": "chijzxhkc6hpujorp2tjscorhws",
+      "title": "Pattinapakkam Fish Market",
+      "address": "Loop Rd, Dummingkuppam, Chennai, Tamil Nadu 600004",
+      "lat": 13.0303873,
+      "lon": 80.27923679999999
+    },
+    {
+      "id": "chijbww-7qrdujorywrvs8dx6lu",
+      "title": "Fish Market",
+      "address": "X62R+JGJ Fish Market, Vembuli Amman Koil St, near Kaliyamman kovil and Fish market, Seevaram, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.951580799999999,
+      "lon": 80.2412787
+    },
+    {
+      "id": "chij-1fuwinnujork0fc3vgfrq0",
+      "title": "Fish Market",
+      "address": "Jeenis Rd, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.0213627,
+      "lon": 80.22422399999999
+    },
+    {
+      "id": "chijtyzbz19bujorbmjyryk-w4y",
+      "title": "Fresh Fish - We know how to choose Fresh Fish",
+      "address": "Jawaharlal Nehru Salai, Anna Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.9814116,
+      "lon": 80.2358352
+    },
+    {
+      "id": "chijj4kliwbhujorvi-j1vmgwbc",
+      "title": "Mugalivakkam Roadside Sunday Fish Market",
+      "address": "25H9+Q73 Mugalivakkam Roadside Sunday Fish Market, Mugalivakkam, Kamala Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.029397999999999,
+      "lon": 80.1681768
+    },
+    {
+      "id": "chij_fqsi65hujorok51c6imcus",
+      "title": "Gandhi Fish Market",
+      "address": "Gandhi St, Metro Star City, Kollachery, Manikandan Nagar, Kundrathur, Chennai, Kunrattur, Tamil Nadu 600069",
+      "lat": 12.987658099999999,
+      "lon": 80.11811639999999
+    },
+    {
+      "id": "chijert5fizdujorlrcm0so0hvk",
+      "title": "FishBasket",
+      "address": "Plot No:23, 2nd Main Rd, behind Nayara Petrol Bunk, West Lakshmi Nagar, Mudichur, Chennai, Tamil Nadu 600048",
+      "lat": 12.9030924,
+      "lon": 80.0648319
+    },
+    {
+      "id": "chijxccjxphgujorvi07ozmkkiw",
+      "title": "Madhanandapuram Fish Market",
+      "address": "3/526, Moulivakkam, Mowlivakkam, Tamil Nadu 600125",
+      "lat": 13.0226185,
+      "lon": 80.1445761
+    },
+    {
+      "id": "chija9f7iblcujors_svbfz86ke",
+      "title": "Fish Market",
+      "address": "W59J+MV2 Fish Market, Medavakkam Junction, Perumbakkam Main Rd, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.919144099999999,
+      "lon": 80.1821294
+    },
+    {
+      "id": "chijz7ueqzhpujorr0dfrgv3lw8",
+      "title": "Pattinapakkam Fish Market பட்டினபாக்கம் மீன் சந்தை",
+      "address": "27FH+26Q Pattinapakkam Fish Market பட்டினபாக்கம் மீன் சந்தை, Block AT, Foreshore Estate, Chennai, Tamil Nadu 600028",
+      "lat": 13.0225949,
+      "lon": 80.27809769999999
+    },
+    {
+      "id": "chijzthbvz5hujorunblycd7g88",
+      "title": "FRESH FISH MART",
+      "address": "A1, Kundrathur Main Rd, Periyapanicheri, Gerugambakkam, Chennai, Tamil Nadu 600128",
+      "lat": 13.0128685,
+      "lon": 80.13316879999999
+    },
+    {
+      "id": "chijixentdpnujorkxvwovul7j0",
+      "title": "Kodambakkam Fish Market",
+      "address": "363J+GPR Kodambakkam Fish Market, Parthsarathy Puram, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.053866699999999,
+      "lon": 80.2317518
+    },
+    {
+      "id": "chijn0jz4rnfujorstzqvd1xkka",
+      "title": "Amma Fish Stall",
+      "address": "W4FG+JCC Amma Fish Stall, Kambar St, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.924065899999999,
+      "lon": 80.1260242
+    },
+    {
+      "id": "chijezv7kmnnujor1ro3tnad86w",
+      "title": "V3 Seafood",
+      "address": "No 52, B Ramachandra Adithanar Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0096911,
+      "lon": 80.25180189999999
+    },
+    {
+      "id": "chijfahqrernujorhhjig86roco",
+      "title": "MGR Fish Market And Curry Market",
+      "address": "2623+2GC MGR Fish Market And Curry Market, MKN Rd, Ramapuram, Alandur, Chennai, Tamil Nadu 600016",
+      "lat": 13.0000625,
+      "lon": 80.20375849999999
+    },
+    {
+      "id": "chijwda_g5jmujoreux11ekxbku",
+      "title": "Periyar pathai fish shop",
+      "address": "Periyar Pathai, Avvai Nagar, Choolaimedu, Chennai, Tamil Nadu 600094",
+      "lat": 13.059707099999999,
+      "lon": 80.2204359
+    },
+    {
+      "id": "chijy9twftlpujore3wafwg62du",
+      "title": "Corporation Fish Market Nadukuppam",
+      "address": "Fish market, main road, Avvai Shanmugham Salai, Naddu Kuppam, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0464855,
+      "lon": 80.27827839999999
+    },
+    {
+      "id": "chijr0ud0o-lujorlp07pkmplzq",
+      "title": "Fish market - Chembarambakkam lake",
+      "address": "X3WJ+45W Fish market - Chembarambakkam lake, Kavanur, Tamil Nadu 600069",
+      "lat": 12.995356399999999,
+      "lon": 80.0804457
+    },
+    {
+      "id": "chijgxsvi9tdujorgwz-tlr4s30",
+      "title": "Chinna Neelankarai Fish Market",
+      "address": "31190, Singaravelan Salai Rd, Chinna Nilangarai Kuppam, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.9544192,
+      "lon": 80.26273599999999
+    },
+    {
+      "id": "chijob3agojbujorkadfxed3xho",
+      "title": "Sumathi seafood market",
+      "address": "fish market, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8929481,
+      "lon": 80.2278518
+    },
+    {
+      "id": "chijiyte7qdhujoro3hfo_8pdw8",
+      "title": "VKM Fish stall",
+      "address": "25C4+7M6 VKM Fish stall, Ramya Nagar, Mugalivakkam, Chennai, Tamil Nadu 600125",
+      "lat": 13.020664199999999,
+      "lon": 80.15665179999999
+    },
+    {
+      "id": "chijo9iuf9x1ujorghvb7uxdtyg",
+      "title": "Fish Market",
+      "address": "68, Mudichur Rd, Raja Rajeswari Nagar, Shanthi Nagar, Chennai, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.9187268,
+      "lon": 80.0831583
+    },
+    {
+      "id": "chijgzrgguteujorw42c9l14f7m",
+      "title": "Freshma Fish Stall Gowriwakkam",
+      "address": "Sivagami Nagar, Gowriwakkam, Sembakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9221335,
+      "lon": 80.163268
+    },
+    {
+      "id": "chijku8l3abnujor_ihbpud4ong",
+      "title": "Fish market",
+      "address": "26JH+5VH Fish market, Kannammapet, CIT Nagar, Chennai, Tamil Nadu 600035",
+      "lat": 13.0304471,
+      "lon": 80.22973019999999
+    },
+    {
+      "id": "chijedrwbwvfujor2-5zsflvjyq",
+      "title": "Mohan Fish Market",
+      "address": "4/247, Main Rd, Moovarasanpet, Kennedy Valley, Madipakkam, St.Thomas Mount-cum-Pallavaram, Chennai, Tamil Nadu 600091",
+      "lat": 12.967887999999999,
+      "lon": 80.181826
+    },
+    {
+      "id": "chijc76btmxdujorc_pwtnxakrk",
+      "title": "ARF Sea Food",
+      "address": "18, Velachery Main Rd, Narayanapuram, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9405966,
+      "lon": 80.2059719
+    },
+    {
+      "id": "chijn8u4ww9cujorzasdrapd6ys",
+      "title": "Amma Fish Stall",
+      "address": "306, Perumbakkam Main Rd, VGP Prabhu Nagar, Perumbakkam, Kanchipuram, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9077495,
+      "lon": 80.1999422
+    },
+    {
+      "id": "chijdr-qpqbdujortaqyuwiymnk",
+      "title": "A to Z FISH STALL",
+      "address": "Perungudi Station Rd, Subramaniam Colony, Bhuvaneshwari Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.968983999999999,
+      "lon": 80.22027179999999
+    },
+    {
+      "id": "chijl4dfuhddujorhw1k2lcwyru",
+      "title": "Perungudi ANNA FISH MARKET",
+      "address": "X69V+54R Perungudi ANNA FISH MARKET, Anna Nedunchalai, Govindasamy Nagar, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9679878,
+      "lon": 80.2427663
+    },
+    {
+      "id": "chijm9naf79nujorbgnxghslcmu",
+      "title": "Fish Market 80ft road",
+      "address": "100, 80 Feet Road, Sathya Garden, K. K. Nagar, Chennai, Tamil Nadu 600093",
+      "lat": 13.0471971,
+      "lon": 80.1994665
+    },
+    {
+      "id": "chijywxp_zfhujorrf3huhlgsja",
+      "title": "FRESH FISH MART",
+      "address": "No:107/1A1B, FRESH FISH MART, INDRA NAGAR, Maharishi Teacher's Colony, Sivabatham, Vanagaram, Tamil Nadu 600095",
+      "lat": 13.053349899999999,
+      "lon": 80.1520116
+    },
+    {
+      "id": "chijffeobaekujorzynqkb8cxjq",
+      "title": "Kundrathur Fish Market",
+      "address": "X3XW+QQP Kundrathur Fish Market, Bazaar St, Kundrathur, Chennai, Kunrattur, Tamil Nadu 600069",
+      "lat": 12.999464399999999,
+      "lon": 80.0969557
+    },
+    {
+      "id": "chijcatvbw9nujorcjpsrvmmhee",
+      "title": "Saidapet Market",
+      "address": "36, Jeenis Rd, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.0211116,
+      "lon": 80.2239403
+    },
+    {
+      "id": "chijq6-llrjfujorjetl657fybe",
+      "title": "SRK Sea Foods (Fish Market)",
+      "address": "Bharathamadha St, East Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9307032,
+      "lon": 80.1274613
+    },
+    {
+      "id": "chij-zoj81xbujor9ccrylnivhm",
+      "title": "Tamilnadu Fish and Meat Shop",
+      "address": "Gandhi Nagar Society, 200, Nookampalayam Rd, Arasankalani, Perumbakkam, Tamil Nadu 600131",
+      "lat": 12.892091299999999,
+      "lon": 80.2001124
+    },
+    {
+      "id": "chijm_hbeahbujorrh8w8qgokl4",
+      "title": "THE FISH MART",
+      "address": "pathu muthu ammal street, 12/436, Nethaji Nagar Main Rd, Nookampalayam, Arasankalani, Perumbakkam, Arasankalani, Tamil Nadu 600131",
+      "lat": 12.880656499999999,
+      "lon": 80.203149
+    },
+    {
+      "id": "chijpamne6zdujorkqfzwz7zquy",
+      "title": "KR Fresh Fish",
+      "address": "1/230, Eswaran Koil Street, Madipakkam Main Rd, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.963730199999999,
+      "lon": 80.19618439999999
+    },
+    {
+      "id": "chijttncuppnujorrpt_mvb7hcw",
+      "title": "Meenamma Marine Market",
+      "address": "No: 7, Meenamma Marine Market, 7, Vanniar St, Minor Trustpuram, Choolaimedu, Chennai, Tamil Nadu 600094",
+      "lat": 13.05777,
+      "lon": 80.2290853
+    },
+    {
+      "id": "chijhes3r_bnujorgip4ngseb2e",
+      "title": "ANAND SEA FOODS",
+      "address": "Corportion Building, Fish Market, Dhamotharapuram, Kakkan Nagar, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 13.000758399999999,
+      "lon": 80.2640523
+    },
+    {
+      "id": "chijevvsei5nujorncqp-wcovdw",
+      "title": "ABS SeaFoods",
+      "address": "Zam Bazzar Market, Padupakkam, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0595482,
+      "lon": 80.2721621
+    },
+    {
+      "id": "chijhwgoqgffujoru-xtiyjy-ci",
+      "title": "Alif's fish centre",
+      "address": "29/37, Tiruneermalai Main Rd, Shiva Shankar Nagar, Nagalkeni, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9609294,
+      "lon": 80.137908
+    },
+    {
+      "id": "chijp5qkzh5rujorbnczuw-7gki",
+      "title": "Fish Market Kelambakkam",
+      "address": "Q6P9+4GC Fish Market Kelambakkam, Mettu St, Kittu Nagar, Kelambakkam, Tamil Nadu 603103",
+      "lat": 12.7853108,
+      "lon": 80.21877599999999
+    },
+    {
+      "id": "chiji5xn071dujoryjqny6vuygq",
+      "title": "MRF Fish Market",
+      "address": "Ram Nagar Police check post, Ram Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9645431,
+      "lon": 80.2116463
+    },
+    {
+      "id": "chijed7bihvfujor642hy70jxmu",
+      "title": "Pheenix Fresh and Hygienic Fish Hub",
+      "address": "Pammal Main Rd, Pasumpon Nagar, Pammal, Tambaram, Tamil Nadu 600075",
+      "lat": 12.9768657,
+      "lon": 80.1324126
+    },
+    {
+      "id": "chijzwrfb5vhujorfbqf4hlyzm0",
+      "title": "NRD FISH & MEAT",
+      "address": "2, Madha Nagar Main Road, Rajeshwari Avenue, Madhanandapuram, Chennai, Tamil Nadu 600125",
+      "lat": 13.0185336,
+      "lon": 80.15186279999999
+    },
+    {
+      "id": "chijitxcxofbujorf3ahbkx2f5g",
+      "title": "J B Seafoods",
+      "address": "1, Panchayath, Rajiv Gandhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8929444,
+      "lon": 80.2278358
+    },
+    {
+      "id": "chij5dckjabdujorwfawikqfuwe",
+      "title": "Chennai fish market",
+      "address": "W57R+J3F Chennai fish market, Babu Nagar, Munusamy Nagar, Vimala Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.914576,
+      "lon": 80.190624
+    },
+    {
+      "id": "chijas11g-pmujorqbzf79qoqdc",
+      "title": "Marina Fish Mart",
+      "address": "30/51A, Nerkundram Rd, NGO Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0547512,
+      "lon": 80.2100689
+    },
+    {
+      "id": "chijpe9nb_1aujorsxgwafj-ckg",
+      "title": "Kanathur Fish Market",
+      "address": "V62R+CG3 Kanathur Fish Market, SH 49, Kannathur Reddy Kuppam, Tamil Nadu 603112",
+      "lat": 12.851022299999999,
+      "lon": 80.2412906
+    },
+    {
+      "id": "chijqdtebfdrujorlf1s_aagsky",
+      "title": "BHAGAVAN FISH MARKET",
+      "address": "Bella Tuscany, Padur, Tamil Nadu 603103",
+      "lat": 12.7966863,
+      "lon": 80.2234299
+    },
+    {
+      "id": "chij_____wxmujor2vhihzvku-i",
+      "title": "Fish O Fish",
+      "address": "34/19, 100 Feet Rd, Chelliamman Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9782557,
+      "lon": 80.2194298
+    },
+    {
+      "id": "chiju0mkx7fdujoreyb9fquf3eg",
+      "title": "RAYANS SEAFOOD MARKET / ராயன்ஸ் மீன் கடை",
+      "address": "51, Suleiman Nagar, Bharathiyar Nagar, Mettukuppam, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.936847199999999,
+      "lon": 80.2394367
+    },
+    {
+      "id": "chij175kfnvnujorz99jyrk0w3g",
+      "title": "Chennai Aquarium pvt ltd",
+      "address": "48, LB Rd, opposite to East Crest Apartments, Adyar, Chennai, Tamil Nadu 600041",
+      "lat": 12.9946922,
+      "lon": 80.2560613
+    },
+    {
+      "id": "chijxrttlgxdujoruib4jxvs6lg",
+      "title": "AAA FISH STALL",
+      "address": "19, Bazaar Main Rd, Sadasiva Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.965714199999999,
+      "lon": 80.2043169
+    },
+    {
+      "id": "chijt2skpqxfujorlnhswkvf9by",
+      "title": "Ravi Fish stall",
+      "address": "15, 2nd St, B.V. Nagar, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9810948,
+      "lon": 80.1769899
+    },
+    {
+      "id": "chijywscgglfujornfedoc8db1m",
+      "title": "Friends Fish Stall",
+      "address": "W3CR+G5H Friends Fish Stall, Bharathi Nagar, Tambaram, Chennai, Tambaram, Tamil Nadu 600063",
+      "lat": 12.921312799999999,
+      "lon": 80.0904973
+    },
+    {
+      "id": "chijlafvm873ujorn4lpxk_q67k",
+      "title": "C. S PROTEINS",
+      "address": "3/9A Eshwaran koil street, Nedungundram, Nedungundram, Chennai, Tamil Nadu 600127",
+      "lat": 12.8845511,
+      "lon": 80.1105395
+    },
+    {
+      "id": "chijrdtzm0h2ujorjibv3sljfhu",
+      "title": "FISH MARKET",
+      "address": "1, Station Rd, Sri Balaji Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603211",
+      "lat": 12.8672626,
+      "lon": 80.0712367
+    },
+    {
+      "id": "chijc1vfywbdujorvinqdfcfofw",
+      "title": "Kadal to Veedu",
+      "address": "2/37, 3rd Main Rd, Ma Po Si Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9437684,
+      "lon": 80.2082829
+    },
+    {
+      "id": "chijo3afjk5dujor_fn1vxmt6nm",
+      "title": "Raj Fish Aquarium",
+      "address": "No 1, Raj Fish Aquarium, 12, Thomas Nagar, Ullagaram, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9788023,
+      "lon": 80.1968766
+    },
+    {
+      "id": "chijyzyxhvjnujorqs-3cfc1o7y",
+      "title": "Fresh Catch Fish Stall",
+      "address": "18, TNHB Shopping Centre, 1st Ave, Shastri Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.002599,
+      "lon": 80.2563286
+    },
+    {
+      "id": "chij1yaxbiznujort0rg9syfkum",
+      "title": "Freezfree",
+      "address": "18, 6th Main Rd, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0036799,
+      "lon": 80.249017
+    },
+    {
+      "id": "chije-3inpl3ujor_cwqw4oyco8",
+      "title": "Aswin Fish Mart",
+      "address": "Nellikuppam Rd, Pankaja Ammal Nagar, Manikandapuram, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8346173,
+      "lon": 80.06749649999999
+    },
+    {
+      "id": "chijo4isi_bmujorttageoyyhi4",
+      "title": "Fish chicken mutton shop",
+      "address": "# 1, Rathinammal St, Rangarajapuram, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0478496,
+      "lon": 80.22133889999999
+    },
+    {
+      "id": "chij4xa6sjzhujorvowqbqysva8",
+      "title": "Fresh Boat",
+      "address": "G.H, Fresh Boat, Metro 'B' Station, 49, James St, Poonamallee, Tamil Nadu 600056",
+      "lat": 13.049568299999999,
+      "lon": 80.10194059999999
+    },
+    {
+      "id": "chijlsrwp3zdujorgqnjduy2s4e",
+      "title": "Chennai Aqua Studio - The Nature Aquarium",
+      "address": "1st Floor, Chennai Aqua Studio - The Nature Aquarium, 7, Velachery Main Rd, opposite BALAJI DENTAL COLLEGE, Kamakoti Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9432502,
+      "lon": 80.2081839
+    },
+    {
+      "id": "chijwxxsr7xnujor35apr8ftkjk",
+      "title": "Fishy Lot- Health Lover's choice (fish shop - Meen kadai)",
+      "address": "Num 5/44, Fishy Lot- Health Lover's choice (fish shop - Meen kadai), Ex Serviceman Colony, Kakkan Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.991599899999999,
+      "lon": 80.2064929
+    },
+    {
+      "id": "chijdxlkdln3ujoryqdbujunobq",
+      "title": "TAMIL NADU FISH STALL",
+      "address": "206a, GST Rd, Bharathi Nagar, Urapakkam, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.863527,
+      "lon": 80.07370449999999
+    },
+    {
+      "id": "chij3qbumahnujorvkmozxt9jfo",
+      "title": "RRK FISH STALL VADAPALANI",
+      "address": "NO.22,TNHB SHOPPING complex 100FEET, Jawaharlal Nehru Salai, Vadapalani, Chennai, Tamil Nadu 600078",
+      "lat": 13.045844599999999,
+      "lon": 80.2122266
+    },
+    {
+      "id": "chijrc-rtqd3ujorqctfymskkhs",
+      "title": "SSR Rameswaram fish stall",
+      "address": "No 25, Periyar Nagar, Karanaipuducheri, Tamil Nadu 603210",
+      "lat": 12.8577309,
+      "lon": 80.0774283
+    },
+    {
+      "id": "chijn5dkchhfujor5ipe8lexfqy",
+      "title": "Suvai Meat & Fish shop",
+      "address": "X4PJ+6VR Suvai Meat & Fish shop, 4th St, Venkateswara Nagar, Guruswamy Nagar, Anakaputhur, Tambaram, Tamil Nadu 600070",
+      "lat": 12.985199699999999,
+      "lon": 80.1318912
+    },
+    {
+      "id": "chijy5wmfppdujorfkcq8hkpq_c",
+      "title": "Amma fish stall",
+      "address": "Jawaharlal Nehru Salai, Cooperative Nagar, Usha Nagar, Vanuvampet, Adambakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.981662799999999,
+      "lon": 80.1977637
+    },
+    {
+      "id": "chij9t8hwbbhujortu0kye9tjic",
+      "title": "IDHU NAMMA FISH SHOP",
+      "address": "24VM+VCG IDHU NAMMA FISH SHOP, Moovendhar Nagar, Sri Krishna Nagar, Pillaiyar Madathingal, Kattupakkam, Thiruverkadu, Tamil Nadu 600056",
+      "lat": 13.0447156,
+      "lon": 80.1336869
+    },
+    {
+      "id": "chijl2o4wp5nujoroqclfojhwse",
+      "title": "AGS fish and meat stall",
+      "address": "No.74, Medavakam main road, main road junction, Shanthi Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.9886599,
+      "lon": 80.1976699
+    },
+    {
+      "id": "chijvfnduevdujor41ucjbeuw2y",
+      "title": "OMR SEA FOODS",
+      "address": "Church Main Rd, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9620459,
+      "lon": 80.2436893
+    },
+    {
+      "id": "chij9t02f4r1ujorrbxvllyp5sa",
+      "title": "Shakthi sai fish stall",
+      "address": "Kurinji Nagar Main Rd, Raja Rajeswari Nagar, Mudichur, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.917310599999999,
+      "lon": 80.08647669999999
+    },
+    {
+      "id": "chij98bedordujordworhoznymg",
+      "title": "M.G Sea Food",
+      "address": "79 2, S Mada St, Lalitha Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.983013399999999,
+      "lon": 80.2608755
+    },
+    {
+      "id": "chijsd9b0rdnujormojlcx2ggbs",
+      "title": "FISHIN",
+      "address": "120, FISHIN, 121, Greenways Rd, Bishop Garden, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0187178,
+      "lon": 80.2583349
+    },
+    {
+      "id": "chijysopllpdujororzwots_ey0",
+      "title": "Sri Mahalakshmi Stores",
+      "address": "11/B, C.G.E Housing Colony, KUPPAM, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.984316699999999,
+      "lon": 80.2635457
+    },
+    {
+      "id": "chijq532mzvdujorxvlx6jmjiao",
+      "title": "FNB AQUATIC STUDIO",
+      "address": "No:75/A, Velachery Main Rd, Green Court, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.928348,
+      "lon": 80.2021523
+    },
+    {
+      "id": "chijvxxribt1ujortcidhd9agwy",
+      "title": "Mini Kasimedu whole sale fish mart",
+      "address": "W3CV+J6R Mini Kasimedu whole sale fish mart, Mudichur Rd, Kannan Avenue, Tambaram, Old Perungalathur, Tambaram, Tamil Nadu 600063",
+      "lat": 12.9216006,
+      "lon": 80.0930166
+    },
+    {
+      "id": "chijqum3h5d3ujoro6ffojiksim",
+      "title": "SRH CHICKEN SHOP",
+      "address": "No.29, SRH CHICKEN SHOP, Priya Nagar Rd, Vaigai Nagar, Urapakkam, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8591134,
+      "lon": 80.0671672
+    },
+    {
+      "id": "chijmswujyhcujor_vyxi9tdhfk",
+      "title": "The Non-Veg Shop Medavakkam with Home Delivery | Broiler Shop",
+      "address": "1/430A, Vadakkupattu Main Rd, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.932932399999999,
+      "lon": 80.1876186
+    },
+    {
+      "id": "chijnxrucxldujors2egyjnekbg",
+      "title": "Tamilnadu Mutton And Chicken Center",
+      "address": "24, Jawaharlal Nehru Salai, Anna Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.9813608,
+      "lon": 80.2359501
+    },
+    {
+      "id": "chij2xbrk2z3ujortztytutjwco",
+      "title": "S.M Noor Chicken & Mutton Shop",
+      "address": "R29Q+2QW S.M Noor Chicken & Mutton Shop, Kakkan St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8176203,
+      "lon": 80.0394565
+    },
+    {
+      "id": "chijxy-wtx1dujoru5ri7zmwrgg",
+      "title": "BISMI MUTTON AND CHICKEN SHOP",
+      "address": "01, Pillaiyar Koil St, Pallikaranai, Kanchipuram, Chennai, Tamil Nadu 600100",
+      "lat": 12.925615899999999,
+      "lon": 80.203026
+    },
+    {
+      "id": "chijot2petl1ujorpvq6ls4cp4i",
+      "title": "Pandian Broilers",
+      "address": "9d, Muthuvelar St, Balaji Nagar, New Perungalathur, Chennai, Tambaram, Tamil Nadu 600063",
+      "lat": 12.9035104,
+      "lon": 80.0861384
+    },
+    {
+      "id": "chijf-p71uddujorxs23kryjkbc",
+      "title": "Porna Fresh Chicken",
+      "address": "3/261, Bhajanai Kovil Street, Junction, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9048802,
+      "lon": 80.19981
+    },
+    {
+      "id": "chijh8xmcdtmujoryg5pcnwtcwi",
+      "title": "Aishwarya Fresh Chicken And Fresh Mutton",
+      "address": "17 Pv Rajamannar Salai Vijayaragavapyram, Tamilnadu600078, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.043254099999999,
+      "lon": 80.2032115
+    },
+    {
+      "id": "chijbzrxn3hfujorzlvah7w8eeu",
+      "title": "TenderCuts - Vengaivasal",
+      "address": "Old 1/562, TenderCuts - Vengaivasal, New 2/180, Mambakkam - Medavakkam Main Rd, Sastha Nagar, Veerabadra Nagar Extension, Nehru Nagar, Vengavasal, Tamil Nadu 600100",
+      "lat": 12.9067692,
+      "lon": 80.1892098
+    },
+    {
+      "id": "chijg1nwaibeujorkkw1osremrm",
+      "title": "Arasu Chicken Centre",
+      "address": "No 2/778, Sunnambu Kolathur Main Rd, Rose Nagar, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9412521,
+      "lon": 80.185634
+    },
+    {
+      "id": "chijaxghmsxnujor2pddmlxgzgu",
+      "title": "Ahad Restaurant and chicken center",
+      "address": "No 53, TNHB Main Rd, Semmancherry, Semmancheri, Perumbakkam, Tamil Nadu 600119",
+      "lat": 12.8779487,
+      "lon": 80.2107786
+    },
+    {
+      "id": "chijp2yoxh5dujorcajwxynj38g",
+      "title": "Antony Chicken and Mutton Centre",
+      "address": "3, Antony Chicken and Mutton Centre, 442, Pandian Salai, Saraswathi Nagar, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.949520999999999,
+      "lon": 80.2505978
+    },
+    {
+      "id": "chiji-rd_hrdujorwvg7vr27ntg",
+      "title": "J .M. FAROOK CHICKEN SHOP",
+      "address": "Maniammai St, Gandhi Nagar, Palavakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.964860199999999,
+      "lon": 80.25151319999999
+    },
+    {
+      "id": "chijsyudvjpdujornctrgmaeqhi",
+      "title": "Bismillah chicken stall",
+      "address": "No, Gangai Amman Kovil St, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.913833799999999,
+      "lon": 80.23287669999999
+    },
+    {
+      "id": "chijkwz5pm9hujoryyp-bisnxlo",
+      "title": "Quality Chicken & Mutton",
+      "address": "7, Kundrathur Main Rd, Astha Lakshmi Nagar, Kumananchavadi, Mangadu, Tamil Nadu 600122",
+      "lat": 13.0401226,
+      "lon": 80.1137765
+    },
+    {
+      "id": "chijg4bn0ap3ujorhtyc-ymmqky",
+      "title": "Al Madina Chicken Center",
+      "address": "41, Ganapathy Nagar, Urapakkam, Kanchipuram, Ayyancheri, Tamil Nadu 603210",
+      "lat": 12.8579562,
+      "lon": 80.07825679999999
+    },
+    {
+      "id": "chijq74ikwakujortgnqldtu3sa",
+      "title": "Navas Ameen Chicken Stal",
+      "address": "457, MGR Rd, Pandurangan Nagar, Nazarathpettai, Chennai, Tamil Nadu 600123",
+      "lat": 13.0404738,
+      "lon": 80.0791483
+    },
+    {
+      "id": "chijaf-bnzp1ujor7qoyxmky6kk",
+      "title": "Quality Chicken & Mutton Centre",
+      "address": "Shanthi Nagar, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.9184556,
+      "lon": 80.0821868
+    },
+    {
+      "id": "chijxyv4-z1fujorua8taby-zps",
+      "title": "C2 Chicken",
+      "address": "Chennai Food Street, 200 Feet Radial Rd, Boopathy Nagar, Kovilambakkam, Tambaram, Tamil Nadu 600117",
+      "lat": 12.948972099999999,
+      "lon": 80.1919982
+    },
+    {
+      "id": "chijnbfwltzdujoru4mawa9-ws8",
+      "title": "TenderCuts - Thoraipakkam",
+      "address": "Venkateshwara Avenue, Plot: 5/350, Rajiv Gandhi Main Road, Old Mahabalipuram Rd okkiyam thoraipakkam, 4/9B, Rajiv Gandhi Salai, opp. to Nilgiris & Kovai Pazhamudir Nilayam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9283328,
+      "lon": 80.2309808
+    },
+    {
+      "id": "chijxe9egmlbujorxt3y8nx5fyc",
+      "title": "DD Country chicken shop",
+      "address": "2/244, vadanthangal Nagar, Arasankalani, Tamil Nadu 600130",
+      "lat": 12.877585,
+      "lon": 80.19927349999999
+    },
+    {
+      "id": "chij874wjrxdujorlxri9fiemyc",
+      "title": "Bismillah Mutton and Chicken Stall",
+      "address": "6, VGP Shanti Nagar Main Rd, V.G.P Shanti Nagar, Narayanapuram, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9380847,
+      "lon": 80.2101435
+    },
+    {
+      "id": "chijwbyglpfzujoraudn1ft5dhi",
+      "title": "Thiruvel Chicken & mutton shop",
+      "address": "Nellikuppam Rd, Rajiv Gandhi Nagar, Kandigai, Melakottaiyur, Tamil Nadu 600127",
+      "lat": 12.8452551,
+      "lon": 80.1390143
+    },
+    {
+      "id": "chijisnlrjhhujorqdjdp2pz0sa",
+      "title": "Thara chicken stall",
+      "address": "No:166, Queen Victoria Road, Indrani Nagar, contonment, Poonamallee, Tamil Nadu 600122",
+      "lat": 13.042069099999999,
+      "lon": 80.11146719999999
+    },
+    {
+      "id": "chijiabcebrfujort492g10oqdo",
+      "title": "SK Chicken",
+      "address": "Near, Thiruneermalai Main Rd, near Jeeva Madha KB, Pammal, Tambaram, Tamil Nadu 600070",
+      "lat": 12.970813699999999,
+      "lon": 80.1217669
+    },
+    {
+      "id": "chij0-s348zhujorreqqjpmrja8",
+      "title": "Pioneer Chicken Centre",
+      "address": "24W8+8X5 Pioneer Chicken Centre, Poonamallee High Rd, Kumananchavadi, Kattuppakkam, Tamil Nadu 600056",
+      "lat": 13.045768299999999,
+      "lon": 80.1174881
+    },
+    {
+      "id": "chij82dxx-dmujorjwy7goweny8",
+      "title": "Hi-proteins",
+      "address": "3/6, Street Number 4, Ottagapalayam, Sector 15, Vadapalani, Chennai, Tamil Nadu 600078",
+      "lat": 13.044399499999999,
+      "lon": 80.211711
+    },
+    {
+      "id": "chijrayw_n9bujordbt-yiyfv3a",
+      "title": "SKS PROTEINS",
+      "address": "No 4 By 163, Anna St, Navalur, Kanchipuram, Tamil Nadu 603103",
+      "lat": 12.834385,
+      "lon": 80.228133
+    },
+    {
+      "id": "chij0uthahhdujoriwt1vakkfo0",
+      "title": "S V Original Suguna Chicken Centre",
+      "address": "X6GM+R66 S V Original Suguna Chicken Centre, Bharani St, Bharathi Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.977027,
+      "lon": 80.23301769999999
+    },
+    {
+      "id": "chijm-ioz7nhujorma39ku6yopa",
+      "title": "MAKKAH MUTTON AND CHICKEN STALL",
+      "address": "10, Madha Nagar Main Road, Kayamkulam, VND Avenue, Madhanandapuram, Chennai, Tamil Nadu 600125",
+      "lat": 13.018461,
+      "lon": 80.1524048
+    },
+    {
+      "id": "chij4f9s_r5gujor7k-6dyrabek",
+      "title": "Pioneer Broiler Chicken",
+      "address": "113, Kundrathur Main Rd, Kundrathur, Kollacheri, Tamil Nadu 600069",
+      "lat": 13.0041429,
+      "lon": 80.10154
+    },
+    {
+      "id": "chijl95z3ttdujorbdm8rfgz5qk",
+      "title": "1975 The Chicken Company",
+      "address": "165, Shop no. C5, C6 OMR Food Street, SH 49, Injambakkam, Chennai, Tamil Nadu 600115",
+      "lat": 12.931457499999999,
+      "lon": 80.2521266
+    },
+    {
+      "id": "chijw56teopdujorweyg7uaasfw",
+      "title": "MANSOOR CHICKEN",
+      "address": "106, Gandhi Road, Soni Nagar, Periyar Nagar Extension, Seva Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9858437,
+      "lon": 80.2289902
+    },
+    {
+      "id": "chijixbhw2x3ujorc30c36h7rwk",
+      "title": "Chicken and mutton Shop",
+      "address": "4th Main Rd, Otteri Extension, katakulathur, Vandalur, Tambaram, Tamil Nadu 600048",
+      "lat": 12.882522,
+      "lon": 80.0748895
+    },
+    {
+      "id": "chij_rh76sjhujorow-e1pa5_m4",
+      "title": "Basha Meat Shop",
+      "address": "Oil Mill, Shop No-4,ASHWIN AMETHYST, ASHOK BRINDAVAN Plot Nos. VII and VIII, A.N.Elumalai Road, Road, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600056",
+      "lat": 13.0418487,
+      "lon": 80.1366695
+    },
+    {
+      "id": "chijgr9tz7jfujorzz00qljsmi8",
+      "title": "TenderCuts - Chrompet",
+      "address": "Door No:24, Block:17, TenderCuts - Chrompet, No:21, CLC Works Rd, Pallavapuram, New Colony, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.954159299999999,
+      "lon": 80.1360645
+    },
+    {
+      "id": "chijm-7unmvbujorqkbaqyejqa4",
+      "title": "Chicken World",
+      "address": "backside, IT highway, near Indian oil petrol bunk, Kalipattur, Chennai, Tamil Nadu 603103",
+      "lat": 12.8101968,
+      "lon": 80.2282039
+    },
+    {
+      "id": "chijvyiqfd_2ujorvlv3ssjrq0e",
+      "title": "New Chennai Chicken Stall",
+      "address": "1284, Main Road, Senthil Nagar, Iyyencheri, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.865927399999999,
+      "lon": 80.0762129
+    },
+    {
+      "id": "chijzffmx0hcujoraqzauzetnhe",
+      "title": "KIRUBAI FANCY STORE AND EEE CHICKEN CENTER",
+      "address": "VGP Shanthi Nagar Extn, 6, Church Ave Rd, near praise garden church, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9336741,
+      "lon": 80.212616
+    },
+    {
+      "id": "chij2y2blgb1ujordgjuniqchhg",
+      "title": "Chicken Centre",
+      "address": "W38P+J4F Chicken Centre, Kamaraj High Rd, Mudichur, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.9165645,
+      "lon": 80.08529879999999
+    },
+    {
+      "id": "chij-vjwtk1bujorupowj9a63p0",
+      "title": "JKM Jannath Mutton & Chicken Stall",
+      "address": "V6J3+294 JKM Jannath Mutton & Chicken Stall, Perumbakkam Main Rd, Semmancheri, Arasankalani, Tamil Nadu 600131",
+      "lat": 12.880005299999999,
+      "lon": 80.2034559
+    },
+    {
+      "id": "chijrzc6gpjmujor8xclyz5mdxo",
+      "title": "THEVAR CHICKENS",
+      "address": "266/9A, Periyar Pathai, Bharatheswarar Colony, Choolaimedu, Chennai, Tamil Nadu 600094",
+      "lat": 13.0599151,
+      "lon": 80.2208923
+    },
+    {
+      "id": "chijhwc2_knnujor8-l7xymaydc",
+      "title": "Roselin Proteins Chicken Shop",
+      "address": "4-6/8, 14th St Saint Thomas Mount, Viswanathapuram, Gandhi Nagar, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 13.011210199999999,
+      "lon": 80.1976182
+    },
+    {
+      "id": "chij9dg16tjdujoriwj5kgpqjyy",
+      "title": "Chicken shop",
+      "address": "No 229, A SETUPATHINAGAR, Velachery, Chennai, Tamil Nadu 600001",
+      "lat": 12.975460499999999,
+      "lon": 80.2207047
+    },
+    {
+      "id": "chijtale995nujorf-siy8hko3e",
+      "title": "CHENNAI CHICKEN AND MUTTON STALL",
+      "address": "22, CHENNAI CHICKEN AND MUTTON STALL, 100, Ellaiamman Kovil St, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.034901699999999,
+      "lon": 80.2238874
+    },
+    {
+      "id": "chiju0x1cvxgujorrlhzfngvqis",
+      "title": "Pioneer Chicken's",
+      "address": "84, Kundrathur Main Rd, Ramanatheshwarar Nagar, Porur, Chennai, Tamil Nadu 600125",
+      "lat": 13.0267982,
+      "lon": 80.1500162
+    },
+    {
+      "id": "chij97zzqcpnujorbkhmrtojcqi",
+      "title": "The boss fried chicken",
+      "address": "Bhakthavachlam colony, 1st Cross St, Thangavelu Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0544099,
+      "lon": 80.21463399999999
+    },
+    {
+      "id": "chijhwig70rzujorgwxzuksbflo",
+      "title": "V.R Country chicken, vengadamangalam",
+      "address": "Unnamed Road, Vengadamangalam, Rathinamangalam, Tamil Nadu 600127",
+      "lat": 12.863025799999999,
+      "lon": 80.1562984
+    },
+    {
+      "id": "chij2sx6dn5nujorskguqksceji",
+      "title": "Farm Fresh Meats",
+      "address": "5, Kamaraj St, Said Nagar, Mathiazhagan Nagar, Balaji Nagar, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.0563375,
+      "lon": 80.20026519999999
+    },
+    {
+      "id": "chijb-kipdr3ujorsl7fkpi0bmo",
+      "title": "AL ABBAS chicken",
+      "address": "No.27, AL ABBAS chicken, KPN Grand, Kattur, Urapakkam, Karanaipuducheri, Tamil Nadu 603202",
+      "lat": 12.8361737,
+      "lon": 80.0852506
+    },
+    {
+      "id": "chijssigk5bdujoraawcjrs3nh0",
+      "title": "Suguna Chicken Center",
+      "address": "30, 5th Main Rd, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9739253,
+      "lon": 80.2198289
+    },
+    {
+      "id": "chij9zapkszzujor7wvjupzwve0",
+      "title": "VRS chicken centre",
+      "address": "334, Nellikuppam Rd, Melakottaiyur, Kandigai, Tamil Nadu 600127",
+      "lat": 12.8482446,
+      "lon": 80.14143949999999
+    },
+    {
+      "id": "chij-zmgs4jdujoremmdr0w5gvo",
+      "title": "Chennai Chicken Centre - Suguna Chicken",
+      "address": "bus stop, 13, Murphy Doss Rd, behind Baby nagar, VGP Seetapathi Street, VGP Seethapathy Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.981167699999999,
+      "lon": 80.22944869999999
+    },
+    {
+      "id": "chijr5j6lvpdujorg8ef03nzh1i",
+      "title": "Bhavani Chicken",
+      "address": "59, Kuppam Beach Rd, CGE Housing Colony, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.984704599999999,
+      "lon": 80.2624441
+    },
+    {
+      "id": "chija7jngnnfujorl7clkct40ei",
+      "title": "Sri Srinivasha Broilers",
+      "address": "X4HR+7GG Sri Srinivasha Broilers, 7th Cross St, Anakaputhur, Anna Nagar, HL Colony, Pallavaram, Tambaram, Tamil Nadu 600075",
+      "lat": 12.9781859,
+      "lon": 80.14132409999999
+    },
+    {
+      "id": "chijc-poipn1ujorouquti-gdem",
+      "title": "SD Priya chicken centre",
+      "address": "W33V+339 SD Priya chicken centre, NGO Colony, New Perungalathur, Perungalathur, Tambaram, Tamil Nadu 600063",
+      "lat": 12.9026617,
+      "lon": 80.092736
+    },
+    {
+      "id": "chij5xsfmulhujor0vg6nl9voyk",
+      "title": "As.super chicken",
+      "address": "2/44 cowl bazar, Pallavaram - Kundrathur Main Rd, Periyar Nagar, Kasturba Nagar, Tambaram, Tamil Nadu 600070",
+      "lat": 12.988335999999999,
+      "lon": 80.1276438
+    },
+    {
+      "id": "chijwc3ejprhujorhrt_sbard0g",
+      "title": "VARUN CHICKEN",
+      "address": "20, Ramadoss Salai, rajiv gandhi nagar, Alapakkam, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.049779599999999,
+      "lon": 80.1632853
+    },
+    {
+      "id": "chij46wcgtzdujorukoz6kr4jre",
+      "title": "Chennai Pork Shop",
+      "address": "Sri Ambal Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9495036,
+      "lon": 80.1841979
+    },
+    {
+      "id": "chijiaaxbfxdujorvofq4n5tdl0",
+      "title": "Meatlane - Pallikaranai",
+      "address": "10, Thiruvalluvar 2nd, Cross, Street No. 2, next to The Riviera Apartments, MGR Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.924323999999999,
+      "lon": 80.1959344
+    },
+    {
+      "id": "chijfrxgyvndujorzkurj7ayhpu",
+      "title": "Farm Fresh Meats",
+      "address": "Nookampalayam Rd, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.90146,
+      "lon": 80.19796
+    },
+    {
+      "id": "chij-uex54pnujorahp0esw33rs",
+      "title": "GRANPAS FRESH AND FROZEN FOODS",
+      "address": "Shop No 1, First Floor, The, GRANPAS FRESH AND FROZEN FOODS, Corporation Shopping Complex, 3rd Ave, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.992156999999999,
+      "lon": 80.2527489
+    },
+    {
+      "id": "chijsbjucd1fujorw1mn_5iux6k",
+      "title": "Halal fresh meats",
+      "address": "3, 2nd, Bajanai Koil St, Sembakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.922811399999999,
+      "lon": 80.1604356
+    },
+    {
+      "id": "chijvvedjc5fujor9kool6bn4oq",
+      "title": "Mahesh Pork Shop",
+      "address": "KVK Nagar, Indira Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9132397,
+      "lon": 80.143656
+    },
+    {
+      "id": "chijir3fvovfujore0wnwmmsuuu",
+      "title": "The Meat Chop, Hastinapuram",
+      "address": "No 57, Rajendra Prasad Road, Krishna Nagar, Hasthinapuram, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.940592899999999,
+      "lon": 80.1496883
+    },
+    {
+      "id": "chijl7yh6m9dujora6avpyxotvk",
+      "title": "ChennaiMeat",
+      "address": "Plot no, ChennaiMeat, 12, Dr Ambedkar Salai, S. Kolathur, S.Kolathur, Rose Avenue, Madipakkam, Tambaram, Tamil Nadu 600091",
+      "lat": 12.952756299999999,
+      "lon": 80.19942759999999
+    },
+    {
+      "id": "chijhq2jmm1dujordkr7yzhtvym",
+      "title": "Farm Fresh Meats",
+      "address": "No.30, Anna Nedunchalai, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9675376,
+      "lon": 80.2453754
+    },
+    {
+      "id": "chijzqjzcvpfujornbdrtk1re6k",
+      "title": "A1 Anika beef stall",
+      "address": "29 Jeevanatham street, Hassan Basha Cross St, near Kavitha matriculation school, Anna Nagar, Pallavaram, Tambaram, Tamil Nadu 600043",
+      "lat": 12.968971699999999,
+      "lon": 80.1449628
+    },
+    {
+      "id": "chijx7ep7xvnujoroipuq8fxg74",
+      "title": "TenderCuts - Royapettah",
+      "address": "93, TenderCuts - Royapettah, 69, Avvai Shanmugham Salai, Jagadambal Colony, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0474553,
+      "lon": 80.2692543
+    },
+    {
+      "id": "chijgdphdijdujorz5lfirqj95y",
+      "title": "AL AZIZ BEEF STALL",
+      "address": "Landmark :, no 11A, Tiruvallur 2nd Street, Puravankara Road, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.924398499999999,
+      "lon": 80.19580529999999
+    },
+    {
+      "id": "chijmwzynijnujorh2esc9lcpws",
+      "title": "Meat",
+      "address": "39, Jani Jhan Khan Rd, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.057891099999999,
+      "lon": 80.2706663
+    },
+    {
+      "id": "chij3ccpw2lhujorupe2js4ujpq",
+      "title": "farm fresh meats (YOGESH TRADERS)",
+      "address": "Old No 226,New, farm fresh meats (YOGESH TRADERS), 56, Perumal Koil St, Alapakkam, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.04205,
+      "lon": 80.163291
+    },
+    {
+      "id": "chij-qerx4beujorpxb351zv7kc",
+      "title": "M.K. Proteins by The Meat Chop",
+      "address": "No.2, M.K. Proteins by The Meat Chop, 748, Sunnambu Kolathur Main Rd, Satya Nagar, Lakshmi Nagar, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9406325,
+      "lon": 80.1838877
+    },
+    {
+      "id": "chijgz2zux9mujorslwianyt6bm",
+      "title": "A 1 Beef Shop",
+      "address": "375C+WGH A 1 Beef Shop, Fakir Sahib St, 3rd Street, Padupakkam, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.059812899999999,
+      "lon": 80.27136569999999
+    },
+    {
+      "id": "chijlvlc6hfeujoroj-j4sk0zii",
+      "title": "Meat shop",
+      "address": "X55G+5V4 Meat shop, Sri Ganapathy Nagar, Perumal Nagar, Old Pallavaram, Tambaram, Tamil Nadu 600117",
+      "lat": 12.957894099999999,
+      "lon": 80.1772178
+    },
+    {
+      "id": "chijo_l3j2fdujorwbkju7gsf8u",
+      "title": "TenderCuts - Adambakkam",
+      "address": "Plot No. 2, Jawaharlal Nehru Salai, near Shakti Cars, Muthiyal Reddy Nagar, Vanuvampet, Adambakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9794153,
+      "lon": 80.2009613
+    },
+    {
+      "id": "chij_wjgfnphujordhneu_jrpcq",
+      "title": "Beef Shop",
+      "address": "36, Mangadu Rd, Kayeenthemillath Nagar, Pattur, Mangadu, Tamil Nadu 600122",
+      "lat": 13.0233811,
+      "lon": 80.1174676
+    },
+    {
+      "id": "chij5vkrpnrhujorjl4mn_bccp8",
+      "title": "BEEF SHOP",
+      "address": "2-53, BEEF SHOP, 2-53, Thangal St, Meenakshi Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0279359,
+      "lon": 80.1740659
+    },
+    {
+      "id": "chijytqrsejfujor5py9csgum6y",
+      "title": "A1 Salma BEEF STALL.",
+      "address": "X49V+JX4 A1 Salma BEEF STALL., Hassan Basha Cross St, Essa, Anna Nagar, Pallavaram, Hashan, Chennai, Tamil Nadu 600043",
+      "lat": 12.9690026,
+      "lon": 80.1449406
+    },
+    {
+      "id": "chijhr8dahzhujorj1abbvp05dy",
+      "title": "Five Star-Beef Stall",
+      "address": "12, Dr. Baba Saheb Bhimarao Ramji Ambedkar Street, Thirumurugan Nagar, Alapakkam, Chennai, Tamil Nadu 600116",
+      "lat": 13.0492666,
+      "lon": 80.16513619999999
+    },
+    {
+      "id": "chij8rf2dnbmujor2smlv5h2vsu",
+      "title": "A1 Beef Stall",
+      "address": "No. 1, A1 Beef Stall, 5, PV Rajamannar Salai, Vijayaragava Puram, Kamaraj Nagar, K. K. Nagar, Chennai, Tamil Nadu 600093",
+      "lat": 13.0432911,
+      "lon": 80.2024608
+    },
+    {
+      "id": "chijh73qcuvfujormb7hutm_hig",
+      "title": "Farm Fresh Meat Shop",
+      "address": "8, Gajalakshmi Colony, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9490318,
+      "lon": 80.1534313
+    },
+    {
+      "id": "chij0vr2zlnnujor7bbkmhiqdfk",
+      "title": "Sameera proteins",
+      "address": "Gandhi Nagar Main Rd, Achugam Nagar, Gandhi Nagar, Chennai, Tamil Nadu 600032",
+      "lat": 13.0197244,
+      "lon": 80.2034631
+    },
+    {
+      "id": "chijsemvylldujorsf5lwdfwt9i",
+      "title": "Taj Beef Stall...",
+      "address": "2/242, 2/414, Canal Puram, Palavakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.967253999999999,
+      "lon": 80.2519978
+    },
+    {
+      "id": "chij6dkz62p1ujorbapoztnftsq",
+      "title": "TenderCuts - Tambaram",
+      "address": "No.39/3, Service Rd, Periyar Nagar, West Tambaram, Irumbuliyur, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9169213,
+      "lon": 80.10219479999999
+    },
+    {
+      "id": "chij698rephcujorbq-7yngtqrq",
+      "title": "Star Broiler And Mutton Centre",
+      "address": "P.T, Star Broiler And Mutton Centre, C. Qtrs, Shop No. 4/675, J.K. Avenue, OMR, Rajiv Gandhi IT Expy, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9335141,
+      "lon": 80.2329537
+    },
+    {
+      "id": "chijt0dlcsrhujork_yhujkqym4",
+      "title": "J.M White Pork Shop",
+      "address": "Old No 30, New No 97, J.M White Pork Shop, Arcot Rd, opposite Grace Super Market, Rajaji Avenue, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.0417452,
+      "lon": 80.1762455
+    },
+    {
+      "id": "chijxq2k_qjnujorejkfjfm6adc",
+      "title": "Al Basseer Overseas - Thousand Lights",
+      "address": "1, Buddi Begum St, Peters Colony, Thousand Lights, Chennai, Tamil Nadu 600006",
+      "lat": 13.055884599999999,
+      "lon": 80.2562528
+    },
+    {
+      "id": "chijucnzwpxdujor_xc80up8efq",
+      "title": "AJMEER MUTTON CENTRE",
+      "address": "2, AJMEER MUTTON CENTRE, 154, Perumbakkam Main Rd, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.915727299999999,
+      "lon": 80.1942797
+    },
+    {
+      "id": "chijjttrfcxdujorpqzbe9fqenq",
+      "title": "Kurinji Meat Shop",
+      "address": "Nageshwari Amman Nagar Main Rd, Ganesh Avenue, Narayanapuram, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.948180599999999,
+      "lon": 80.2033263
+    },
+    {
+      "id": "chij_-bg9dreujorgnkmnluxxo8",
+      "title": "Yusuff Beef Stall",
+      "address": "15, Periya Palayathamman Koil St, Abdul Kalam Nagar, Periyar Nagar, Pallavaram, Chennai, Tambaram, Tamil Nadu 600043",
+      "lat": 12.9658248,
+      "lon": 80.1441698
+    },
+    {
+      "id": "chij9a_gs1fdujorhpfgugj2w4w",
+      "title": "ISKAPO'S Meat Market",
+      "address": "No 5, ISKAPO'S Meat Market, 163, Pillaiyar Koil St, Pettai, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.949914,
+      "lon": 80.2379739
+    },
+    {
+      "id": "chijm4zvubznujorqyuq9zsbk3o",
+      "title": "Deen Beef Stall",
+      "address": "Model School Rd, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006",
+      "lat": 13.056074899999999,
+      "lon": 80.25177339999999
+    },
+    {
+      "id": "chijfq9phkdhujoroc1qkcbmd04",
+      "title": "King's Farm Fresh Meats",
+      "address": "1, King's Farm Fresh Meats, 21, 1st Main Rd, Venkateshwara Nagar, Ramapuram, Chennai, Tamil Nadu 600116",
+      "lat": 13.0294676,
+      "lon": 80.173091
+    },
+    {
+      "id": "chijkd12yhxfujora9qrhaiu3u4",
+      "title": "ANSARI PROTEINS",
+      "address": "No. 166/27, Mullai Nagar Main Road, Lakshmipuram extension, near E.B office, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.928458299999999,
+      "lon": 80.10227929999999
+    },
+    {
+      "id": "chijmxua0jdhujorfwd6oc-fv3y",
+      "title": "Pattur Ansari Beef Stall",
+      "address": "6, Mangadu Rd, Mangala Nagar, Jyothi Nagar, Iyyappanthangal, Mowlivakkam, Tamil Nadu 600122",
+      "lat": 13.0206286,
+      "lon": 80.1350013
+    },
+    {
+      "id": "chijp2gyhqpfujorc8gxjlthqz0",
+      "title": "Ashif beef stall",
+      "address": "24/A, X56F+4HV Ashif beef stall, 24a, Duraikannu Salai, Murugesapuram, Old Pallavaram, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9603109,
+      "lon": 80.1739307
+    },
+    {
+      "id": "chijx-jsfwbhujor6t1axp9hylw",
+      "title": "Beef market Chennai",
+      "address": "01, Mangadu Rd, Kayeenthemillath Nagar, Pattur, Mangadu, Tamil Nadu 600122",
+      "lat": 13.023056299999999,
+      "lon": 80.1186311
+    },
+    {
+      "id": "chijryhp--77ujorg95bawmkmpo",
+      "title": "SHAHAN CHICKEN & MUTTON STALL",
+      "address": "PXVR+CF6 SHAHAN CHICKEN & MUTTON STALL, Bagavathsingh Nagar, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.7435314,
+      "lon": 79.9911247
+    },
+    {
+      "id": "chijb70zp237ujoreblkkqhy6b0",
+      "title": "SJ Chicken Point",
+      "address": "Thiruvalluvar Street, Mahindra World City, Veerapuram, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7369494,
+      "lon": 79.9986596
+    },
+    {
+      "id": "chijnv7yenv8ujor_hanam_gdta",
+      "title": "S.A.M BROILERS",
+      "address": "Osur Amman Koil St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.697562,
+      "lon": 79.9711636
+    },
+    {
+      "id": "chijjz5tfbh5ujorvsntm97rthi",
+      "title": "Deen Chicken",
+      "address": "8th Street, Katur Main Road, Rail Nagar, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.798303299999999,
+      "lon": 80.0371955
+    },
+    {
+      "id": "chij_ftfjwz9ujork5ll4f4tynm",
+      "title": "SANTHOSH CHICKEN SHOP",
+      "address": "NO20, Gandhi Salai, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6870893,
+      "lon": 79.9731748
+    },
+    {
+      "id": "chijht9xq-_9ujor7tdadckoz_c",
+      "title": "Jango'z & CK's Bakery Chengalpattu",
+      "address": "No.1, Adams Plaza, T.K.M.Road Melamaiyur, Chengalpattu, Tamil Nadu 603001 Chengalpatt, Tamil Nadu 603003",
+      "lat": 12.6820831,
+      "lon": 79.9890724
+    },
+    {
+      "id": "chijc8wg_cd9ujorvibhuae7wyy",
+      "title": "Sai chicken",
+      "address": "64, Anna Salai, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603002",
+      "lat": 12.676739099999999,
+      "lon": 79.976629
+    },
+    {
+      "id": "chij565x0w33ujor1i2vhf9lpk0",
+      "title": "Yashmeen Chicken Center",
+      "address": "R29Q+4W9 Yashmeen Chicken Center, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.817777699999999,
+      "lon": 80.0398529
+    },
+    {
+      "id": "chijp6xsi8b9ujorly--ffdakdg",
+      "title": "MUNISHVARAN CHICKEN AND VEGETABLES SHOP",
+      "address": "1st Main Rd, Kamarajar Nagar, Vembakkam, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6729153,
+      "lon": 79.982147
+    },
+    {
+      "id": "chijtwfysjb9ujorps8ft5ktakk",
+      "title": "Five Star Chicken",
+      "address": "KR Food street, No: 144, New colony Thirukazhukundram, main road, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6815298,
+      "lon": 79.9897797
+    },
+    {
+      "id": "chija-2vgdx5ujorch9jusaotmg",
+      "title": "Alsham BBQ Restaurant",
+      "address": "HIG, Vallai, Alsham BBQ Restaurant, NO:15, MGR Salai, Maramalai nagar, Chengalpattu, Tamil Nadu 603209",
+      "lat": 12.799202399999999,
+      "lon": 80.0233719
+    },
+    {
+      "id": "chijlzx238v3ujora4combq2xzm",
+      "title": "Chicken Shop",
+      "address": "Nellikuppam Main Road, Thangappapuram, Perumattunallur, village, VIA, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.815384799999999,
+      "lon": 80.07690579999999
+    },
+    {
+      "id": "chijuwrfzox3ujorig1hptcpzeg",
+      "title": "HYDERABADI NAWABS",
+      "address": "Shop no 203 Kambar Street, GST road, Changalapattu Taluka, Potheri, under, Maraimalai Nagar, Chennai, Tamil Nadu 603203",
+      "lat": 12.8197719,
+      "lon": 80.0370422
+    },
+    {
+      "id": "chijis3zcgd3ujor5wies34oko4",
+      "title": "MOHABBATH BIRIYANI MARAIMALAI NAGAR",
+      "address": "Town Centre, 10, GST Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.805514599999999,
+      "lon": 80.0274264
+    },
+    {
+      "id": "chijhz3sq5d3ujorsku_8vlrqay",
+      "title": "Bismillah Chicken &mutton Centre",
+      "address": "33 SRM University, Potheri, Kanchipuram, Tamil Nadu 603203",
+      "lat": 12.817736799999999,
+      "lon": 80.0386348
+    },
+    {
+      "id": "chijizyblg33ujorgucf3njc8iw",
+      "title": "Tibetan Cafe",
+      "address": "Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.818921699999999,
+      "lon": 80.04100489999999
+    },
+    {
+      "id": "chijpewpvp33ujort3f78kv9ves",
+      "title": "ARK Bistro",
+      "address": "No. 4, Kakkan St, above Senthil Stores, opposite to ABODE VALLEY, Potheri, Apartment, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.817594099999999,
+      "lon": 80.0398991
+    },
+    {
+      "id": "chij1b8uqad3ujorvgf-r4w9rwo",
+      "title": "WE CRUNCH",
+      "address": "R25H+CFF WE CRUNCH, opposite to panchyat office, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.808552899999999,
+      "lon": 80.0286362
+    },
+    {
+      "id": "chijr3nwhgf3ujordjiw-kp5b84",
+      "title": "Anjappar Chettinad Restaurant Guduvanchery",
+      "address": "6/1A, G.S.T Road, Taluk, Guduvancheri, Chengalpattu, Tamil Nadu 603202",
+      "lat": 12.837401199999999,
+      "lon": 80.05331819999999
+    },
+    {
+      "id": "chijdtva_cj3ujort7ogojvoy7i",
+      "title": "CSK SHAWARMA",
+      "address": "Damn Burgers, near SRM university, Potheri, SRM Nagar, Thailavaram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.828617699999999,
+      "lon": 80.0440455
+    },
+    {
+      "id": "chijhyvxi7r3ujorceqcpmybn8c",
+      "title": "KFC",
+      "address": "2, 1st Floor, GST Road Thailavaram, Guduvanchery, near GST Road, Kanchipuram, Tamil Nadu 603202",
+      "lat": 12.833061299999999,
+      "lon": 80.0477394
+    },
+    {
+      "id": "chij9vcj0_73ujorhmke2ewozki",
+      "title": "Mushroom Mama",
+      "address": "No 13, Mushroom Mama, GST food street, GST Rd, Chengalpattu, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.8327151,
+      "lon": 80.0490652
+    },
+    {
+      "id": "chijd36b1cj3ujornvphtnkojlm",
+      "title": "Karumbur Biriyani",
+      "address": "GST, 2, Bharathiyar Street, Main Road, Potheri, Chennai, Tamil Nadu 603203",
+      "lat": 12.8193512,
+      "lon": 80.0364531
+    },
+    {
+      "id": "chijswizb4b3ujorveq2tzttunk",
+      "title": "Godavari - Spice of Andhra",
+      "address": "1, Dr Ambedkar St, opposite ABODE VALLEY, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8180859,
+      "lon": 80.0400433
+    },
+    {
+      "id": "chij39dt5dd3ujorsr9gfnd5d7q",
+      "title": "BLUE BERRY RESTAURANT",
+      "address": "R2HV+69F BLUE BERRY RESTAURANT, Potheri, SRM Nagar, Chengalpattu, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.827999499999999,
+      "lon": 80.0433159
+    },
+    {
+      "id": "chijbwwsl6f3ujoro7ppass9hbi",
+      "title": "NOOR CHICKEN CENTER",
+      "address": "R3M3+5RQ NOOR CHICKEN CENTER, Vallanchery Main Rd, Guduvancheri, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.832972999999999,
+      "lon": 80.0546119
+    },
+    {
+      "id": "chij3tbym2z3ujory5ime6ad-ci",
+      "title": "Evergreen Momo Shop",
+      "address": "R29Q+9MH Evergreen Momo Shop, Perumal Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8184363,
+      "lon": 80.039243
+    },
+    {
+      "id": "chijr4vpw0n3ujor95lz3dqmo78",
+      "title": "WOW HOT 'N' SPICY",
+      "address": "WOW HOT N SPICY, NO.5, Kakkan St, Potheri, Kanchipuram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8177912,
+      "lon": 80.03928359999999
+    },
+    {
+      "id": "chijc-5in-d3ujork9bjq2c8qvy",
+      "title": "Britto's restaurant",
+      "address": "1, Britto's restaurant, Manchester Street vgn, near VGN TRANQUIL, Potheri, apartment, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8219859,
+      "lon": 80.02890029999999
+    },
+    {
+      "id": "chij_4aopup5ujor7gg0zphywli",
+      "title": "Hotel Junior Kuppanna",
+      "address": "Q2WC+62G Hotel Junior Kuppanna, HIG 59, MGR Salai, GST Rd, opposite Railway Station Road, Peramanur, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.795660499999999,
+      "lon": 80.02116
+    },
+    {
+      "id": "chijcrcuzll3ujora_zqv4137ze",
+      "title": "Momomiya",
+      "address": "22, Annai Therasa St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8178983,
+      "lon": 80.0399016
+    },
+    {
+      "id": "chijz9w-lq33ujorkiwecujqvku",
+      "title": "Java Green Food Court",
+      "address": "Mahatma Gandhi Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8233255,
+      "lon": 80.04449819999999
+    },
+    {
+      "id": "chij-6dk5a33ujorld142nquwwe",
+      "title": "Shri Balaajee Bhavan",
+      "address": "SRM University, 127 A GST Road, Pillayar Koil Street, opp. Guduvanchery, Tamil Nadu 603203",
+      "lat": 12.828537599999999,
+      "lon": 80.0428975
+    },
+    {
+      "id": "chije_nbe-d3ujor7ibogeg8qca",
+      "title": "Moonlight restaurant",
+      "address": "Town Centre, 1/11 HIG, Tholkappiar road, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.8031166,
+      "lon": 80.02847729999999
+    },
+    {
+      "id": "chij3zkox0d3ujornsqgehcy978",
+      "title": "BISMILLAH CHICKEN AND MUTTON CENTER",
+      "address": "No 10, Kamarajar St, Kanchipuram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8080508,
+      "lon": 80.0318582
+    },
+    {
+      "id": "chije-ss3333ujorasg-cn3jdxs",
+      "title": "Darjeeling Momos",
+      "address": "54, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819244399999999,
+      "lon": 80.0404701
+    },
+    {
+      "id": "chijiy-hxfr3ujor5hom5cckcse",
+      "title": "VIEGAS FOODS Pvt Ltd",
+      "address": "14, Narayanapuram Main Rd, Lakshmi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8387222,
+      "lon": 80.06858969999999
+    },
+    {
+      "id": "chijw-impw33ujor_zrzzdbfr_u",
+      "title": "Delhi 6",
+      "address": "Near Aerospace Hanger Perumal Koil Street, Pillayar Koil St, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8192463,
+      "lon": 80.0397658
+    },
+    {
+      "id": "chij2wqxdpj3ujor9znkvmwhtdm",
+      "title": "MARY CROWN",
+      "address": "Vivekanandha Nagar, KONATHI VILLAGE MAIN Rd, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8196733,
+      "lon": 80.03038699999999
+    },
+    {
+      "id": "chijz7rxsmx3ujor0nmajexxwze",
+      "title": "Quality Restaurant",
+      "address": "Pillayar Koil St, SRM University, Chennai, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8193751,
+      "lon": 80.0394389
+    },
+    {
+      "id": "chijxrjscwd3ujor45ic420dvia",
+      "title": "BRO’S BBQ",
+      "address": "GST Road, Potheri, Thailavaram, Chennai, Tamil Nadu 603203 Near GST FOOD STREET, Opposite to A2B, next to ZOHO Thailavaram, Chengalpattu, Chennai, Tamil Nadu 603202",
+      "lat": 12.8324725,
+      "lon": 80.0480328
+    },
+    {
+      "id": "chijx5hqodv7ujorxnccdxaz1he",
+      "title": "Dine City",
+      "address": "No.68, Bharathiyar St, Mahindra World City, veerapuram, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7381355,
+      "lon": 80.0004735
+    },
+    {
+      "id": "chijz1lchpzxujorwshb5npdnik",
+      "title": "Dual H Meat Shop",
+      "address": "Kayar, Main Road, Eachangadu, Tamil Nadu 603110",
+      "lat": 12.7845125,
+      "lon": 80.15280589999999
+    },
+    {
+      "id": "chijyakgmg33ujoraud0qca9lau",
+      "title": "Biryani house",
+      "address": "Pillayar Koil St, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.823305,
+      "lon": 80.0444083
+    },
+    {
+      "id": "chijfaitc_p3ujorcyac7ad1nk4",
+      "title": "The Engineer's Food Theory - Delight In Every Bite",
+      "address": "20, Bajanai Kovil St, Potheri, SRM Nagar, Chengalpattu, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.820400999999999,
+      "lon": 80.0424041
+    },
+    {
+      "id": "chijwwhlelj3ujorl1synefopps",
+      "title": "fried and fabulous",
+      "address": "No 3 CMDA Town centre GST MAIN ROAD, Near Hp petrol pump Sera grand hotel, Kattankulathur Main Rd, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.8067548,
+      "lon": 80.0284097
+    },
+    {
+      "id": "chijz2bifmz3ujor2kqfrgv0xsi",
+      "title": "Taj Multicuisine Restaurant",
+      "address": "2G, GST Rd, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819973,
+      "lon": 80.037018
+    },
+    {
+      "id": "chijgebqumb3ujorzwvyz5rmyzu",
+      "title": "Majilis Resto Cafe",
+      "address": "131, GST Rd, Potheri, SRM Nagar, Thailavaram, Tamil Nadu 603203",
+      "lat": 12.827554,
+      "lon": 80.04284489999999
+    },
+    {
+      "id": "chijc5teyzv3ujorq3ha8nifdje",
+      "title": "Puttopia",
+      "address": "Pillayar Koil St, near SRM college, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8192153,
+      "lon": 80.0406574
+    },
+    {
+      "id": "chijs7uquq_3ujorvegg3oz3euu",
+      "title": "Dept Of Kebab",
+      "address": "Near Abode valley, Kakkan street, Pillayar Koil St, Chennai, Tamil Nadu 603203",
+      "lat": 12.8173839,
+      "lon": 80.04070039999999
+    },
+    {
+      "id": "chijyzasn69hujor0ba716vpvti",
+      "title": "KRM ENTERPRISES",
+      "address": "Plot no:135, Chennai - Theni Hwy, Annadurai street, korukkanthangal, Chengalpattu, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.812232499999999,
+      "lon": 80.0164623
+    },
+    {
+      "id": "chijczsigtn3ujorc5zsh5fpat8",
+      "title": "Ooty Fresh",
+      "address": "Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8200031,
+      "lon": 80.0373169
+    },
+    {
+      "id": "chijn7cbhgt9ujorfleazipav84",
+      "title": "Pet junction",
+      "address": "Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6949916,
+      "lon": 79.9737476
+    },
+    {
+      "id": "chij80-evw_8ujor5blxc23rypg",
+      "title": "Chengalpattu Fish Market",
+      "address": "Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.693823,
+      "lon": 79.97664929999999
+    },
+    {
+      "id": "chijhwizxgr8ujorkcc2ow_6o8u",
+      "title": "Neelas's Live Colours Aquarium & Pets",
+      "address": "No.1F, Gandeeban Street, V.N.A Complex, behind Axis Bank, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.686193399999999,
+      "lon": 79.9828418
+    },
+    {
+      "id": "chijoqwfqw_8ujor5eg6fyujfck",
+      "title": "MR Aquarium",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6932029,
+      "lon": 79.9777412
+    },
+    {
+      "id": "chij5y_myqd9ujor57iqeltmo1q",
+      "title": "Malliga anandan fish market",
+      "address": "MX8C+XRM Malliga anandan fish market, Chengalpattu, Venbakkam, Tamil Nadu 603111",
+      "lat": 12.6674609,
+      "lon": 79.972049
+    },
+    {
+      "id": "chijm8rscoj9ujorjf6evzegk48",
+      "title": "KUMAR FISH SHOP",
+      "address": "GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6987433,
+      "lon": 79.9698579
+    },
+    {
+      "id": "chijdarqzwt9ujorpucidvnotdo",
+      "title": "Neelas live colours aquarium and pets",
+      "address": "391, Neelas live colours aquarium and pets, Melamaiyur, 1, TKM Rd, Anna Nagar, Vallam, Tamil Nadu 603003",
+      "lat": 12.6843463,
+      "lon": 79.9878706
+    },
+    {
+      "id": "chij-woy-r79ujoryelpyoggi5k",
+      "title": "VP fish Shop",
+      "address": "No 68 / 1, VP fish Shop, Ramakrishna first street, T.K.M Rd, Alapakkam, Melamaiyur, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.682982599999999,
+      "lon": 79.98574119999999
+    },
+    {
+      "id": "chijkwjafxf9ujorrj6ctafr1qa",
+      "title": "KSM Fish Stall 2",
+      "address": "3, Main Road, Sakthi Nagar, Neyveli, Thenur, Kanchipuram, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6815454,
+      "lon": 79.9893737
+    },
+    {
+      "id": "chijg4hhec_9ujorlukgslldpvs",
+      "title": "Yash Fish Mart",
+      "address": "No. 45B, Devarasanar Street, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6902701,
+      "lon": 79.98001529999999
+    },
+    {
+      "id": "chije3-2gw39ujorfy_ck0yrmyq",
+      "title": "Neela Fish Shop",
+      "address": "6, Main Road, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6900236,
+      "lon": 79.98108359999999
+    },
+    {
+      "id": "chijsy8mnl_3ujoreymagsp5yjk",
+      "title": "Marina fish market",
+      "address": "R3P2+99V Marina fish market, GST Rd, Guduvancheri, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.8360264,
+      "lon": 80.0508426
+    },
+    {
+      "id": "chij5ubw_el9ujorrxta1unm50g",
+      "title": "SRI BALAJI TRADERS CHENGALPATTU",
+      "address": "25, Gandhi Salai, opp. FISH MARKET, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6941496,
+      "lon": 79.9757322
+    },
+    {
+      "id": "chijybdkdqd9ujora8oratiijxy",
+      "title": "R S Aquarium",
+      "address": "MXQG+CCV R S Aquarium, Chinna kadai, Anna Salai, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.688618,
+      "lon": 79.9760515
+    }
+  ],
+  "updated_at_utc": "2026-09-27T12:47:16.077681+00:00"
+}

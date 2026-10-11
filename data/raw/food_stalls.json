@@ -1,0 +1,1521 @@
+{
+  "category": "food_stalls",
+  "status": "complete",
+  "count": 216,
+  "outside": 65,
+  "points": [
+    {
+      "id": "chijo6r6haz9ujorqht1cgwutla",
+      "title": "Maki coffee shop",
+      "address": "87/3a1, GST Rd, J C K Nagar, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.706085999999999,
+      "lon": 79.97710479999999
+    },
+    {
+      "id": "chijg6habip9ujor0yonvm-6hpe",
+      "title": "KAAPI JUNCTION",
+      "address": "MXJQ+PVF KAAPI JUNCTION, SH58, Sakthi Nagar, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.681531399999999,
+      "lon": 79.9897829
+    },
+    {
+      "id": "chijez0u7uz9ujora59kil11c7g",
+      "title": "VGR coffee shop",
+      "address": "No.99, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6929033,
+      "lon": 79.9776605
+    },
+    {
+      "id": "chijo3b7ztz7ujorkipga2u3ekw",
+      "title": "Senthur Murugan Ginger Tea Stall",
+      "address": "Pareri, Tamil Nadu 603204",
+      "lat": 12.7551775,
+      "lon": 80.001042
+    },
+    {
+      "id": "chij4ti-cst9ujorabdamfijfss",
+      "title": "Tea Corner",
+      "address": "Thiruppulivanam 19, Kanchipuram High Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6983439,
+      "lon": 79.9704319
+    },
+    {
+      "id": "chijw7jklgb7ujor0jrtwdspg_k",
+      "title": "Chai Truck",
+      "address": "The Canopy, Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7309711,
+      "lon": 80.00052
+    },
+    {
+      "id": "chij_c4b0kn3ujorcn4pxob0h58",
+      "title": "Three Star Tea Shop",
+      "address": "137, Chennai - Theni Hwy, Srinivasapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.838342599999999,
+      "lon": 80.0541727
+    },
+    {
+      "id": "chijb0zs6kz3ujortdxeqyyvhde",
+      "title": "Disco Tea Stall & Juice Shop",
+      "address": "1/2, Chennai - Theni Hwy, Nandivaram, Kuberan Nagar, Kamarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.844854199999999,
+      "lon": 80.061044
+    },
+    {
+      "id": "chijz9w-lq33ujorkiwecujqvku",
+      "title": "Java Green Food Court",
+      "address": "Mahatma Gandhi Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8233255,
+      "lon": 80.04449819999999
+    },
+    {
+      "id": "chiju0ju9az9ujor2jrfxsmbvb0",
+      "title": "PON RAJENDIRAN TEA SHOP",
+      "address": "1, GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6839918,
+      "lon": 79.9830819
+    },
+    {
+      "id": "chijqzsw8v79ujor7wo3u2pjjdc",
+      "title": "Periyar Tea Stall",
+      "address": "8i, GST Rd, near by ICICI Bank, Chengalpattu, Kanchipuram, Tamil Nadu 603001",
+      "lat": 12.6841475,
+      "lon": 79.9832852
+    },
+    {
+      "id": "chijzfa_xc39ujork7tz5-8z3y4",
+      "title": "DASS TEA STALL",
+      "address": "Anna Nagar, Pattaravakkam, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.683635299999999,
+      "lon": 79.98411329999999
+    },
+    {
+      "id": "chijh2bwba39ujormthsd1go4hw",
+      "title": "Muthu tea shop",
+      "address": "No25, Kanchipuram - Chengalpattu Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7010843,
+      "lon": 79.97121729999999
+    },
+    {
+      "id": "chijudzdoir9ujordz1ns2dtrvy",
+      "title": "Tea Time",
+      "address": "MXPM+28P Tea Time, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.685098,
+      "lon": 79.983336
+    },
+    {
+      "id": "chijrdj4wwr8ujoroercy9_9nby",
+      "title": "SANTHOSH TEA STALL",
+      "address": "Thimmarajakulam, GST Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6866899,
+      "lon": 79.9832247
+    },
+    {
+      "id": "chijduottad3ujorotxt4pa7-ki",
+      "title": "Prithika Tea stall",
+      "address": "79, Rajagopal Rd, Vallancheri, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.8333981,
+      "lon": 80.0506784
+    },
+    {
+      "id": "chij5bktirt3ujord_7xhbpllo0",
+      "title": "SRI MUNEES TEA STALL",
+      "address": "R3Q3+8PR SRI MUNEES TEA STALL, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8383719,
+      "lon": 80.05425369999999
+    },
+    {
+      "id": "chijedtkmyd5ujorycjei_eidzs",
+      "title": "TEA TALKS",
+      "address": "Samiyar Gate, GST Rd, Peramanur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.790225399999999,
+      "lon": 80.01682269999999
+    },
+    {
+      "id": "chijcyhowwp3ujorpfc1vu3mzd8",
+      "title": "Bawa Tea Stall",
+      "address": "R2RV+68V Bawa Tea Stall, Vallalar Nagar, Thailavaram, Madambakkam, Tamil Nadu 603202",
+      "lat": 12.840616599999999,
+      "lon": 80.0432917
+    },
+    {
+      "id": "chijevlirxf9ujorzrbamffly-u",
+      "title": "SWATHA TEA STALL",
+      "address": "2 D/3, SWATHA TEA STALL, New Bustand, GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6901222,
+      "lon": 79.9816957
+    },
+    {
+      "id": "chij4x0mrff3ujor-xveiyaaf1e",
+      "title": "GST Food Street",
+      "address": "GST FOOD STREET, GST Rd, Chennai, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.833270899999999,
+      "lon": 80.0490851
+    },
+    {
+      "id": "chijobfotaj5ujoryrg2ihx6k7i",
+      "title": "Tea Bench maraimalainagar",
+      "address": "Q2VF+P7X Tea Bench maraimalainagar, Madapalli, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7943544,
+      "lon": 80.0232414
+    },
+    {
+      "id": "chijq9srqjl3ujorhzrto14mpzg",
+      "title": "Bombay Tea Stall",
+      "address": "R2CJ+7V6 Bombay Tea Stall, Potheri, Konathi Village, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.820664599999999,
+      "lon": 80.03215349999999
+    },
+    {
+      "id": "chijl-7c_m78ujorfgmrbc-o2iu",
+      "title": "Vinoth Tea Stall",
+      "address": "Vinoth Tea Stall Market, J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692737699999999,
+      "lon": 79.9782858
+    },
+    {
+      "id": "chijkesuj4h7ujor85u2bz9qdzu",
+      "title": "TEA PORT",
+      "address": "Bharathiyar Street, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.737813,
+      "lon": 80.00144
+    },
+    {
+      "id": "chijg51t9sd3ujorn-qumi-3wh0",
+      "title": "Coco Clouds",
+      "address": "R3Q4+XGC Coco Clouds, Plot No 31, Mahalakshmi Street, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.839960999999999,
+      "lon": 80.0562257
+    },
+    {
+      "id": "chijpw_cvg33ujorkmrr290bzdw",
+      "title": "ARJUN KAFE",
+      "address": "R2GV+VHV ARJUN KAFE, Potheri, SRM Nagar, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.827235499999999,
+      "lon": 80.0439116
+    },
+    {
+      "id": "chijexikegn8ujortdx0wrgbque",
+      "title": "Ganapathy Cafe",
+      "address": "32/8, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6875705,
+      "lon": 79.9802078
+    },
+    {
+      "id": "chijxcptlht_ujorlcb0wy1jdee",
+      "title": "Vitamin Palace",
+      "address": "SH58, Santhi Nagar, Nenmeli, Chengalpattu, Vallam R.F., Tamil Nadu 603003",
+      "lat": 12.6700859,
+      "lon": 80.009
+    },
+    {
+      "id": "chij_2u7-er9ujorkwy8u1pr4we",
+      "title": "NEW UDANKUDI KARUPATTI COFFEE",
+      "address": "MXGH+J85 NEW UDANKUDI KARUPATTI COFFEE, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.676454399999999,
+      "lon": 79.9782646
+    },
+    {
+      "id": "chijy0rah3d3ujorquyyll_drk4",
+      "title": "Aaladipattiyan Urapakkam",
+      "address": "3, GST Rd, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.871341099999999,
+      "lon": 80.0767967
+    },
+    {
+      "id": "chijc5teyzv3ujorq3ha8nifdje",
+      "title": "Puttopia",
+      "address": "Pillayar Koil St, near SRM college, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8192153,
+      "lon": 80.0406574
+    },
+    {
+      "id": "chijq7knioh9ujorsycru7w-2ag",
+      "title": "SOORIYA NARAYANAN TEA STAL",
+      "address": "Mahindra City, EARIKARAI STREET 87, Kanchipuram, Tamil Nadu 603001",
+      "lat": 12.6787172,
+      "lon": 79.985164
+    },
+    {
+      "id": "chijssp70qt3ujortswq11u9loa",
+      "title": "GANESH TEA STALL",
+      "address": "73, Pillayar Koil St, Potheri, Kattankulathur, Chennai, Tamil Nadu 603203",
+      "lat": 12.820174699999999,
+      "lon": 80.0409565
+    },
+    {
+      "id": "chijkxmn9a73ujorr5wzfjquscy",
+      "title": "Vaigai Tea Stall",
+      "address": "19, Chennai Theni Hwy, Pandian Nagar, Chennai - Theni Hwy, Potheri, Pandian Nagar, Guduvancheri, Thailavaram, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.8306499,
+      "lon": 80.0454197
+    },
+    {
+      "id": "chijubfwfqd3ujorfx-ws5vumik",
+      "title": "Cafe D Kattankulathur",
+      "address": "R2GV+QH2 Cafe D Kattankulathur, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8269375,
+      "lon": 80.0439375
+    },
+    {
+      "id": "chijf_iraqd9ujor-5zk-vtbyui",
+      "title": "TEA BOY",
+      "address": "M2G4+VMW TEA BOY, Santhi Nagar, Nenmeli, Chengalpattu, Kovilathangal, Tamil Nadu 603003",
+      "lat": 12.6772928,
+      "lon": 80.0062082
+    },
+    {
+      "id": "chij06z7pqd9ujordj9gfmcuijs",
+      "title": "Cafe Time",
+      "address": "MXJR+8M6 Cafe Time, TKM Rd, opposite to SA Traders, Alapakkam, Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.680779,
+      "lon": 79.99163709999999
+    },
+    {
+      "id": "chijlwrg1u33ujorywlozz4upzw",
+      "title": "MSP ENTERPRISES",
+      "address": "NO.5, MSP ENTERPRISES, JAVA GREEN FOOD COURT, POTHERI, SRM UNIVERSITY, SRM Nagar, KATTANKOLATHUR, Kanchipuram, Tamil Nadu 603203",
+      "lat": 12.823244599999999,
+      "lon": 80.0447204
+    },
+    {
+      "id": "chij_2qrhqd9ujorst0poudqxpg",
+      "title": "SAKTHI MURUGAN TEA & COLL BAR சக்தி முருகன் டீ & கூல்பார்",
+      "address": "MXWG+RJ4 SAKTHI MURUGAN TEA & COLL BAR சக்தி முருகன் டீ & கூல்பார், JCK Nagar Rd, J C K Nagar, Paranur, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6970193,
+      "lon": 79.9765638
+    },
+    {
+      "id": "chij8zaqxad9ujorfiu2kejh3te",
+      "title": "Cafe Hub - Tea Stall and Bakery",
+      "address": "Government Hospital, 22, GST Rd, near Chengalpattu, Periyar Nagar, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6761319,
+      "lon": 79.9781057
+    },
+    {
+      "id": "chijkvnkd4j-ujorh7s2nxcsm1a",
+      "title": "Sakthi Tea Stall",
+      "address": "M28C+53R Sakthi Tea Stall, Nemmeli Bus Stop, 3 Tkm Main Road, SH58, near Chengalpattu, Nenmeli, Nemmeli, Tamil Nadu 603405",
+      "lat": 12.665367,
+      "lon": 80.0205639
+    },
+    {
+      "id": "chijyevzhvh3ujorkkcg4e4df1o",
+      "title": "Murugan Tea Stall And Hotel(Veg & Non-Veg)",
+      "address": "26, Karanai Puducherry Rd, Abnirami Nagar, Urapakkam, Vandalur R.F., Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8598517,
+      "lon": 80.0724005
+    },
+    {
+      "id": "chijn0pupi_9ujorvph4kduktns",
+      "title": "Rose Milk Raja-Chengalpattu",
+      "address": "No 380 B/3, TKM ROAD, VALLAM VILLAGE, MELAMAIYYUR, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.681471199999999,
+      "lon": 79.9904419
+    },
+    {
+      "id": "chijg7zd__z9ujorvyfdbhx8sp4",
+      "title": "PERUMAL TEA SHOP",
+      "address": "123, GST Rd, near Court, VOC Nagar, Venbakkam, Tamil Nadu 603001",
+      "lat": 12.6715624,
+      "lon": 79.97577439999999
+    },
+    {
+      "id": "chijqxim16f3ujorgq4ujkxg9xu",
+      "title": "Laxmi Tea Stall",
+      "address": "1, Nellikuppam Rd, Kumaran Nagar, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.839654099999999,
+      "lon": 80.0625323
+    },
+    {
+      "id": "chijjbvwaef5ujorw6bmvtymqs0",
+      "title": "Pandiaraja Tea Stall",
+      "address": "Q2RH+J8P Pandiaraja Tea Stall, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7915967,
+      "lon": 80.028341
+    },
+    {
+      "id": "chija1rsygd7ujorm5de5mpl6te",
+      "title": "Kishore tea stall",
+      "address": "138, Netaji St, Chengalpattu, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7589431,
+      "lon": 80.007024
+    },
+    {
+      "id": "chij__gdhwv3ujorgi-cwo9b2is",
+      "title": "A R Vasantham Tea Stall",
+      "address": "GST Rd, Urapakkam, Chengalpattu, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.860461299999999,
+      "lon": 80.0728279
+    },
+    {
+      "id": "chijht9xq-_9ujor7tdadckoz_c",
+      "title": "Jango'z & CK's Bakery Chengalpattu",
+      "address": "No.1, Adams Plaza, T.K.M.Road Melamaiyur, Chengalpattu, Tamil Nadu 603001 Chengalpatt, Tamil Nadu 603003",
+      "lat": 12.6820831,
+      "lon": 79.9890724
+    },
+    {
+      "id": "chij26f0qgb9ujormvcbpygbsts",
+      "title": "Raman",
+      "address": "Raman By Pass, Tea By Pass Road, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.690717,
+      "lon": 79.9618256
+    },
+    {
+      "id": "chijlf9khid9ujorftjq-r3tjbu",
+      "title": "APPA TEA STALL",
+      "address": "No 61, GST Rd, Chengalpattu, Pazhaveli, Tamil Nadu 603111",
+      "lat": 12.668286499999999,
+      "lon": 79.9586144
+    },
+    {
+      "id": "chijl23g4ej3ujorm0k2-qm2zb4",
+      "title": "Tea Bench",
+      "address": "R2JW+59W Tea Bench, Pandian Nagar, SRM Nagar, Thailavaram, Tamil Nadu 603203",
+      "lat": 12.830487199999999,
+      "lon": 80.0459618
+    },
+    {
+      "id": "chijg3kfumr8ujorluavll_4pkm",
+      "title": "Per Gratiam",
+      "address": "13 b, Ullavur-Chengalpattu Rd, Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.6801824,
+      "lon": 79.9793026
+    },
+    {
+      "id": "chijhfrn2gj9ujor3ncqxsp1sie",
+      "title": "Wafflehere",
+      "address": "43/19, Dr Varadharajan St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6865934,
+      "lon": 79.9824575
+    },
+    {
+      "id": "chijfvynpg33ujoraxtd3cslgd8",
+      "title": "Shobana Cool Bar",
+      "address": "Potheri, Pillayar Koil St, Tamil Nadu 603203",
+      "lat": 12.820704099999999,
+      "lon": 80.0415601
+    },
+    {
+      "id": "chijjypvhkz_ujorww78fbt9p6k",
+      "title": "Bhairava tea stall",
+      "address": "Unnamed Road, Anjur R.F., Tamil Nadu 603003",
+      "lat": 12.7069073,
+      "lon": 80.0238126
+    },
+    {
+      "id": "chijru17vwl3ujorhe_aa6otpsa",
+      "title": "4S Peter Tea Shop",
+      "address": "169, Vallanchery Main Rd, Potheri, Guduvancheri, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.8240007,
+      "lon": 80.0551534
+    },
+    {
+      "id": "chiji0etnqd9ujorqcas_roeqjm",
+      "title": "Lokchira Tea Stall",
+      "address": "MXV8+V8W Lokchira Tea Stall, NH 32, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6948791,
+      "lon": 79.96611879999999
+    },
+    {
+      "id": "chijqd6uowx8ujoraaaamcpvxba",
+      "title": "ANANDHAN TEA SHOP",
+      "address": "Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6946289,
+      "lon": 79.9735666
+    },
+    {
+      "id": "chiju5hl9mv8ujorexvup7sblno",
+      "title": "Ganapathy Tea Shop",
+      "address": "MXRJ+2PC Ganapathy Tea Shop, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6900546,
+      "lon": 79.9817633
+    },
+    {
+      "id": "chij39dt5dd3ujorsr9gfnd5d7q",
+      "title": "BLUE BERRY RESTAURANT",
+      "address": "R2HV+69F BLUE BERRY RESTAURANT, Potheri, SRM Nagar, Chengalpattu, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.827999499999999,
+      "lon": 80.0433159
+    },
+    {
+      "id": "chijkf2tbsz9ujor_ouelksu3uc",
+      "title": "Sivadass Tea Stall",
+      "address": "Main, Road, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.683657499999999,
+      "lon": 79.98423729999999
+    },
+    {
+      "id": "chijt07vhxdbujorncrgvahrcei",
+      "title": "Express Food Street",
+      "address": "137, Rajiv Gandhi Salai, Semmancheri, Chennai, Tamil Nadu 600119",
+      "lat": 12.870566799999999,
+      "lon": 80.2268441
+    },
+    {
+      "id": "chijqc3eiuxbujorfpucl0qki4m",
+      "title": "RTS Food Street - Navalur",
+      "address": "92, Rajiv Gandhi Salai, Navalur, OMR, adj. to AGS Cinemas, Navalur, Tamil Nadu 600130",
+      "lat": 12.8494301,
+      "lon": 80.2263325
+    },
+    {
+      "id": "chijv_zke1xdujor_bzqj6n0rlo",
+      "title": "Chennai Food Streets",
+      "address": "2/1267A,200 Feet Radial Road Pallavaram, To Thoraipakkam Road, Kovilambakkam, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9489272,
+      "lon": 80.19194519999999
+    },
+    {
+      "id": "chijozgt2l1nujor62tcfvkallq",
+      "title": "Street Foods By Punjab Grill Royapettah",
+      "address": "Third Floor, Street Foods By Punjab Grill Royapettah, Express Avenue Estate, Woods Rd, Express Estate, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.058425699999999,
+      "lon": 80.2640837
+    },
+    {
+      "id": "chij4zt1pljnujoroixvrp1frtw",
+      "title": "T nagar street food",
+      "address": "Corporation Play Ground, 55, Venkatanarayana Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0366442,
+      "lon": 80.23589299999999
+    },
+    {
+      "id": "chij3xnzynjdujorydo9nchqiwm",
+      "title": "MSM Food Street",
+      "address": "Sholinganallur, 30/2A2, Perumbakkam Main Rd, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9074236,
+      "lon": 80.2013632
+    },
+    {
+      "id": "chijseucwejfujorhwyurhhr1p4",
+      "title": "M's STREET",
+      "address": "N0, M's STREET, 396/1, Mambakkam - Medavakkam Main Rd, Munusamy Nagar, Vimala Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.914900699999999,
+      "lon": 80.1919302
+    },
+    {
+      "id": "chijs99h_mbdujorg9q03csh0y4",
+      "title": "CHENNAI FOOD TOWN",
+      "address": "Chennai food town, Plot 35/1, 200ft Pallavaram, radial road, Sri Sai Nagar, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9499888,
+      "lon": 80.23747949999999
+    },
+    {
+      "id": "chijfrdhw1jdujorzjqphlanfsg",
+      "title": "Meena Food Street",
+      "address": "Rose Avenue, S. Kolathur, Unmai Nagar, LIC Nagar, Kovilambakkam, Tambaram, Tamil Nadu 600091",
+      "lat": 12.9529984,
+      "lon": 80.1994327
+    },
+    {
+      "id": "chijt-05g9xgujorv65dnguwwa4",
+      "title": "Iyyappan Tiffin Centre",
+      "address": "31, 2nd Main Rd, Sabari Nagar, Mugalivakkam, Chennai, Tamil Nadu 600116",
+      "lat": 13.0265832,
+      "lon": 80.16997719999999
+    },
+    {
+      "id": "chijgycdi6pnujormgmys1wvfmg",
+      "title": "Nandhi Tiffin Centre",
+      "address": "49, North Rd, near Nandhi Statue, CIT Nagar West, CIT Nagar, Chennai, Tamil Nadu 600035",
+      "lat": 13.029573099999999,
+      "lon": 80.230194
+    },
+    {
+      "id": "chiju2qm8yndujorriicezpjywc",
+      "title": "North Indian foods tiffin service",
+      "address": "1st floor, North Indian foods tiffin service, Bhuvan Palace, plot no 194, 6th Main Rd, Meenatchi Sundareswarar Koil, Sadasiva Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9636816,
+      "lon": 80.2063162
+    },
+    {
+      "id": "chijw47knurmujorbqlxote9ljk",
+      "title": "SRI BHARATHI TIFFEN CENTRE",
+      "address": "Krishna sweets next building, Brindavan extension, Aryagowda Rd, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0427153,
+      "lon": 80.2221251
+    },
+    {
+      "id": "chijc5xdqvbmujoret_m79fgw34",
+      "title": "Ram's tiffin center",
+      "address": "No 26 , Rama Kamath Puram, T Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.046683699999999,
+      "lon": 80.2381221
+    },
+    {
+      "id": "chijqyg23vvmujorqn8riaewtda",
+      "title": "Sapthagiri Tiffin Centre",
+      "address": "15/2, Sivagnanam St, Post Office Colony, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0402487,
+      "lon": 80.236092
+    },
+    {
+      "id": "chij48s2ohnnujorwsvyw8ee9fs",
+      "title": "Srinivasa Tiffin Centre",
+      "address": "5, Srinivasa Tiffin Centre, 3rd St, Thangal karai, Dharan Singh Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0542213,
+      "lon": 80.20932979999999
+    },
+    {
+      "id": "chij4yrlhj1nujordehoq-oxfwg",
+      "title": "Sangeetha Tiffin Shop",
+      "address": "Station View Rd, Taylor Estate, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0524364,
+      "lon": 80.2303014
+    },
+    {
+      "id": "chijkysfvgbnujoryrkr6y5omei",
+      "title": "Arya Tiffin Centre",
+      "address": "Lakshmi Street, Lake View Rd, opposite to Bandhan Bank, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.034990299999999,
+      "lon": 80.22090209999999
+    },
+    {
+      "id": "chij2864qabnujorew4rqn4h9sc",
+      "title": "Hemanth tiffin centre",
+      "address": "19, 8th Ave, Sarvamangala Colony, Sri Devi Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.0374052,
+      "lon": 80.2155751
+    },
+    {
+      "id": "chijrxl7iqbnujorqbxhe54z_eu",
+      "title": "SHANMUGAR TIFFIN CENTRE",
+      "address": "61, Northern road, Mandavelipakkam, Mandaveli, Chennai, Tamil Nadu 600014",
+      "lat": 13.0290497,
+      "lon": 80.26835489999999
+    },
+    {
+      "id": "chijlecxuybnujor8wmw4goekxu",
+      "title": "Ram Iyer Tiffen Shop",
+      "address": "25VV+589 Ram Iyer Tiffen Shop, Munusamy Salai, KK Nagar West, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.0429031,
+      "lon": 80.1933734
+    },
+    {
+      "id": "chijutbigbzmujor9wxogc-nyse",
+      "title": "Sri Balaji Tiffin Center(Pure- Vegetarian)",
+      "address": "No. 9, Sri Balaji Tiffin Center(Pure- Vegetarian), 27, Kaliamman Koil St, sayee Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.055617199999999,
+      "lon": 80.1935142
+    },
+    {
+      "id": "chijhqnzjltdujorv2jtowyvldq",
+      "title": "SRI KRISHNA TIFFIN CENTER",
+      "address": "X7M6+76J SRI KRISHNA TIFFIN CENTER, Chitrakulam St, Lalitha Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9832083,
+      "lon": 80.26050169999999
+    },
+    {
+      "id": "chij9zinjd5dujorbc3ncu3zy7c",
+      "title": "Hotel Bharani Tiffin Centre (Veg)",
+      "address": "54, Hotel Bharani Tiffin Centre (Veg), Jawaharlal Nehru Salai, Anna Nagar, Indian Institute Of Technology, Chennai, Tamil Nadu 600113",
+      "lat": 12.9826205,
+      "lon": 80.2357871
+    },
+    {
+      "id": "chijyzlr-o5dujorkyyhoxgmlju",
+      "title": "Jayashri Akka Tiffin Shop",
+      "address": "21-278, Vel Nagar 3rd St, Srinivasa Nagar Extension, Devi Karumariamman Nagar, Ram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9732196,
+      "lon": 80.2139041
+    },
+    {
+      "id": "chijlqn4mnjdujorj-vjmpytwko",
+      "title": "Myna Kitchen | Mess & Tiffin Service",
+      "address": "97, Industrial Estate Rd, Anand Nagar, MCN Magar, Thoraipakkam, Chennai, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9417309,
+      "lon": 80.23445269999999
+    },
+    {
+      "id": "chijhdthgabnujorgkl4yzczliu",
+      "title": "MBR tiffin centre",
+      "address": "2-10, Thantai Periyar St, Kanu Nagar, K K Nagar, MGR Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.034663499999999,
+      "lon": 80.1962138
+    },
+    {
+      "id": "chije3qjewbhujor4lvkafttbwm",
+      "title": "Bala Tiffin Centre",
+      "address": "5/3a, Valluvar Salai, Sriram Nagar, MGR Garden, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0244456,
+      "lon": 80.18289159999999
+    },
+    {
+      "id": "chijaqsf81zmujor7ici35sfspq",
+      "title": "Murugan Idli Shop",
+      "address": "2 5, Gopathy Narayana Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0425866,
+      "lon": 80.2352884
+    },
+    {
+      "id": "chijkr4w3efdujorzdtuvgqz7rw",
+      "title": "Sree Balaji Tiffin center",
+      "address": "Shop No.2, Sree Balaji Tiffin center, 88, Moovarasanpet Main Rd, Muvarasanpattu, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.969674099999999,
+      "lon": 80.1884613
+    },
+    {
+      "id": "chijzseo9a9dujor3635wqsy_0g",
+      "title": "Night Tiffin Restaurant",
+      "address": "Plot no 12, Night Tiffin Restaurant, near, Krishna Nagar 1st Cross St, Krishnanagar, Perumal Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9291401,
+      "lon": 80.2138325
+    },
+    {
+      "id": "chijjwwwpqdnujorjtzma4cggqq",
+      "title": "Samy Tiffen Centre",
+      "address": "No. 25, 3rd Cross St, CIT Nagar West, Saidapet, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.0258349,
+      "lon": 80.23005529999999
+    },
+    {
+      "id": "chijha12_g9nujorcnoh-iqscfu",
+      "title": "IVC TIFFIN CENTER",
+      "address": "41, 11th Ave, 11th Avenue, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.032105399999999,
+      "lon": 80.2120292
+    },
+    {
+      "id": "chijnvjh7v5cujorcvqykxonyoy",
+      "title": "Sri Selva Fast Food & Tiffin",
+      "address": "Shop No.3/362, Old Mahabalipuram Road, Rajiv Gandhi Salai, Mettukuppam, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9409697,
+      "lon": 80.235841
+    },
+    {
+      "id": "chijs_g6qytfujor8xmjtp61-su",
+      "title": "Adyar Dhanam Tiffen Centre",
+      "address": "37, Silapathikaram St, Vallal Yusuf Nagar, Gomathy Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9266955,
+      "lon": 80.147791
+    },
+    {
+      "id": "chijcrqdjpvmujorzbj_bxczo7g",
+      "title": "Samiyar Sweets & Savouries",
+      "address": "Shop No.3, Samiyar Sweets & Savouries, Mambalam High Rd, Parthsarathy Puram, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0536184,
+      "lon": 80.231869
+    },
+    {
+      "id": "chijpbbv0rthujorskzs46i8ee4",
+      "title": "Sri vari tiffin centre",
+      "address": "No 29A, Senthil Nagar 1st Main Rd, S. V. S Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.0380214,
+      "lon": 80.1724691
+    },
+    {
+      "id": "chijyxpo8sbmujorc3tysrxwkuu",
+      "title": "Ellamman Maavu Kadai/Tiffin Center",
+      "address": "No.18, Venkatachalam(Naicken) St, Narayana Krishnaraja Puram, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0563034,
+      "lon": 80.2749393
+    },
+    {
+      "id": "chiju90yl9nnujorvdbwsrfkvuc",
+      "title": "Bharathi Mess",
+      "address": "15, Ponnambala Vathiyar Street, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.032898099999999,
+      "lon": 80.2702164
+    },
+    {
+      "id": "chijidujigbnujorvwyatrhvphy",
+      "title": "Arya tiffin centre",
+      "address": "New No:2 & 4/6GF, Old No: 34, Arya tiffin centre, 35/6GF, Madley Rd, Postal Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.035200399999999,
+      "lon": 80.23002679999999
+    },
+    {
+      "id": "chij9-go9xhdujorlcxndfoerum",
+      "title": "Udhayam Tiffin Centre",
+      "address": "No.13, Taramani Link Rd, Bharathi Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.981241299999999,
+      "lon": 80.2337148
+    },
+    {
+      "id": "chij-6deulfeujorewy0_jnmwc0",
+      "title": "Keerthana's Idli shop",
+      "address": "X522+557 Keerthana's Idli shop, Kolappa Pillai St, Jamin Rayapettah, Gajalakshmi Colony, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.950406899999999,
+      "lon": 80.1504278
+    },
+    {
+      "id": "chij5soowg1dujorsvrnbhpqo3k",
+      "title": "Krishna Tiffin Centre",
+      "address": "No.7, MGR Main Rd, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9716931,
+      "lon": 80.2446784
+    },
+    {
+      "id": "chij1xg8hclnujorzgoz1cvqxf8",
+      "title": "Sri Juice Land Tiffin Centre",
+      "address": "new no 294, old no, Sri Juice Land Tiffin Centre, 142, Ramakrishna Mutt Rd, RA Puram, Trustpakkam, Mandaveli, Chennai, Tamil Nadu 600028",
+      "lat": 13.027678,
+      "lon": 80.2578939
+    },
+    {
+      "id": "chijsbpylsfmujor0_6tjj_xpcq",
+      "title": "Dhanalakshmi Tiffin Center",
+      "address": "No.58/36, Devaraj Street, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0577993,
+      "lon": 80.2725391
+    },
+    {
+      "id": "chijyys9a4ddujormstdztpjik8",
+      "title": "Amirtham Tiffin Centre",
+      "address": "203, Gandhi Road, Karunabigai Colony, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.986359799999999,
+      "lon": 80.2244371
+    },
+    {
+      "id": "chijz6t_nxnfujor5eriiu8rves",
+      "title": "Tiffen centre",
+      "address": "180, Grand Southern Trunk Rd, New Colony, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9523607,
+      "lon": 80.140569
+    },
+    {
+      "id": "chij47f3aidmujor62pbxkpowqg",
+      "title": "Sri Abhinaya Tiffin Centre",
+      "address": "Ice House, 51, Dr Besant Rd, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.052324299999999,
+      "lon": 80.2755566
+    },
+    {
+      "id": "chij2fzjivbmujorqrtlq5sels4",
+      "title": "Geethanjali Tiffin Centre & Fast Food",
+      "address": "1/7, Vathyar Thottam Main Rd, KG NTR Heritage, Vathyar Thottam, Nagarjuna Nagar, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0476111,
+      "lon": 80.22149879999999
+    },
+    {
+      "id": "chijb41crvlnujord7m2jpyuvd8",
+      "title": "Murugan Idli Shop",
+      "address": "E. 149/1, 6th Avenue, opp. Annai Velankanni Road, GOCHS Colony, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.995619999999999,
+      "lon": 80.270203
+    },
+    {
+      "id": "chij0tb0j-lmujorlsmlexrlkwm",
+      "title": "Sri Saathiya Chettinad Tiffin Centre",
+      "address": "29/16, First Main Rd, Vengeeswarar Nagar, Kodambakkam, Chennai, Tamil Nadu 600026",
+      "lat": 13.0493081,
+      "lon": 80.21474239999999
+    },
+    {
+      "id": "chijw6p2wvbdujorsc3fawyoumc",
+      "title": "Dj tiffin centre, Delicious music",
+      "address": "N Mada St, near ICICI Bank, opposite DJ tiffin centre stall, Lalitha Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9860522,
+      "lon": 80.2613338
+    },
+    {
+      "id": "chijfti8fb5eujorbqlv44sbxuk",
+      "title": "Annadurai Tea Stall",
+      "address": "Santhosapuram, Sembakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.916824499999999,
+      "lon": 80.17023999999999
+    },
+    {
+      "id": "chijqx6_jrffujort0gcdkz2pr0",
+      "title": "Rahul Tea Stall",
+      "address": "108, Bharathamadha St, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9270027,
+      "lon": 80.1267246
+    },
+    {
+      "id": "chijzxav14beujora_xgq2gkmam",
+      "title": "Indian Tea Stall",
+      "address": "W5QJ+VX7 Indian Tea Stall, Medavakkam Main Rd, Chinna Kovilambakkam, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.939675,
+      "lon": 80.1824372
+    },
+    {
+      "id": "chijauv4-ihdujorxdltg7tizne",
+      "title": "Tea Stalls",
+      "address": "5, Tea Stalls, 8, 1st Main Rd, TNHB Colony, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9738356,
+      "lon": 80.2196981
+    },
+    {
+      "id": "chij2xunvspfujorjz94pwaofe4",
+      "title": "Sastha Tea Stall",
+      "address": "Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.980768099999999,
+      "lon": 80.17979299999999
+    },
+    {
+      "id": "chijkvo-cprnujor7_ql2id_mfy",
+      "title": "Tea house",
+      "address": "No:9 new, no: 112, Sardar Patel Rd, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.006446799999999,
+      "lon": 80.2558459
+    },
+    {
+      "id": "chijr0ltyqz3ujore7xc7mgjsjq",
+      "title": "Vijay Tea Stall",
+      "address": "No-153, Nandhivaram Road Nellikuppam, Road, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.843615999999999,
+      "lon": 80.059907
+    },
+    {
+      "id": "chij6tc2znrnujorwza--bm8440",
+      "title": "SRI RAJA TEA STALL",
+      "address": "18-14, Palani Andavar Koil St, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0512283,
+      "lon": 80.2135547
+    },
+    {
+      "id": "chijaqwu3l9bujor7nuecifeeqq",
+      "title": "Marina Tea Shop",
+      "address": "Nookampalayam, Arasankalani, Sithalapakkam, Perumbakkam, Tamil Nadu 600131",
+      "lat": 12.8839404,
+      "lon": 80.1986001
+    },
+    {
+      "id": "chij5cdb2xrhujoro5wibqmjl3o",
+      "title": "Elumi Chai",
+      "address": "41A, Rajagopalan street, Shridevikuppam Main Rd, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.043119299999999,
+      "lon": 80.17599799999999
+    },
+    {
+      "id": "chijxcfs715aujorhx7prguxaai",
+      "title": "Sri Krishna Tea Stall",
+      "address": "No:4/170,rajeev Gandhi salai(near Hiranandhi appartment opposite) Egattur Chenai, Tamil Nadu 600130",
+      "lat": 12.8339045,
+      "lon": 80.2285443
+    },
+    {
+      "id": "chijtdkz16nnujor_ixlfrkatcq",
+      "title": "Chai Sutta Bar",
+      "address": "Padmavathi Rd, Gopalapuram, Chennai, Tamil Nadu 600086",
+      "lat": 13.0505447,
+      "lon": 80.2562112
+    },
+    {
+      "id": "chijg4rtpajeujorulyjjbqoilo",
+      "title": "KUTTY TEA STALL",
+      "address": "1, Ashokan St, Pazhavanthangal, Chennai, Tamil Nadu 600061",
+      "lat": 12.986331,
+      "lon": 80.1811891
+    },
+    {
+      "id": "chijuyzkmgbfujorraonvhh3vbe",
+      "title": "New Sangam Tea Stall",
+      "address": "128, Sri Ambal Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.952359399999999,
+      "lon": 80.1841101
+    },
+    {
+      "id": "chijae4y60wkujornnlrgycffom",
+      "title": "Chennai Tea Stall",
+      "address": "23V8+R89 Chennai Tea Stall, Madavilagam, Tamil Nadu 600124",
+      "lat": 13.04453,
+      "lon": 80.06586089999999
+    },
+    {
+      "id": "chijcyy10unmujor_arkqstj4ii",
+      "title": "Lulu Tea Stall",
+      "address": "21-A, 8th Ave, Sarvamangala Colony, Manthope Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.0373696,
+      "lon": 80.21580949999999
+    },
+    {
+      "id": "chijpwq7grbnujormuvae8ebu9c",
+      "title": "T Shop",
+      "address": "3745+23Q T Shop, Conron Smith Rd, Peters Colony, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0550825,
+      "lon": 80.2577287
+    },
+    {
+      "id": "chijz0od2x9bujorg8lhx_jfpuo",
+      "title": "KODANAD TEA STALL",
+      "address": "Karanai Main Rd, Semmancheri, Arasankalani, Tamil Nadu 600130",
+      "lat": 12.873985,
+      "lon": 80.19979169999999
+    },
+    {
+      "id": "chij_y3xphhfujor0y90l6mjicc",
+      "title": "Tea Talkies",
+      "address": "20, Duraiswamy Reddy St, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.929782999999999,
+      "lon": 80.11903
+    },
+    {
+      "id": "chijkebhcbxmujorqottliu0dnc",
+      "title": "Irani Tea Stall",
+      "address": "No.42,shop no:9, gee gee complex, Anna Salai, Chennai, Tamil Nadu 600002",
+      "lat": 13.0597424,
+      "lon": 80.260661
+    },
+    {
+      "id": "chijgtb8nmzmujort3etf8ykcvo",
+      "title": "Sri Ramalakshmi tea shop",
+      "address": "353X+FV5 Sri Ramalakshmi tea shop, Abbusali St, Kaveri Rangan nagar, Annamalai Colony, Chennai, Tamil Nadu 600092",
+      "lat": 13.0536345,
+      "lon": 80.1997356
+    },
+    {
+      "id": "chijt3c_nrz3ujoranxgr8thzwe",
+      "title": "QUEEN FRESH JUICE & TEA SHOP",
+      "address": "R29Q+RHX QUEEN FRESH JUICE & TEA SHOP, Pillayar Koil St, SRM University, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.819600999999999,
+      "lon": 80.0389701
+    },
+    {
+      "id": "chijtd63tlx3ujor50uh3syaru4",
+      "title": "AAA TEA STALL",
+      "address": "R22G+6VP AAA TEA STALL, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.8005107,
+      "lon": 80.0271624
+    },
+    {
+      "id": "chije4kxrohnujorh8nwm2dtplk",
+      "title": "Ravi Tea Stall",
+      "address": "No.46, Bharathiyar Street, Kazhikundram, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.9953633,
+      "lon": 80.243568
+    },
+    {
+      "id": "chijqbjhzwfdujorpmwdvuusvak",
+      "title": "Tea Park",
+      "address": "W6W2+F26 Tea Park, S. Kolathur, S.Kolathur, Viduthalai Nagar, Kovilambakkam, Chennai, Tamil Nadu 600129",
+      "lat": 12.9461695,
+      "lon": 80.2000218
+    },
+    {
+      "id": "chijpwgxfbzmujorz4waekeftj4",
+      "title": "Indian Tea Stall",
+      "address": "No-247, Kaliamman Koil St, Chinmaya Nagar Stage 2, Natesan Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.0581626,
+      "lon": 80.1932909
+    },
+    {
+      "id": "chijcz9vdopdujoridviszw5vs8",
+      "title": "Chai Habbat",
+      "address": "KTK Town, TNHB, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8995465,
+      "lon": 80.2357528
+    },
+    {
+      "id": "chijjqqwk9rdujortore_6elhru",
+      "title": "Soosai Tea Stall ECR",
+      "address": "No.1A, Soosai Tea Stall ECR, Soosai Tea Stall, State Highways 49, 1A, East Coast Rd, opp. to Kailash, Karthik Nagar, Anna Enclave, Injambakkam, Chennai, Tamil Nadu 600115",
+      "lat": 12.9240622,
+      "lon": 80.251057
+    },
+    {
+      "id": "chijvtxmy1vdujort5lkmvoqc1e",
+      "title": "Krishna Tea Stall",
+      "address": "1st Main Rd, Kamakoti Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9425549,
+      "lon": 80.208006
+    },
+    {
+      "id": "chijcxobti1mujor-vr5llp8hpi",
+      "title": "Garden Tea Stall",
+      "address": "No. 175/284, Royapettah High Road, Appar Swami Koil St N, Luz, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.040683399999999,
+      "lon": 80.2680111
+    },
+    {
+      "id": "chijc1wkx0nnujordhacea4ftbg",
+      "title": "Devar Tea Stall",
+      "address": "2623+FQ2 Devar Tea Stall, MKN Rd, Ramapuram, Alandur, Chennai, Tamil Nadu 600016",
+      "lat": 13.0011276,
+      "lon": 80.20440239999999
+    },
+    {
+      "id": "chijtxplp5heujoryirk6cst7n4",
+      "title": "Tea Town",
+      "address": "5/561, Velachery Main Rd, Vijayanagaram, Santhosapuram, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9193871,
+      "lon": 80.1810766
+    },
+    {
+      "id": "chijy0j_khn9ujorjt7rqk0otpc",
+      "title": "KR Foods Street",
+      "address": "Mxjq+Hww KR Foods Street, Sakthi Nagar, Sastri Nagar, Thenur, Chengalpattu, Pattaravakkam, Tamil Nadu 603003",
+      "lat": 12.6814986,
+      "lon": 79.98981859999999
+    },
+    {
+      "id": "chijrxj16k32ujorpjz3wob-5dq",
+      "title": "Indian Cafe Tiffin Centre",
+      "address": "1/4 G, S. T. Road, Mahalakshmi Nagar, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8512057,
+      "lon": 80.0659677
+    },
+    {
+      "id": "chijvreco1f3ujor73xaxu2g8lo",
+      "title": "MASALEDAR KITCHEN",
+      "address": "shop no-28, MASALEDAR KITCHEN, Plot no-51, behind State Bank of India, Samundeeswari nagar, SRM Nagar, Thailavaram, chengalpettu, Tamil Nadu 603203",
+      "lat": 12.828739899999999,
+      "lon": 80.0445501
+    },
+    {
+      "id": "chijueh6mn33ujorulrswmbj9zo",
+      "title": "sindhu tiffin center",
+      "address": "No 1212, Vedhasalam Nagar, Adhanur, Padappai, Tamil Nadu 601301",
+      "lat": 12.8613383,
+      "lon": 80.07707119999999
+    },
+    {
+      "id": "chijc-jpai_3ujorrot-ow3hjek",
+      "title": "Lakshmi Tiffin Centre",
+      "address": "1, GST Rd, Maraimalai Nagar, Kanchipuram, Tamil Nadu 603203",
+      "lat": 12.8066328,
+      "lon": 80.0327085
+    },
+    {
+      "id": "chijoz7xcgd7ujortebvpv3yqda",
+      "title": "Aaladipattiyan Singaperumal Koil 2",
+      "address": "servey No 120/1, Aaladipattiyan Singaperumal Koil 2, NO 86, GST Rd, thirutheri, Singaperumal Koil, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7492969,
+      "lon": 79.9975261
+    },
+    {
+      "id": "chijurgkx8l3ujor6snty6sz7xg",
+      "title": "V.K. TIFFIN & MEALS CENTRE",
+      "address": "24 Kanivakkam Main Road Kayarambedu, Chennai, Tamil Nadu 603202",
+      "lat": 12.8036034,
+      "lon": 80.0851849
+    },
+    {
+      "id": "chijfecvegd9ujorzfdu7bsjxtm",
+      "title": "Babu tiffen centre",
+      "address": "MXPF+7V7 Babu tiffen centre, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.685651799999999,
+      "lon": 79.9746691
+    },
+    {
+      "id": "chijn6pdjadxujoroavz3vrhldc",
+      "title": "Kannan Tiffin centre",
+      "address": "No 5, Palayam Road Road, Appur, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.799617,
+      "lon": 80.0039579
+    },
+    {
+      "id": "chij0conlqz3ujorz7oymr5vxgg",
+      "title": "M.S.K. Tiffin Centre",
+      "address": "No-13, Nellikuppam Rd, Defense Colony, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8396349,
+      "lon": 80.0633874
+    },
+    {
+      "id": "chij2ybgpwd3ujorm8qnecrjyd8",
+      "title": "Anuradha Tiffin Centre",
+      "address": "R25H+X5J Anuradha Tiffin Centre, பிள்ளையார் கோயில் தெரு, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.809955299999999,
+      "lon": 80.0277699
+    },
+    {
+      "id": "chij9bjtr_33ujoranwf7zfmgny",
+      "title": "Archana Tiffin Centre",
+      "address": "2 Indira Nagar, Ninakarai, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.8037333,
+      "lon": 80.03479659999999
+    },
+    {
+      "id": "chij7wotraj3ujorgkocseq3mpo",
+      "title": "Sri Sai Balaji Tiffin Centre",
+      "address": "GST Rd, Senthil Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.866394,
+      "lon": 80.0755607
+    },
+    {
+      "id": "chijxxruxaf5ujor-touij8jz34",
+      "title": "Ganesh fastfood and tiffin centre",
+      "address": "No 4/3, Ganesh fastfood and tiffin centre, Kalaivanar St, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7976336,
+      "lon": 80.02725029999999
+    },
+    {
+      "id": "chijx9zdudj1ujorln-pnufywgy",
+      "title": "ANANTHI TIFFIN CENTRE",
+      "address": "9, Veerappan Street, Balaji Nagar, New Perungalathur, Chennai, Tambaram, Tamil Nadu 600063",
+      "lat": 12.9045016,
+      "lon": 80.09293009999999
+    },
+    {
+      "id": "chijm6oghrf3ujorizm1jsfc51q",
+      "title": "Eswari Tiffin Centre",
+      "address": "No.01, Eswari Tiffin Centre, Main Road, Jaibheem Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8488788,
+      "lon": 80.0642534
+    },
+    {
+      "id": "chijmcblbob5ujorgtf5cv4qmms",
+      "title": "SRI NELLAI TIFFIN CENTRE",
+      "address": "Anna Salai, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7882275,
+      "lon": 80.03309399999999
+    },
+    {
+      "id": "chijd1pn-vl7ujorska_pwkumgo",
+      "title": "Karpagam Tiffin Centre",
+      "address": "Q253+WXW Karpagam Tiffin Centre, Perumalpattu - Kottamedu Rd, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7598646,
+      "lon": 80.0049561
+    },
+    {
+      "id": "chijndx5hi35ujorwetfraef8yq",
+      "title": "Sabari Tiffin centre",
+      "address": "Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7918358,
+      "lon": 80.02761029999999
+    },
+    {
+      "id": "chijtdsm69v7ujorcocw-cydlvu",
+      "title": "Sai Divya Andhra mess",
+      "address": "Bharathiar Street, Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.737648199999999,
+      "lon": 80.0019027
+    },
+    {
+      "id": "chije-it8qz3ujorqr4syjxkrt0",
+      "title": "Adyar Ananda Bhavan - A2B",
+      "address": "2, GST Road, Thailavaram Village, Chennai - Trichy Hwy, Guduvancheri, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.8330358,
+      "lon": 80.047698
+    },
+    {
+      "id": "chijy1w9wgp3ujorl--aaayxc90",
+      "title": "Ramu Tiffin Centre",
+      "address": "No 41, Sangamithra Avenue, Phase 2, Guduvancheri, Kannivakkam, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8050838,
+      "lon": 80.08395569999999
+    },
+    {
+      "id": "chijd5nunad7ujorg9pyv0pe_t8",
+      "title": "Thiru U1 Tiffin Centre",
+      "address": "Q263+4F6 Thiru U1 Tiffin Centre, GST Rd, thirutheri, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7602877,
+      "lon": 80.0036341
+    },
+    {
+      "id": "chijk43ejupxujorbnfpc8taycw",
+      "title": "Todays Kitchen",
+      "address": "Near Jayem Enterprises, Valaja Road, Venjuvancheri, Tamil Nadu 601301",
+      "lat": 12.8770159,
+      "lon": 80.0005568
+    },
+    {
+      "id": "chijd2xjmad7ujor2wikje2nje4",
+      "title": "SS TIFFIN CENTRE",
+      "address": "Q223+W8P SS TIFFIN CENTRE, Pareri Main Rd, Pareri, Tamil Nadu 603204",
+      "lat": 12.752347499999999,
+      "lon": 80.0033433
+    },
+    {
+      "id": "chijv2cwla33ujorulmu2nccpes",
+      "title": "Raj Tiffin Centre",
+      "address": "No. 5, Chennai - Theni Hwy, Jaibeemnagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.846415799999999,
+      "lon": 80.06243669999999
+    },
+    {
+      "id": "chijc2w2epf1ujordmu2nslputm",
+      "title": "Raja Tiffin Centre",
+      "address": "32, Srinivasa Ragavan St, Srinivasa Nagar, Perungalathur, Chennai, Tambaram, Tamil Nadu 600063",
+      "lat": 12.906777799999999,
+      "lon": 80.09431909999999
+    },
+    {
+      "id": "chijm8rrpez2ujord4fdomprlwg",
+      "title": "Pandiyan Tea & Tiffin Center",
+      "address": "V329+QCP Pandiyan Tea & Tiffin Center, Mahalakshmi Nagar Main Rd, Mahalakshmi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8519664,
+      "lon": 80.06857
+    },
+    {
+      "id": "chijwxowbmd5ujoraor_ndqnzuy",
+      "title": "Aaladipattiyan Maraimalai Nagar",
+      "address": "Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7962115,
+      "lon": 80.0285549
+    },
+    {
+      "id": "chijicfhkbz1ujordqduozvjz98",
+      "title": "Tiffin centre",
+      "address": "365a, Poovarasammpoo Street, Pudu Nagar, Mannivakkam, Vandalur, Tamil Nadu 600048",
+      "lat": 12.896006999999999,
+      "lon": 80.0698551
+    },
+    {
+      "id": "chij_scandt5ujorj1iipnekepk",
+      "title": "Akka tiffin shop",
+      "address": "23, MUNEESWARAN KOIL STREET, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.789579699999999,
+      "lon": 80.0312941
+    },
+    {
+      "id": "chijby6otld7ujorusnw0sfgi_g",
+      "title": "ANBU MESS",
+      "address": "Anbu Mess Building, NH 45, Bagavath Singh Nagar, near Mahindra World City, Thirutheri R.F., Tamil Nadu 603004",
+      "lat": 12.745469799999999,
+      "lon": 79.9940317
+    },
+    {
+      "id": "chijj1l-qxbbujoryk6ddpduqdc",
+      "title": "Tiffin centre",
+      "address": "394, OMR, Navalur, Tamil Nadu 603103",
+      "lat": 12.843813599999999,
+      "lon": 80.2269321
+    },
+    {
+      "id": "chij8vy82ll2ujormvlrbho3lwa",
+      "title": "Madurai Sri New Balaji Bhavan",
+      "address": "No. 49, Chennai - Theni Hwy, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8473916,
+      "lon": 80.0625082
+    },
+    {
+      "id": "chijvaa9ylj1ujor2k2-g4ix3wg",
+      "title": "Mannah Fast food & Tiffin centre",
+      "address": "50, 5th Cross St, Peerkankaranai, Srinivasa Nagar, New Perungalathur, Chennai, Tambaram, Tamil Nadu 600063",
+      "lat": 12.910014499999999,
+      "lon": 80.0925338
+    },
+    {
+      "id": "chij3t96uj_3ujorow_9guuwhbs",
+      "title": "Aaladipattiyan Guduvancheri 2",
+      "address": "419, Chennai - Theni Hwy, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8536539,
+      "lon": 80.0670593
+    },
+    {
+      "id": "chijs3zup__xujornx5bnhjtgp0",
+      "title": "Rejoice Tiffin shop Eraiyur",
+      "address": "Gengai amman kovil Street, Eraiyur, Vaipoor, Tamil Nadu 602105",
+      "lat": 12.8789689,
+      "lon": 79.9497754
+    },
+    {
+      "id": "chijlwrpyx5zujorc0vhvyja7e4",
+      "title": "Sri Balaji Tiffin Centre",
+      "address": "No. 30, Sri Balaji Tiffin Centre, Muthu Saravanan Complex, DABC Main Road, Ponmar, Polachery, Chennai, Mambakkam, Tamil Nadu 600127",
+      "lat": 12.8471222,
+      "lon": 80.1854707
+    },
+    {
+      "id": "chijtv_cms35ujorltmcdcunvoa",
+      "title": "Nivedhana Restaurant",
+      "address": "B10, Pavendhar Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7956247,
+      "lon": 80.02715429999999
+    },
+    {
+      "id": "chijhyadxz_1ujors0sgp3mm8ss",
+      "title": "Kola Pasi Tiffin shop",
+      "address": "W39J+9F9 Kola Pasi Tiffin shop, Mudichur Rd, Gnanapanditha Nagar, Lakshmi Nagar, Shanthi Nagar, Saravana Bawa Nagar, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.918421299999999,
+      "lon": 80.0812219
+    },
+    {
+      "id": "chijs3yxbad9ujor_ui2p6cw80k",
+      "title": "S.tiffin centre",
+      "address": "MXVF+WF4 S.tiffin centre, Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694758799999999,
+      "lon": 79.97371249999999
+    },
+    {
+      "id": "chijqqksxu33ujorunqmzn8obkm",
+      "title": "NK TIFFIN STALL",
+      "address": "339, Balaji nagar main road, Salamangalam, Padappai, Tamil Nadu 601301",
+      "lat": 12.8878095,
+      "lon": 80.012182
+    },
+    {
+      "id": "chijrx2q8hh3ujorxqsuhjufuoq",
+      "title": "Sathyam Vegetarian Restaurant",
+      "address": "GST Rd, opp. to Grandmart Clothing, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8388794,
+      "lon": 80.05389079999999
+    },
+    {
+      "id": "chijyz8kooxrujorqefbrtdz3dy",
+      "title": "Pandian Tiffin Center",
+      "address": "55/5, omr Main Road, Thiruporur, Tamil Nadu 603110",
+      "lat": 12.7296236,
+      "lon": 80.1890289
+    },
+    {
+      "id": "chijq_65vw73ujorxfggxfdeqku",
+      "title": "Aaladipattiyan Guduvancheri 1",
+      "address": "Halwakadai No: 27, Aaladipattiyan Guduvancheri 1, GST Rd, next to Sri Venkateswara Theater, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8485614,
+      "lon": 80.0641485
+    },
+    {
+      "id": "chijxq36uif7ujorfk3rccomtns",
+      "title": "En Nesar Piriyani",
+      "address": "En Nesar Tiffin Centre, Chengalpattu Road, Kanchipuram, Thirutheri, Tamil Nadu 603004",
+      "lat": 12.749906099999999,
+      "lon": 79.9977992
+    },
+    {
+      "id": "chijb23sgiz7ujor9mebyejunbe",
+      "title": "Pani Puri shop & Tiffin Center",
+      "address": "Malayambakkam village Entrance, near Downtown Building, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603002",
+      "lat": 12.7300022,
+      "lon": 79.9996034
+    },
+    {
+      "id": "chijuqwhbnxfujor7ymrsbnggso",
+      "title": "Amma Tiffin Centre",
+      "address": "1, Thiruvalluvar St, Devanesan Nagar, New Perungalathur, Kanchipuram, Tambaram, Tamil Nadu 600063",
+      "lat": 12.906797599999999,
+      "lon": 80.1055336
+    },
+    {
+      "id": "chij84umymj8ujorv7jcwkzvn1u",
+      "title": "Lsv Tiffin Centre",
+      "address": "MXQG+WMC Lsv Tiffin Centre, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.689804899999999,
+      "lon": 79.97664619999999
+    },
+    {
+      "id": "chija1_qswf3ujorkxtz7jbpxny",
+      "title": "Nandhini Tiffin center",
+      "address": "59, Station Rd, Selvaraj Nagar, Rohini Nagar, Urapakkam West, Vandalur R.F., Mannivakkam, Tamil Nadu 603211",
+      "lat": 12.8680495,
+      "lon": 80.06515639999999
+    },
+    {
+      "id": "chijxbrprkf9ujor_jrlt4yy4ps",
+      "title": "Sri Ragavendra Tiffin Centre",
+      "address": "MXVH+5J3 Sri Ragavendra Tiffin Centre, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6928831,
+      "lon": 79.979034
+    },
+    {
+      "id": "chijd_kgrqd3ujor53jgmoiwnec",
+      "title": "Geetham Veg Restaurant - Urapakkam",
+      "address": "V35C+XPJ Geetham Veg Restaurant - Urapakkam, Abnirami Nagar, Urapakkam, Chennai, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.859096,
+      "lon": 80.0711408
+    },
+    {
+      "id": "chij4xarkabzujorhgfzrci2n9o",
+      "title": "AK Tea and Tiffin Center",
+      "address": "MDR597, MRL Golden Nagar, Rattinamangalam, Tamil Nadu 600127",
+      "lat": 12.8296689,
+      "lon": 80.12199059999999
+    },
+    {
+      "id": "chijcyihhad3ujor7ho0mjgc_og",
+      "title": "Fresh Tiffin Point",
+      "address": "V2M6+C27 Fresh Tiffin Point, Tambaram - Mudichur - Oragadam Rd, Salamangalam, Tamil Nadu 601301",
+      "lat": 12.8829804,
+      "lon": 80.0097481
+    },
+    {
+      "id": "chijv8axjkd2ujorej6kpypblsk",
+      "title": "AZAGAR TEA & TIFFIN STALL",
+      "address": "V38F+GXR AZAGAR TEA & TIFFIN STALL, Station Rd, Bharathi Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.8663689,
+      "lon": 80.0748794
+    },
+    {
+      "id": "chijmwmudyr6ujorlynoq3_l23g",
+      "title": "SELVI TIFFIN CENTRE",
+      "address": "Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7573387,
+      "lon": 80.00867269999999
+    },
+    {
+      "id": "chijf1cgn139ujorg6ddw40uvri",
+      "title": "MOCKTAIL DHABA",
+      "address": "NO 187, TKM Rd, Sakthi Nagar, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6790419,
+      "lon": 79.9945477
+    },
+    {
+      "id": "chijg5_0-up2ujorjuqf3pvivqy",
+      "title": "Tea stall",
+      "address": "V379+PVC Tea stall, Urapakkam, Chennai, Urappakkam, Tamil Nadu 603211",
+      "lat": 12.8643059,
+      "lon": 80.06963879999999
+    },
+    {
+      "id": "chijcvhrky36ujorslomwgz1jos",
+      "title": "Hotel Chinnadurai",
+      "address": "GST Rd, thirutheri, Pareri, Tamil Nadu 603204",
+      "lat": 12.7536975,
+      "lon": 80.0001017
+    },
+    {
+      "id": "chijc3wefl1fujorwy-xavyaury",
+      "title": "Thiruvasantham - Pure Veg Restaurant",
+      "address": "247, GST Rd, Vandalur, Chennai, Tamil Nadu 600048",
+      "lat": 12.873717599999999,
+      "lon": 80.0783697
+    },
+    {
+      "id": "chij70vypc9dujorpwuxk9dov34",
+      "title": "HALITHA SNACKS AND TIFFIN CENTER",
+      "address": "8/306 Easwaran Kovil Street GANDHI ROAD NEDUGUNDRAM CHENNAI, Tamil Nadu 600127",
+      "lat": 12.884704399999999,
+      "lon": 80.1095346
+    },
+    {
+      "id": "chijo_yfhld3ujorxrckxvnhawg",
+      "title": "ARV Catering Services",
+      "address": "Mahalakshmi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8495745,
+      "lon": 80.0694406
+    },
+    {
+      "id": "chijsxr2zqv3ujors-gvrfar_he",
+      "title": "Madurai Mess VEG Restaurant",
+      "address": "Rajaji St, N.G.O Colony, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8415723,
+      "lon": 80.0567501
+    },
+    {
+      "id": "chij1ysz69v7ujorxtdvegktt_y",
+      "title": "Udhayam Hotel",
+      "address": "Veerapuram, No:47, Bharathiyar St, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7376773,
+      "lon": 80.00179
+    },
+    {
+      "id": "chijq_5i8fn8ujor1cwqa_mpcmo",
+      "title": "Madurai Sri Vaigai hotel",
+      "address": "bypass, Chengalpattu, Pazhaveli, Tamil Nadu 603111",
+      "lat": 12.6712311,
+      "lon": 79.9591315
+    },
+    {
+      "id": "chijhw1syi_3ujorookmx2t3v4c",
+      "title": "Madhura Bhavan",
+      "address": "120, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8448449,
+      "lon": 80.0602455
+    },
+    {
+      "id": "chijhcgmx_n9ujorjan0_fxttae",
+      "title": "Vinayaga tiffin centre",
+      "address": "MXJJ+44H Vinayaga tiffin centre, R v street, Alagesan Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6803165,
+      "lon": 79.98036859999999
+    },
+    {
+      "id": "chij_zzm26z3ujorg7iirhjnp-0",
+      "title": "Hotel Sri Padma Vilas",
+      "address": "GST Rd, opp. TNEB Office, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.84413,
+      "lon": 80.05959899999999
+    },
+    {
+      "id": "chijd2hasahxujorjq9bgzkw4e4",
+      "title": "ACHI TIFFIN CENTRE",
+      "address": "12, Oragadam Industrial Corridor, Oragadam, Tamil Nadu 602118",
+      "lat": 12.8508009,
+      "lon": 79.9430982
+    }
+  ],
+  "updated_at_utc": "2026-09-27T13:04:15.729872+00:00"
+}

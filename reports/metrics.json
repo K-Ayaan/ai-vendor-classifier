@@ -1,0 +1,2207 @@
+{
+  "phase": 1,
+  "data": {
+    "vendors": 4612,
+    "raw_records": 5439,
+    "categories": 23,
+    "single_category_share": 0.8876843018213356,
+    "pincode_imputed": 1,
+    "is_chain": 234,
+    "requirements": 30,
+    "requirements_with_keyword": 19,
+    "radius_counts": {
+      "1": 5,
+      "3": 7,
+      "5": 10,
+      "10": 8
+    },
+    "pairs": 450,
+    "pairs_per_stratum": {
+      "near_in_category": 150,
+      "far_in_category": 120,
+      "near_other_category": 90,
+      "random": 90
+    },
+    "pair_feature_means": {
+      "within_radius": 0.5133333333333333,
+      "category_match": 0.6088888888888889,
+      "keyword_in_title": 0.02666666666666667,
+      "is_chain": 0.042222222222222223
+    }
+  },
+  "classification": {
+    "target": "is_pharmacy",
+    "split": {
+      "method": "stratified train_test_split",
+      "test_size": 0.2,
+      "seed": 42,
+      "n_train": 3689,
+      "n_test": 923,
+      "positives_train": 389,
+      "positives_test": 97,
+      "prevalence_train": 0.105448631065,
+      "prevalence_test": 0.105092091008
+    },
+    "features": {
+      "n_total_incl_intercept": 442,
+      "n_title_tokens": 421,
+      "n_pincode_indicators": 20,
+      "min_df": 5,
+      "top_k_pincodes": 20,
+      "dropped_linearly_dependent_columns": [
+        "tok=get",
+        "tok=pazhamudir",
+        "tok=price",
+        "tok=replacement",
+        "tok=specsmakers",
+        "tok=up"
+      ],
+      "rank_X_train": 442,
+      "full_column_rank": true
+    },
+    "unpenalised_mle": {
+      "mle_exists": false,
+      "irls_converged": false,
+      "irls_iterations": 100,
+      "sklearn_converged": true,
+      "sklearn_iterations": 290,
+      "sklearn_warnings": [],
+      "loglik_irls": -103.558204705,
+      "loglik_sklearn": -103.558204704,
+      "loglik_null_intercept_only": -1242.79643217,
+      "max_abs_coef_diff_irls_vs_sklearn": 2705.12016959,
+      "max_abs_beta_irls": 140.254181335,
+      "n_separating_features": 276,
+      "separating_features": [
+        {
+          "feature": "tok=a1",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=a2",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=aavin",
+          "n_rows": 18,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=accessories",
+          "n_rows": 19,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=adambakkam",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=agencies",
+          "n_rows": 19,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=al",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=all",
+          "n_rows": 31,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=alwarpet",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=anand",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=andavar",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=apollo",
+          "n_rows": 32,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=appliances",
+          "n_rows": 59,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=aquarium",
+          "n_rows": 16,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=arun",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=ashok",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=auto",
+          "n_rows": 52,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=automobiles",
+          "n_rows": 27,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=avenue",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=b",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bakery",
+          "n_rows": 31,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bakes",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bala",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=beauty",
+          "n_rows": 27,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=beef",
+          "n_rows": 15,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=besant",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bharathi",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bhavan",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bhavani",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bhawani",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bike",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bismi",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bismillah",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=books",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bosch",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=bouquet",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=boutique",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=brand",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=broilers",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=by",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=cafe",
+          "n_rows": 10,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=cake",
+          "n_rows": 23,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=cakes",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=car",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=cars",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=chicken",
+          "n_rows": 69,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=cholai",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=clothing",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=coffee",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=company",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=computer",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=computers",
+          "n_rows": 22,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=corner",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=cosmetics",
+          "n_rows": 15,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=cow",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=d",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=daily",
+          "n_rows": 15,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=dairy",
+          "n_rows": 20,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=dealer",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=decor",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=decors",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=delivery",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=department",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=departmental",
+          "n_rows": 18,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=designer",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=digital",
+          "n_rows": 14,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=distribution",
+          "n_rows": 10,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=drug",
+          "n_rows": 5,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=drugs",
+          "n_rows": 6,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=dry",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=ecr",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=egg",
+          "n_rows": 57,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=eggs",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=electric",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=electrical",
+          "n_rows": 34,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=electricals",
+          "n_rows": 78,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=electronics",
+          "n_rows": 81,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=exclusive",
+          "n_rows": 21,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=eyeglasses",
+          "n_rows": 28,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=factory",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=fair",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=family",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=farm",
+          "n_rows": 20,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=farmers",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=farms",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=fashion",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=fish",
+          "n_rows": 81,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=florist",
+          "n_rows": 22,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=flower",
+          "n_rows": 47,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=flowers",
+          "n_rows": 11,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=food",
+          "n_rows": 10,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=foods",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=foot",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=footwear",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=for",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=fresh",
+          "n_rows": 35,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=friends",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=fruit",
+          "n_rows": 53,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=fruits",
+          "n_rows": 57,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=furniture",
+          "n_rows": 22,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=gadgets",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=gallery",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=ganapathy",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=ganga",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=garments",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=gbs",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=girias",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=glow",
+          "n_rows": 10,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=government",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=greens",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=grocery",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=guduvanchery",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=hap",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=hardware",
+          "n_rows": 44,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=hardwares",
+          "n_rows": 48,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=hari",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=heads",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=hetero",
+          "n_rows": 5,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=hi",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=hospital",
+          "n_rows": 8,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=hotel",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=hub",
+          "n_rows": 10,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=i",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=jk",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=juice",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=kitchen",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=koil",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=kovai",
+          "n_rows": 18,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=koyambedu",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=kumar",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=laptop",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=lenovo",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=limited",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=lovely",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=maha",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mahalakshmi",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mahindra",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=makkal",
+          "n_rows": 5,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=malar",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=maligai",
+          "n_rows": 26,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mall",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=marina",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=market",
+          "n_rows": 153,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=marunthagam",
+          "n_rows": 5,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=mathaji",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=meat",
+          "n_rows": 16,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=medical",
+          "n_rows": 39,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=medicals",
+          "n_rows": 98,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=medplus",
+          "n_rows": 22,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=men",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mens",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=metro",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=milk",
+          "n_rows": 46,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mini",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mobiles",
+          "n_rows": 68,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=motor",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=motors",
+          "n_rows": 14,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mr",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=murugan",
+          "n_rows": 23,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mutharamman",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mutton",
+          "n_rows": 27,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=my",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=mylapore",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=nadu",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=natural",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=naturals",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=naveen",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=needs",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=nellai",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=nilayam",
+          "n_rows": 17,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=no",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=nuts",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=on",
+          "n_rows": 32,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=ooty",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=optical",
+          "n_rows": 10,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=opticals",
+          "n_rows": 21,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=optics",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=organic",
+          "n_rows": 18,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=paper",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=park",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=parlour",
+          "n_rows": 16,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=parts",
+          "n_rows": 31,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=pazhakkadai",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=pazhamudhir",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=perungudi",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=phoenix",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=plastic",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=plastics",
+          "n_rows": 11,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=plumbing",
+          "n_rows": 18,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=point",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=poorvika",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=prakash",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=products",
+          "n_rows": 16,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=proteins",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=provision",
+          "n_rows": 37,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=public",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=purple",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=rathna",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=ration",
+          "n_rows": 113,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=readymades",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=reliance",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=restaurant",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=retail",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=rk",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=royal",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=royapettah",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=sales",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=salon",
+          "n_rows": 14,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=sangeetha",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=santhai",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=santhosh",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=sathya",
+          "n_rows": 20,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=sea",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=selaiyur",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=selvam",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=selvi",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=services",
+          "n_rows": 14,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=shanmugam",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=shanthi",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=shoe",
+          "n_rows": 10,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=shoes",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=shoppe",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=shopping",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=showroom",
+          "n_rows": 16,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=siddha",
+          "n_rows": 5,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=singaperumal",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=sk",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=smart",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=snacks",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=solutions",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=spa",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=spare",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=spares",
+          "n_rows": 20,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=spot",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=square",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=srm",
+          "n_rows": 6,
+          "only_class": 1
+        },
+        {
+          "feature": "tok=stall",
+          "n_rows": 82,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=stationary",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=stationery",
+          "n_rows": 42,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=student",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=studio",
+          "n_rows": 11,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=style",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=supermarket",
+          "n_rows": 45,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=suppliers",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=surya",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=sweet",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=sweets",
+          "n_rows": 53,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=system",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=systems",
+          "n_rows": 10,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=tails",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=tamil",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=tech",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=testing",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=textile",
+          "n_rows": 8,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=textiles",
+          "n_rows": 45,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=thangam",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=theobroma",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=tiffin",
+          "n_rows": 57,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=tiles",
+          "n_rows": 7,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=tnpds",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=trends",
+          "n_rows": 11,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=two",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=veg",
+          "n_rows": 12,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=vegetable",
+          "n_rows": 45,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=vegetables",
+          "n_rows": 60,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=village",
+          "n_rows": 9,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=wear",
+          "n_rows": 11,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=wedding",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=wheeler",
+          "n_rows": 10,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=white",
+          "n_rows": 5,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=wholesale",
+          "n_rows": 24,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=works",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=xerox",
+          "n_rows": 91,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=zone",
+          "n_rows": 13,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=கடை",
+          "n_rows": 6,
+          "only_class": 0
+        },
+        {
+          "feature": "tok=மளிகை",
+          "n_rows": 7,
+          "only_class": 0
+        }
+      ],
+      "joint_separation_lp": {
+        "separated": true,
+        "lp_optimum": 6017.0
+      },
+      "irls_trace_last5": [
+        {
+          "iter": 96,
+          "objective": -103.558204705,
+          "gain": 4.26325641456e-14,
+          "beta_norm": 650.753542212,
+          "max_abs_beta": 140.208918958,
+          "max_step": 0.0665993967712,
+          "cond_H": 2.05446738286e+29
+        },
+        {
+          "iter": 97,
+          "objective": -103.558204705,
+          "gain": 5.68434188608e-14,
+          "beta_norm": 650.75369412,
+          "max_abs_beta": 140.28925933,
+          "max_step": 0.0803403714293,
+          "cond_H": 2.84590812424e+29
+        },
+        {
+          "iter": 98,
+          "objective": -103.558204705,
+          "gain": 5.68434188608e-14,
+          "beta_norm": 650.755211186,
+          "max_abs_beta": 140.298397149,
+          "max_step": 0.0770664620215,
+          "cond_H": 3.11853902842e+29
+        },
+        {
+          "iter": 99,
+          "objective": -103.558204705,
+          "gain": 5.68434188608e-14,
+          "beta_norm": 650.75573839,
+          "max_abs_beta": 140.253134782,
+          "max_step": 0.0632086395045,
+          "cond_H": 2.17028300132e+30
+        },
+        {
+          "iter": 100,
+          "objective": -103.558204705,
+          "gain": 0.0,
+          "beta_norm": 650.756477846,
+          "max_abs_beta": 140.254181335,
+          "max_step": 0.0211966084221,
+          "cond_H": 1.54382223429e+29
+        }
+      ],
+      "test_metrics_NOT_A_VALID_MLE": {
+        "confusion_matrix": {
+          "tn": 816,
+          "fp": 10,
+          "fn": 12,
+          "tp": 85
+        },
+        "accuracy": 0.97616468039,
+        "precision": 0.894736842105,
+        "recall": 0.876288659794,
+        "f1": 0.885416666667,
+        "roc_auc": 0.976211277801,
+        "pr_auc": 0.909364614894,
+        "log_loss": 0.348328458957
+      }
+    },
+    "small_mle_model": {
+      "label": "unpenalised MLE, small token set (MLE exists)",
+      "tokens": [
+        "shop",
+        "store",
+        "and",
+        "sri",
+        "chennai",
+        "stores",
+        "pharmacy",
+        "s",
+        "home",
+        "centre"
+      ],
+      "train_doc_freq": {
+        "shop": 471,
+        "store": 319,
+        "and": 236,
+        "sri": 209,
+        "chennai": 172,
+        "stores": 159,
+        "pharmacy": 154,
+        "s": 126,
+        "home": 92,
+        "centre": 88
+      },
+      "skipped_before_10": [
+        {
+          "token": "market",
+          "train_df": 153,
+          "reason": "separation"
+        },
+        {
+          "token": "ration",
+          "train_df": 113,
+          "reason": "separation"
+        },
+        {
+          "token": "medicals",
+          "train_df": 98,
+          "reason": "separation"
+        },
+        {
+          "token": "xerox",
+          "train_df": 91,
+          "reason": "separation"
+        }
+      ],
+      "n_features_excl_intercept": 10,
+      "rank_X_train": 11,
+      "n_columns": 11,
+      "separation_lp": {
+        "separated": false,
+        "lp_optimum": -0.0
+      },
+      "single_feature_separators": [],
+      "irls_converged": true,
+      "irls_iterations": 8,
+      "sklearn_n_iter": 8,
+      "sklearn_warnings": [
+        "FutureWarning"
+      ],
+      "coefficients": {
+        "intercept": -2.32550118549,
+        "tok=shop": -1.64125553783,
+        "tok=store": -0.611848170848,
+        "tok=and": -0.460825840629,
+        "tok=sri": 0.145232533072,
+        "tok=chennai": -0.809173805457,
+        "tok=stores": -1.30432121415,
+        "tok=pharmacy": 6.34528967651,
+        "tok=s": -0.595574574082,
+        "tok=home": -1.78444391024,
+        "tok=centre": -0.345983457095
+      },
+      "coefficients_sklearn": {
+        "intercept": -2.32550118549,
+        "tok=shop": -1.64125553783,
+        "tok=store": -0.611848170848,
+        "tok=and": -0.460825840629,
+        "tok=sri": 0.145232533072,
+        "tok=chennai": -0.809173805457,
+        "tok=stores": -1.30432121415,
+        "tok=pharmacy": 6.34528967651,
+        "tok=s": -0.595574574082,
+        "tok=home": -1.78444391024,
+        "tok=centre": -0.345983457095
+      },
+      "max_abs_coef_diff_irls_vs_sklearn": 1.7763568394e-15,
+      "loglik_irls": -857.222564714,
+      "loglik_sklearn": -857.222564714,
+      "abs_loglik_diff": 0.0,
+      "mle_exists": true,
+      "test_metrics": {
+        "confusion_matrix": {
+          "tn": 826,
+          "fp": 0,
+          "fn": 62,
+          "tp": 35
+        },
+        "accuracy": 0.932827735645,
+        "precision": 1.0,
+        "recall": 0.360824742268,
+        "f1": 0.530303030303,
+        "roc_auc": 0.743815681086,
+        "pr_auc": 0.469466166421,
+        "log_loss": 0.242835751081
+      }
+    },
+    "l2_model": {
+      "label": "penalised likelihood (MAP), not MLE",
+      "C": 10.0,
+      "lambda_equiv": 0.1,
+      "cv_mean_logloss_by_C": {
+        "0.001": 0.329625526847,
+        "0.0031622776601683794": 0.31489548934,
+        "0.01": 0.277084077565,
+        "0.03162277660168379": 0.213623685524,
+        "0.1": 0.152883217857,
+        "0.31622776601683794": 0.110670176811,
+        "1.0": 0.0851784236805,
+        "3.1622776601683795": 0.073020343534,
+        "10.0": 0.0709796391874,
+        "31.622776601683793": 0.0767968630943,
+        "100.0": 0.0878006133928,
+        "316.22776601683796": 0.0993284820699,
+        "1000.0": 0.116550463407
+      },
+      "loglik_train": -146.053944783,
+      "max_abs_coef_diff_sklearn_vs_hand_irls": 1.37493357878e-05,
+      "hand_irls_converged": true,
+      "test_metrics": {
+        "confusion_matrix": {
+          "tn": 825,
+          "fp": 1,
+          "fn": 11,
+          "tp": 86
+        },
+        "accuracy": 0.986998916576,
+        "precision": 0.988505747126,
+        "recall": 0.886597938144,
+        "f1": 0.934782608696,
+        "roc_auc": 0.984249020244,
+        "pr_auc": 0.946522454134,
+        "log_loss": 0.0582839487075
+      }
+    },
+    "majority_baseline": {
+      "predicts_class": 0,
+      "accuracy": 0.894907908992,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "roc_auc": 0.5,
+      "pr_auc_equals_prevalence": 0.105092091008
+    },
+    "label_audit_sample": {
+      "rows": 200,
+      "weak_positive": 97,
+      "weak_negative": 103
+    }
+  },
+  "classification_vs_ai_judged_labels": {
+    "label_note": "AI-judged labels, not ground truth",
+    "labelling": "Claude Code judged is_pharmacy from title and address only; did not open the key, weak labels or predictions while labelling. Caveat: 12 audit vendors' weak labels had been shown earlier in the session (Step 4 error analysis).",
+    "stratum_weights": {
+      "weak=0": 8.01941747573,
+      "weak=1": 1.0
+    },
+    "test_counts": {
+      "weak=0": 826,
+      "weak=1": 97
+    },
+    "sample_counts": {
+      "weak=0": 103,
+      "weak=1": 97
+    },
+    "agreement_ai_vs_weak": {
+      "n_sample": 200,
+      "ai_positive": 84,
+      "ai_negative": 116,
+      "crosstab_weak_vs_ai": {
+        "weak=0,ai=0": 103,
+        "weak=0,ai=1": 0,
+        "weak=1,ai=0": 13,
+        "weak=1,ai=1": 84
+      },
+      "agreement_sample_unweighted": 0.935,
+      "agreement_test_reweighted": 0.985915492958,
+      "share_weak_positives_ai_confirms": 0.865979381443,
+      "share_weak_negatives_ai_confirms": 1.0,
+      "cohen_kappa_sample_unweighted": 0.869372990354,
+      "cohen_kappa_test_reweighted": 0.920413618365,
+      "estimated_ai_positive_rate_test_reweighted": 0.0910075839653,
+      "weak_positive_rate_test": 0.105092091008
+    },
+    "human_agreement": {
+      "n_filled": 0,
+      "status": "true_is_pharmacy not filled; human validation not done"
+    },
+    "classifiers": {
+      "small_mle": {
+        "vs_ai_labels_test_reweighted": {
+          "confusion_matrix": {
+            "tn": 838.0,
+            "fp": 1.0,
+            "fn": 50.0,
+            "tp": 34.0
+          },
+          "accuracy": 0.94474539545,
+          "precision": 0.971428571429,
+          "recall": 0.404761904762,
+          "f1": 0.571428571429,
+          "roc_auc": 0.755692635433,
+          "pr_auc": 0.490501227674
+        },
+        "vs_ai_labels_sample_unweighted": {
+          "confusion_matrix": {
+            "tn": 115.0,
+            "fp": 1.0,
+            "fn": 50.0,
+            "tp": 34.0
+          },
+          "accuracy": 0.745,
+          "precision": 0.971428571429,
+          "recall": 0.404761904762,
+          "f1": 0.571428571429,
+          "roc_auc": 0.746869868637,
+          "pr_auc": 0.701252983463
+        },
+        "vs_weak_labels_test_reweighted": {
+          "confusion_matrix": {
+            "tn": 826.0,
+            "fp": 0.0,
+            "fn": 62.0,
+            "tp": 35.0
+          },
+          "accuracy": 0.932827735645,
+          "precision": 1.0,
+          "recall": 0.360824742268,
+          "f1": 0.530303030303,
+          "roc_auc": 0.73971574417,
+          "pr_auc": 0.470816799103
+        }
+      },
+      "l2_map": {
+        "vs_ai_labels_test_reweighted": {
+          "confusion_matrix": {
+            "tn": 835.0,
+            "fp": 4.0,
+            "fn": 2.0,
+            "tp": 82.0
+          },
+          "accuracy": 0.993499458288,
+          "precision": 0.953488372093,
+          "recall": 0.97619047619,
+          "f1": 0.964705882353,
+          "roc_auc": 0.993245170014,
+          "pr_auc": 0.897860849384
+        },
+        "vs_ai_labels_sample_unweighted": {
+          "confusion_matrix": {
+            "tn": 112.0,
+            "fp": 4.0,
+            "fn": 2.0,
+            "tp": 82.0
+          },
+          "accuracy": 0.97,
+          "precision": 0.953488372093,
+          "recall": 0.97619047619,
+          "f1": 0.964705882353,
+          "roc_auc": 0.971674876847,
+          "pr_auc": 0.90429878576
+        },
+        "vs_weak_labels_test_reweighted": {
+          "confusion_matrix": {
+            "tn": 826.0,
+            "fp": 0.0,
+            "fn": 11.0,
+            "tp": 86.0
+          },
+          "accuracy": 0.988082340195,
+          "precision": 1.0,
+          "recall": 0.886597938144,
+          "f1": 0.939890710383,
+          "roc_auc": 0.984385947353,
+          "pr_auc": 0.950736778473
+        }
+      },
+      "full_unpenalised_invalid_mle": {
+        "vs_ai_labels_test_reweighted": {
+          "confusion_matrix": {
+            "tn": 826.980582524,
+            "fp": 12.0194174757,
+            "fn": 3.0,
+            "tp": 81.0
+          },
+          "accuracy": 0.983727608369,
+          "precision": 0.870785930487,
+          "recall": 0.964285714286,
+          "f1": 0.915153841935,
+          "roc_auc": 0.99033872028,
+          "pr_auc": 0.957000739805
+        },
+        "vs_ai_labels_sample_unweighted": {
+          "confusion_matrix": {
+            "tn": 111.0,
+            "fp": 5.0,
+            "fn": 3.0,
+            "tp": 81.0
+          },
+          "accuracy": 0.96,
+          "precision": 0.941860465116,
+          "recall": 0.964285714286,
+          "f1": 0.952941176471,
+          "roc_auc": 0.981629720854,
+          "pr_auc": 0.967771831273
+        },
+        "vs_weak_labels_test_reweighted": {
+          "confusion_matrix": {
+            "tn": 817.980582524,
+            "fp": 8.01941747573,
+            "fn": 12.0,
+            "tp": 85.0
+          },
+          "accuracy": 0.978310490275,
+          "precision": 0.913787704832,
+          "recall": 0.876288659794,
+          "f1": 0.894645411813,
+          "roc_auc": 0.975878290461,
+          "pr_auc": 0.940253414277
+        }
+      }
+    }
+  },
+  "regression": {
+    "status": "fitted",
+    "target": "AI-judged expected_score",
+    "total_rows": 450,
+    "complete_rows": 450,
+    "rater_1_filled": 0,
+    "rater_2_filled": 0,
+    "required_complete_rows": 300,
+    "ready": true,
+    "target_note": "AI-judged expected_score: judged by Claude Code against RUBRIC.md; not human-annotated, not ground truth.",
+    "test_retest_consistency": {
+      "non_blind": {
+        "n_pairs": 45,
+        "pearson_r": 0.9957341877482497,
+        "pearson_p_value": 3.816806826496691e-46,
+        "mean_abs_difference": 3.0,
+        "n_abs_difference_gt_25": 0,
+        "max_abs_difference": 10.0,
+        "mean_signed_difference_first_minus_retest": 2.8222222222222224,
+        "n_identical": 15,
+        "blind": false,
+        "file": "data\\annotation\\ai_rescore_check.csv",
+        "note": "Same AI judge re-scored without re-reading ai_scores.csv, but its first scores were in its working context; upper bound on consistency."
+      },
+      "blind": {
+        "n_pairs": 45,
+        "pearson_r": 0.9761757423278349,
+        "pearson_p_value": 3.621126815421109e-30,
+        "mean_abs_difference": 4.133333333333334,
+        "n_abs_difference_gt_25": 1,
+        "max_abs_difference": 30.0,
+        "mean_signed_difference_first_minus_retest": -1.5555555555555556,
+        "n_identical": 15,
+        "blind": true,
+        "file": "data\\annotation\\ai_rescore_blind.csv",
+        "note": "Fresh AI agent given only RUBRIC.md and the 45 pairs' sheet details; it never saw the first scores."
+      }
+    },
+    "human_agreement": {
+      "rater_1_filled": 0,
+      "rater_2_filled": 0,
+      "status": "no human scores filled; human validation not done"
+    },
+    "split": {
+      "method": "GroupShuffleSplit by requirement_id",
+      "seed": 42,
+      "train_requirements": 24,
+      "test_requirements": 6,
+      "n_train": 360,
+      "n_test": 90
+    },
+    "coefficients": {
+      "intercept": 0.2961848665889691,
+      "distance_km": -0.15676824029094272,
+      "within_radius": 18.135654555418288,
+      "category_match": 59.441115793406425,
+      "keyword_in_title": 15.46759315260137,
+      "n_categories": -3.2396417115124114,
+      "is_chain": 3.474621568882355
+    },
+    "ols": {
+      "rank": 7,
+      "n": 360,
+      "p": 7,
+      "cond_X": 114.44973798258862,
+      "max_abs_diff_inverse_vs_lstsq": 7.460698725481052e-14,
+      "max_abs_diff_sklearn_vs_lstsq": 2.1316282072803006e-14
+    },
+    "train": {
+      "n": 360,
+      "RSS": 80739.87979933686,
+      "MSE": 224.27744388704684,
+      "RMSE": 14.975895428556079,
+      "MAE": 11.360027364742354,
+      "R2": 0.7982983495131152
+    },
+    "test": {
+      "n": 90,
+      "RSS": 27430.065190277623,
+      "MSE": 304.7785021141958,
+      "RMSE": 17.457906578802508,
+      "MAE": 13.977534304884209,
+      "R2": 0.7509610058616393
+    },
+    "gaussian_mle": {
+      "sigma2_mle": 224.27744388704684,
+      "sigma_mle": 14.975895428556079,
+      "s2_unbiased": 228.72487195279564,
+      "s_unbiased": 15.123652731823606,
+      "loglik_direct_sum": -1485.1369693129582,
+      "loglik_formula": -1485.1369693129582,
+      "loglik_match": true
+    },
+    "mse_equals_sigma2_mle_train": true
+  },
+  "extended_models": {
+    "note": "Regression target is the AI-judged expected_score (not ground truth); classification target is the weak is_pharmacy label.",
+    "regression": {
+      "metrics": {
+        "OLS (Gaussian MLE)": {
+          "train": {
+            "RMSE": 14.9758954286,
+            "MAE": 11.3600273647,
+            "R2": 0.798298349513
+          },
+          "test": {
+            "RMSE": 17.4579065788,
+            "MAE": 13.9775343049,
+            "R2": 0.750961005862
+          }
+        },
+        "Ridge (L2, MAP)": {
+          "train": {
+            "RMSE": 14.9758954289,
+            "MAE": 11.3600218764,
+            "R2": 0.798298349505
+          },
+          "test": {
+            "RMSE": 17.4579037115,
+            "MAE": 13.9775259959,
+            "R2": 0.750961087667
+          }
+        },
+        "Robust (Huber)": {
+          "train": {
+            "RMSE": 15.0801826401,
+            "MAE": 11.3348388417,
+            "R2": 0.795479400508
+          },
+          "test": {
+            "RMSE": 17.0318448692,
+            "MAE": 13.7805351621,
+            "R2": 0.762968312277
+          }
+        },
+        "Bayesian linear": {
+          "train": {
+            "RMSE": 14.9766544856,
+            "MAE": 11.3518537694,
+            "R2": 0.798277902397
+          },
+          "test": {
+            "RMSE": 17.4578419479,
+            "MAE": 13.9639105436,
+            "R2": 0.750962849793
+          }
+        },
+        "Kernel ridge (poly deg 2)": {
+          "train": {
+            "RMSE": 12.187649116,
+            "MAE": 8.39735210695,
+            "R2": 0.866413140876
+          },
+          "test": {
+            "RMSE": 15.320522015,
+            "MAE": 11.7255918531,
+            "R2": 0.808208149379
+          }
+        },
+        "Kernel ridge (RBF)": {
+          "train": {
+            "RMSE": 11.8803893912,
+            "MAE": 8.10738982313,
+            "R2": 0.873063884231
+          },
+          "test": {
+            "RMSE": 15.141269313,
+            "MAE": 11.4336339178,
+            "R2": 0.812669888496
+          }
+        }
+      },
+      "details": {
+        "features": [
+          "distance_km",
+          "within_radius",
+          "category_match",
+          "keyword_in_title",
+          "n_categories",
+          "is_chain"
+        ],
+        "ols_coef": {
+          "distance_km": -0.156768240291,
+          "within_radius": 18.1356545554,
+          "category_match": 59.4411157934,
+          "keyword_in_title": 15.4675931526,
+          "n_categories": -3.23964171151,
+          "is_chain": 3.47462156888
+        },
+        "ols_intercept": 0.296184866589,
+        "huber_coef": {
+          "distance_km": -0.156218265999,
+          "within_radius": 15.8617434644,
+          "category_match": 60.4587887688,
+          "keyword_in_title": 15.0572126756,
+          "n_categories": -2.42848513113,
+          "is_chain": 2.04462457561
+        },
+        "huber_intercept": -0.864198658574,
+        "huber_scale": 9.25879792816,
+        "huber_n_outliers_train": 121,
+        "huber_epsilon": 1.35,
+        "ridge_alpha": 0.001,
+        "bayes_noise_precision_alpha": 0.0043848554092,
+        "bayes_noise_variance_1_over_alpha": 228.057691002,
+        "bayes_weight_precision_lambda": 0.00145578539177,
+        "bayes_coef": {
+          "distance_km": -0.160894203266,
+          "within_radius": 17.9454142568,
+          "category_match": 59.2034743962,
+          "keyword_in_title": 15.0134240779,
+          "n_categories": -3.21854754165,
+          "is_chain": 3.39088648025
+        },
+        "bayes_coef_sd": {
+          "distance_km": 0.0755066158656,
+          "within_radius": 2.24636609066,
+          "category_match": 1.6802654093,
+          "keyword_in_title": 4.81493274816,
+          "n_categories": 0.653725608594,
+          "is_chain": 3.95305853766
+        },
+        "bayes_closed_form_vs_sklearn_max_abs_diff": 2.27373675443e-13,
+        "bayes_test_mean_predictive_sd": 15.2786348697,
+        "bayes_test_95pct_interval_coverage": 0.933333333333,
+        "kpoly_alpha": 3.16227766017,
+        "krbf_alpha": 0.1,
+        "krbf_gamma": 0.0316227766017
+      }
+    },
+    "classification": {
+      "metrics": {
+        "Logistic L2 (MAP), Phase 1": {
+          "confusion_matrix": {
+            "tn": 825,
+            "fp": 1,
+            "fn": 11,
+            "tp": 86
+          },
+          "accuracy": 0.986998916576,
+          "precision": 0.988505747126,
+          "recall": 0.886597938144,
+          "f1": 0.934782608696,
+          "roc_auc": 0.984249020244,
+          "pr_auc": 0.946522454134
+        },
+        "Logistic small-model MLE, Phase 1": {
+          "confusion_matrix": {
+            "tn": 826,
+            "fp": 0,
+            "fn": 62,
+            "tp": 35
+          },
+          "accuracy": 0.932827735645,
+          "precision": 1.0,
+          "recall": 0.360824742268,
+          "f1": 0.530303030303,
+          "roc_auc": 0.743815681086,
+          "pr_auc": 0.469466166421
+        },
+        "Fisher LDA (discriminant)": {
+          "confusion_matrix": {
+            "tn": 823,
+            "fp": 3,
+            "fn": 62,
+            "tp": 35
+          },
+          "accuracy": 0.929577464789,
+          "precision": 0.921052631579,
+          "recall": 0.360824742268,
+          "f1": 0.518518518519,
+          "roc_auc": 0.878572676668,
+          "pr_auc": 0.605539327078
+        },
+        "Bernoulli naive Bayes (generative)": {
+          "confusion_matrix": {
+            "tn": 820,
+            "fp": 6,
+            "fn": 11,
+            "tp": 86
+          },
+          "accuracy": 0.981581798483,
+          "precision": 0.934782608696,
+          "recall": 0.886597938144,
+          "f1": 0.910052910053,
+          "roc_auc": 0.978482813709,
+          "pr_auc": 0.936499042775
+        },
+        "Bayesian logistic (Laplace)": {
+          "confusion_matrix": {
+            "tn": 825,
+            "fp": 1,
+            "fn": 11,
+            "tp": 86
+          },
+          "accuracy": 0.986998916576,
+          "precision": 0.988505747126,
+          "recall": 0.886597938144,
+          "f1": 0.934782608696,
+          "roc_auc": 0.953907790619,
+          "pr_auc": 0.919620590034
+        },
+        "SVM linear": {
+          "confusion_matrix": {
+            "tn": 825,
+            "fp": 1,
+            "fn": 11,
+            "tp": 86
+          },
+          "accuracy": 0.986998916576,
+          "precision": 0.988505747126,
+          "recall": 0.886597938144,
+          "f1": 0.934782608696,
+          "roc_auc": 0.980504730286,
+          "pr_auc": 0.940703145806
+        },
+        "SVM RBF kernel": {
+          "confusion_matrix": {
+            "tn": 819,
+            "fp": 7,
+            "fn": 13,
+            "tp": 84
+          },
+          "accuracy": 0.978331527627,
+          "precision": 0.923076923077,
+          "recall": 0.865979381443,
+          "f1": 0.893617021277,
+          "roc_auc": 0.97068220963,
+          "pr_auc": 0.918303788365
+        }
+      },
+      "details": {
+        "laplace_lambda": 0.1,
+        "laplace_irls_converged": true,
+        "laplace_test_logloss_map_plugin": 0.0582839478439,
+        "laplace_test_logloss_predictive": 0.106526704227,
+        "laplace_mean_abs_shift_map_to_predictive": 0.0544705724701,
+        "laplace_max_abs_shift_map_to_predictive": 0.207562826698,
+        "lda_shrinkage": "auto (Ledoit-Wolf)",
+        "nb_alpha": 1.0,
+        "svm_linear_C": 1.0,
+        "svm_rbf_C": 10.0,
+        "svm_linear_n_support": 342,
+        "svm_rbf_n_support": 1155,
+        "n_train": 3689
+      }
+    }
+  }
+}

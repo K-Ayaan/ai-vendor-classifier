@@ -1,0 +1,1311 @@
+{
+  "category": "auto_parts",
+  "status": "complete",
+  "count": 186,
+  "outside": 51,
+  "points": [
+    {
+      "id": "chij9snrkqf7ujor1j4ujrl4o0a",
+      "title": "OM AUTOMOBILES",
+      "address": "#71 Ganesh nagar Jublie road, Chettipunniyam Rd, Mahindra World City, Tamil Nadu 603004",
+      "lat": 12.743433,
+      "lon": 79.9914975
+    },
+    {
+      "id": "chijqssldcz6ujor5g9s-o00qak",
+      "title": "Selvi Automobiles",
+      "address": "Shop No 5, Selvi Automobiles, 78, NH Service Road, next to ICICI Bank, Potheri, Singaperumal Koil, Kanchipuram, Tamil Nadu 603203",
+      "lat": 12.82935,
+      "lon": 80.0445663
+    },
+    {
+      "id": "chijsqidiq73ujorlgjasafo_v0",
+      "title": "Bike YNOT",
+      "address": "Pillayar Koil St, Potheri, SRM Nagar, Thailavaram, Tamil Nadu 603203",
+      "lat": 12.829960499999999,
+      "lon": 80.0454519
+    },
+    {
+      "id": "chijd93znkd3ujorqmhijtkqntq",
+      "title": "BIKE ZONE",
+      "address": "No.R1, BIKE ZONE, 11, Gandhi Nagar Main Rd, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.8036896,
+      "lon": 80.0305293
+    },
+    {
+      "id": "chijb0jr5kj3ujoruembfqtfh40",
+      "title": "Classic Motors Auto Mobiles-Two wheeler service,sales and spares",
+      "address": "No.7/207, G.S.T Road, Thirutheri, Singaperumal Koil, Chengalpattu, Tamil Nadu 603204",
+      "lat": 12.754726,
+      "lon": 80.0007229
+    },
+    {
+      "id": "chijfye5trx3ujorbwvhzh5eweu",
+      "title": "SRI BHAVANI AUTO PARTS",
+      "address": "350/49A2, Nellikuppam Rd, near State Bank of india, Kameshwary Nagar, Iyyapa Nagar, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.815303199999999,
+      "lon": 80.0766877
+    },
+    {
+      "id": "chijqxnvhkv3ujorsmlgdd-e7i0",
+      "title": "JAGDAMBA AUTOMOBILES",
+      "address": "10/6, Nellikuppam Rd, Kamarajapuram, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.842982,
+      "lon": 80.060699
+    },
+    {
+      "id": "chijjzbyxtx9ujor9y-ayh5g2ty",
+      "title": "Samukh Bikes - Yamaha Service, Spares & Accessories",
+      "address": "PX4H+Q3C Samukh Bikes - Yamaha Service, Spares & Accessories, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7071016,
+      "lon": 79.97769149999999
+    },
+    {
+      "id": "chijkx4sdad9ujor4mckpkulr7e",
+      "title": "MSquare Moto Parts",
+      "address": "M2F4+F2M MSquare Moto Parts, SH58, Santhi Nagar, Nenmeli, Chengalpattu, Kovilathangal, Tamil Nadu 603003",
+      "lat": 12.6737206,
+      "lon": 80.0050474
+    },
+    {
+      "id": "chij_zlbjzv9ujora5xneppewfe",
+      "title": "Castrol Bike spare parts and automobiles",
+      "address": "M2F4+68Q Castrol Bike spare parts and automobiles, Santhi Nagar, Nenmeli, Chengalpattu, Vallam, Tamil Nadu 603003",
+      "lat": 12.6730856,
+      "lon": 80.0058438
+    },
+    {
+      "id": "chijgcfzkhp5ujorr2srkdsqufk",
+      "title": "NEW RAKESH AUTOMOBILES",
+      "address": "10, LIG NH1, Thiruvallur, Elango Adigal Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7963027,
+      "lon": 80.025662
+    },
+    {
+      "id": "chijwwz1crd7ujorj4smueopzr4",
+      "title": "A2Z auto works",
+      "address": "Bharath petrol pump, A2Z auto works, back side, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.737272599999999,
+      "lon": 80.0017889
+    },
+    {
+      "id": "chijoey9uqbrujoryien3xgzalq",
+      "title": "SSS two wheeler spare parts",
+      "address": "P5JQ+PJP SSS two wheeler spare parts, Thiruporur, Tamil Nadu 603110",
+      "lat": 12.7318438,
+      "lon": 80.1890888
+    },
+    {
+      "id": "chij04rhrs76ujorct0z2js1ce8",
+      "title": "Mansur automobiles",
+      "address": "#5/161, Chennai - Theni Hwy, Singaperumal kovil, Vinjiambakkam, Tamil Nadu 603204",
+      "lat": 12.7598436,
+      "lon": 80.002847
+    },
+    {
+      "id": "chijw6u0zkh8ujoryskcnmfb5wu",
+      "title": "Arasan Automobiles",
+      "address": "50 A, GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6805662,
+      "lon": 79.98104579999999
+    },
+    {
+      "id": "chijkuqfown5ujoryhgjvxsfek8",
+      "title": "RAJA AUTOMOBILES",
+      "address": "58, GST Rd, opposite Vidya Sagar womens college, Vedhanarayanapuram, Chengalpattu, Tamil Nadu 603111",
+      "lat": 12.6590121,
+      "lon": 79.9613859
+    },
+    {
+      "id": "chiju352rjf9ujorygvl-p6svxu",
+      "title": "Krishna Automobiles",
+      "address": "114A, GST Rd, Anna Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.685023399999999,
+      "lon": 79.9833967
+    },
+    {
+      "id": "chij6cusxnf8ujortn7vj4av2ze",
+      "title": "ABHIRAM MOTORS",
+      "address": "86, GST Rd, Chengalpattu, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.705957999999999,
+      "lon": 79.9770937
+    },
+    {
+      "id": "chijtquge-p9ujorn9y3anrz3zc",
+      "title": "Suzuki Motorcycle (SSK Suzuki, Chengalpattu, GST Road)",
+      "address": "NO:162, GST Rd, VILLAGE, J C K Nagar, Pulipakkam, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.706447299999999,
+      "lon": 79.97758329999999
+    },
+    {
+      "id": "chijsaoscphyujor9muus6zcj44",
+      "title": "M.S AUTOMOBILE",
+      "address": "No 190/4 mani complex kelambakkam,main, 48, Unamancheri - Kolapakkam Rd, Kolapakkam, Tamil Nadu 600127",
+      "lat": 12.870391699999999,
+      "lon": 80.10782569999999
+    },
+    {
+      "id": "chijpyst0kh8ujorskpezlabkiw",
+      "title": "Ratan Cycle Company",
+      "address": "85, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6924464,
+      "lon": 79.97919019999999
+    },
+    {
+      "id": "chijvwfmy8t9ujorzs2sdxpx8rw",
+      "title": "Kings Motors Bajaj, Chengalpattu",
+      "address": "4, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.705078199999999,
+      "lon": 79.9769962
+    },
+    {
+      "id": "chijq9crgm_8ujorhzacwft8yv8",
+      "title": "MDS Auto Spares",
+      "address": "109, Anna Salai, chenna kadai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.691894699999999,
+      "lon": 79.9772407
+    },
+    {
+      "id": "chij6cusxnf8ujoriagvfkckslu",
+      "title": "Abhiram Honda",
+      "address": "86, GST Rd, J C K Nagar, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7060427,
+      "lon": 79.9770176
+    },
+    {
+      "id": "chijpxmtjg_3ujorrrzb5mtjepm",
+      "title": "Yokohama Club Network - Shree Caarwing, Thailavaram",
+      "address": "No 1, Yokohama Club Network - Shree Caarwing, Thailavaram, opposite Estancia, GST Rd, Guduvancheri, Thailavaram, Tamil Nadu 603203",
+      "lat": 12.8320329,
+      "lon": 80.0468106
+    },
+    {
+      "id": "chijsf6a9dx7ujorypea0dnk8d0",
+      "title": "Arihant Moto Bike TVS (2 wheeler & EV) - Chengalpattu",
+      "address": "86/2A, GST Rd, opposite AIE Car Service Centre, J C K Nagar, Chengalpattu, Kanchipuram, Tamil Nadu 603002",
+      "lat": 12.707182699999999,
+      "lon": 79.9773469
+    },
+    {
+      "id": "chijcxxwf2n8ujorwm5pvmzjdxy",
+      "title": "Antony Automobiles",
+      "address": "111, Gandhi Salai, Vedachalam Nagar, J C K Nagar, Gokulapuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6877161,
+      "lon": 79.97498879999999
+    },
+    {
+      "id": "chij8zkhh0z9ujoroisa7jpenjq",
+      "title": "Bhawani Auto Centre",
+      "address": "#2 M.S.Plaza, GST Rd, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6814013,
+      "lon": 79.98163269999999
+    },
+    {
+      "id": "chijeepmbbd9ujork1c4q4ttr3e",
+      "title": "Kannama Ev Electric Bike All Brand Spare Parts",
+      "address": "119, GST Rd, Thimmarajakulam, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6886327,
+      "lon": 79.9832113
+    },
+    {
+      "id": "chijtxopxqx7ujor-yvw1ieubpg",
+      "title": "Pedals n Bykes",
+      "address": "Mahindra World City, 2nd Ave, off Paranur Railway Station Road, Paranur, Tamil Nadu 603002",
+      "lat": 12.730092899999999,
+      "lon": 79.984775
+    },
+    {
+      "id": "chijz7ncvp_7ujor-y9e6rlofjs",
+      "title": "Lucky Agency",
+      "address": "11/406,G S T Road, to, Chennai Main Road, opp. 0'Point Sigal Trichy, Mahindra World City, Bagath Singh Nagar, Singaperumal Koil, Tamil Nadu 603004",
+      "lat": 12.7448201,
+      "lon": 79.9931591
+    },
+    {
+      "id": "chijyddt30t3ujoreqtrein3_s8",
+      "title": "Yamaha Motor Showroom - Kamadhenu Motors - Singaperumal Koil",
+      "address": "No:12/135, GST Rd, Vinjiambakkam, Tamil Nadu 603204",
+      "lat": 12.7580256,
+      "lon": 80.0029325
+    },
+    {
+      "id": "chijhuythwd9ujorah6l2kolja8",
+      "title": "Jeevitha Auto parts",
+      "address": "29, Alagesan Rd, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.687371899999999,
+      "lon": 79.9802079
+    },
+    {
+      "id": "chijke7q6an3ujordplpsvkq5dy",
+      "title": "Om Prakash Honda - Motorcycles & Scooters Authorized Main Dealership in Gst Road",
+      "address": "155-A, GST Rd, Jeasupatham nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.839346899999999,
+      "lon": 80.054435
+    },
+    {
+      "id": "chij15f9kab3ujorfzyzszw3g5k",
+      "title": "Yamaha Motor Showroom - Vardhaman Motors",
+      "address": "225/a, GST Rd, opp. GrandMart Clothing, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8389777,
+      "lon": 80.0540843
+    },
+    {
+      "id": "chijvyta4mv8ujorrxqke6j9fjw",
+      "title": "Raviram Motors - Hero MotoCorp",
+      "address": "SH58, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6894647,
+      "lon": 79.9808836
+    },
+    {
+      "id": "chij5s0a6gj9ujorzsnfii3adxk",
+      "title": "Md bikers accessories",
+      "address": "Marva Mahal complex, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7048945,
+      "lon": 79.9771173
+    },
+    {
+      "id": "chijaqawvxf8ujornrdynkopqz0",
+      "title": "KINGS BAJAJ TWO WHEELER SERVICE CENTER",
+      "address": "No 4, GST Rd, near Marwa Mahal, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7051097,
+      "lon": 79.97695039999999
+    },
+    {
+      "id": "chijevncvoj7ujorissutq_obji",
+      "title": "KTM Husqvarna Chengalpattu",
+      "address": "NH Bypass Junction, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.709781099999999,
+      "lon": 79.9774994
+    },
+    {
+      "id": "chijdu71ujv9ujorcta-hifwbca",
+      "title": "Bajaj Auto, King Motors",
+      "address": "NO 1, Bajaj Auto, King Motors, Marwa Mahal, 1, GST Rd, opposite CHENGALPET, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7048943,
+      "lon": 79.9770904
+    },
+    {
+      "id": "chijwtnlw1l2ujorzumxanvftri",
+      "title": "Track & Trail",
+      "address": "Proficient Technologies, 62-259, NH 32, nearby Deepam Multi Speciality Hospital, Guduvancheri, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8478506,
+      "lon": 80.0627342
+    },
+    {
+      "id": "chijmeenooz3ujordc8pjpgidww",
+      "title": "Sri Deepam Motors",
+      "address": "No-62, Sri Deepam Motors, Nellikuppam Rd, Govindarajapuram, Guduvancheri, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8331716,
+      "lon": 80.06933389999999
+    },
+    {
+      "id": "chijvwuwzsf7ujorxcesjbrzgvs",
+      "title": "BARANI ENTERPRISES - Chengalpattu",
+      "address": "Plot no:12, paranur village,GST Road,(opp. Mahendra city Near R.T.O Office, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7377457,
+      "lon": 79.98767149999999
+    },
+    {
+      "id": "chijnzp52eh8ujoryhzemcfrdbo",
+      "title": "Sree Ranga Tyres",
+      "address": "Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6845549,
+      "lon": 79.9826405
+    },
+    {
+      "id": "chij_w6uu277ujor3ywri9e9dia",
+      "title": "Ignite Batteries",
+      "address": "Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.739084199999999,
+      "lon": 79.9991627
+    },
+    {
+      "id": "chijzdfu4cn7ujorunrgahyud88",
+      "title": "Plug N Drive",
+      "address": "Buliding No 1, GST Road, Pullipakkam, nearby Juice Kings, Paranur, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7093946,
+      "lon": 79.9781235
+    },
+    {
+      "id": "chijdyq5-mv8ujorxdsq_8f5zpg",
+      "title": "Sri Bhawani Automobiles",
+      "address": "#19/11, Devarajan St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6897629,
+      "lon": 79.9813441
+    },
+    {
+      "id": "chijte5zjpp3ujorv991hbddgq0",
+      "title": "SRI HARITHA MOTORS- Hero MotoCorp",
+      "address": "7, GST Rd, Guduvancheri, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.835142,
+      "lon": 80.05084509999999
+    },
+    {
+      "id": "chij1uaujmv9ujormnlio8_f8ua",
+      "title": "Royal Enfield Showroom - P.A.S. Elite Motorcycle",
+      "address": "Marva Mahal complex, GST Rd, next to Nexa showroom, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.705319999999999,
+      "lon": 79.977262
+    },
+    {
+      "id": "chijlsk29yv5ujorehe_yslduoq",
+      "title": "YAPP INDIA Automotive Systems Pvt Ltd, Chennai",
+      "address": "Ford New Supplier Park, Melrosapuram, S. P. Koil (Post), Chengalpattu Taluk, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.7708011,
+      "lon": 80.02192769999999
+    },
+    {
+      "id": "chijwefjwvt9ujormxv5s2-rtrs",
+      "title": "Exide Care - SRS Computers",
+      "address": "Vao Office, No 148 GST Road, Venbakkam, near Venbakkam, Chengalpattu, Kanchipuram, Tamil Nadu 603111",
+      "lat": 12.665111,
+      "lon": 79.969501
+    },
+    {
+      "id": "chijv33qx2r8ujorkjkkbib0hd4",
+      "title": "J.A. Friends Two Wheeler Seat Covers Tank Covers",
+      "address": "Mxpm+9Cp J.A. Friends Two Wheeler Seat Covers Tank Covers, Sh58, 1st Main Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6861059,
+      "lon": 79.98354599999999
+    },
+    {
+      "id": "chijczyedmf7ujorjmfx31mxofc",
+      "title": "RVM Car Accessories",
+      "address": "No.10, GST Road, Near R.T.O office Chettipunyam, Paranur, Tamil Nadu 603004",
+      "lat": 12.7383083,
+      "lon": 79.9881359
+    },
+    {
+      "id": "chijregfkmp3ujorvotaezauh6c",
+      "title": "Exide Care - Pritech Power Links",
+      "address": "Clock Tower, 14/3A, GST Road, Periyar Rd, Chengal, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6864797,
+      "lon": 79.9829359
+    },
+    {
+      "id": "chijv27pvwv8ujormb93y18_t9e",
+      "title": "Jayam Shanthi Battery Service",
+      "address": "121/a8, GST Rd, thimmaraja kulam, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6888031,
+      "lon": 79.9826412
+    },
+    {
+      "id": "chijyu60seh5ujor6yzzxkivwy4",
+      "title": "Ramdev Automobiles",
+      "address": "M, Ramdev Automobiles, 24, Kambar Rd, NH-2, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7947508,
+      "lon": 80.0268119
+    },
+    {
+      "id": "chijc0efnvvnujorkewyuhjtnl4",
+      "title": "RKS Two Wheeler Spare Parts",
+      "address": "ValleeswaranGarden NearHarishsri VidayalaSchoolBackside, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0234773,
+      "lon": 80.2605227
+    },
+    {
+      "id": "chijxs6enrffujorsth4pgxekjk",
+      "title": "Sri Murugan Auto Parts",
+      "address": "Old No.146B, Sri Murugan Auto Parts, New No.421, Velachery Main Rd, opposite Airforce Road, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9231596,
+      "lon": 80.12687509999999
+    },
+    {
+      "id": "chijkq7xloddujorfzuu_ofrjk4",
+      "title": "Sri Balaji Automobiles",
+      "address": "Veerathamman Kovil Street, Joint Road, Jalladiampet, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9102075,
+      "lon": 80.2005381
+    },
+    {
+      "id": "chijff5ehh9cujor-xap9itzega",
+      "title": "Maruthi Automobiles",
+      "address": "No.11/199, Maruthi Automobiles, Mambakkam - Medavakkam Main Rd, opp. to govt school, Munusamy Nagar, Vimala Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9163901,
+      "lon": 80.1921347
+    },
+    {
+      "id": "chijd6v62ybeujorvkwg0kmq2du",
+      "title": "Mathaji Auto Parts",
+      "address": "2/587, Medavakkam Main Rd, Lakshmi Nagar, Kovilambakkam, Nanmangalam, Tamil Nadu 600117",
+      "lat": 12.9396987,
+      "lon": 80.1826791
+    },
+    {
+      "id": "chijjawmo-xdujorkug7dy61pmm",
+      "title": "Raj Automobiles Spares & Services",
+      "address": "No:4, Dr Ambedkar Salai, S. Kolathur, S.Kolathur, Kovilambakkam, Chennai, Tamil Nadu 600117",
+      "lat": 12.9499604,
+      "lon": 80.1990373
+    },
+    {
+      "id": "chijquez_hpdujor7hk88-8gnsy",
+      "title": "Sri Ram Auto Mobiles",
+      "address": "No.42, Sri Ram Auto Mobiles, Kambar St, MGR Salai, Thandhai Periyar Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.9811219,
+      "lon": 80.2411657
+    },
+    {
+      "id": "chijw62jwlulujorn1wwdtxc-f4",
+      "title": "LND Agencies Two Wheeler spares",
+      "address": "27/50, Raja Agraharam St, MG Nagar, Poonamallee, Tamil Nadu 600056",
+      "lat": 13.0483873,
+      "lon": 80.0959939
+    },
+    {
+      "id": "chijuek2jcrmujorvnv5bhc11ii",
+      "title": "Soni Auto Parts",
+      "address": "72/73, Arcot Rd, opp. to sooriya hospital, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0482826,
+      "lon": 80.2039862
+    },
+    {
+      "id": "chijdcfbhrfdujorxqrlxfnlyj4",
+      "title": "P.M. Motors",
+      "address": "5, P.M. Motors, 345, Rajiv Gandhi Salai, Santhosh Nagar, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.963649,
+      "lon": 80.24694
+    },
+    {
+      "id": "chijx7nlm-hmujor0bzgwwtxdta",
+      "title": "jain auto spares",
+      "address": "Old New .18, New No.31, S Sivan Kovil St, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0470394,
+      "lon": 80.2126924
+    },
+    {
+      "id": "chij5yxds-jmujorscvcjljmrlw",
+      "title": "GKD Auto Parts",
+      "address": "post office, 107, Lake View Rd, next to west mambalam, Postal Colony, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0356256,
+      "lon": 80.2205721
+    },
+    {
+      "id": "chijrs7r42zdujorv5rlqtnx_rq",
+      "title": "Prakash Two wheeler Spares",
+      "address": "5, School Rd, KTK Town, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.899415399999999,
+      "lon": 80.2334418
+    },
+    {
+      "id": "chijswzsar9hujormpomephzxdo",
+      "title": "Dhanalakshmi Auto Works",
+      "address": "No. 1, Pillayar Koil St, Lakshmi Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.0354707,
+      "lon": 80.1625839
+    },
+    {
+      "id": "chijssqiephcujorpqjzufwmpai",
+      "title": "Mathaji Auto Parts",
+      "address": "Shop Number- 4/674, Mathaji Auto Parts, P.T.C Quarters, Rajiv Gandhi Salai, Muttukkaranchavadi, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9334007,
+      "lon": 80.23290879999999
+    },
+    {
+      "id": "chijhdyc6vpnujoruxu1z1dvdn4",
+      "title": "Shree Karni Automobiles",
+      "address": "31, Railway Sta Rd, Ramapuram, New Colony, Alandur, Chennai, Tamil Nadu 600016",
+      "lat": 12.998172499999999,
+      "lon": 80.2006219
+    },
+    {
+      "id": "chij16y4hkbfujorkmlokngfsbs",
+      "title": "Raja bike spares",
+      "address": "No.43, Abdul Kalam Nagar, Shiva Shankar Nagar, Nagalkeni, Pallavaram, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9633243,
+      "lon": 80.1426571
+    },
+    {
+      "id": "chij27cveitnujorstxkue8_2ga",
+      "title": "WELCOME AUTO PARTS",
+      "address": "Shop No 7, Ground Floor, WELCOME AUTO PARTS, Corporation Shopping Complex, 3rd Ave, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.9921796,
+      "lon": 80.2525527
+    },
+    {
+      "id": "chijfyjkzdbcujordpejv29kxnc",
+      "title": "Madras Auto Parts",
+      "address": "7, Veerathamman Koil St, New Colony, Selvam Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.933535899999999,
+      "lon": 80.2041928
+    },
+    {
+      "id": "chijh8hjcfveujorobmm1v-7n4a",
+      "title": "Sivvas Auto Spares",
+      "address": "Old No-38, New No-96, Sivvas Auto Spares, Dr Rajendra Prasad Rd, Anna Nagar, Hasthinapuram, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9415652,
+      "lon": 80.14511139999999
+    },
+    {
+      "id": "chijy0rbqotnujorpm7z6yjzpq4",
+      "title": "Senthil Two Wheeler Spares",
+      "address": "No.10, Bharathiar Complex, Jawaharlal Nehru Salai, Vadapalani, Chennai, Tamil Nadu 600078",
+      "lat": 13.045286299999999,
+      "lon": 80.2120807
+    },
+    {
+      "id": "chijv53r0cjdujork1qee_rrrxi",
+      "title": "ANNAI AUTO SPARES",
+      "address": "No.4, 100 feet road, Thanthai Periyar Nagar, Thandhai Periyar Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.9811087,
+      "lon": 80.2389231
+    },
+    {
+      "id": "chijtsutenzbujorljqpwgtr6vg",
+      "title": "Kavari auto parts",
+      "address": "8/130, CBOA Colony Main Rd, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.8844435,
+      "lon": 80.1897207
+    },
+    {
+      "id": "chij4bgawgrdujor7zp9mfvvvz4",
+      "title": "Sri Sakthi Auto Spare Parts",
+      "address": "44, OMR, Seevaram, Rajiv Gandhi Street, Thuraipakkam, Manikkodi Srinivasan Nagar, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.952049599999999,
+      "lon": 80.241914
+    },
+    {
+      "id": "chijc4zmqtpcujorarjlnqske_0",
+      "title": "Sri Krishna Automobiles",
+      "address": "187, Velachery Main Rd, Green Court, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.929651199999999,
+      "lon": 80.20260259999999
+    },
+    {
+      "id": "chiji5t7lcbdujorad0yd_ot8ci",
+      "title": "Hari Bajaj (BAJAJ TWO WHEELER SALES SERVICE SPARE AND INSURANCE",
+      "address": "Shop No, Hari Bajaj (BAJAJ TWO WHEELER SALES SERVICE SPARE AND INSURANCE, 933, Bazaar Main Rd, Ram Nagar Police check post, Ram Nagar South, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9646957,
+      "lon": 80.2102462
+    },
+    {
+      "id": "chij9z67jevnujorjb031ppmwg4",
+      "title": "A.k Auto Spares",
+      "address": "No 52, Nagqappan Street, Pudupet, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.042613699999999,
+      "lon": 80.2473452
+    },
+    {
+      "id": "chiju4_p9qbfujors_1nhtinfj8",
+      "title": "Sri Bhavani Auto Parts",
+      "address": "Shanmuga Complex, Sri Bhavani Auto Parts, Pasumpon Nagar, Pammal, Tambaram, Tamil Nadu 600075",
+      "lat": 12.974727,
+      "lon": 80.134717
+    },
+    {
+      "id": "chijsxbs13xdujoruddbmppipyg",
+      "title": "Ragu bike point",
+      "address": "13/23, Veerapandiya Kattabomman St, Phase-1, Vijayendra Nagar, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.959232199999999,
+      "lon": 80.2390447
+    },
+    {
+      "id": "chij7_3hx8zhujorbiyjouidoqw",
+      "title": "Super Auto Parts",
+      "address": "Old No.449, New No.154 - A, Trunk Rd, Kumananchavadi, Kattuppakkam, Tamil Nadu 600056",
+      "lat": 13.0448811,
+      "lon": 80.1163377
+    },
+    {
+      "id": "chijt6usnlldujorydgan0-pxts",
+      "title": "Dinesh Automobiles spares and service",
+      "address": "2 1014, Dr Ambedkar Salai, Rajarajeswari Nagar, Periyar Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9613993,
+      "lon": 80.19870329999999
+    },
+    {
+      "id": "chijm_v-cm9fujorer8dn_bdkz0",
+      "title": "Chennai Two Wheeler",
+      "address": "160, Chennai Two Wheeler, 117, Mudichur Rd, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9248698,
+      "lon": 80.11267749999999
+    },
+    {
+      "id": "chiju1cuahndujorat6ca586nm4",
+      "title": "Sri Krishna Auto Works",
+      "address": "6M, MGR Main Rd, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9651065,
+      "lon": 80.24611019999999
+    },
+    {
+      "id": "chijjydvkvpnujore6japgdgvdo",
+      "title": "A one auto agency two wheeler spare parts shop",
+      "address": "No 183, VM St, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0518693,
+      "lon": 80.2692761
+    },
+    {
+      "id": "chij1yzw7aldujoryxy_5ncvmhw",
+      "title": "M.R .Automobiles",
+      "address": "84, Velachery Main Rd, Devi Karumariamman Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9283136,
+      "lon": 80.2011991
+    },
+    {
+      "id": "chijs0wbiy6lujorxwr18ufqc24",
+      "title": "ADD TWO ️ SPARES",
+      "address": "27/50, Raja Agraharam St, near Mangalam hospital, near Naidu hotel, MG Nagar, Poonamallee, Tamil Nadu 600056",
+      "lat": 13.0483873,
+      "lon": 80.0959939
+    },
+    {
+      "id": "chij43km7uh1ujorata8pck_p1e",
+      "title": "TAMIZH MOTOR CYCLE SPARE PARTS",
+      "address": "1/135, Walajabad Rd, Balaji Nagar, Vandalur, Chennai, Tamil Nadu 600048",
+      "lat": 12.893825399999999,
+      "lon": 80.0803281
+    },
+    {
+      "id": "chij8qhhqzxmujor0okrxggvveo",
+      "title": "R.M. Auto Spares",
+      "address": "No: 94/223, peters road, royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0537824,
+      "lon": 80.2662744
+    },
+    {
+      "id": "chijxtnqgqzbujor4a1k1z6eaew",
+      "title": "AMBIKA MOTOR CYCLE CO.",
+      "address": "No:1, AMBIKA MOTOR CYCLE CO., 27, SH 49A, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9163781,
+      "lon": 80.2298308
+    },
+    {
+      "id": "chijcw8uncnmujorue4fyfbxy38",
+      "title": "Star Auto Parts",
+      "address": "No.82, 1st Floor, Star Auto Parts, Gangappa Street, Arcot Road, Opposite AVM Rajeswari Theatre, Velayutham Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.048478999999999,
+      "lon": 80.2050744
+    },
+    {
+      "id": "chijlsnsiwbfujory4wakg4y88c",
+      "title": "J.s auto spares",
+      "address": "36, Grand Southern Trunk Rd, near GRT Jewellers, Kadaperi, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9350125,
+      "lon": 80.1257432
+    },
+    {
+      "id": "chijm_hblilzujorp5dc6_8nkti",
+      "title": "Sri Balaji Auto Centre",
+      "address": "No 2/130, Mappedu - Vengambakkam Rd, Puthur, Tiruvanchery, Selaiyur, Puthur, Tamil Nadu 600126",
+      "lat": 12.8918182,
+      "lon": 80.13921739999999
+    },
+    {
+      "id": "chijftulpofdujoryniwp0gh5yy",
+      "title": "Sri Bhawani Auto Parts",
+      "address": "44, Medavakkam Main Road, Madipakkam, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.971447699999999,
+      "lon": 80.191048
+    },
+    {
+      "id": "chijru3rgqrnujornjvvuws0uuc",
+      "title": "Murugan Auto",
+      "address": "Murugan Auto Subway, Road, Kannammapet, CIT Nagar, Chennai, Tamil Nadu 600015",
+      "lat": 13.028199899999999,
+      "lon": 80.2260666
+    },
+    {
+      "id": "chijbsoneibcujor4gm4hlsrlfg",
+      "title": "Rakesh Auto Parts",
+      "address": "98, Siddhi Vinayagar Complex Kalaignar Karunanudhi Salai Schollinganallur Ch119, Chennai, Tamil Nadu 600119",
+      "lat": 12.900976499999999,
+      "lon": 80.2321403
+    },
+    {
+      "id": "chij-3fda6pnujory8yt6zxbyvk",
+      "title": "m.d. spare parts",
+      "address": "52, S W Boag Rd, T Nagar, CIT Nagar West, T. Nagar, Chennai, Tamil Nadu 600035",
+      "lat": 13.031195799999999,
+      "lon": 80.23328269999999
+    },
+    {
+      "id": "chijt55jo2pmujora_ndtzbtg6m",
+      "title": "Swamy Auto parts",
+      "address": "Shop No 1, Swamy Auto parts, 470, GST Rd, near Bus Stop, Otteri Extension, Vandalur, Chennai, Tamil Nadu 600048",
+      "lat": 12.890968299999999,
+      "lon": 80.0851
+    },
+    {
+      "id": "chijr08xs-pbujorbn09ys8lm94",
+      "title": "Sri Krishna Auto Spares (CAR)",
+      "address": "1/592, Ottiambakkam Main Rd, Sithalapakkam, Sittalapakkam, Tamil Nadu 600126",
+      "lat": 12.8973164,
+      "lon": 80.1823579
+    },
+    {
+      "id": "chij7espsv33ujorarmw4fkdsoy",
+      "title": "ROYAL CAR'S Auto Fix",
+      "address": "No.5 SBI BANK G.S.T road Guduvanchrry, Chennai, Tamil Nadu 603202",
+      "lat": 12.839426699999999,
+      "lon": 80.0553341
+    },
+    {
+      "id": "chij40hxudbzujor6zplkrimzsa",
+      "title": "Saran Auto Parts",
+      "address": "No.258/4 Sivamani Complex, Kolapakkam, Vandalur, To Kelambakkam Main Road, Anna Nagar, Chennai, Tamil Nadu 600127",
+      "lat": 12.8708355,
+      "lon": 80.1054027
+    },
+    {
+      "id": "chijt55jo2pmujorpllzwlcvpbg",
+      "title": "Siva Automobile",
+      "address": "1/571, GST Rd, Otteri Extension, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8932538,
+      "lon": 80.0865853
+    },
+    {
+      "id": "chijqanvpaz3ujor-v77qeurkge",
+      "title": "Shakti Automobiles",
+      "address": "22, Periyar Ramasamy St, Jaibeemnagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.845770799999999,
+      "lon": 80.0594826
+    },
+    {
+      "id": "chij8fxgm7j3ujorrlrplch7hzm",
+      "title": "Ganesh Automobiles",
+      "address": "7,Nellikuppam Road, Junction, Kayarambedu, Chennai, Tamil Nadu 603202",
+      "lat": 12.8111772,
+      "lon": 80.0767832
+    },
+    {
+      "id": "chijgzizxo31ujorjt5cuzbzhz0",
+      "title": "Two Star Automobiles",
+      "address": "7/3, Mudichur Rd, Perungalathur, Tambaram, Chennai, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.920473399999999,
+      "lon": 80.0888528
+    },
+    {
+      "id": "chijddvtdwjnujorsadnegnzhhk",
+      "title": "Shree Ram Auto Parts",
+      "address": "No.35, Shree Ram Auto Parts, 28, Kamarajar Puram, Periyar Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.988318399999999,
+      "lon": 80.2161746
+    },
+    {
+      "id": "chijmbeo_hthujorp6uzodtx2yq",
+      "title": "Anjali auto spares",
+      "address": "door no 3, Anjali auto spares, 18, Street No 1, Karambakkam, Rajeswari Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.038275599999999,
+      "lon": 80.15956299999999
+    },
+    {
+      "id": "chijj82sgytnujorj4lxgb6bcig",
+      "title": "Shri Ram Auto Parts",
+      "address": "13, Shri Ram Auto Parts, Main Road, 6, Indira Nagar 4th Main Rd, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.993757899999999,
+      "lon": 80.2526439
+    },
+    {
+      "id": "chijwaxe6kz3ujordctbgqvhe3y",
+      "title": "Anand Auto Spares",
+      "address": "192, Chennai - Theni Hwy, near K.R. Hospital, N.G.O Colony, Srinivasapuram, Kumaran Nagar, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8420923,
+      "lon": 80.0573581
+    },
+    {
+      "id": "chijx-qsanpfujormznfiuriypw",
+      "title": "Ganesh Auto Mobiles",
+      "address": "No 99,pallavaram Kundrathur Main Road, J.n road,Anakaputhur, Tambaram, Tamil Nadu 600070",
+      "lat": 12.9844326,
+      "lon": 80.1241636
+    },
+    {
+      "id": "chijdwmtpotnujoruccdfsh3zby",
+      "title": "Guru Automobiles",
+      "address": "7/1, Indira Nagar 23rd Cross St, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.9942221,
+      "lon": 80.2529302
+    },
+    {
+      "id": "chijjub-w1p2ujorrk1dn1jlq9o",
+      "title": "Vinayaga Automobiles",
+      "address": "No.11, Vinayaga Automobiles, Priya Complex, Madambakkam Main Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.848625199999999,
+      "lon": 80.0582273
+    },
+    {
+      "id": "chijd9p8pwd3ujordz5ad1oie0q",
+      "title": "Venkateswara auto spares",
+      "address": "121a/52, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.838887,
+      "lon": 80.0538965
+    },
+    {
+      "id": "chijewa0neb2ujor5hslk3aupnm",
+      "title": "KUMARAN AUTOMOBILES",
+      "address": "28 KARANAIPUDUCHERY, ROAD, Urapakkam, Chennai, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8597215,
+      "lon": 80.07281909999999
+    },
+    {
+      "id": "chijs2atrb9nujorsgwjq-xg0uo",
+      "title": "Vinay Auto Parts",
+      "address": "No.8, Pillaiyar Koil St, R.V. Nagar, Mettuppalayam, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+      "lat": 13.0298775,
+      "lon": 80.210651
+    },
+    {
+      "id": "chijbqrrznfdujorpad4tgenqos",
+      "title": "FRIENDS CAR ACCESSORIES",
+      "address": "342, 200 Feet Radial Rd, S. Kolathur, Kovilambakkam, Viduthalai Nagar, Kovilambakkam, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9487271,
+      "lon": 80.195137
+    },
+    {
+      "id": "chij_tbrknb3ujor5_o4u4ferl0",
+      "title": "ANS AUTO WORKS AND SPARE PARTS",
+      "address": "No.12/5, Bazzar Street, K.R Puram, Murugathaman Pettai, Padappai, Tamil Nadu 601301",
+      "lat": 12.887203399999999,
+      "lon": 80.0246682
+    },
+    {
+      "id": "chijrzjx-i9mujorjxc4qjeq3vm",
+      "title": "Mahavir Automobiles (Royapettah)",
+      "address": "186, Mahavir Complex, 2nd floor, Royapettah High Rd, opp. to Hotel Deccan Plaza, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0467613,
+      "lon": 80.26615629999999
+    },
+    {
+      "id": "chij3srkiktzujorrfekuepmbk4",
+      "title": "Sri Ambika Auto Parts",
+      "address": "313, Kelambakkam Main Rd, Kandigai, Chennai, Melakottaiyur, Tamil Nadu 600127",
+      "lat": 12.8486049,
+      "lon": 80.1422312
+    },
+    {
+      "id": "chijn_qjd_zmujor4n0adbnblgi",
+      "title": "Sri Vignesh Auto Parts",
+      "address": "Shop No.206, New No.81, Sri Vignesh Auto Parts, Habibullah Road, Mambalam High Road, Parthsarathy Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0518047,
+      "lon": 80.23135649999999
+    },
+    {
+      "id": "chijt55jo2pmujorroqhy_ecjfq",
+      "title": "Expo Automobiles",
+      "address": "No. 1/417, Chennai - Theni Hwy, Otteri, Vandalur, Chennai, Tamil Nadu 600048",
+      "lat": 12.8899925,
+      "lon": 80.0848455
+    },
+    {
+      "id": "chijhu5lqxt3ujor_kbexbzcrmw",
+      "title": "ANNAMALAI AUTMOBILES",
+      "address": "NO:4, ANNAMALAI AUTMOBILES, 148, GST Rd, near SRR GRAND HOTEL, Otteri Extension, Vandalur, Tamil Nadu 600048",
+      "lat": 12.883616199999999,
+      "lon": 80.0814283
+    },
+    {
+      "id": "chijl1u6id_2ujorxkaiddb2xke",
+      "title": "A.M Automobiles",
+      "address": "Shop No.3, A.M Automobiles, 3, Chennai - Theni Hwy, near Sankara Vidyalaya School, Ambika Nagar, Urapakkam, Vandalur R.F., Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.86783,
+      "lon": 80.0761407
+    },
+    {
+      "id": "chijnwlhbyz6ujorwsy-ck8sw9w",
+      "title": "BHARAT AUTOMOBILES",
+      "address": "5/77, get road, Vinjiambakkam, Tamil Nadu 603204",
+      "lat": 12.7584925,
+      "lon": 80.003146
+    },
+    {
+      "id": "chijtrfvgw31ujorqks0n8mt2nq",
+      "title": "Muruga Automobiles",
+      "address": "13, Kamarajar Nedunchalai, Senthil Nagar Main Rd, near Padmavathi Mahal, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.918880399999999,
+      "lon": 80.0833559
+    },
+    {
+      "id": "chij76tcj0dfujor490pvaxeslc",
+      "title": "Southern Automobiles Pvt Ltd.",
+      "address": "634, National Hwy 32, Kadaperi, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9337489,
+      "lon": 80.1251705
+    },
+    {
+      "id": "chijzs7qzy31ujordrbpwskpi7m",
+      "title": "SRI AMBAAL AUTOMOBILES",
+      "address": "Tambaram - Mudichur - Sriperumbudur Rd, Gnanapanditha Nagar, Shanthi Nagar, Mudichur, Tamil Nadu 600048",
+      "lat": 12.9156453,
+      "lon": 80.07786709999999
+    },
+    {
+      "id": "chijsdfpnuhnujoro1h5_pw7jdw",
+      "title": "Sri ganesh auto spares",
+      "address": "5/96, Sri ganesh auto spares, Butt Rd, Ramapuram, Parangi Malai, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 13.0078037,
+      "lon": 80.1962324
+    },
+    {
+      "id": "chijdy1iiwd3ujor8qh_ueh3baw",
+      "title": "Maruti Suzuki Genuine Parts",
+      "address": "105, Chennai - Theni Hwy, Kubera Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.865921499999999,
+      "lon": 80.075262
+    },
+    {
+      "id": "chijaqaaqbdmujorlyd-tfgv90a",
+      "title": "Harnam Automobiles",
+      "address": "SHOP NO.9, Harnam Automobiles, 1, Whites Rd, opp. to Express Avenue Mall, next to Raja tyres, Indira Garden, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0576908,
+      "lon": 80.2629463
+    },
+    {
+      "id": "chij10xazilzujormvqmcphc-xa",
+      "title": "Andavar Automobiles",
+      "address": "Goodwill Avenue Main Road, Kelambakkam, Vandalur, Street Number 11, Kolapakkam, Chennai, Tamil Nadu 600127",
+      "lat": 12.8705324,
+      "lon": 80.1075189
+    },
+    {
+      "id": "chijew8n2cvnujorglggx3sblaw",
+      "title": "FRIENDS AUTO CENTRE",
+      "address": "28, FRIENDS AUTO CENTRE, 30, RK Nagar 2nd Cross St, R K Nagar, Ramakrishna Nagar, Mandaveli, Chennai, Tamil Nadu 600028",
+      "lat": 13.024569999999999,
+      "lon": 80.2594549
+    },
+    {
+      "id": "chijmwpzwwxfujorqgucx0kjceo",
+      "title": "S.R Auto Parts",
+      "address": "14 Nehru Nagar, Chennai - Theni Hwy, Kadaperi, Tambaram, Tamil Nadu 600045",
+      "lat": 12.932475799999999,
+      "lon": 80.12396079999999
+    },
+    {
+      "id": "chijt7tpe3f8ujorfplejc3sbky",
+      "title": "TATA.CARS Service Centre - Sree Gokulam Motors, Chengelpet",
+      "address": "1C/8, GST Road, Main Road, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.692702899999999,
+      "lon": 79.97728459999999
+    },
+    {
+      "id": "chij15kmyhv9ujork6t3c3maibe",
+      "title": "S3 CAR ACCESSORIES",
+      "address": "87, GST Rd, J C K Nagar, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.705628299999999,
+      "lon": 79.9774108
+    },
+    {
+      "id": "chij2a2sngd9ujoriyymdhzx8jy",
+      "title": "Royal Automotive Chengalpattu",
+      "address": "New Bus Stand, 18a, Devarajanar St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690109099999999,
+      "lon": 79.98160639999999
+    },
+    {
+      "id": "chijs9cgs9t7ujorfsfmj2gikt0",
+      "title": "Friends Car Accessories",
+      "address": "Building no :1, Friends Car Accessories, GST Rd, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7093946,
+      "lon": 79.9781235
+    },
+    {
+      "id": "chijz2ay-gr8ujoruvhi3jksg9s",
+      "title": "J.K. Auto Agency",
+      "address": "Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.685578,
+      "lon": 79.983599
+    },
+    {
+      "id": "chijx3f84sd7ujoriolvwiujndw",
+      "title": "New gem automobiles (Chengalpattu)",
+      "address": "1, GST Rd, Chengalpattu, Thirutheri R.F., Tamil Nadu 603002",
+      "lat": 12.7093946,
+      "lon": 79.9781235
+    },
+    {
+      "id": "chijax1xknr7ujor7vk4l4f3azc",
+      "title": "PR AUTOMOBILES",
+      "address": "Kanchipuram high road, NS garden, Thimmavaram, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.715255299999999,
+      "lon": 79.9583846
+    },
+    {
+      "id": "chijbx7gtpp9ujorcdvhxx2sxp0",
+      "title": "Mathaji Automobiles",
+      "address": "Gundur Church Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.683318199999999,
+      "lon": 79.98182249999999
+    },
+    {
+      "id": "chijmr1yywd9ujorxoe88nns9hm",
+      "title": "Ali auto parts",
+      "address": "MXGX+X63 Ali auto parts, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.677379499999999,
+      "lon": 79.99812709999999
+    },
+    {
+      "id": "chijgdyyjpv9ujor_2lxwtrke1k",
+      "title": "ANNAM AUTO MOBILES",
+      "address": "44B, GST Rd, near Ratinakenuru, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6834852,
+      "lon": 79.9831135
+    },
+    {
+      "id": "chije9voxwr8ujorkoku_jbezio",
+      "title": "Autobots",
+      "address": "Gandeepan St, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.686204,
+      "lon": 79.98285
+    },
+    {
+      "id": "chij5rbux5l5ujormgqpggcdzew",
+      "title": "Motherson Automotive Technologies & Engineering FSP",
+      "address": "112 & 113, Motherson Automotive Technologies & Engineering FSP, New Ford India Supplier Park, S.No. 71, 77-85, Chithamanur Village, Maraimalai Nagar, Chennai, Tamil Nadu 603204",
+      "lat": 12.773539399999999,
+      "lon": 80.02145349999999
+    },
+    {
+      "id": "chijizqxb-n9ujorlerj2lq_beo",
+      "title": "Cars fixs",
+      "address": "241, Cars fixs, SH58, Medi Tech Park, Nenmeli, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.676373199999999,
+      "lon": 79.9994497
+    },
+    {
+      "id": "chiji0kc4m77ujorbfdny4iw1vk",
+      "title": "M.S.Auto parts",
+      "address": "bus stop, Bhagathsingh Nagar, thirutheri GST road Near, Mahindra World City, Tamil Nadu 603004",
+      "lat": 12.744962,
+      "lon": 79.9932827
+    },
+    {
+      "id": "chijargxvuh8ujorlr8pjaioyp8",
+      "title": "Dinesh Automobile",
+      "address": "No 1c/B Dinesh Automobile, GST Road, Opposite to RVG Arts College, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6827568,
+      "lon": 79.9824165
+    },
+    {
+      "id": "chijzyf2v4d9ujorr53zsfu2_oc",
+      "title": "Naveen puncher shop",
+      "address": "bus stop, Old, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6971822,
+      "lon": 79.97678239999999
+    },
+    {
+      "id": "chijisf-nwv9ujor0ck9acwaxea",
+      "title": "R.K. Automobiles",
+      "address": "#7B, G.S.T. ROAD, RANAGASWAMY COMPLEX, near Indian Bank, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.689038,
+      "lon": 79.982423
+    },
+    {
+      "id": "chij5494lgd9ujorpxnpsfzsp20",
+      "title": "Abi Automobiles",
+      "address": "10A, T.K.M Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.683033,
+      "lon": 79.98437
+    },
+    {
+      "id": "chij-bqe-l79ujorc9xpmgexiic",
+      "title": "Alloy Wheel Bend Workshop",
+      "address": "Devarajanar St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690216699999999,
+      "lon": 79.9813976
+    },
+    {
+      "id": "chij_eimbkn3ujorzvg6tse3doi",
+      "title": "Global car accessories",
+      "address": "133, GST Rd, Guduvancheri, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.837122599999999,
+      "lon": 80.052144
+    },
+    {
+      "id": "chijlvkr5_v7ujoruzomxfx1gr0",
+      "title": "Maruti Suzuki ARENA (AIE Cars, Chengalpattu, GST Road Chengalpet)",
+      "address": "Pulipakkam, 1, GST Rd, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.708468,
+      "lon": 79.9780019
+    },
+    {
+      "id": "chijgqkb0v79ujorg35ic2orazo",
+      "title": "Kk batteries chengalpattu",
+      "address": "TKM Rd, Sakthi Nagar, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6798713,
+      "lon": 79.993102
+    },
+    {
+      "id": "chij5w1ldff7ujorouyt3qu_8e4",
+      "title": "Mithun sai - Puncture shop",
+      "address": "PXXX+X64 Mithun sai - Puncture shop, Thirutheri, Tamil Nadu 603204",
+      "lat": 12.7498927,
+      "lon": 79.9980671
+    },
+    {
+      "id": "chijhfvfsvb9ujorlnpxq_xibr8",
+      "title": "CARS India commercial show room",
+      "address": "Chengalpattu - Thiruporur Rd, Santhi Nagar, Alapakkam, Vallam, Tamil Nadu 603003",
+      "lat": 12.6782459,
+      "lon": 80.00743609999999
+    },
+    {
+      "id": "chij9y3u5sx9ujor3zwrjeeqdbw",
+      "title": "Tata Motors Commercial Vehicle Dealer - Popular Mega Motors",
+      "address": "No 233/1, GST Rd, near by Iyyappan Temple Bypass, B Bock, Natham, Chengalpattu, Kanchipuram, Tamil Nadu 603002",
+      "lat": 12.6955245,
+      "lon": 79.96636339999999
+    },
+    {
+      "id": "chij-6wenyj6ujorxkwhvxzrjb8",
+      "title": "Hi-5 Car Decors",
+      "address": "Main Branch, 113, GST Rd, near Tansi Bus Stop, opp. Ford Car Company & Reliance Smart Bazaar, Peramanur, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.789744899999999,
+      "lon": 80.0164363
+    },
+    {
+      "id": "chij2-3f5bv9ujortqtuf04hvs4",
+      "title": "Ather Service Center - Chengalpattu pulipakkam",
+      "address": "Door No 18 GST, Ather Service Center - Chengalpattu pulipakkam, Road, J C K Nagar, Pulipakkam, Tamil Nadu 603002",
+      "lat": 12.708502,
+      "lon": 79.97761349999999
+    },
+    {
+      "id": "chijfsn8fm79ujorm-co9u71x4k",
+      "title": "Partha Perfect Auto Works",
+      "address": "256/1/118, Sakthi Nagar, Thenur, Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.681769099999999,
+      "lon": 79.98877879999999
+    },
+    {
+      "id": "chijy4ddk3d9ujormi8hdh2xu5i",
+      "title": "MKM AUTOWORKS",
+      "address": "No 66, GST Rd, Thenur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.672316799999999,
+      "lon": 79.99158969999999
+    },
+    {
+      "id": "chij8wodb-b5ujorqmwucosxxoc",
+      "title": "VELEV MOTORS - Electric Scooter/E Auto/Battery Bike",
+      "address": "Plot No : 1022, Sree Gokulapuram, No-83, Sengundram Village, Chengalpattu, Tamil Nadu 603204",
+      "lat": 12.765705299999999,
+      "lon": 80.0365977
+    },
+    {
+      "id": "chiju430tcr7ujorv6kpobzr-le",
+      "title": "GK Auto Spares",
+      "address": "21, near RTO Office, Gandhi colony, J C K Nagar, Chengalpattu, Paranur, Tamil Nadu 603002",
+      "lat": 12.6952384,
+      "lon": 79.9763059
+    },
+    {
+      "id": "chijlejanux9ujorb4vhrbdfbyo",
+      "title": "Melamaiyur chengalputtu",
+      "address": "MXJQ+5FQ Melamaiyur chengalputtu, Sakthi Nagar, Thenur, Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.680451999999999,
+      "lon": 79.988748
+    },
+    {
+      "id": "chijs7hnbsp9ujor24uqu-u3b28",
+      "title": "Mahindra Khivrajkamal Motors - SUV & Commercial Vehicle Showroom",
+      "address": "41, Grand Southern Trunk Road J C K Nagar, Pulipakkam, Paranur, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.707197899999999,
+      "lon": 79.97765989999999
+    },
+    {
+      "id": "chijaww4biv7ujorq8ngnos0aqw",
+      "title": "NEXA (AIE Cars, Chengalpet, Pulipakam)",
+      "address": "87, GST Rd, J C K Nagar, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.705601399999999,
+      "lon": 79.9774176
+    },
+    {
+      "id": "chiji9qlckh9ujorrjkrt6c3xea",
+      "title": "Baby tyres",
+      "address": "66, Baby tyres, 1, 1st St., Big Melamaiyur, Ramakrishna Nagar, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.683282,
+      "lon": 79.98559809999999
+    },
+    {
+      "id": "chijmymf0e_5ujorqtglnbbzq2c",
+      "title": "Nexteer Automotive",
+      "address": "plot. 6, Mahindra World City, Eachangaranai, Anjur R.F., Tamil Nadu 603004",
+      "lat": 12.7187176,
+      "lon": 80.02119309999999
+    },
+    {
+      "id": "chij2a0fyv79ujor39v2ueoxhek",
+      "title": "Bridgestone Select - MJ Wheels and Tyres",
+      "address": "No 1E/6A, GST Rd, nearby Royal Enfield Showroom, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.7037196,
+      "lon": 79.9769507
+    },
+    {
+      "id": "chijezvmgtd9ujor_xr3aewfl0w",
+      "title": "MAK Serve – KANNAN AUTO WORKS CHENGALPATTU",
+      "address": "16/4, Dr Varadharajan St, Vedachalam Nagar, Gokulapuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.687,
+      "lon": 79.981
+    },
+    {
+      "id": "chijv0gwyll7ujor2ifdqeuiavo",
+      "title": "Sri Kandhan Tyres",
+      "address": "S.P.Koil, 1, 12, G.S.T Road, Melrosapuram, Main Road, Tamil Nadu 603204",
+      "lat": 12.771265,
+      "lon": 80.0074686
+    },
+    {
+      "id": "chij1ez3qwb9ujordghhmubslj8",
+      "title": "SOUTHERN AUTOMOBILES - MARUTI PARTS",
+      "address": "PX3G+VRG SOUTHERN AUTOMOBILES - MARUTI PARTS, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7046954,
+      "lon": 79.9770728
+    },
+    {
+      "id": "chijs7ebnhj9ujorcke48f9x9sg",
+      "title": "93 Bikers",
+      "address": "103c, Dimmarajakulam, MXPM+J8P 93 Bikers, 93Bikers Stickers And Accessories, 103c, GST Rd, near FB CAKES, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6865735,
+      "lon": 79.9834209
+    },
+    {
+      "id": "chijl47btyz9ujor50czjgceiks",
+      "title": "TATA.CARS Showroom - Sree Gokulam Motors, Chengelpet",
+      "address": "Door No 1C 8, TATA.CARS Showroom - Sree Gokulam Motors, Chengelpet, GST ROAD, Main Road, near Flyover, J C K Nagar, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7033293,
+      "lon": 79.9770388
+    },
+    {
+      "id": "chijzru0hu37ujor-fh2hftpszu",
+      "title": "J K Battery",
+      "address": "NO.16, Thimmavarm, J K Battery, beside Kanchipuram Main Road, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.7071147,
+      "lon": 79.9625634
+    },
+    {
+      "id": "chijaetn3g79ujorl65poov2gym",
+      "title": "GK Auto Mobile",
+      "address": "Devarajanar St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6897711,
+      "lon": 79.9812536
+    },
+    {
+      "id": "chij7wkcbmz8ujorrvfuwhryz_u",
+      "title": "Sk Auto Mobiles",
+      "address": "121, GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.689579499999999,
+      "lon": 79.9824718
+    },
+    {
+      "id": "chijoy9h_dl5ujorwnguntgx1u8",
+      "title": "SHREE VISHNU MOTORS",
+      "address": "12/235, GST Rd, Pareri, Tamil Nadu 603204",
+      "lat": 12.753219999999999,
+      "lon": 80.0003801
+    },
+    {
+      "id": "chijd0pkw-p7ujorjvlgoyhpnys",
+      "title": "GT AUTO MOBILES",
+      "address": "No 5/53, GT AUTO MOBILES, GST Rd, Vinjiambakkam, Tamil Nadu 603204",
+      "lat": 12.760169399999999,
+      "lon": 80.00341569999999
+    },
+    {
+      "id": "chij63xh29l7ujord7cpbe89q50",
+      "title": "Janani Auto Mobiles",
+      "address": "No.12/, 220, GST Rd, Pareri, Tamil Nadu 603203",
+      "lat": 12.7523869,
+      "lon": 79.99994149999999
+    }
+  ],
+  "updated_at_utc": "2026-09-27T14:23:41.005131+00:00"
+}

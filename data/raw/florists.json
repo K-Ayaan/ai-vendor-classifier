@@ -1,0 +1,877 @@
+{
+  "category": "florists",
+  "status": "complete",
+  "count": 124,
+  "outside": 46,
+  "points": [
+    {
+      "id": "chijpzsfhdx3ujorz9umrpju2ls",
+      "title": "PRIYA FLORIST",
+      "address": "R2CP+3WG PRIYA FLORIST, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8201778,
+      "lon": 80.03731309999999
+    },
+    {
+      "id": "chijyskk-p33ujor0t_-cqgzg1m",
+      "title": "Casa De Malar",
+      "address": "GST Rd, Pillayar Koil St, near Srm university, Tamil Nadu 603203",
+      "lat": 12.826944899999999,
+      "lon": 80.0422936
+    },
+    {
+      "id": "chijp5tat2_8ujor-mwtcmjncjy",
+      "title": "Flower Market, Chengalpattu",
+      "address": "Anna Salai High Rd J C K Nagar Chengalpattu Kanchipuram Tamil Nadu 603001 Republic of, Tamil Nadu 603002",
+      "lat": 12.6940729,
+      "lon": 79.9774043
+    },
+    {
+      "id": "chijvwobjod9ujorop30g_ceb4c",
+      "title": "Sai Bouquets",
+      "address": "Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.691532899999999,
+      "lon": 79.9799558
+    },
+    {
+      "id": "chijo6r5s1t3ujorewaymwrjawy",
+      "title": "Roadside flower shop",
+      "address": "R36G+5M2 Roadside flower shop, Kayarembedu, Junction, Chengalpattu, Tamil Nadu 603202",
+      "lat": 12.810392199999999,
+      "lon": 80.0766326
+    },
+    {
+      "id": "chij3tz-j6t9ujor0a5ka_jyx_k",
+      "title": "VR flower shop",
+      "address": "bus stop, Old, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.696929899999999,
+      "lon": 79.97695039999999
+    },
+    {
+      "id": "chijhelbell7ujornzvz8yk2lok",
+      "title": "Sk florist",
+      "address": "PXQX+JP7 Sk florist, Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603002",
+      "lat": 12.7390294,
+      "lon": 79.99922409999999
+    },
+    {
+      "id": "chiji7ye8gx9ujor_7cs4kuahnk",
+      "title": "Latha Flower Shop",
+      "address": "Police Station, opp. Chengalpattu, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6962791,
+      "lon": 79.9764639
+    },
+    {
+      "id": "chijkwbzwxv7ujorr2-qrha3kpu",
+      "title": "K.Ramu Poo Kadai",
+      "address": "GST rd, Railway Station Rd, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.761527899999999,
+      "lon": 80.00337569999999
+    },
+    {
+      "id": "chijgyjnj4jrujorq4yk22q48ro",
+      "title": "Ocean Floral & Bouquet",
+      "address": "NO 21, Ocean Floral & Bouquet, SUSEELA NAGAR, near AXIS BANK, opp. KFC, Kittu Nagar, Kelambakkam, Kanchipuram, Tamil Nadu 603103",
+      "lat": 12.790134199999999,
+      "lon": 80.2219633
+    },
+    {
+      "id": "chijvxksegd3ujor3t8xzrssxog",
+      "title": "Kilampakkam flower market",
+      "address": "243, GST Rd, Kilambakkam, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.8722301,
+      "lon": 80.0770369
+    },
+    {
+      "id": "chijf5ytnexrujorrdyahcnpthc",
+      "title": "Bouquet Shop(priyaflorist)",
+      "address": "Q6QC+VP3 Bouquet Shop(priyaflorist), Rajiv Gandhi Salai, Rajan Nagar, Kelambakkam, Tamil Nadu 603103",
+      "lat": 12.7896334,
+      "lon": 80.2217854
+    },
+    {
+      "id": "chij8wl7-739ujorwtbh8dqihpk",
+      "title": "Vs bouquet shop",
+      "address": "Chinna Rathinam St, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6956937,
+      "lon": 79.9729911
+    },
+    {
+      "id": "chijrwpvy2b9ujorv942eey_uqs",
+      "title": "santhanakrishnan Flower Shop",
+      "address": "1st St., Sakthi Nagar, Thenur, Chidambaram, Kanchipuram, Tamil Nadu 603003",
+      "lat": 12.6811163,
+      "lon": 79.9900818
+    },
+    {
+      "id": "chijmakqfzj9ujorxvwjxtanmiw",
+      "title": "Flower Fashions",
+      "address": "35, Dr Varadharajan St, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6867018,
+      "lon": 79.9815718
+    },
+    {
+      "id": "chijfz_ej5_3ujorhnd5kxd4j68",
+      "title": "JK Organic Farms",
+      "address": "Madras, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.809042199999999,
+      "lon": 80.0283728
+    },
+    {
+      "id": "chij5sqdkqlbujordv5k-t31q1y",
+      "title": "The Florist",
+      "address": "1, The Florist, 398, Rajiv Gandhi Salai, near Nilgris & Ganga Sweets, OMR, Navalur, Tamil Nadu 600130",
+      "lat": 12.8435331,
+      "lon": 80.2270551
+    },
+    {
+      "id": "chijectmgb5fujorpchiyi4eomo",
+      "title": "Ultimate florist",
+      "address": "Camproad, Major Mukund Varadharajan Rd, East Tambaram, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9223708,
+      "lon": 80.1424021
+    },
+    {
+      "id": "chijr89oz1v9ujoru_7s74njn8m",
+      "title": "Sha's Party Shop",
+      "address": "68, Kanchipuram High Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.697507799999999,
+      "lon": 79.9719614
+    },
+    {
+      "id": "chijeqri2ex9ujoryvsbqy5ck5y",
+      "title": "Ram Fancy Store & Gift Articles",
+      "address": "1, Kanchipuram High Rd, near Ayyappan Kovil, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6979639,
+      "lon": 79.9711947
+    },
+    {
+      "id": "chijl9_ia8n7ujorkzaj9xeuaem",
+      "title": "Munees Super Market",
+      "address": "M. G. R Nagar, 3rd cross street, Chettipunniyam Rd, opposite to Mahendra world city, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7447646,
+      "lon": 79.9895166
+    },
+    {
+      "id": "chijyajy-pd9ujor4r58g8nxb3i",
+      "title": "Logu Flower Shop",
+      "address": "1GST ROAD, Gandhi Salai, near Rajiv, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6840722,
+      "lon": 79.98337389999999
+    },
+    {
+      "id": "chijor3xl_j9ujor7nsxxn1h7ey",
+      "title": "Ravikumar Pookadai",
+      "address": "Rajaji St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6917811,
+      "lon": 79.9797159
+    },
+    {
+      "id": "chijryk4xyn9ujorcsrucw8w0se",
+      "title": "Sathya Flower Decoration",
+      "address": "Sandhu, No 23/15, Makkan Ln, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6939286,
+      "lon": 79.9773426
+    },
+    {
+      "id": "chijq38-gwf9ujorzzbldp379js",
+      "title": "MALAR FLOWER SHOP",
+      "address": "Chengalpattu Old Bus Terminal, Old Bus Stand, J C K Nagar Chengalpattu, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6967916,
+      "lon": 79.9771447
+    },
+    {
+      "id": "chijnwzfhf79ujor5fay-n9zpnu",
+      "title": "AG GNANAM FLOWER SHOP",
+      "address": "19, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693406999999999,
+      "lon": 79.97901
+    },
+    {
+      "id": "chijf7rhwmz9ujorzqbwjhjnlc0",
+      "title": "Flower Shop",
+      "address": "Ranjitham Flower Shop, TKM RODE, Santhi Nagar, Nenmeli, Kanchipuram, Vallam, Tamil Nadu 603003",
+      "lat": 12.6737345,
+      "lon": 80.0055295
+    },
+    {
+      "id": "chijlujofmz9ujor7rh73ocd0ug",
+      "title": "CK FLOWER MART",
+      "address": "49, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6924618,
+      "lon": 79.9792332
+    },
+    {
+      "id": "chijwrpvk6l3ujorug2w3rkftxi",
+      "title": "Ultimate Florist",
+      "address": "School Stop, 1, GST Rd, Kilambakkam, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.867577299999999,
+      "lon": 80.0753045
+    },
+    {
+      "id": "chijfsgpnc_3ujorp4bwkkw1pm8",
+      "title": "DJS FLOWERS",
+      "address": "794, Nellikuppam Rd, Kameshwary Nagar, Moolakazhani, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.816847099999999,
+      "lon": 80.0768636
+    },
+    {
+      "id": "chija1s_aw77ujorsvteepj63jg",
+      "title": "Rani Flower Shop",
+      "address": "Jubilee Rd, Mahindra World City, Bagavathsingh Nagar, Kanchipuram, Tamil Nadu 603004",
+      "lat": 12.7432505,
+      "lon": 79.9918723
+    },
+    {
+      "id": "chijhztk34b9ujorqrptbkpben8",
+      "title": "BABU FLOWER SHOP",
+      "address": "Bazaar Rd, J C K Nagar, Chengalpattu, Kanchipuram, Tamil Nadu 603002",
+      "lat": 12.6940396,
+      "lon": 79.97725969999999
+    },
+    {
+      "id": "chij2dekabv9ujor6g3ejcr0-0k",
+      "title": "Flower Shop",
+      "address": "D1, JCK Nagar Rd, J C K Nagar, Paranur, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6965953,
+      "lon": 79.9773501
+    },
+    {
+      "id": "chije7-by8h9ujor-nnatxsmz1m",
+      "title": "Akm Flower Shop",
+      "address": "Chengalpattu Market Street, Tamil Nadu 603002",
+      "lat": 12.6940121,
+      "lon": 79.97772379999999
+    },
+    {
+      "id": "chijg_dreu_9ujorooplveuo6gc",
+      "title": "Anandhi Poo Kadai",
+      "address": "Flower Market, 1, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694034799999999,
+      "lon": 79.9774067
+    },
+    {
+      "id": "chijesui4tv9ujorqwsqbzid_gg",
+      "title": "Pavithra florist",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6897916,
+      "lon": 79.9769839
+    },
+    {
+      "id": "chijgdufuqb3ujores9p1ajqbzw",
+      "title": "VT PUSHPA GIFTS AND PHOTO FRAMES",
+      "address": "Nandhivaram Main Rd, Nandhivaram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8352898,
+      "lon": 80.06705629999999
+    },
+    {
+      "id": "chijzqbx4bt9ujorgxfkp7vmxmi",
+      "title": "COME WITH ME FLOWER SHOP",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.691433499999999,
+      "lon": 79.98085329999999
+    },
+    {
+      "id": "chij_0bnn8r9ujordewk-rjf4xs",
+      "title": "sandhiya Flower Shop",
+      "address": "16, Mahalakshmi Nagar, Chengalpattu, Tamil Nadu 603101",
+      "lat": 12.7017841,
+      "lon": 79.96746879999999
+    },
+    {
+      "id": "chijn0dfoqdxujoro9nrq-tq-eu",
+      "title": "Season Flower Decors",
+      "address": "RX73+F74 Oragadam Highway, Singaperumal Koil - Sriperumbudur Rd, Thriveni Nagar, Oragadam, Vadakkupattu, Tamil Nadu 603204",
+      "lat": 12.8136292,
+      "lon": 79.9531883
+    },
+    {
+      "id": "chij4tgtenz8ujorhagq3fm7cb0",
+      "title": "Isha Nursery, Chengalpattu",
+      "address": "Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.699306799999999,
+      "lon": 79.96921789999999
+    },
+    {
+      "id": "chij5zsvgab5ujor9hhplt8j4b0",
+      "title": "TAMILNADU FLORISTS",
+      "address": "No:82, Muthumariyamman koil street Thenmelpakkam village Anjur, post, Chengalpattu, Tamil Nadu 603204",
+      "lat": 12.7385676,
+      "lon": 80.0158282
+    },
+    {
+      "id": "chijp8_a-jf3ujoryod6tsfk8wy",
+      "title": "Mageshwari Flower Shop",
+      "address": "No.8, Yerrikarai St, Meenakshi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8401485,
+      "lon": 80.05163739999999
+    },
+    {
+      "id": "chijv5ovtgj3ujor9gtd5i6gax8",
+      "title": "Greenland Nursery",
+      "address": "G.S.T Road, Office Rd, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.834679699999999,
+      "lon": 80.0496047
+    },
+    {
+      "id": "chijbclfc3p1ujor4skpdltullo",
+      "title": "360° buds & flower Shop",
+      "address": "8, GST Rd, Kamaraj Nagar, New Perungalathur, Chennai, Tambaram, Tamil Nadu 600063",
+      "lat": 12.906696199999999,
+      "lon": 80.09701369999999
+    },
+    {
+      "id": "chijkwozdgbfujorek-7oukur-m",
+      "title": "Vinayaga Flower Shop",
+      "address": "3/E88a, Bharathi Nagar Main Rd, Saraswathi Nagar, Shivaji Street, Madambakkam, Tamil Nadu 603202",
+      "lat": 12.8531525,
+      "lon": 80.04044259999999
+    },
+    {
+      "id": "chijeetfbabrujorrk1choxemkk",
+      "title": "GV.Dhansika flower shop",
+      "address": "P5JQ+4JV GV.Dhansika flower shop, Nagaraj, Thiruporur, Tamil Nadu 603110",
+      "lat": 12.7303628,
+      "lon": 80.1890413
+    },
+    {
+      "id": "chijn4vbcf35ujorloghog2gfea",
+      "title": "The Dazzlers Event",
+      "address": "No 33 Jazz Nivas Blossom Avenue, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7312946,
+      "lon": 79.9985585
+    },
+    {
+      "id": "chijcrtpe01nujorxacieqd6exe",
+      "title": "Chenkazhunee",
+      "address": "223, Anna Salai, opp. to Angamuthu Kalyana Mandabam, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6911876,
+      "lon": 79.9772311
+    },
+    {
+      "id": "chijfzcgfvp3ujorbgkrx9ca5ok",
+      "title": "FB Cakes Chengalpattu",
+      "address": "GST Rd, near New Bus Stand, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690709,
+      "lon": 79.98119799999999
+    },
+    {
+      "id": "chijmw1_bzh9ujoro77bu44qovs",
+      "title": "Cakes by Tejal",
+      "address": "130/56a, Periya Maniyakara St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6881275,
+      "lon": 79.9776167
+    },
+    {
+      "id": "chij-9vwvdv7ujor4hergibbb-o",
+      "title": "Home Needs Super Market",
+      "address": "Mahindra World, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.73789,
+      "lon": 80.0011081
+    },
+    {
+      "id": "chijtuspssb7ujormhly1un628s",
+      "title": "Green Orchid Nursery",
+      "address": "400/2-A G.S.T MAIN Road, Chettipuniyam, Paranur,Mahindra world city, Chennai, Tamil Nadu 603004",
+      "lat": 12.7408481,
+      "lon": 79.9900411
+    },
+    {
+      "id": "chijleg_qrp9ujor6x5e_9sksjo",
+      "title": "JAMEELABASHA FLOWERS",
+      "address": "Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692296899999999,
+      "lon": 79.97925339999999
+    },
+    {
+      "id": "chij60fotdxnujorr49xktjvz6w",
+      "title": "Luxclusive - Flower store chennai",
+      "address": "3, Gandhi Nagar 1st Main Rd, next to Sree Krishna Sweets (Murali’s, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.007035799999999,
+      "lon": 80.249094
+    },
+    {
+      "id": "chijru_pvjfnujorwgh5ny17j7q",
+      "title": "Flowers N Petals",
+      "address": "No.1, 1st Main Road, next to Sree krishna sweets, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0070868,
+      "lon": 80.2492221
+    },
+    {
+      "id": "chijq9nw3w1dujor8kgcso1oca8",
+      "title": "RR Florist",
+      "address": "No. 54, Kandanchavadi, MGR Main Rd, near RMZ-I IT Park, Thiruvengadam Nagar, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9724427,
+      "lon": 80.24473979999999
+    },
+    {
+      "id": "chijx9v6odlnujorwjpfhjbbwqa",
+      "title": "Ultimate Florist",
+      "address": "64, Arcot Rd, Velayutham Colony, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.0478787,
+      "lon": 80.2027509
+    },
+    {
+      "id": "chijvdhxjqbnujorm0dpvocmjik",
+      "title": "Annai Flowers Shop",
+      "address": "No 30, 100 Feet Road, Balaji Nagar, Ekkatuthangal, Chennai, Tamil Nadu 600032",
+      "lat": 13.0217028,
+      "lon": 80.2061947
+    },
+    {
+      "id": "chij5xojru9dujorqbvbcnzes-u",
+      "title": "Yuvan flowers shop",
+      "address": "Vrindavan, Elumalai Salai St, Chinna Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9395483,
+      "lon": 80.182255
+    },
+    {
+      "id": "chij-ypwagtnujor2mby-vdxcwc",
+      "title": "Flovers N Blooms",
+      "address": "VGP Murphy Square, 1/18, Grand Southern Trunk Rd, Ramapuram, Alandur, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 12.9983072,
+      "lon": 80.19240769999999
+    },
+    {
+      "id": "chij34ni1andujor6-v1bpk7pp4",
+      "title": "Bala Garland & Flower Shop",
+      "address": "8, Madipakkam Main Rd, Thanthai Periyar Nagar, Kaiveli, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9638142,
+      "lon": 80.2155141
+    },
+    {
+      "id": "chijb0quoslnujor4uotvjbbsna",
+      "title": "SS FLORIST",
+      "address": "65/7, SS Florist, CP Ramaswamy Road, Abhiramapuram 4th St, Abiramapuram, Chennai, Tamil Nadu 600018",
+      "lat": 13.0308462,
+      "lon": 80.2564755
+    },
+    {
+      "id": "chijmwl3lyfeujordeydxajb5me",
+      "title": "The Flower Hub (Garlands & Decoration)",
+      "address": "7/447, Medavakkam Main Rd, Kamarajar Salai, Lakshmi Nagar, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.938791199999999,
+      "lon": 80.18247869999999
+    },
+    {
+      "id": "chijtzwneoxdujorhov1jof-400",
+      "title": "Chandra flowers shop",
+      "address": "No. 30 moovendhar 1 st cross, street, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9302428,
+      "lon": 80.2009805
+    },
+    {
+      "id": "chijgs9gb4rdujortpyn2ufifzu",
+      "title": "guruvayoorappan flower shop",
+      "address": "church, 18. Nsk Road, changeme fitness, Madipakkam main road, Vanuvampet, Tamil Nadu 600061",
+      "lat": 12.981560799999999,
+      "lon": 80.19505819999999
+    },
+    {
+      "id": "chijcceztmjdujorhix8ncfn2ks",
+      "title": "SDRS DHARSHNI FLOWER SHOP",
+      "address": "26/85, N Mada St, Kamaraj Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9860639,
+      "lon": 80.2619052
+    },
+    {
+      "id": "chijusnnrmddujorblnxee5vgk8",
+      "title": "New Best Florist",
+      "address": "Medavakkam Flyover, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.916863699999999,
+      "lon": 80.1938387
+    },
+    {
+      "id": "chijx-0kbfxdujorh94fihgwycc",
+      "title": "Ushaa Florals ECR",
+      "address": "3/235, East Coast Rd, Bismillah Nagar, Pandian Nagar, Vettuvankeni, Chennai, Tamil Nadu 600115",
+      "lat": 12.937563599999999,
+      "lon": 80.25273
+    },
+    {
+      "id": "chijqwdgvyhdujorfet8gw_z8_y",
+      "title": "Thirumala Thirupathi Mala kadai",
+      "address": "Ramapuram, TNGO Colony, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.9948687,
+      "lon": 80.2002
+    },
+    {
+      "id": "chijqegibi9hujorieeteqw9z8y",
+      "title": "Vinayaga flower art",
+      "address": "No 1, Vinayaga flower art, 61 Kuppysamy, Kuppusamy Naicker St, Puttuppedu, Annai Sathya Nagar, Chennai, Tamil Nadu 600089",
+      "lat": 13.034468799999999,
+      "lon": 80.171037
+    },
+    {
+      "id": "chijl_7rcjpmujoruv5ueptcnoe",
+      "title": "Flower&fashion",
+      "address": "6, TTK Rd, Lakshmipuram, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0476479,
+      "lon": 80.2614004
+    },
+    {
+      "id": "chij1yvvnl9nujorciul0wl86fc",
+      "title": "Sri Flower Shop | Garland Bouquet & Decoration",
+      "address": "42, pilliyar koil street, Saidapet East, Periyapet, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.024078399999999,
+      "lon": 80.2251175
+    },
+    {
+      "id": "chijhxiss3p1ujorzbnhpl_fiv4",
+      "title": "MANJUMA FLOWER SHOP",
+      "address": "43, Kamaraj High Rd, Balaji Nagar, New Perungalathur, Perungalathur, Tambaram, Tamil Nadu 600063",
+      "lat": 12.906804999999999,
+      "lon": 80.093666
+    },
+    {
+      "id": "chij11gte4owkc4rlsnz8zucba0",
+      "title": "Flowers daily",
+      "address": "46, Pillaiyar Kovil St, near geetha matriculation school, Saidapet East, Periyapet, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.0240952,
+      "lon": 80.2251503
+    },
+    {
+      "id": "chijktcabwfdujorwyp8mh3q1x0",
+      "title": "flower shop",
+      "address": "15, plot No 80, Kanchipuram, Tamil Nadu 600088",
+      "lat": 12.9840503,
+      "lon": 80.20495849999999
+    },
+    {
+      "id": "chijy-yromlnujor9gc_qejssxc",
+      "title": "KRISHNA FLORIST",
+      "address": "70, Sardar Patel Rd, Nehru Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.006506499999999,
+      "lon": 80.25194359999999
+    },
+    {
+      "id": "chijxerrsh5nujor3cghnxyq13g",
+      "title": "The Grand Tulips Florist",
+      "address": "Shop No.GB, No.1 Thangavelu street,, Thirumalai pillai road,, (Diagonally opp to Vidyodaya school), T Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0519014,
+      "lon": 80.24070669999999
+    },
+    {
+      "id": "chij49gld49nujorng3xz9wm1zq",
+      "title": "Chennai Pookal",
+      "address": "12 , west vanniyar, 1st Cross St, KK Nagar West, Chennai, Tamil Nadu 600078",
+      "lat": 13.0385247,
+      "lon": 80.1899042
+    },
+    {
+      "id": "chijkfdm-etnujorykel7r0esri",
+      "title": "Royal Florist",
+      "address": "Bridge road No.57, Sardar Patel Rd, opp. Aavin milk parlour, Arunachalapuram, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0079359,
+      "lon": 80.2593962
+    },
+    {
+      "id": "chijzwi_pepnujor33a8jdnd3oi",
+      "title": "ADYAR ANAND FLORIST",
+      "address": "1 T V K Bridge, Road, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0115898,
+      "lon": 80.25922369999999
+    },
+    {
+      "id": "chijsfg4qyphujorcdpmfwket4y",
+      "title": "ANAND FLORIST DECORATION & EVENT ORGANISATION",
+      "address": "3/55, ANAND FLORIST DECORATION & EVENT ORGANISATION, Valluvar Salai, Gokulam Colony, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0349822,
+      "lon": 80.183695
+    },
+    {
+      "id": "chijr0zhefnnujorpri2zvr3ko8",
+      "title": "Flower Factory",
+      "address": "3, Noble 3rd St, Kannan Colony, Alandur, Chennai, Tamil Nadu 600016",
+      "lat": 12.992649,
+      "lon": 80.1872257
+    },
+    {
+      "id": "chijf3hcq5vnujorymby8lo15lu",
+      "title": "A.K Florist - Flower Delivery In Chennai",
+      "address": "26M6+4QH A.K Florist - Flower Delivery In Chennai, 1st St, Indira Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.032802799999999,
+      "lon": 80.2119962
+    },
+    {
+      "id": "chijj740nz5dujor_z9yk2pfcig",
+      "title": "Floral Gallery By K",
+      "address": "The Promenade, SH 49, Anna Enclave, Injambakkam, Chennai, Tamil Nadu 600115",
+      "lat": 12.916975599999999,
+      "lon": 80.2503571
+    },
+    {
+      "id": "chijc4fg9wlbujor0a0qh8vkw8m",
+      "title": "FLOWER POWER",
+      "address": "Flat 3, FLOWER POWER, East Coast Rd, Akkarai, Injambakkam, Chennai, Tamil Nadu 600119",
+      "lat": 12.9020602,
+      "lon": 80.2490534
+    },
+    {
+      "id": "chijkc0dv7nnujorht8mihk7ozu",
+      "title": "The Flower Shop",
+      "address": "201/131a, St Marys Rd, Austin Nagar, Alwarpet, Chennai, Tamil Nadu 600028",
+      "lat": 13.029100099999999,
+      "lon": 80.25029219999999
+    },
+    {
+      "id": "chijpxy4fjvnujorlr59ey0qrni",
+      "title": "Floral Melody",
+      "address": "3, 4th Cross St, Shastri Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.99831,
+      "lon": 80.25918349999999
+    },
+    {
+      "id": "chijy3scs6nnujorn3wn60afr7q",
+      "title": "The Flower Shop 538",
+      "address": "538, Anna Salai, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0421675,
+      "lon": 80.2472611
+    },
+    {
+      "id": "chijlsqrjb5dujorrav_hbsgdz8",
+      "title": "SRI SHANTHI FLOWER SHOP",
+      "address": "44, Lakeview Rd, Mohanapuri, Brindavan Nagar, Adambakkam, Kanchipuram, Chennai, Tamil Nadu 600088",
+      "lat": 12.9877186,
+      "lon": 80.205379
+    },
+    {
+      "id": "chijq6kt2s9nujorr1uiuw8ryne",
+      "title": "Venkatesh Flower Shop",
+      "address": "No:12, TSV Koil St, near Velliswarar Temple, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0318018,
+      "lon": 80.2694643
+    },
+    {
+      "id": "chijtx8umzj3ujorfbyb0clq1om",
+      "title": "M&R Florist",
+      "address": "school stop, Plot number 34, GST Rd, MIT Colony, Kilambakkam, Urapakkam, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.8672803,
+      "lon": 80.0758279
+    },
+    {
+      "id": "chij9-tmhsrmujorzyxwj5yydcw",
+      "title": "Yours Florist",
+      "address": "18, Yours Florist, 1, Arcot Rd, near subway, Saradha Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.047481,
+      "lon": 80.1948383
+    },
+    {
+      "id": "chijdxvxsvlnujorirls_bz0_ti",
+      "title": "Flower Power",
+      "address": "38, Flower Power, 64, Rukmani Rd, Kalakshetra Colony, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.9938954,
+      "lon": 80.2674634
+    },
+    {
+      "id": "chijv19vfoxdujorzrfubi8edny",
+      "title": "Flower shop",
+      "address": "2/183, East Coast Rd, Cholamandal Artists Village, Injambakkam, Chennai, Tamil Nadu 600115",
+      "lat": 12.9276459,
+      "lon": 80.2522425
+    },
+    {
+      "id": "chij9ychcuuhbqmriieu0mag4di",
+      "title": "The Chennai Bouquet",
+      "address": "Gangai amman street, Indiranagar, extrn, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9138127,
+      "lon": 80.2351
+    },
+    {
+      "id": "chijm1vnyfbmujoragxom7icg_y",
+      "title": "Blooms & Blossoms",
+      "address": "Gemini Flyover, : 476, Anna Salai, near Kamarajar Arangam, near Cafe Addiction, Teynampet, Thiru Vi Ka Kudiyiruppu, Teynampet, Chennai, Tamil Nadu 600006",
+      "lat": 13.0503407,
+      "lon": 80.2497733
+    },
+    {
+      "id": "chije_8jrpfhujorbu_yfoprxww",
+      "title": "flower store",
+      "address": "no 9, Kattupakkam, Tamil Nadu 600056",
+      "lat": 13.038473699999999,
+      "lon": 80.1256313
+    },
+    {
+      "id": "chiju8vxivpfujorz6c1caza2vo",
+      "title": "Fresh Flowers",
+      "address": "18, Periya Palayathamman Kovil St, Anna Nagar, Pallavaram, Tambaram, Tamil Nadu 600043",
+      "lat": 12.9682753,
+      "lon": 80.1445682
+    },
+    {
+      "id": "chijq1vf4d5dujor-bzrjk3k_ky",
+      "title": "Siva's Florist",
+      "address": "1, Siva's Florist, Check Post, Kambar Street, Navaneetham Nagar, Nehru Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.972508,
+      "lon": 80.2193053
+    },
+    {
+      "id": "chijuzax3h5fujor6xeh5o3pax8",
+      "title": "AG Florist",
+      "address": "New Market Nagar, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9246208,
+      "lon": 80.11546009999999
+    },
+    {
+      "id": "chijbyyrrvhfujorlt2hwkaw2xc",
+      "title": "KAMARAJ FLOWER SHOP .WEST TAMBARAM.",
+      "address": "No: 58 mudichur road, Grand Southern Trunk Rd, near new market, West Tambaram, Tamil Nadu 600045",
+      "lat": 12.9254128,
+      "lon": 80.1161577
+    },
+    {
+      "id": "chijxzhvwh1nujorhlj3igplri8",
+      "title": "Chennai Pookkadai",
+      "address": "19/40, Bagavandham St, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0362412,
+      "lon": 80.2385259
+    },
+    {
+      "id": "chijjz7u60tmujorcr0lkek9j5u",
+      "title": "Nanban Pookkal Fresh Flower Wedding Garland",
+      "address": "19/40, Bagavandham St, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.036247,
+      "lon": 80.23852509999999
+    },
+    {
+      "id": "chijx7tozqbnujorcxmlyhc2guo",
+      "title": "RK FLORIST",
+      "address": "248, Arcot Rd, near blueray, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0509851,
+      "lon": 80.2155014
+    },
+    {
+      "id": "chijn3tk4y9dujoraaaamlheqr8",
+      "title": "Surya Florist",
+      "address": "No I, Velachery Main Rd, Anna Garden, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.987723299999999,
+      "lon": 80.2231659
+    },
+    {
+      "id": "chijo_whsyjhujorj9bk5y0kysk",
+      "title": "Porur BalaMurugan Flower Shop",
+      "address": "Karambakkam First St, Devi Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.035012199999999,
+      "lon": 80.1559182
+    },
+    {
+      "id": "chija4b8eftmujorzxzu614dfms",
+      "title": "Right Florist",
+      "address": "No: 1, Thangavelu street, Thirumalai Pillai Road, Thiyagaraya Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.051991399999999,
+      "lon": 80.24061909999999
+    },
+    {
+      "id": "chijwuxudszfujorsobiipa1zwe",
+      "title": "Arun flowers wholesale and flower designer , decorator",
+      "address": "M.G.R. Rd, Civil Aviation Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9755393,
+      "lon": 80.1833843
+    },
+    {
+      "id": "chij0bpotw1fujoraaaa0lvgeac",
+      "title": "Dheepam Flower Shop",
+      "address": "150, GST Roa5, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9255974,
+      "lon": 80.1163291
+    },
+    {
+      "id": "chijpx6rvidhujoriulirdsztuu",
+      "title": "Ramesh's Florist",
+      "address": "Shanthimahal, Ramesh's Florist, 136, Mount Poonamallee Rd, opposite to Adidas, Kattupakkam, Kattuppakkam, Tamil Nadu 600056",
+      "lat": 13.0436759,
+      "lon": 80.1217195
+    },
+    {
+      "id": "chijwqc7ubrnujored3kjdbkgro",
+      "title": "Sudha flower shop",
+      "address": "64, Sudha flower shop, 1, Kodambakkam High Rd, Parthsarathy Puram, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.053681399999999,
+      "lon": 80.2337841
+    },
+    {
+      "id": "chijg9pbvvtmujorw6vyyj6h0eg",
+      "title": "Venkateshwara Flower Decorators",
+      "address": "Mandabam Temple, 43/15, Aryagowda Rd, Near , Ayothya, Vivekanandapuram, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.04074,
+      "lon": 80.2215791
+    },
+    {
+      "id": "chija3j_08pnujoreky93lyhemo",
+      "title": "Mehak The flower shop",
+      "address": "7/24, Cooperative Colony, Austin Nagar, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0297831,
+      "lon": 80.2486156
+    },
+    {
+      "id": "chijyvq28kznujoro6jnlkij9nw",
+      "title": "Mahalakshmi Flower Shop - Flowers Home Delivery Service in K K Nagar",
+      "address": "No : 29, Dr, 4, th Street, near Karpaga Medical Shop, Kanu Nagar, K K Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.033964899999999,
+      "lon": 80.19619569999999
+    },
+    {
+      "id": "chijsumlncdfujordovowocnouo",
+      "title": "Nila Flower",
+      "address": "154, 306, Grand Southern Trunk Rd, near Vettri Theatres, Shastri Colony, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9540466,
+      "lon": 80.1422321
+    },
+    {
+      "id": "chijw6fxsklnujor2pv0bv3mpzw",
+      "title": "MR Blossoms Flower",
+      "address": "6, West Vanniar Street, Indian Bank Colony, KK Nagar West, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.034327999999999,
+      "lon": 80.1953295
+    },
+    {
+      "id": "chijl5qj_vpdujor1nvshvjgsda",
+      "title": "Priflora Flowers & Gifts",
+      "address": "152a,Gandhi Road, Thiruveethi Amman Koil St, Chennai, Tamil Nadu 600042",
+      "lat": 12.985932499999999,
+      "lon": 80.2277234
+    },
+    {
+      "id": "chijcanpg8ldujorqkkqhjydgfq",
+      "title": "Sv flower shop",
+      "address": "51, Sv flower shop, 17, N Mada St, Lalitha Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.986090299999999,
+      "lon": 80.2619833
+    },
+    {
+      "id": "chijtb3dk5fdujorrwzwcxj8ir8",
+      "title": "K.Aparna Flower Stall",
+      "address": "X6C9+W57 K.Aparna Flower Stall, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.972289799999999,
+      "lon": 80.2179328
+    },
+    {
+      "id": "chijd3k1l2zhujor45uhd5xlgqi",
+      "title": "EVERYDAY FLOWERS",
+      "address": "3, 39th St, NCBS Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.983892599999999,
+      "lon": 80.1884027
+    },
+    {
+      "id": "chijbavdllvdujorbrqec-idhfu",
+      "title": "H Prakash Florist",
+      "address": "No. 1/2, H Prakash Florist, Jawaharlal Nehru Salai, near Metro Station Ekkattuthangal, Gandhinagar, Ambal Nagar, Ekkatuthangal, Chennai, Tamil Nadu 600032",
+      "lat": 13.0177806,
+      "lon": 80.205489
+    },
+    {
+      "id": "chijbzgr7vdgujorcpczborad68",
+      "title": "OXY GREEN NURSERY AND POT SHOP - WHOLESALE AND RETAIL",
+      "address": "Under Bridge, No.1/29, ponni Amman Kovil Street, Mangadu Rd, near Chennai Bypass Road, Moulivakkam, Mowlivakkam, Tamil Nadu 600125",
+      "lat": 13.020857999999999,
+      "lon": 80.1358857
+    },
+    {
+      "id": "chijk6zdrbjfujoris9-g27s45c",
+      "title": "Om Sakthi Flowers Shop",
+      "address": "Old No:230/New No:10, Near By Railway Gate, Radha Nagar Main Rd, Sundhar Vinayagar, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9525414,
+      "lon": 80.1425422
+    }
+  ],
+  "updated_at_utc": "2026-09-27T14:08:58.909381+00:00"
+}

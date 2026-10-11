@@ -1,0 +1,529 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Vendor Match Scorer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=Source+Sans+3:wght@400;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: a scoring desk. Top strip = file + rater + progress; main = the pair (requirement beside vendor) with the score panel alongside; rubric underneath. */
+:root{
+  --bg:#f3f5f4; --surface:#ffffff; --sunk:#e8ecea; --line:#d3dad7;
+  --fg:#17211e; --muted:#5b6964; --accent:#1d6b5f; --accent-fg:#ffffff; --accent-soft:#d9ebe7;
+  --good:#2f7a3d; --good-soft:#dcefdf; --warn:#9a5b06; --warn-soft:#f6e7cf; --bad:#a3352b; --bad-soft:#f5dcd9;
+  --f-display:"Familjen Grotesk","Segoe UI",system-ui,sans-serif;
+  --f-body:"Source Sans 3","Segoe UI",system-ui,sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Consolas,monospace;
+  --r:8px;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#111816; --surface:#18211e; --sunk:#0d1312; --line:#2c3935;
+  --fg:#e3ebe8; --muted:#93a39d; --accent:#5fbfae; --accent-fg:#06201b; --accent-soft:#183a34;
+  --good:#7cc98a; --good-soft:#1b3322; --warn:#e2ad5c; --warn-soft:#3a2c14; --bad:#ec8b80; --bad-soft:#3d1f1c;
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#111816; --surface:#18211e; --sunk:#0d1312; --line:#2c3935;
+  --fg:#e3ebe8; --muted:#93a39d; --accent:#5fbfae; --accent-fg:#06201b; --accent-soft:#183a34;
+  --good:#7cc98a; --good-soft:#1b3322; --warn:#e2ad5c; --warn-soft:#3a2c14; --bad:#ec8b80; --bad-soft:#3d1f1c;
+  color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.5}
+.wrap{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:18px 40px;display:grid;gap:16px}
+h1,h2,h3{font-family:var(--f-display);margin:0;text-wrap:balance}
+h1{font-size:1.45rem;font-weight:700;letter-spacing:-.01em}
+h2{font-size:1rem;font-weight:700}
+.label{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:600}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.muted{color:var(--muted)}
+button,select,input,textarea{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* top strip */
+.strip{display:flex;flex-wrap:wrap;gap:14px 20px;align-items:end;justify-content:space-between}
+.strip .title{display:grid;gap:2px;min-width:0}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:end}
+.field{display:grid;gap:4px}
+.btn{border:1px solid var(--line);background:var(--surface);border-radius:var(--r);padding:8px 14px;font-weight:600}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--surface)}
+.seg button{border:0;background:transparent;padding:8px 14px;font-weight:600}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-fg)}
+.filebtn{position:relative;overflow:hidden}
+.filebtn input{position:absolute;inset:0;opacity:0;cursor:pointer}
+
+.banner{border:1px solid var(--line);border-radius:var(--r);padding:10px 14px;background:var(--surface);display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.banner.example{background:var(--warn-soft);border-color:transparent}
+.banner.error{background:var(--bad-soft);border-color:transparent}
+.banner.ok{background:var(--good-soft);border-color:transparent}
+
+/* progress */
+.progress{display:grid;gap:6px}
+.bar{height:8px;background:var(--sunk);border-radius:99px;overflow:hidden}
+.bar>span{display:block;height:100%;background:var(--accent);width:0;transition:width .25s}
+.progress-row{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:.9rem}
+
+/* main grid */
+.main{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:16px;align-items:start}
+@media (max-width:860px){.main{grid-template-columns:1fr}}
+.pair{display:grid;gap:12px;min-width:0}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;display:grid;gap:10px;min-width:0}
+.card.req{border-left:4px solid var(--accent)}
+.cardhead{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}
+.vtitle{font-family:var(--f-display);font-size:1.35rem;font-weight:700;line-height:1.25;overflow-wrap:anywhere}
+.addr{color:var(--muted);overflow-wrap:anywhere}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px 16px}
+.kv div{display:grid;gap:1px;min-width:0}
+.kv .v{font-weight:600;overflow-wrap:anywhere}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font-size:.8rem;padding:2px 9px;border-radius:99px;background:var(--sunk);font-weight:600}
+.chip.good{background:var(--good-soft);color:var(--good)}
+.chip.bad{background:var(--bad-soft);color:var(--bad)}
+.chip.warn{background:var(--warn-soft);color:var(--warn)}
+.distance{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.distance .big{font-family:var(--f-mono);font-size:1.6rem;font-weight:600}
+details.more summary{cursor:pointer;color:var(--muted);font-size:.88rem}
+details.more .kv{margin-top:8px}
+
+/* score panel */
+.panel{position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px);background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;display:grid;gap:14px}
+.scoreline{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.scorenum{font-family:var(--f-mono);font-size:2.6rem;font-weight:600;line-height:1}
+.scorenum.empty{color:var(--muted)}
+input[type=range]{width:100%;accent-color:var(--accent)}
+.anchors{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+.anchors button{border:1px solid var(--line);background:var(--bg);border-radius:6px;padding:6px 0;font-family:var(--f-mono);font-weight:600}
+.anchors button[aria-pressed="true"]{background:var(--accent-soft);border-color:var(--accent)}
+.binary{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.binary button{border:1px solid var(--line);background:var(--bg);border-radius:var(--r);padding:14px 8px;font-weight:700}
+.binary button[aria-pressed="true"]{background:var(--accent);color:var(--accent-fg);border-color:var(--accent)}
+.navrow{display:grid;grid-template-columns:auto 1fr;gap:8px}
+.notes{width:100%;border:1px solid var(--line);border-radius:6px;background:var(--bg);padding:7px 9px}
+.keys{font-size:.8rem;color:var(--muted)}
+kbd{font-family:var(--f-mono);font-size:.75rem;border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 5px;background:var(--bg)}
+.saved{font-size:.82rem;color:var(--muted);min-height:1.2em}
+
+/* rubric */
+.rubric{display:grid;gap:0;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--surface)}
+.rubric .row{display:grid;grid-template-columns:64px 1fr;gap:12px;padding:9px 14px;border-top:1px solid var(--line)}
+.rubric .row:first-child{border-top:0}
+.rubric .row.on{background:var(--accent-soft)}
+.rubric .n{font-family:var(--f-mono);font-weight:600}
+
+/* export */
+.export{display:grid;gap:10px}
+.export textarea{width:100%;min-height:140px;font-family:var(--f-mono);font-size:.78rem;border:1px solid var(--line);border-radius:6px;background:var(--bg);padding:8px}
+.foot{font-size:.85rem;color:var(--muted);max-width:75ch}
+@media (prefers-reduced-motion:reduce){.bar>span{transition:none}}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+  <header class="strip">
+    <div class="title">
+      <span class="label">Intelligent Agent Mapping · Phase 1 ground truth</span>
+      <h1>Vendor Match Scorer</h1>
+    </div>
+    <div class="controls">
+      <div class="field" id="raterField">
+        <span class="label">Who is scoring</span>
+        <div class="seg" role="group" aria-label="Rater">
+          <button type="button" id="r1" aria-pressed="true">Rater 1</button>
+          <button type="button" id="r2" aria-pressed="false">Rater 2</button>
+        </div>
+      </div>
+      <label class="btn primary filebtn" for="file">Open CSV sheet
+        <input type="file" id="file" accept=".csv,text/csv">
+      </label>
+    </div>
+  </header>
+
+  <div id="banner" class="banner example" role="status">
+    <strong>Example pairs.</strong>
+    <span>These three rows are made up to show how scoring works. Choose your rater, then open <span class="mono">annotation_sheet.csv</span> (or <span class="mono">label_audit_sample.csv</span>) to start.</span>
+  </div>
+
+  <section class="progress" aria-label="Progress">
+    <div class="progress-row">
+      <span><strong id="doneCount" class="mono">0</strong> <span class="muted">of</span> <span id="totalCount" class="mono">0</span> <span id="doneWhat" class="muted">pairs scored</span></span>
+      <span class="muted" id="minNote">Phase 1 needs at least 300 pairs scored by both raters.</span>
+    </div>
+    <div class="bar"><span id="barFill"></span></div>
+  </section>
+
+  <section class="main">
+    <div class="pair" id="pair"></div>
+
+    <aside class="panel" aria-label="Score">
+      <div class="cardhead">
+        <span class="label" id="posLabel">Pair 1 of 3</span>
+        <button class="btn" type="button" id="nextBlank">Next unscored</button>
+      </div>
+
+      <div id="scoreUI">
+        <div class="scoreline">
+          <span class="scorenum empty" id="scoreNum">—</span>
+          <span class="muted" id="scoreWord">Not scored yet</span>
+        </div>
+        <label class="label" for="slider" style="display:block;margin-top:10px">Match score, 0 to 100</label>
+        <input type="range" id="slider" min="0" max="100" step="5" value="50">
+        <div class="anchors" role="group" aria-label="Rubric anchors">
+          <button type="button" data-a="0">0</button>
+          <button type="button" data-a="25">25</button>
+          <button type="button" data-a="50">50</button>
+          <button type="button" data-a="75">75</button>
+          <button type="button" data-a="100">100</button>
+        </div>
+      </div>
+
+      <div id="binaryUI" hidden>
+        <span class="label">Is this really a pharmacy?</span>
+        <div class="binary" role="group" aria-label="Pharmacy check">
+          <button type="button" data-b="1">Pharmacy</button>
+          <button type="button" data-b="0">Not a pharmacy</button>
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label" for="notes">Notes (optional)</label>
+        <input class="notes" id="notes" type="text" placeholder="e.g. looks closed, wrong category">
+      </div>
+
+      <div class="navrow">
+        <button class="btn" type="button" id="prev">Back</button>
+        <button class="btn primary" type="button" id="next">Save and next</button>
+      </div>
+      <div class="saved" id="savedNote" aria-live="polite"></div>
+      <div class="keys" id="keysHelp"><kbd>1</kbd>–<kbd>5</kbd> pick 0/25/50/75/100 · <kbd>Enter</kbd> save and next · <kbd>Shift</kbd>+<kbd>Enter</kbd> back</div>
+    </aside>
+  </section>
+
+  <section id="rubricWrap" class="card" style="gap:12px">
+    <div class="cardhead"><h2>Scoring rubric</h2><span class="muted" style="font-size:.88rem">If your RUBRIC.md differs, follow RUBRIC.md.</span></div>
+    <div class="rubric" id="rubric">
+      <div class="row" data-r="0"><span class="n">0</span><span>Unrelated vendor. It cannot meet this need at all.</span></div>
+      <div class="row" data-r="25"><span class="n">25</span><span>Wrong category, but could partly help (for example a supermarket for a vegetables need).</span></div>
+      <div class="row" data-r="50"><span class="n">50</span><span>Right category, poor fit: outside the distance limit, or misses the preference.</span></div>
+      <div class="row" data-r="75"><span class="n">75</span><span>Right category and within the distance limit.</span></div>
+      <div class="row" data-r="100"><span class="n">100</span><span>Right category, within the distance limit, and matches the preference keyword.</span></div>
+    </div>
+    <p class="foot" style="margin:0">Use the in-between values (10, 40, 60, 85…) when a pair falls between two anchors. Score from the name, address and distance only, and never look at the other rater's scores.</p>
+  </section>
+
+  <section class="card export" aria-label="Export">
+    <div class="cardhead"><h2>Save your scores as a CSV</h2><span class="muted" id="exportName" style="font-size:.88rem"></span></div>
+    <p class="foot" style="margin:0">Scores are kept in this browser as you work, but that copy can be lost if site data is cleared. Export after each session and keep the file. You can reopen a partly scored CSV here and carry on where you stopped.</p>
+    <div class="controls">
+      <button class="btn primary" type="button" id="exportBtn" disabled>Download CSV</button>
+      <button class="btn" type="button" id="copyBtn" disabled>Copy CSV text</button>
+    </div>
+    <div id="exportMsg" class="saved"></div>
+    <textarea id="exportText" hidden readonly aria-label="CSV text"></textarea>
+  </section>
+
+  <p class="foot">Nothing you load here is uploaded anywhere. The sheet is read in your browser, and other columns are written back unchanged so Claude Code's checks pass.</p>
+</div>
+
+<script>
+(function(){
+  const $ = (id) => document.getElementById(id);
+
+  // ---------- CSV ----------
+  function parseCSV(text){
+    const rows=[]; let row=[], f='', q=false;
+    for(let i=0;i<text.length;i++){
+      const c=text[i];
+      if(q){
+        if(c==='"'){ if(text[i+1]==='"'){f+='"';i++;} else q=false; }
+        else f+=c;
+      } else if(c==='"') q=true;
+      else if(c===','){ row.push(f); f=''; }
+      else if(c==='\r'){ }
+      else if(c==='\n'){ row.push(f); rows.push(row); row=[]; f=''; }
+      else f+=c;
+    }
+    if(f!=='' || row.length){ row.push(f); rows.push(row); }
+    return rows.filter(r => !(r.length===1 && r[0]===''));
+  }
+  const cell = (v) => /[",\r\n]/.test(v) ? '"'+v.replace(/"/g,'""')+'"' : v;
+
+  // ---------- state ----------
+  const EXAMPLE = {
+    header:['pair_id','requirement_id','needed_category','buyer_pincode','max_distance_km','preference_keyword','title','address','categories','distance_km','rater_1_score','rater_2_score','notes'],
+    rows:[
+      ['EX-1','EX-R1','pharmacy','603203','3','24','Example 24 Hour Medicals','12, Example Main Rd, Potheri, Tamil Nadu 603203','pharmacy','1.2','','',''],
+      ['EX-2','EX-R1','pharmacy','603203','3','24','Example Super Market','4, Example St, Guduvancheri, Tamil Nadu 603202','grocery_supermarket|kirana_provisions','2.1','','',''],
+      ['EX-3','EX-R1','pharmacy','603203','3','24','Example Medical Stores','88, Example Rd, Tambaram, Tamil Nadu 600045','pharmacy','14.6','','','']
+    ]
+  };
+  const S = { mode:'example', rater:1, header:[], rows:[], target:-1, notesCol:-1, idCol:-1, values:[], notes:[], idx:0, file:'', eol:'\n', bom:false, key:'' };
+
+  const idxOf = (re) => S.header.findIndex(h => re.test(h));
+  const get = (r, re) => { const i = idxOf(re); return i<0 ? '' : (S.rows[r][i]||'').trim(); };
+
+  function storeKey(){
+    const id = S.idCol>=0 ? S.rows.map(r=>r[S.idCol]).join('|') : String(S.rows.length);
+    let h=0; for(let i=0;i<id.length;i++){ h=(h*31+id.charCodeAt(i))|0; }
+    return 'vms:'+S.mode+':'+(S.mode==='audit'?'a':S.rater)+':'+h;
+  }
+  function loadDraft(){ try{ const t=localStorage.getItem(S.key); return t?JSON.parse(t):null; }catch(e){ return null; } }
+  function saveDraft(){
+    if(S.mode==='example') return;
+    try{ localStorage.setItem(S.key, JSON.stringify({values:S.values, notes:S.notes, idx:S.idx})); }catch(e){}
+  }
+
+  function setup(header, rows, mode, file, eol, bom){
+    S.header=header; S.rows=rows; S.mode=mode; S.file=file; S.eol=eol; S.bom=bom;
+    S.notesCol = header.indexOf('notes');
+    S.idCol = idxOf(/^(pair_id|id|vendor_id|place_id)$/i);
+    initValues();
+  }
+  function initValues(){
+    if(S.mode==='audit') S.target = S.header.indexOf('true_is_pharmacy');
+    else S.target = S.header.indexOf(S.rater===1?'rater_1_score':'rater_2_score');
+    S.values = S.rows.map(r => (r[S.target]||'').trim());
+    S.notes  = S.rows.map(r => S.notesCol>=0 ? (r[S.notesCol]||'') : '');
+    S.idx = 0;
+    let restored = 0;
+    if(S.mode!=='example'){
+      S.key = storeKey();
+      const d = loadDraft();
+      if(d && Array.isArray(d.values) && d.values.length===S.rows.length){
+        d.values.forEach((v,i)=>{ if(S.values[i]==='' && v!==''){ S.values[i]=v; restored++; } });
+        if(Array.isArray(d.notes)) d.notes.forEach((v,i)=>{ if(!S.notes[i] && v) S.notes[i]=v; });
+      }
+      const first = S.values.findIndex(v => v==='');
+      S.idx = first<0 ? 0 : first;
+    }
+    return restored;
+  }
+
+  // ---------- render ----------
+  const isReqCol = (h) => /^(requirement|req_|needed|buyer|max_distance|pref|keyword)/i.test(h);
+  const HIDDEN = /^(rater_\d+_score|notes|true_is_pharmacy|pair_id)$/i;
+
+  function kvHTML(pairs){
+    return '<div class="kv">'+pairs.map(([k,v])=>'<div><span class="label">'+esc(k.replace(/_/g,' '))+'</span><span class="v">'+esc(v||'—')+'</span></div>').join('')+'</div>';
+  }
+  function esc(s){ return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+  function renderPair(){
+    const r = S.idx, row = S.rows[r]; if(!row){ $('pair').innerHTML=''; return; }
+    const title = get(r,/^(title|vendor_title|name)$/i);
+    const addr  = get(r,/^(address|vendor_address)$/i);
+    const cats  = get(r,/^(categories|vendor_categories)$/i);
+    let html = '';
+
+    if(S.mode==='audit'){
+      const other = S.header.map((h,i)=>[h,(row[i]||'').trim()]).filter(([h])=>!HIDDEN.test(h) && !/^(title|address|vendor_title|vendor_address|name)$/i.test(h));
+      html += '<article class="card"><span class="label">Vendor</span><div class="vtitle">'+esc(title||'(no name)')+'</div><div class="addr">'+esc(addr)+'</div>'+(other.length?kvHTML(other):'')+'</article>';
+      $('pair').innerHTML = html; return;
+    }
+
+    const reqPairs = S.header.map((h,i)=>[h,(row[i]||'').trim()]).filter(([h])=>isReqCol(h));
+    const need = get(r,/^needed_category$/i);
+    const maxd = parseFloat(get(r,/^max_distance_km$/i));
+    const kw   = get(r,/^(preference_keyword|keyword|pref_keyword)$/i);
+    html += '<article class="card req"><div class="cardhead"><span class="label">Requirement</span><span class="mono muted">'+esc(get(r,/^requirement_id$/i))+'</span></div>';
+    html += '<div style="font-family:var(--f-display);font-size:1.15rem;font-weight:700">Needs: '+esc((need||'?').replace(/_/g,' '))+(isFinite(maxd)?' within '+maxd+' km':'')+(kw?' · prefers “'+esc(kw)+'”':'')+'</div>';
+    html += '<details class="more"><summary>All requirement fields</summary>'+kvHTML(reqPairs)+'</details></article>';
+
+    const dist = parseFloat(get(r,/^distance_km$/i));
+    const catList = cats.split(/[|;,]/).map(s=>s.trim().replace(/^\[|\]$|['"]/g,'')).filter(Boolean);
+    const catMatch = need && catList.some(c => c.toLowerCase()===need.toLowerCase());
+    const kwHit = kw && title.toLowerCase().includes(kw.toLowerCase());
+    let chips = '';
+    if(need) chips += '<span class="chip '+(catMatch?'good':'bad')+'">'+(catMatch?'Right category':'Different category')+'</span>';
+    if(isFinite(dist) && isFinite(maxd)) chips += '<span class="chip '+(dist<=maxd?'good':'warn')+'">'+(dist<=maxd?'Within distance limit':'Outside distance limit')+'</span>';
+    if(kw) chips += '<span class="chip '+(kwHit?'good':'')+'">'+(kwHit?'Name matches “'+esc(kw)+'”':'No “'+esc(kw)+'” in name')+'</span>';
+
+    const venPairs = S.header.map((h,i)=>[h,(row[i]||'').trim()]).filter(([h])=>!isReqCol(h) && !HIDDEN.test(h) && !/^(title|address|categories|distance_km)$/i.test(h));
+    html += '<article class="card"><span class="label">Candidate vendor</span><div class="vtitle">'+esc(title||'(no name)')+'</div><div class="addr">'+esc(addr)+'</div>';
+    if(isFinite(dist)) html += '<div class="distance"><span class="big">'+dist.toFixed(1)+' km</span><span class="muted">from the buyer</span></div>';
+    if(chips) html += '<div class="chips">'+chips+'</div>';
+    if(catList.length) html += '<div><span class="label">Listed under</span><div class="chips" style="margin-top:4px">'+catList.map(c=>'<span class="chip">'+esc(c.replace(/_/g,' '))+'</span>').join('')+'</div></div>';
+    if(venPairs.length) html += '<details class="more"><summary>Other fields</summary>'+kvHTML(venPairs)+'</details>';
+    html += '</article>';
+    $('pair').innerHTML = html;
+  }
+
+  const WORDS = {0:'Unrelated',25:'Partly helpful',50:'Right category, poor fit',75:'Right category, in range',100:'Ideal match'};
+  function wordFor(v){ const n=+v; const k=[0,25,50,75,100].reduce((a,b)=>Math.abs(b-n)<Math.abs(a-n)?b:a); return (n===k?'':'Near: ')+WORDS[k]; }
+
+  function renderPanel(){
+    const v = S.values[S.idx] ?? '';
+    const audit = S.mode==='audit';
+    $('scoreUI').hidden = audit; $('binaryUI').hidden = !audit; $('raterField').hidden = audit;
+    $('rubricWrap').hidden = audit;
+    if(!audit){
+      $('scoreNum').textContent = v===''?'—':v;
+      $('scoreNum').classList.toggle('empty', v==='');
+      $('scoreWord').textContent = v===''?'Not scored yet':wordFor(v);
+      $('slider').value = v===''?50:v;
+      document.querySelectorAll('.anchors button').forEach(b=>b.setAttribute('aria-pressed', String(b.dataset.a===v)));
+      const near = v===''?null:[0,25,50,75,100].reduce((a,b)=>Math.abs(b-v)<Math.abs(a-v)?b:a);
+      document.querySelectorAll('#rubric .row').forEach(rw=>rw.classList.toggle('on', near!==null && +rw.dataset.r===near));
+      $('keysHelp').innerHTML = '<kbd>1</kbd>–<kbd>5</kbd> pick 0/25/50/75/100 · <kbd>Enter</kbd> save and next · <kbd>Shift</kbd>+<kbd>Enter</kbd> back';
+    } else {
+      document.querySelectorAll('.binary button').forEach(b=>b.setAttribute('aria-pressed', String(b.dataset.b===v)));
+      $('keysHelp').innerHTML = '<kbd>1</kbd> pharmacy · <kbd>0</kbd> not a pharmacy (both move to the next one) · <kbd>Shift</kbd>+<kbd>Enter</kbd> back';
+    }
+    $('notes').value = S.notes[S.idx] || '';
+    const total = S.rows.length;
+    const req = get(S.idx,/^requirement_id$/i);
+    $('posLabel').textContent = (audit?'Vendor ':'Pair ')+(S.idx+1)+' of '+total+(req?' · '+req:'');
+    $('prev').disabled = S.idx===0;
+    $('next').textContent = S.idx===total-1 ? 'Save' : 'Save and next';
+    document.querySelectorAll('#r1,#r2').forEach(b=>b.setAttribute('aria-pressed', String(+b.id[1]===S.rater)));
+  }
+
+  function renderProgress(){
+    const done = S.values.filter(v=>v!=='').length, total = S.rows.length;
+    $('doneCount').textContent = done; $('totalCount').textContent = total;
+    $('doneWhat').textContent = S.mode==='audit' ? 'vendors checked' : 'pairs scored by Rater '+S.rater;
+    $('minNote').textContent = S.mode==='audit' ? 'Check all 200 vendors.' : 'Phase 1 needs at least 300 pairs scored by both raters.';
+    $('barFill').style.width = total ? (100*done/total)+'%' : '0';
+    const live = S.mode!=='example';
+    $('exportBtn').disabled = !live; $('copyBtn').disabled = !live;
+    $('exportName').textContent = live ? exportFilename() : '';
+  }
+  function render(){ renderPair(); renderPanel(); renderProgress(); }
+
+  // ---------- actions ----------
+  function setValue(v){
+    S.values[S.idx] = String(v);
+    saveDraft(); renderPanel(); renderProgress();
+    $('savedNote').textContent = S.mode==='example' ? 'Example row, not saved.' : 'Saved in this browser.';
+  }
+  function go(i){ if(i<0||i>=S.rows.length) return; S.idx=i; saveDraft(); render(); }
+  function next(){
+    if(S.values[S.idx]===''){ $('savedNote').textContent = S.mode==='audit'?'Pick Pharmacy or Not a pharmacy first.':'Pick a score first, or use Next unscored to skip.'; return; }
+    if(S.idx < S.rows.length-1) go(S.idx+1);
+    else { renderPanel(); $('savedNote').textContent = 'That was the last row. Download your CSV below.'; }
+  }
+  function nextBlank(){
+    const n=S.rows.length;
+    for(let k=1;k<=n;k++){ const i=(S.idx+k)%n; if(S.values[i]===''){ go(i); return; } }
+    $('savedNote').textContent = 'Every row has a value.';
+  }
+
+  $('slider').addEventListener('input', e => setValue(e.target.value));
+  document.querySelectorAll('.anchors button').forEach(b=>b.addEventListener('click',()=>setValue(b.dataset.a)));
+  document.querySelectorAll('.binary button').forEach(b=>b.addEventListener('click',()=>{ setValue(b.dataset.b); if(S.idx<S.rows.length-1) go(S.idx+1); }));
+  $('notes').addEventListener('input', e => { S.notes[S.idx]=e.target.value; saveDraft(); });
+  $('prev').addEventListener('click', ()=>go(S.idx-1));
+  $('next').addEventListener('click', next);
+  $('nextBlank').addEventListener('click', nextBlank);
+
+  function pickRater(n){
+    if(n===S.rater) return;
+    S.rater=n;
+    if(S.mode==='annotate'){ const restored = initValues(); banner('ok', 'Now scoring as Rater '+n+'.', restored?'Restored '+restored+' scores saved earlier in this browser.':'Only Rater '+n+'’s column is shown and written.'); }
+    render();
+  }
+  $('r1').addEventListener('click',()=>pickRater(1));
+  $('r2').addEventListener('click',()=>pickRater(2));
+
+  document.addEventListener('keydown', e => {
+    if(e.target.tagName==='TEXTAREA') return;
+    const typing = e.target.tagName==='INPUT' && e.target.type==='text';
+    if(e.key==='Enter'){ e.preventDefault(); if(e.shiftKey) go(S.idx-1); else next(); return; }
+    if(typing || e.altKey || e.ctrlKey || e.metaKey) return;
+    if(S.mode==='audit'){
+      if(e.key==='1'||e.key==='0'){ setValue(e.key); if(S.idx<S.rows.length-1) go(S.idx+1); }
+    } else {
+      const m = {'1':'0','2':'25','3':'50','4':'75','5':'100'}[e.key];
+      if(m!==undefined){ setValue(m); }
+    }
+  });
+
+  function banner(kind, strong, text){
+    const b=$('banner'); b.className='banner '+kind; b.innerHTML='<strong>'+esc(strong)+'</strong><span>'+esc(text)+'</span>';
+  }
+
+  // ---------- load ----------
+  $('file').addEventListener('change', async e => {
+    const f = e.target.files && e.target.files[0]; if(!f) return;
+    let text = await f.text();
+    const bom = text.charCodeAt(0)===0xFEFF; if(bom) text=text.slice(1);
+    const eol = text.includes('\r\n') ? '\r\n' : '\n';
+    const all = parseCSV(text);
+    e.target.value='';
+    if(all.length<2){ banner('error','That file has no rows.','Open the CSV that Claude Code wrote in data/annotation/.'); return; }
+    const header = all[0].map(h=>h.trim());
+    const rows = all.slice(1).map(r => { while(r.length<header.length) r.push(''); return r; });
+    const bad = rows.findIndex(r => r.length!==header.length);
+    if(bad>=0){ banner('error','Row '+(bad+2)+' has '+rows[bad].length+' cells but the header has '+header.length+'.','The file may have been changed in a spreadsheet. Use the original CSV from data/annotation/.'); return; }
+    let mode = null;
+    if(header.includes('rater_1_score') && header.includes('rater_2_score')) mode='annotate';
+    else if(header.includes('true_is_pharmacy')) mode='audit';
+    if(!mode){ banner('error','This is not one of the scoring sheets.','Expected a column named rater_1_score and rater_2_score, or true_is_pharmacy.'); return; }
+    setup(header, rows, mode, f.name, eol, bom);
+    const restored = (function(){ const d=loadDraft(); return d? S.values.filter(v=>v!=='').length : 0; })();
+    if(mode==='annotate') banner('ok','Scoring as Rater '+S.rater+' · '+f.name, rows.length+' pairs loaded. Only your own column is shown and written. '+(restored?restored+' rows already have your scores.':''));
+    else banner('ok','Pharmacy check · '+f.name, rows.length+' vendors loaded. Decide from the name and address only.'+(restored?' '+restored+' already checked.':''));
+    $('exportText').hidden = true; $('exportMsg').textContent='';
+    render();
+  });
+
+  // ---------- export ----------
+  function exportFilename(){
+    const base = S.file.replace(/\.csv$/i,'') || 'sheet';
+    return S.mode==='audit' ? base+'_checked.csv' : base+'_rater'+S.rater+'.csv';
+  }
+  function buildCSV(){
+    const out = [S.header.map(cell).join(',')];
+    S.rows.forEach((r,i) => {
+      const copy = r.slice();
+      copy[S.target] = S.values[i];
+      if(S.notesCol>=0) copy[S.notesCol] = S.notes[i];
+      out.push(copy.map(cell).join(','));
+    });
+    return (S.bom?'﻿':'') + out.join(S.eol) + S.eol;
+  }
+  let dl = null;
+  if(window.claude && window.claude.use){ window.claude.use('downloads').then(d => { dl = d; }).catch(()=>{}); }
+  $('exportBtn').addEventListener('click', async () => {
+    const csv = buildCSV(), name = exportFilename();
+    const blanks = S.values.filter(v=>v==='').length;
+    const tail = blanks ? ' '+blanks+' rows are still blank.' : ' Every row has a value.';
+    if(!dl){
+      try{
+        const url = URL.createObjectURL(new Blob([csv], {type:'text/csv;charset=utf-8'}));
+        const a = document.createElement('a'); a.href = url; a.download = name;
+        document.body.appendChild(a); a.click(); a.remove();
+        setTimeout(()=>URL.revokeObjectURL(url), 2000);
+        $('exportMsg').textContent = 'Downloaded '+name+'. If nothing appeared, use Copy CSV text.'+tail;
+      }catch(e){ showText(csv, 'The download did not work here. Copy the text below into a file named '+name+'.'+tail); }
+      return;
+    }
+    try{ await dl.save({filename:name, data:csv}); $('exportMsg').textContent = 'Saved '+name+'.'+tail; }
+    catch(err){
+      const c = err && err.code;
+      if(c==='declined') $('exportMsg').textContent = 'Download cancelled.';
+      else if(c==='rate_limited') $('exportMsg').textContent = 'A save prompt is already open. Finish it, then try again.';
+      else showText(csv, 'The download did not work here. Copy the text below into a file named '+name+'.'+tail);
+    }
+  });
+  function showText(csv, msg){ const t=$('exportText'); t.value=csv; t.hidden=false; $('exportMsg').textContent=msg; }
+  $('copyBtn').addEventListener('click', async () => {
+    const csv = buildCSV();
+    try{ await navigator.clipboard.writeText(csv); $('exportMsg').textContent = 'Copied. Paste it into a text editor and save it as '+exportFilename()+' (UTF-8).'; }
+    catch(e){ showText(csv, 'Copy was blocked. Select all the text below and copy it, then save it as '+exportFilename()+'.'); $('exportText').select(); }
+  });
+
+  // ---------- start with examples ----------
+  setup(EXAMPLE.header, EXAMPLE.rows.map(r=>r.slice()), 'example', '', '\n', false);
+  S.mode='example'; initValues(); S.values=['75','',''];
+  render();
+})();
+</script>
+
+</body>
+</html>

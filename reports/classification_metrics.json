@@ -1,0 +1,1654 @@
+{
+  "target": "is_pharmacy",
+  "split": {
+    "method": "stratified train_test_split",
+    "test_size": 0.2,
+    "seed": 42,
+    "n_train": 3689,
+    "n_test": 923,
+    "positives_train": 389,
+    "positives_test": 97,
+    "prevalence_train": 0.105448631065,
+    "prevalence_test": 0.105092091008
+  },
+  "features": {
+    "n_total_incl_intercept": 442,
+    "n_title_tokens": 421,
+    "n_pincode_indicators": 20,
+    "min_df": 5,
+    "top_k_pincodes": 20,
+    "dropped_linearly_dependent_columns": [
+      "tok=get",
+      "tok=pazhamudir",
+      "tok=price",
+      "tok=replacement",
+      "tok=specsmakers",
+      "tok=up"
+    ],
+    "rank_X_train": 442,
+    "full_column_rank": true
+  },
+  "unpenalised_mle": {
+    "mle_exists": false,
+    "irls_converged": false,
+    "irls_iterations": 100,
+    "sklearn_converged": true,
+    "sklearn_iterations": 290,
+    "sklearn_warnings": [],
+    "loglik_irls": -103.558204705,
+    "loglik_sklearn": -103.558204704,
+    "loglik_null_intercept_only": -1242.79643217,
+    "max_abs_coef_diff_irls_vs_sklearn": 2705.12016959,
+    "max_abs_beta_irls": 140.254181335,
+    "n_separating_features": 276,
+    "separating_features": [
+      {
+        "feature": "tok=a1",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=a2",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=aavin",
+        "n_rows": 18,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=accessories",
+        "n_rows": 19,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=adambakkam",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=agencies",
+        "n_rows": 19,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=al",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=all",
+        "n_rows": 31,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=alwarpet",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=anand",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=andavar",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=apollo",
+        "n_rows": 32,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=appliances",
+        "n_rows": 59,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=aquarium",
+        "n_rows": 16,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=arun",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=ashok",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=auto",
+        "n_rows": 52,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=automobiles",
+        "n_rows": 27,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=avenue",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=b",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bakery",
+        "n_rows": 31,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bakes",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bala",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=beauty",
+        "n_rows": 27,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=beef",
+        "n_rows": 15,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=besant",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bharathi",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bhavan",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bhavani",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bhawani",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bike",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bismi",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bismillah",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=books",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bosch",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=bouquet",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=boutique",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=brand",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=broilers",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=by",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=cafe",
+        "n_rows": 10,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=cake",
+        "n_rows": 23,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=cakes",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=car",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=cars",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=chicken",
+        "n_rows": 69,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=cholai",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=clothing",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=coffee",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=company",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=computer",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=computers",
+        "n_rows": 22,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=corner",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=cosmetics",
+        "n_rows": 15,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=cow",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=d",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=daily",
+        "n_rows": 15,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=dairy",
+        "n_rows": 20,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=dealer",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=decor",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=decors",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=delivery",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=department",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=departmental",
+        "n_rows": 18,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=designer",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=digital",
+        "n_rows": 14,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=distribution",
+        "n_rows": 10,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=drug",
+        "n_rows": 5,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=drugs",
+        "n_rows": 6,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=dry",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=ecr",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=egg",
+        "n_rows": 57,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=eggs",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=electric",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=electrical",
+        "n_rows": 34,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=electricals",
+        "n_rows": 78,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=electronics",
+        "n_rows": 81,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=exclusive",
+        "n_rows": 21,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=eyeglasses",
+        "n_rows": 28,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=factory",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=fair",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=family",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=farm",
+        "n_rows": 20,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=farmers",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=farms",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=fashion",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=fish",
+        "n_rows": 81,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=florist",
+        "n_rows": 22,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=flower",
+        "n_rows": 47,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=flowers",
+        "n_rows": 11,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=food",
+        "n_rows": 10,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=foods",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=foot",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=footwear",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=for",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=fresh",
+        "n_rows": 35,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=friends",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=fruit",
+        "n_rows": 53,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=fruits",
+        "n_rows": 57,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=furniture",
+        "n_rows": 22,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=gadgets",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=gallery",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=ganapathy",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=ganga",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=garments",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=gbs",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=girias",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=glow",
+        "n_rows": 10,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=government",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=greens",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=grocery",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=guduvanchery",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=hap",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=hardware",
+        "n_rows": 44,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=hardwares",
+        "n_rows": 48,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=hari",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=heads",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=hetero",
+        "n_rows": 5,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=hi",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=hospital",
+        "n_rows": 8,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=hotel",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=hub",
+        "n_rows": 10,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=i",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=jk",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=juice",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=kitchen",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=koil",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=kovai",
+        "n_rows": 18,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=koyambedu",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=kumar",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=laptop",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=lenovo",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=limited",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=lovely",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=maha",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mahalakshmi",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mahindra",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=makkal",
+        "n_rows": 5,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=malar",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=maligai",
+        "n_rows": 26,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mall",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=marina",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=market",
+        "n_rows": 153,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=marunthagam",
+        "n_rows": 5,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=mathaji",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=meat",
+        "n_rows": 16,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=medical",
+        "n_rows": 39,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=medicals",
+        "n_rows": 98,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=medplus",
+        "n_rows": 22,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=men",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mens",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=metro",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=milk",
+        "n_rows": 46,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mini",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mobiles",
+        "n_rows": 68,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=motor",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=motors",
+        "n_rows": 14,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mr",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=murugan",
+        "n_rows": 23,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mutharamman",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mutton",
+        "n_rows": 27,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=my",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=mylapore",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=nadu",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=natural",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=naturals",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=naveen",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=needs",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=nellai",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=nilayam",
+        "n_rows": 17,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=no",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=nuts",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=on",
+        "n_rows": 32,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=ooty",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=optical",
+        "n_rows": 10,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=opticals",
+        "n_rows": 21,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=optics",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=organic",
+        "n_rows": 18,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=paper",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=park",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=parlour",
+        "n_rows": 16,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=parts",
+        "n_rows": 31,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=pazhakkadai",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=pazhamudhir",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=perungudi",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=phoenix",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=plastic",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=plastics",
+        "n_rows": 11,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=plumbing",
+        "n_rows": 18,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=point",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=poorvika",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=prakash",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=products",
+        "n_rows": 16,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=proteins",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=provision",
+        "n_rows": 37,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=public",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=purple",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=rathna",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=ration",
+        "n_rows": 113,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=readymades",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=reliance",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=restaurant",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=retail",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=rk",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=royal",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=royapettah",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=sales",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=salon",
+        "n_rows": 14,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=sangeetha",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=santhai",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=santhosh",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=sathya",
+        "n_rows": 20,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=sea",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=selaiyur",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=selvam",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=selvi",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=services",
+        "n_rows": 14,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=shanmugam",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=shanthi",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=shoe",
+        "n_rows": 10,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=shoes",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=shoppe",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=shopping",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=showroom",
+        "n_rows": 16,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=siddha",
+        "n_rows": 5,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=singaperumal",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=sk",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=smart",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=snacks",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=solutions",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=spa",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=spare",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=spares",
+        "n_rows": 20,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=spot",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=square",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=srm",
+        "n_rows": 6,
+        "only_class": 1
+      },
+      {
+        "feature": "tok=stall",
+        "n_rows": 82,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=stationary",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=stationery",
+        "n_rows": 42,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=student",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=studio",
+        "n_rows": 11,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=style",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=supermarket",
+        "n_rows": 45,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=suppliers",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=surya",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=sweet",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=sweets",
+        "n_rows": 53,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=system",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=systems",
+        "n_rows": 10,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=tails",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=tamil",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=tech",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=testing",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=textile",
+        "n_rows": 8,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=textiles",
+        "n_rows": 45,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=thangam",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=theobroma",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=tiffin",
+        "n_rows": 57,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=tiles",
+        "n_rows": 7,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=tnpds",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=trends",
+        "n_rows": 11,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=two",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=veg",
+        "n_rows": 12,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=vegetable",
+        "n_rows": 45,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=vegetables",
+        "n_rows": 60,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=village",
+        "n_rows": 9,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=wear",
+        "n_rows": 11,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=wedding",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=wheeler",
+        "n_rows": 10,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=white",
+        "n_rows": 5,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=wholesale",
+        "n_rows": 24,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=works",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=xerox",
+        "n_rows": 91,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=zone",
+        "n_rows": 13,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=கடை",
+        "n_rows": 6,
+        "only_class": 0
+      },
+      {
+        "feature": "tok=மளிகை",
+        "n_rows": 7,
+        "only_class": 0
+      }
+    ],
+    "joint_separation_lp": {
+      "separated": true,
+      "lp_optimum": 6017.0
+    },
+    "irls_trace_last5": [
+      {
+        "iter": 96,
+        "objective": -103.558204705,
+        "gain": 4.26325641456e-14,
+        "beta_norm": 650.753542212,
+        "max_abs_beta": 140.208918958,
+        "max_step": 0.0665993967712,
+        "cond_H": 2.05446738286e+29
+      },
+      {
+        "iter": 97,
+        "objective": -103.558204705,
+        "gain": 5.68434188608e-14,
+        "beta_norm": 650.75369412,
+        "max_abs_beta": 140.28925933,
+        "max_step": 0.0803403714293,
+        "cond_H": 2.84590812424e+29
+      },
+      {
+        "iter": 98,
+        "objective": -103.558204705,
+        "gain": 5.68434188608e-14,
+        "beta_norm": 650.755211186,
+        "max_abs_beta": 140.298397149,
+        "max_step": 0.0770664620215,
+        "cond_H": 3.11853902842e+29
+      },
+      {
+        "iter": 99,
+        "objective": -103.558204705,
+        "gain": 5.68434188608e-14,
+        "beta_norm": 650.75573839,
+        "max_abs_beta": 140.253134782,
+        "max_step": 0.0632086395045,
+        "cond_H": 2.17028300132e+30
+      },
+      {
+        "iter": 100,
+        "objective": -103.558204705,
+        "gain": 0.0,
+        "beta_norm": 650.756477846,
+        "max_abs_beta": 140.254181335,
+        "max_step": 0.0211966084221,
+        "cond_H": 1.54382223429e+29
+      }
+    ],
+    "test_metrics_NOT_A_VALID_MLE": {
+      "confusion_matrix": {
+        "tn": 816,
+        "fp": 10,
+        "fn": 12,
+        "tp": 85
+      },
+      "accuracy": 0.97616468039,
+      "precision": 0.894736842105,
+      "recall": 0.876288659794,
+      "f1": 0.885416666667,
+      "roc_auc": 0.976211277801,
+      "pr_auc": 0.909364614894,
+      "log_loss": 0.348328458957
+    }
+  },
+  "small_mle_model": {
+    "label": "unpenalised MLE, small token set (MLE exists)",
+    "tokens": [
+      "shop",
+      "store",
+      "and",
+      "sri",
+      "chennai",
+      "stores",
+      "pharmacy",
+      "s",
+      "home",
+      "centre"
+    ],
+    "train_doc_freq": {
+      "shop": 471,
+      "store": 319,
+      "and": 236,
+      "sri": 209,
+      "chennai": 172,
+      "stores": 159,
+      "pharmacy": 154,
+      "s": 126,
+      "home": 92,
+      "centre": 88
+    },
+    "skipped_before_10": [
+      {
+        "token": "market",
+        "train_df": 153,
+        "reason": "separation"
+      },
+      {
+        "token": "ration",
+        "train_df": 113,
+        "reason": "separation"
+      },
+      {
+        "token": "medicals",
+        "train_df": 98,
+        "reason": "separation"
+      },
+      {
+        "token": "xerox",
+        "train_df": 91,
+        "reason": "separation"
+      }
+    ],
+    "n_features_excl_intercept": 10,
+    "rank_X_train": 11,
+    "n_columns": 11,
+    "separation_lp": {
+      "separated": false,
+      "lp_optimum": -0.0
+    },
+    "single_feature_separators": [],
+    "irls_converged": true,
+    "irls_iterations": 8,
+    "sklearn_n_iter": 8,
+    "sklearn_warnings": [
+      "FutureWarning"
+    ],
+    "coefficients": {
+      "intercept": -2.32550118549,
+      "tok=shop": -1.64125553783,
+      "tok=store": -0.611848170848,
+      "tok=and": -0.460825840629,
+      "tok=sri": 0.145232533072,
+      "tok=chennai": -0.809173805457,
+      "tok=stores": -1.30432121415,
+      "tok=pharmacy": 6.34528967651,
+      "tok=s": -0.595574574082,
+      "tok=home": -1.78444391024,
+      "tok=centre": -0.345983457095
+    },
+    "coefficients_sklearn": {
+      "intercept": -2.32550118549,
+      "tok=shop": -1.64125553783,
+      "tok=store": -0.611848170848,
+      "tok=and": -0.460825840629,
+      "tok=sri": 0.145232533072,
+      "tok=chennai": -0.809173805457,
+      "tok=stores": -1.30432121415,
+      "tok=pharmacy": 6.34528967651,
+      "tok=s": -0.595574574082,
+      "tok=home": -1.78444391024,
+      "tok=centre": -0.345983457095
+    },
+    "max_abs_coef_diff_irls_vs_sklearn": 1.7763568394e-15,
+    "loglik_irls": -857.222564714,
+    "loglik_sklearn": -857.222564714,
+    "abs_loglik_diff": 0.0,
+    "mle_exists": true,
+    "test_metrics": {
+      "confusion_matrix": {
+        "tn": 826,
+        "fp": 0,
+        "fn": 62,
+        "tp": 35
+      },
+      "accuracy": 0.932827735645,
+      "precision": 1.0,
+      "recall": 0.360824742268,
+      "f1": 0.530303030303,
+      "roc_auc": 0.743815681086,
+      "pr_auc": 0.469466166421,
+      "log_loss": 0.242835751081
+    }
+  },
+  "l2_model": {
+    "label": "penalised likelihood (MAP), not MLE",
+    "C": 10.0,
+    "lambda_equiv": 0.1,
+    "cv_mean_logloss_by_C": {
+      "0.001": 0.329625526847,
+      "0.0031622776601683794": 0.31489548934,
+      "0.01": 0.277084077565,
+      "0.03162277660168379": 0.213623685524,
+      "0.1": 0.152883217857,
+      "0.31622776601683794": 0.110670176811,
+      "1.0": 0.0851784236805,
+      "3.1622776601683795": 0.073020343534,
+      "10.0": 0.0709796391874,
+      "31.622776601683793": 0.0767968630943,
+      "100.0": 0.0878006133928,
+      "316.22776601683796": 0.0993284820699,
+      "1000.0": 0.116550463407
+    },
+    "loglik_train": -146.053944783,
+    "max_abs_coef_diff_sklearn_vs_hand_irls": 1.37493357878e-05,
+    "hand_irls_converged": true,
+    "test_metrics": {
+      "confusion_matrix": {
+        "tn": 825,
+        "fp": 1,
+        "fn": 11,
+        "tp": 86
+      },
+      "accuracy": 0.986998916576,
+      "precision": 0.988505747126,
+      "recall": 0.886597938144,
+      "f1": 0.934782608696,
+      "roc_auc": 0.984249020244,
+      "pr_auc": 0.946522454134,
+      "log_loss": 0.0582839487075
+    }
+  },
+  "majority_baseline": {
+    "predicts_class": 0,
+    "accuracy": 0.894907908992,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "roc_auc": 0.5,
+    "pr_auc_equals_prevalence": 0.105092091008
+  },
+  "label_audit_sample": {
+    "rows": 200,
+    "weak_positive": 97,
+    "weak_negative": 103
+  }
+}

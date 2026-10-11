@@ -1,0 +1,1850 @@
+{
+  "category": "vegetables",
+  "status": "complete",
+  "count": 263,
+  "outside": 65,
+  "points": [
+    {
+      "id": "chijzzqmwkdbujorwi88rpr6kp8",
+      "title": "Sathyaraj Tiffin Centre",
+      "address": "V6VW+JJC Sathyaraj Tiffin Centre, opposite Sea Cliff Conclave, Akkarai, Panaiyur, Chennai, Tamil Nadu 600119",
+      "lat": 12.894064799999999,
+      "lon": 80.2465134
+    },
+    {
+      "id": "chijwyg7uqbhujorviqufqz7dfe",
+      "title": "FOOD CART MANUFACTURING IN CHENNAI",
+      "address": "127, Karunakaran St, Balakrishnan Nagar, Periyapanicheri, Tharapakkam, Periyapanicheri, Tamil Nadu 600128",
+      "lat": 13.0087949,
+      "lon": 80.131484
+    },
+    {
+      "id": "chijhvalie5dujorjjz9bgpgyfa",
+      "title": "Farm Fresh Hand Picked Vegetables, Fruits",
+      "address": "Plot B, 6/7/8, Veeraraghavar, Veeraraghavan St, Puludivakkam, Anna Nagar Extension, Palavanthangal, Chennai, Tamil Nadu 600091",
+      "lat": 12.976848799999999,
+      "lon": 80.2026715
+    },
+    {
+      "id": "chijfzjpbv71ujordajwcoct3fi",
+      "title": "Sri Saravana Vegetables and Fruit Market",
+      "address": "31, Manimangalam Rd, Mudichur, Chennai, Varadharajapuram, Tamil Nadu 600048",
+      "lat": 12.9153589,
+      "lon": 80.0685578
+    },
+    {
+      "id": "chijlwxswufnujorlh8rs-uo8ms",
+      "title": "Ranjan fruits & vegetables shop",
+      "address": "Rangarajapuram Main Rd, Viswanatha Puram, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0474129,
+      "lon": 80.22359639999999
+    },
+    {
+      "id": "chijxvvxp_f1ujorj-p4gxicax8",
+      "title": "Amudam fruit Shop",
+      "address": "Balaji Nagar, New Perungalathur, Perungalathur, Tambaram, Tamil Nadu 600063",
+      "lat": 12.9059566,
+      "lon": 80.0936365
+    },
+    {
+      "id": "chij0xzgdozdujorqykvchhluna",
+      "title": "Pazhamudir Cholai",
+      "address": "1A, Third Main Rd, Ram Nagar, Murugapakkam, Jagannatha Puram, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9841094,
+      "lon": 80.2220389
+    },
+    {
+      "id": "chijdy2fgu1fujordcjvsqnxmxk",
+      "title": "Suyambulingam Vegetable Market",
+      "address": "Suddhananda Bharathi St, Alappakam, Tambaram, Chennai, Sadhanathapuram, Tamil Nadu 600063",
+      "lat": 12.896964299999999,
+      "lon": 80.10961809999999
+    },
+    {
+      "id": "chijre_fkkdhujorrf0ati9ezdi",
+      "title": "GANAPATHY VEGETABLES MARKET",
+      "address": "No.96, Thiruveedhi, GANAPATHY VEGETABLES MARKET, Gangai Amman Kovil St, Parasnath Nagar, Numbal, Iyyappanthangal, Chennai, Tamil Nadu 600077",
+      "lat": 13.0481594,
+      "lon": 80.1400773
+    },
+    {
+      "id": "chijpzdfskrnujorybp56khvjki",
+      "title": "Vegetable Bazaar",
+      "address": "2623+395 Vegetable Bazaar, Alandur Market Ln, Ramapuram, Alandur, Chennai, Tamil Nadu 600016",
+      "lat": 13.000133,
+      "lon": 80.20347149999999
+    },
+    {
+      "id": "chijfvslcvlnujorzfp5wng98ww",
+      "title": "Ooty Vegetables & Fruits",
+      "address": "X7W9+854 Ooty Vegetables & Fruits, 7th Ave, near Edward Elliot's Beach, GOCHS Colony, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.995768499999999,
+      "lon": 80.2679539
+    },
+    {
+      "id": "chijvvvbe_5mujoru5sutylsvdm",
+      "title": "Vegetable/Fruit Market",
+      "address": "26PH+G2F Vegetable/Fruit Market, Postal Colony, West Mambalam, Chennai, Tamil Nadu 600017",
+      "lat": 13.0363058,
+      "lon": 80.2275348
+    },
+    {
+      "id": "chijaehsfbxhujorfwntnmgjh6w",
+      "title": "Mugavai vegetables & fruits",
+      "address": "Mugavai vegetables and fruits, 1st Main Rd, Karambakkam, Buddhar Colony, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.037517,
+      "lon": 80.157105
+    },
+    {
+      "id": "chija-5ky95nujorn0_rgfcsukq",
+      "title": "Kovai Pazhamudir Nilayam - Bazhulla Road, T Nagar",
+      "address": "Old No.7, Kovai Pazhamudir Nilayam - Bazhulla Road, T Nagar, Kovai Pazhamudir Nilayam, New No.13, Bazullah Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.046571499999999,
+      "lon": 80.23752549999999
+    },
+    {
+      "id": "chij96lbiyvnujorbslxtdy5bom",
+      "title": "Adhavan GROCERY",
+      "address": "near periyar bus stand, Seeranipuram, Kamdar Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.053489899999999,
+      "lon": 80.2366977
+    },
+    {
+      "id": "chijf-8hhspfujorh1r9kdg2dwc",
+      "title": "Balaguru Vegetable Shop",
+      "address": "20, Agaram Main Rd, Padamavathy Nagar, Tiruvanchery, Madambakkam, Tiruvancheri, Tamil Nadu 600126",
+      "lat": 12.9022466,
+      "lon": 80.1423116
+    },
+    {
+      "id": "chij6b6qn1x2ujorodfwtos0m2a",
+      "title": "Koyambedu Vegetable Shop",
+      "address": "R3X3+PWP Koyambedu Vegetable Shop, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.849328799999999,
+      "lon": 80.05482839999999
+    },
+    {
+      "id": "chijayl98h9bujoradexmzwebju",
+      "title": "Muthulakshmi Vegetable Shop",
+      "address": "128, Village High Rd, Nedunchezian Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.897799299999999,
+      "lon": 80.2326641
+    },
+    {
+      "id": "chijm7zqa35eujorqxty7ynmqqq",
+      "title": "Thiruchendur Murugan Vegetable Store",
+      "address": "Medavakkam Main Rd, Chinna Kovilambakkam, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9436994,
+      "lon": 80.1830729
+    },
+    {
+      "id": "chijw1gvigzcujorrknmfgfijh8",
+      "title": "Anitha Vegetables and Fruit Market",
+      "address": "89, Nesamani Nagar 7th St, Nesamani Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9015106,
+      "lon": 80.1978226
+    },
+    {
+      "id": "chijlxi3nstdujorbd7-bp_iwya",
+      "title": "Tamil Farmers",
+      "address": "Shanthi Colony, Lakshmi Nagar 1st St, Adambakkam, Chennai, Tamil Nadu 600061",
+      "lat": 12.9758085,
+      "lon": 80.1887668
+    },
+    {
+      "id": "chija0dylk5dujormnaikbw0ir0",
+      "title": "Veg & Fruit Shop",
+      "address": "3/917, Pillayar kovil St, Suleiman Nagar, Mettukuppam, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9378669,
+      "lon": 80.2366485
+    },
+    {
+      "id": "chijw-uxxobeujorjdbbx0zfvdq",
+      "title": "Divya vegetables shop",
+      "address": "1 165, Medavakkam Main Rd, Chinna Kovilambakkam, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9404911,
+      "lon": 80.1826186
+    },
+    {
+      "id": "chijf7jw-ntnujorv0dp-leqr94",
+      "title": "Kovai Pazhamudir Nilayam - Mylapore, Chennai",
+      "address": "Sri Akilandeswari Amman Fruits, 35, Ramakrishna Mutt Rd, near രാമകൃഷ്ണ മാഡം, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.030605999999999,
+      "lon": 80.2670022
+    },
+    {
+      "id": "chijxq_xyltmujor-uqsbrikpoa",
+      "title": "Kovai Pazhamudir Nilayam - Nungambakkam, Chennai",
+      "address": "Valluvar Kottam, 41, New Tank Street, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.0553051,
+      "lon": 80.24246219999999
+    },
+    {
+      "id": "chijy-ezwaxhujordntq1ikg-mc",
+      "title": "Shree Murugan Vegetables and Fruit Store",
+      "address": "418, 1st Main Rd, Mandhi Naicker Thottam, Rayala Nagar, Chidambaram Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0286578,
+      "lon": 80.1850791
+    },
+    {
+      "id": "chij079tjq31ujorrajwxz8x2ri",
+      "title": "Sri Maha Ganapathy Stores",
+      "address": "Number 4,Selva Vinayagar Kovil Street, New, near Kamachi Amman Kovil, Perungalathur, Tamil Nadu 600063",
+      "lat": 12.9056489,
+      "lon": 80.09310099999999
+    },
+    {
+      "id": "chiju4yerq5hujor7npnku6-gz0",
+      "title": "Ooty fruits & Vegetables",
+      "address": "24QM+H8Q Ooty fruits & Vegetables, Poonamallee High Rd, VGN Nagar, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600056",
+      "lat": 13.038966199999999,
+      "lon": 80.1333673
+    },
+    {
+      "id": "chijyvwldapnujori1fe_jsh9ae",
+      "title": "Kovai Pazhamudir Nilayam - Nandanam, Chennai",
+      "address": "No.12/86, Kovai Pazhamudir Nilayam - Nandanam, Chennai, Bagavathi Amman Fruits, S W Boag Rd, CIT Nagar West, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.031455,
+      "lon": 80.2348162
+    },
+    {
+      "id": "chij6x_nrqlnujoroomtsa37h84",
+      "title": "Guru Fruits & Vegetables",
+      "address": "36E, Sriram Nagar Main Rd, Sriram Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 13.0044957,
+      "lon": 80.2437051
+    },
+    {
+      "id": "chijdbtf2hhfujors0nyp6ne7pu",
+      "title": "Chop Chop Chennai",
+      "address": "10, SR Colony Rd, Padmavathi Nagar, Parvathy Nagar North, Yeswanth Nagar, Madambakkam, Tambaram, Tamil Nadu 600126",
+      "lat": 12.9044961,
+      "lon": 80.15126169999999
+    },
+    {
+      "id": "chij1-semabdujorimx6ykrmtjg",
+      "title": "Kovai Pazhamudir Nilayam - Medavakkam, Chennai",
+      "address": "Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.902336499999999,
+      "lon": 80.19816019999999
+    },
+    {
+      "id": "chijgzfncjpmujorpmvohrm7n10",
+      "title": "Royapettah Vegetables Supermarket",
+      "address": "25 12, TTK Rd, Lakshmipuram, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0467459,
+      "lon": 80.260804
+    },
+    {
+      "id": "chijn17utwvdujorr2fzbkpwx5u",
+      "title": "Vaanga Vaanga Fruit Market",
+      "address": "Service Road, Thirumalai Nagar Annexe, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9551191,
+      "lon": 80.2426792
+    },
+    {
+      "id": "chijvsd0l-1bujorpqx1o-n05o4",
+      "title": "M.Gunaselvan Fruits and vegetable shop",
+      "address": "Nookampalayam, Arasankalani, Sithalapakkam, Chennai, Tamil Nadu 600119",
+      "lat": 12.878607899999999,
+      "lon": 80.2163389
+    },
+    {
+      "id": "chijxbmri8veujorybfqdjllvou",
+      "title": "New chandra stores",
+      "address": "47, Madambakkam Main Rd, Madambakkam, Tambaram, Tamil Nadu 600126",
+      "lat": 12.907433,
+      "lon": 80.1578677
+    },
+    {
+      "id": "chijzqwkgxnhujoreuscuosttr8",
+      "title": "Chinna Koyambedu vegetables & fruits shop",
+      "address": "24RJ+27G Chinna Koyambedu vegetables & fruits shop, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600056",
+      "lat": 13.0400516,
+      "lon": 80.130714
+    },
+    {
+      "id": "chijgrv-0czmujorfyrvnlhwske",
+      "title": "Mani Vegetable And Department Store",
+      "address": "3633+8H2 Mani Vegetable And Department Store, Pushpa Colony, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.053272199999999,
+      "lon": 80.2038919
+    },
+    {
+      "id": "chijszfdzo31ujor5rttja0yado",
+      "title": "Om Saravana Veg & Fruit Store",
+      "address": "7/9, Mudichur Rd, Perungalathur, Tambaram, Chennai, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.920658399999999,
+      "lon": 80.0892526
+    },
+    {
+      "id": "chij1-7ndqbdujorfeuoqjyawhy",
+      "title": "Kovai Pazhamudir Nilayam - Velacherry, Chennai",
+      "address": "Shop No 1, Kovai Pazhamudir Nilayam - Velacherry, Chennai, Road, Ram Nagar, Ramnagar South, Dhadeswaram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.983852599999999,
+      "lon": 80.2226869
+    },
+    {
+      "id": "chijn-axoy1eujorfsw-dnr2i-4",
+      "title": "Sathiya Vegetables And Fruits",
+      "address": "2, Gandhi Rd, Lakshmi Narayana Nagar, Pammal, Tambaram, Tamil Nadu 600075",
+      "lat": 12.972016,
+      "lon": 80.12873119999999
+    },
+    {
+      "id": "chijl9xmfw32ujor7fnzcti1lyo",
+      "title": "Chennai Fresh Mini Market",
+      "address": "Shop No:5/699, New, Manicka Jalakanda St, Otteri, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8813955,
+      "lon": 80.0785612
+    },
+    {
+      "id": "chijew-rc6xhujor-_srmvttsrq",
+      "title": "Selvam Vegetable and Fruit Store",
+      "address": "No.1/447, 2nd St, Ramachandra Nagar, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600122",
+      "lat": 13.035545899999999,
+      "lon": 80.13684289999999
+    },
+    {
+      "id": "chijcfo5kbrmujor0yjkl_in13o",
+      "title": "vegvillage.in | selling fruits and vegetables online-Chennai",
+      "address": "28, vegvillage.in | selling fruits and vegetables online-Chennai, 31, Kamarajar Salai, Sector 13, K. K. Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.0411133,
+      "lon": 80.2089355
+    },
+    {
+      "id": "chijsdv_04rdujor25klbhsmo4m",
+      "title": "Kovai Pazhamudir Nilayam - Thiruvanmiyur, Chennai",
+      "address": "120, LB Rd, Ranganatha Puram, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.986485799999999,
+      "lon": 80.2553539
+    },
+    {
+      "id": "chijqaweaabnujorqlehh2-gg3c",
+      "title": "Kovai Pazhamudir Nilayam - Besant Nagar, Chennai",
+      "address": "No. 55, Kovai Pazhamudir Nilayam - Besant Nagar, Chennai, Sri Bannari Amman Fresh Fruit, 16, Mahatma Gandhi Rd, Ashtalaxmi Garden, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.995439399999999,
+      "lon": 80.26875869999999
+    },
+    {
+      "id": "chij0beuxfbnujorncsgwciumcs",
+      "title": "Koyambedu fruits and vegetables",
+      "address": "118, Appu Street Lane II, Kuil Thoppu, Mylapore, Chennai, Tamil Nadu 600028",
+      "lat": 13.0295325,
+      "lon": 80.27435369999999
+    },
+    {
+      "id": "chijdx5or6pnujor8r0vc1mmrby",
+      "title": "CIT Nagar Vegetable & Fruits Shop",
+      "address": "Shop No 1, CIT Nagar Vegetable & Fruits Shop, Canal Bank Rd, CIT Nagar West, CIT Nagar, Chennai, Tamil Nadu 600035",
+      "lat": 13.0309675,
+      "lon": 80.2339717
+    },
+    {
+      "id": "chijk-8dq5b1ujorojwwoiv2ewg",
+      "title": "SARAVANA SUPER ANGADI",
+      "address": "NO. 2/7 A MUDICHIUR MAIN ROAD LAKSHMI NAGAR, Nehru Colony, Mudichur, Tamil Nadu 600048",
+      "lat": 12.9022007,
+      "lon": 80.065337
+    },
+    {
+      "id": "chij1wsqy21fujoryhyes5z_asm",
+      "title": "TAMBARAM MARKET",
+      "address": "New Market, 9, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9259138,
+      "lon": 80.11561449999999
+    },
+    {
+      "id": "chij5z63zh5fujorwndclby3xe8",
+      "title": "Raja Fruit Stall",
+      "address": "421B, Velachery Main Rd, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9231509,
+      "lon": 80.126875
+    },
+    {
+      "id": "chijrrjqygjfujorswr4afmqviw",
+      "title": "Mini Koyambedu Market",
+      "address": "No:562/135 Vishnu Nagar, Mudichur Rd, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.924567999999999,
+      "lon": 80.0995445
+    },
+    {
+      "id": "chijvzxqzvdmujor-b7ozvk2kei",
+      "title": "Kovai Pazhamudhir Cholai",
+      "address": "18, Raghavaiah Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0451169,
+      "lon": 80.2354825
+    },
+    {
+      "id": "chijlwqrddtbujorhutmx3ts85m",
+      "title": "Sri Mutharamman Veg And Fruit Market",
+      "address": "Nookampalayam Rd, Cheran Nagar, Perumbakkam, Tamil Nadu 600131",
+      "lat": 12.8956263,
+      "lon": 80.1980553
+    },
+    {
+      "id": "chijx3wk6yvdujorn6x-ge9dowu",
+      "title": "Martin Veg And Fruit Market",
+      "address": "No. 5A, Dandeeshwaram Main Rd, Ram Nagar, Karnam Street, Dhadeswaram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9825973,
+      "lon": 80.222399
+    },
+    {
+      "id": "chijxwgzu7hdujorcamejbsvqz0",
+      "title": "Sri Lakshmi vegetables and fruits",
+      "address": "No 10 A, Govindapillai St, Barathi Nagar, IOB Colony, Tharamani, Tambaram, Tamil Nadu 600073",
+      "lat": 12.920741099999999,
+      "lon": 80.143311
+    },
+    {
+      "id": "chijccjw8tfnujorcwvrn3me88m",
+      "title": "Mylapore Vegetables & Fruits Market",
+      "address": "No.35/57, Ramakrishna Mutt Rd, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.032841999999999,
+      "lon": 80.267669
+    },
+    {
+      "id": "chijkfmnigbnujorcwyaeiznf60",
+      "title": "DD FRUIT SHOP",
+      "address": "S Mada St, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0322014,
+      "lon": 80.2697398
+    },
+    {
+      "id": "chijuqqijitdujor4hxt5kyg8zi",
+      "title": "Thavasi Store (South)",
+      "address": "515/3, Second Link St, Srinivasa Nagar, Sastri Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9670642,
+      "lon": 80.2072445
+    },
+    {
+      "id": "chijyz4o-qz3ujors29schyyshs",
+      "title": "Anandhi Vegetable Shop",
+      "address": "No 42, Kubaran nagar, 2nd Street, nandihivaram, guduvanchery, Chennai, Tamil Nadu 603202",
+      "lat": 12.8445626,
+      "lon": 80.0612069
+    },
+    {
+      "id": "chijgsf1bwd7ujorb5hcmpo9bww",
+      "title": "செந்தூர் காய்கறி கடை",
+      "address": "Q254+5XC செந்தூர் காய்கறி கடை, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7579285,
+      "lon": 80.0073768
+    },
+    {
+      "id": "chijl0l3t-h5ujory_ya1mjvkdy",
+      "title": "Jeyam Vegetables",
+      "address": "Q2VG+PFC Jeyam Vegetables, Pavendhar Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7943055,
+      "lon": 80.026144
+    },
+    {
+      "id": "chiju7nrq633ujorfwmklvjqn4o",
+      "title": "Sri Mutharamman Vegetable",
+      "address": "No.51, Sri Mutharamman Vegetable, 7, Nandhivaram Main Rd, Nandeswaran Colony, Nandeshwaran Nagar, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8456198,
+      "lon": 80.0639223
+    },
+    {
+      "id": "chijmxyoxwx8ujorgbu_kudnwb0",
+      "title": "RV Super Market",
+      "address": "No,21 vedappar Street, chinna natham Near Chengalpattu old bus stand, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6943875,
+      "lon": 79.9746201
+    },
+    {
+      "id": "chijt5e7iip3ujorowsuirsfclk",
+      "title": "Manpanai Eyarkai angadi - Uthira Traders",
+      "address": "Canara Bank Backside, No 20, Devraj Street, Gandhi Nagar Guduvanchery, GST Rd, Chengalpattu, Tamil Nadu 603202",
+      "lat": 12.8418045,
+      "lon": 80.0583271
+    },
+    {
+      "id": "chijt8fdocp9ujornva8xgdojvo",
+      "title": "India Super Market",
+      "address": "MXJG+CXV India Super Market, Unnamed Road, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6811153,
+      "lon": 79.9774157
+    },
+    {
+      "id": "chijq9kjw1l2ujordprclpjdvuw",
+      "title": "R. Ramesh Kumar Vegetable Store",
+      "address": "Shop No, R. Ramesh Kumar Vegetable Store, 62, GST Rd, Urapakkam, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8468219,
+      "lon": 80.06219569999999
+    },
+    {
+      "id": "chijfwhxgkn3ujorkbs9lnj0hxs",
+      "title": "Srinivasapuram Ganesh store",
+      "address": "Ramu St, Kumaran Nagar, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8384396,
+      "lon": 80.0576604
+    },
+    {
+      "id": "chijp-1uo1d3ujordr1sbp6cwfi",
+      "title": "Sri Ram Vegetables and Fruits Shop",
+      "address": "1 jeevanandam set, Revathipuram Main Rd, Revathipuram, Urapakkam, Ayyancheri, Tamil Nadu 603210",
+      "lat": 12.8640311,
+      "lon": 80.0791082
+    },
+    {
+      "id": "chijk6-oo9x3ujornpp3lzy7chi",
+      "title": "Rajendiran",
+      "address": "11, Potheri, Singaperumal Koil, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8198028,
+      "lon": 80.0369748
+    },
+    {
+      "id": "chijgbcyhfb3ujor4h07bu7dp2i",
+      "title": "Chendur Murugan Fruits & Vegetable",
+      "address": "Kundhan Nagar, A/2, Main Road, Guduvancheri, Kannivakkam, Tamil Nadu 603202",
+      "lat": 12.8024851,
+      "lon": 80.0859744
+    },
+    {
+      "id": "chijstv8ekffujorz-9xwo01gjq",
+      "title": "PasumaiSanthai",
+      "address": "Nehru St, State Bank Of India Colony, Chitlapakkam, Tambaram, Tamil Nadu 600064",
+      "lat": 12.937340899999999,
+      "lon": 80.1422625
+    },
+    {
+      "id": "chij94itpu33ujor_yvibpfcx-a",
+      "title": "Suyambulingam Fruits And Vegetables Market",
+      "address": "#787, Moolakazhani, Kayarambedu, Nellikuppam main road, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.813922699999999,
+      "lon": 80.0769438
+    },
+    {
+      "id": "chij5elugdj3ujorjybopqccusg",
+      "title": "Kani Fruits & Vegetables",
+      "address": "No.19, Velmurugan Nagar, Urapakkam, Chennai, Tamil Nadu 603211",
+      "lat": 12.868093,
+      "lon": 80.0641318
+    },
+    {
+      "id": "chij696iouj0ujortrz43nlu4nw",
+      "title": "வித்ய்ஸ்ரீ காய்கறி மற்றும் மளிகை அங்காடி",
+      "address": "Manimangalam, Tamil Nadu 601301",
+      "lat": 12.9184969,
+      "lon": 80.042647
+    },
+    {
+      "id": "chij_yjfebl2ujorxtatwn6igvy",
+      "title": "Otteri Vegetable Store",
+      "address": "Shop No:6/224, Otteri Vegetable Store, New Otteri, Manikka Jalakanda Salai, Otteri, Otteri Extension, Vandalur, Chennai, Tamil Nadu 600048",
+      "lat": 12.8812597,
+      "lon": 80.07903619999999
+    },
+    {
+      "id": "chijpeufsnv7ujorrnbwjjviyj4",
+      "title": "Maya Vegetables",
+      "address": "P2Q2+CG7 Maya Vegetables, Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7385448,
+      "lon": 80.00131209999999
+    },
+    {
+      "id": "chijl_s87vvfujorckmgg1aggci",
+      "title": "Puvi Stores",
+      "address": "200, Gandhi Rd, Alappakam, New Perungalathur, Chennai, Sadhanathapuram, Tamil Nadu 600063",
+      "lat": 12.8964055,
+      "lon": 80.1100288
+    },
+    {
+      "id": "chijcqzaz3l3ujorkpwpffccqva",
+      "title": "Durgaswamy Supermarket",
+      "address": "R2FV+6QF Durgaswamy Supermarket, Intra College Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.823065399999999,
+      "lon": 80.0444103
+    },
+    {
+      "id": "chijqsemz6z3ujorj3zgd4xbwoa",
+      "title": "K.K.S Chennai Poyembedu Vegetables Shop",
+      "address": "No.26, Nellikuppam Rd, Guduvancheri, Chennai, Tamil Nadu 603202",
+      "lat": 12.8433251,
+      "lon": 80.06031809999999
+    },
+    {
+      "id": "chijb7owin77ujor_ppqd1tmvv8",
+      "title": "KVN KARUNA Vegetables",
+      "address": "No 7/23 Hanumanthapuram Road, Netaji St, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7591383,
+      "lon": 80.0068443
+    },
+    {
+      "id": "chijo9odvvv2ujorc4jv33ufbne",
+      "title": "Balaji Vegetables",
+      "address": "Periyar St, Madambakkam, Tamil Nadu 603202",
+      "lat": 12.8525163,
+      "lon": 80.0459803
+    },
+    {
+      "id": "chijyclksrlfujorztqz-b-ni_4",
+      "title": "Devi Vegetable and fruits shop",
+      "address": "X45H+XVQ Devi Vegetable and fruits shop, 1st St, Angalamman Nagar, Saraswathipuram, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.959961199999999,
+      "lon": 80.12974419999999
+    },
+    {
+      "id": "chijv14p_cn7ujorkwl68yq4g48",
+      "title": "Hygreva Supermarket",
+      "address": "1,Rajendra Nagar,jubilee road,Chettipuniyam, near Mahendra city, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7464655,
+      "lon": 79.986519
+    },
+    {
+      "id": "chijq7_zxwd3ujors7uhzkfuvxs",
+      "title": "Kovai Pazhamudir Nilayam - Vanchuvancheri, Guduvancheri",
+      "address": "Shop No 7, Kovai Pazhamudir Nilayam - Vanchuvancheri, Guduvancheri, Nellikuppam Rd, Usha Nagar, Vanchuvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.827919,
+      "lon": 80.07429549999999
+    },
+    {
+      "id": "chij1u2t-6p3ujor4kw7wzxxkk0",
+      "title": "Mohan Vegetables and Fruits",
+      "address": "R29Q+296 Mohan Vegetables and Fruits, Thiruvalluvar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.817535699999999,
+      "lon": 80.0383904
+    },
+    {
+      "id": "chijq3znqx_9ujorslslre-l93a",
+      "title": "ஈரோடு இயற்கை அங்காடி ( Erode Iyarkai Ankadi )",
+      "address": "TKM Road, Alapakkam, Vallam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.679670199999999,
+      "lon": 79.99394749999999
+    },
+    {
+      "id": "chiju-cu8e_3ujork9k6s4z0zpk",
+      "title": "Sri Dhanam Supermart",
+      "address": "no 854, Nellikuppam Road kayarambedu, post, Moolakazhani, Tamil Nadu 603202",
+      "lat": 12.817508799999999,
+      "lon": 80.0771062
+    },
+    {
+      "id": "chij1uaaeql7ujorrn4d4rh6czu",
+      "title": "VKR FOODS",
+      "address": "No5B sai, behind A2B, Srivari Nagar, Singaperumal Koil, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.764620899999999,
+      "lon": 80.0111786
+    },
+    {
+      "id": "chijxvw7v3l9ujorgxehxxip4ek",
+      "title": "UZHAVAN ORGANIC SHOP",
+      "address": "9, Devadoss St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6882931,
+      "lon": 79.9804675
+    },
+    {
+      "id": "chijjz2kxa32ujorcyiqasmdczq",
+      "title": "THEERTHIYAPPAN PAZHAMUDIRCHOLAI",
+      "address": "Manicka Jalaganda St, opposite to govt .primary school, Otteri, Otteri Extension, Chennai, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8818092,
+      "lon": 80.0771273
+    },
+    {
+      "id": "chij0_sk_en5ujornceax49fyly",
+      "title": "காய்கறி கடை",
+      "address": "Q2XF+8G9 காய்கறி கடை, Thiruvalluvar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7982795,
+      "lon": 80.0238664
+    },
+    {
+      "id": "chij_foccqd9ujor_xpawwgps2c",
+      "title": "Namma kaikari kadai",
+      "address": "MXJR+8PV Namma kaikari kadai, bus stop, near vallam, Alapakkam, Chengalpattu, Pattaravakkam, Tamil Nadu 603003",
+      "lat": 12.6807652,
+      "lon": 79.9918915
+    },
+    {
+      "id": "chijfd4dm6z3ujorjj4nlqxuyc0",
+      "title": "M.S.M. Vaazhai Ilai Vyabaaram",
+      "address": "2/6, Railway Station Rd, near Dena Bank, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8445211,
+      "lon": 80.0595982
+    },
+    {
+      "id": "chijxyrgbqd3ujor9rlwteotl2m",
+      "title": "KOYAMBEDU VEGETABLE MARKET",
+      "address": "R27G+298 KOYAMBEDU VEGETABLE MARKET, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8125424,
+      "lon": 80.02596799999999
+    },
+    {
+      "id": "chijmcsuxajfujorzfl70ilt99g",
+      "title": "ஸ்ரீ அய்யனார் மளிகை & காய்கறி கடை",
+      "address": "பின்னால் வானும்பேட்டை சர்ச் பின்புறம், நம்பர் 21, Chidambaranar St, வானம்பேட்டை, Tambaram, Tamil Nadu 600063",
+      "lat": 12.9136359,
+      "lon": 80.0996916
+    },
+    {
+      "id": "chijdbxpwapfujorjroqjzbpl_y",
+      "title": "Nellai Pandi Vegatable Store",
+      "address": "W4RR+WH9 Nellai Pandi Vegatable Store, Dr Rajendra Prasad Rd, Kumudham Colony, Nehru Nagar, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9422836,
+      "lon": 80.1414746
+    },
+    {
+      "id": "chijqszk_1dfujor3b2-cz2cruy",
+      "title": "S M Kaikari Angadi & Palakadai",
+      "address": "24, V.O.C St, Kamaraj Nagar, Peerkanakaranai, Chennai, Tambaram, Tamil Nadu 600063",
+      "lat": 12.9048336,
+      "lon": 80.0984256
+    },
+    {
+      "id": "chiji_wmqglfujory8hm22raoii",
+      "title": "Ammaal Vegetable Stores",
+      "address": "No.3, Station Rd, Tambaram Sanatoruim, Tambaram, Tamil Nadu 600047",
+      "lat": 12.937332699999999,
+      "lon": 80.1288205
+    },
+    {
+      "id": "chijewfrm-p1ujorbkisqpfm3-w",
+      "title": "Rajeswari Store",
+      "address": "2nd Cross Rd, Singarathottam, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8968546,
+      "lon": 80.0866692
+    },
+    {
+      "id": "chijw2ihfaz7ujorbbb3ceh340g",
+      "title": "Govindasami",
+      "address": "Railway Station Rd, Kanchipuram, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.763246599999999,
+      "lon": 80.003474
+    },
+    {
+      "id": "chijkr7iy1l2ujortbbrjewmiua",
+      "title": "Ulavar Santhai Market",
+      "address": "R3W7+Q6F Ulavar Santhai Market, NH Service Road, Chennai - Theni Hwy, Jaibeemnagar, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8469378,
+      "lon": 80.0630576
+    },
+    {
+      "id": "chijttebb631ujor1hut3yl6324",
+      "title": "Aachi Kaikari Kadai",
+      "address": "1228 Venkateshwara nagar, Periyar Nagar no 61, Kundrathur, Nandambakkam, Tamil Nadu 600133",
+      "lat": 12.979881599999999,
+      "lon": 80.0540595
+    },
+    {
+      "id": "chija_malbd9ujoruosfrkzq8qy",
+      "title": "Rithick",
+      "address": "23, T.K.M Rd, Alapakkam, Chengalpattu, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6771734,
+      "lon": 79.9990074
+    },
+    {
+      "id": "chij77ahomh5ujorry5kbfuim3u",
+      "title": "DSA Vegetable Shop",
+      "address": "Q255+GVJ DSA Vegetable Shop, Sengundram Rd, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.758754999999999,
+      "lon": 80.0096696
+    },
+    {
+      "id": "chijizdkq3b2ujorjq3jeo1u8le",
+      "title": "செந்தில் முருகன் மளிகை & காய்கனி சிரப்பு அங்காடி",
+      "address": "V3R9+6F3 செந்தில் முருகன் மளிகை & காய்கனி சிரப்பு அங்காடி, Mannivakkam Extension, Vandalur, Tamil Nadu 600048",
+      "lat": 12.890502099999999,
+      "lon": 80.06866509999999
+    },
+    {
+      "id": "chijte6ti-bhujorsraiudissbq",
+      "title": "J.J. Kaykari Kadai",
+      "address": "24Q7+H8X J.J. Kaykari Kadai, Kamachi Nagar, Poonamallee, Mangadu, Tamil Nadu 600122",
+      "lat": 13.0389977,
+      "lon": 80.11336159999999
+    },
+    {
+      "id": "chij0d3d8k32ujorunczg1fo9ho",
+      "title": "ROGERS FAMILY MART",
+      "address": "GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8511688,
+      "lon": 80.065152
+    },
+    {
+      "id": "chijsve9up1dujor3bvaxwlb-1u",
+      "title": "Kovai Pazhamudir Nilayam - Nanganallur, Chennai",
+      "address": "VSV Enterprises, No 8A Jayanthi Nagar, 8A, 6th Main Rd, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9853741,
+      "lon": 80.1879687
+    },
+    {
+      "id": "chij83l2qfxeujory4i0orzxqci",
+      "title": "Suyambulingam Veg & Fruits Market.",
+      "address": "5, Chitlapakkam Main Rd, Rajarajeshwari Nagar, Gomathy Nagar, Sembakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9299275,
+      "lon": 80.1482254
+    },
+    {
+      "id": "chijew2w_rfdujorgl7ch8oweau",
+      "title": "Kovai Pazhamudir Nilayam - Perungudi, Chennai",
+      "address": "77, Main Rd, near Ration Shop, Phase-1, Tirumalai Nagar, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.961040599999999,
+      "lon": 80.2433464
+    },
+    {
+      "id": "chij3d9f3stdujortipa1_l9veo",
+      "title": "A.R.S Fruits & Vegetable Shop",
+      "address": "W6X4+C75 A.R.S Fruits & Vegetable Shop, Pallavaram-Thuraipakkam Rd, Ganesh Avenue, Rose Avenue, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9485146,
+      "lon": 80.2057475
+    },
+    {
+      "id": "chijkzasb_5mujora_5kehraq8u",
+      "title": "Vegetable Wholesale Market",
+      "address": "26PH+P33 Vegetable Wholesale Market, Railway Station Rd, near T., R K Nagar, Postal Colony, West Mambalam, Chennai, Tamil Nadu 600017",
+      "lat": 13.0367538,
+      "lon": 80.2276782
+    },
+    {
+      "id": "chij2cnmw5nnujor8kihrmksrvc",
+      "title": "Organic Farmers Market",
+      "address": "1, 2nd Link St, Karpagam Gardens, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0076413,
+      "lon": 80.2632481
+    },
+    {
+      "id": "chij08spwjneujorv65xcmrku-m",
+      "title": "Pallavaram Uzhavar weekly Sandhai",
+      "address": "X5G5+GP2 Pallavaram Uzhavar weekly Sandhai, RC Church Rd, Arumalai Chavadi, Pallavaram, Pallavaram (Contonment), Tamil Nadu 600043",
+      "lat": 12.976258099999999,
+      "lon": 80.1592809
+    },
+    {
+      "id": "chij1yat5pndujorbaqc6zc0-6u",
+      "title": "Pazhamudhir Cholai",
+      "address": "24, Balaji Nagar Main Rd, Cooperative Nagar, Balaji Nagar Extn-II, Balaji Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.9799633,
+      "lon": 80.2045747
+    },
+    {
+      "id": "chijrszgeh9nujorpaifp2z-nf4",
+      "title": "T'Nagar Market",
+      "address": "26PH+Q4P T'Nagar Market, Natesan St, Postal Colony, West Mambalam, Chennai, Tamil Nadu 600017",
+      "lat": 13.0369535,
+      "lon": 80.22781739999999
+    },
+    {
+      "id": "chijwvoylo5fujor-q4bpluuog0",
+      "title": "Pallavaram Friday Market",
+      "address": "Old Trunk Rd, Arumalai Chavadi, Pallavaram, Pallavaram (Contonment), Tamil Nadu 600043",
+      "lat": 12.9786039,
+      "lon": 80.162742
+    },
+    {
+      "id": "chijcatvbw9nujorcjpsrvmmhee",
+      "title": "Saidapet Market",
+      "address": "36, Jeenis Rd, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.0211116,
+      "lon": 80.2239403
+    },
+    {
+      "id": "chijt3mtda9cujorp7dxcxs9tuo",
+      "title": "NELLAI PAZHAMUTHIR SOLAI 1.0",
+      "address": "Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9057722,
+      "lon": 80.1995586
+    },
+    {
+      "id": "chijec4ihefeujorqll7vo1t2fo",
+      "title": "London Vegetables",
+      "address": "13, Dharga Rd, Zamin Pallavaram, Thiruvalluvar Nagar, Pallavaram, Tambaram, Tamil Nadu 600043",
+      "lat": 12.9609618,
+      "lon": 80.161427
+    },
+    {
+      "id": "chij01u1bqbfujora3e6nhsgs28",
+      "title": "KPN Fresh - CBI Colony, Medavakkam",
+      "address": "Plot No 29/1A, Ravi St, beside Ryzon Sports Academy, RG Nagar, Medavakkam, Vengavasal, Tamil Nadu 600073",
+      "lat": 12.9119988,
+      "lon": 80.18359889999999
+    },
+    {
+      "id": "chijb-pfmtrmujorz-ldoj9jce4",
+      "title": "Organic Shandy",
+      "address": "177, Luz Church Rd, Kattukoil Garden, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0386189,
+      "lon": 80.2595967
+    },
+    {
+      "id": "chijasbowtbdujorectz9vkha6y",
+      "title": "Gayathri",
+      "address": "1, East Coast Rd, Venkateswara Nagar, New Colony, Kottivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.966783999999999,
+      "lon": 80.2571195
+    },
+    {
+      "id": "chijutkld85bujorvt-ebnh89t0",
+      "title": "Vegetable",
+      "address": "OMR Mine Road, 33/40, OMR, Thoraipakkam, Tamil Nadu 600131",
+      "lat": 12.884525799999999,
+      "lon": 80.2057689
+    },
+    {
+      "id": "chijnbrikwbdujorbvqs1dq57y8",
+      "title": "Vegetable shop",
+      "address": "W6X2+G43 Vegetable shop, S. Kolathur, S.Kolathur, Viduthalai Nagar, Kovilambakkam, Chennai, Tamil Nadu 600117",
+      "lat": 12.948770699999999,
+      "lon": 80.2003021
+    },
+    {
+      "id": "chijnw6cy9hmujorw5jhmdwgjaw",
+      "title": "MGR Market",
+      "address": "26P2+2C3 MGR Market, Kalaignar Karunanidhi Rd, MGR Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600078",
+      "lat": 13.035015999999999,
+      "lon": 80.20105699999999
+    },
+    {
+      "id": "chijh5bpbftdujorslsj6ge6qzk",
+      "title": "Thiruvanmiyur Vegetable Market",
+      "address": "SH 49, adjacent Valmiki, Ambedkar Nagar, Kamaraj Nagar, templeThiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9860074,
+      "lon": 80.2591952
+    },
+    {
+      "id": "chijnum944zdujornrwxfvvzw-s",
+      "title": "Farmers Logistics",
+      "address": "Plot 70, Farmers Logistics, Cj home, Kumaran Kudil 4th Cross St, Mettukuppam, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.940765599999999,
+      "lon": 80.2405282
+    },
+    {
+      "id": "chij__9wnffmujorzprdphbwwme",
+      "title": "SRI NANDHINI VEGETABLE SUPPLIERS",
+      "address": "no 18, Dr flats, 10/18, 4th Main Rd, United India Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0513669,
+      "lon": 80.2236377
+    },
+    {
+      "id": "chijd4hwny1dujormchxumiqjcs",
+      "title": "Vegetable Vendor",
+      "address": "21, 6th Main Rd, Velachery West, MGR Nagar, Venkateswara Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9782262,
+      "lon": 80.21260819999999
+    },
+    {
+      "id": "chij1y9racxdujor1rougik4_ne",
+      "title": "A2B Greens Fruits",
+      "address": "318/A, 200 Feet Radial Rd, Ram Nagar South Extension, Rose Avenue, Madipakkam, Chennai, Tamil Nadu 600100",
+      "lat": 12.948293,
+      "lon": 80.20374489999999
+    },
+    {
+      "id": "chijhwc6uajdujorqz2secefuxk",
+      "title": "REJOICE GREEN MART",
+      "address": "Plot No 7, Soumya Nagar, Perumbakkam, Chennai, Vengavasal, Tamil Nadu 600100",
+      "lat": 12.908780799999999,
+      "lon": 80.19165249999999
+    },
+    {
+      "id": "chij6zompodcujor53wjrx-v9pc",
+      "title": "P.K. Sakthivel Vegetables and Provisions",
+      "address": "3/191, SH 49, Bismillah Nagar, Teachers Colony, Vettuvankeni, Chennai, Tamil Nadu 600115",
+      "lat": 12.9380511,
+      "lon": 80.2529689
+    },
+    {
+      "id": "chijp_qiynjdujorsjktcu6a5_m",
+      "title": "Thavasi stores",
+      "address": "3001, 5th Cross St, Ram Nagar South, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.964120999999999,
+      "lon": 80.2069592
+    },
+    {
+      "id": "chijm-7-ngpnujor7ke9iwnk1t4",
+      "title": "KRR Farm Fresh Vegetables",
+      "address": "Wholesale Market Complex, H-66, Venkatesh Nagar, Koyambedu, Chennai, Tamil Nadu 600092",
+      "lat": 13.0556444,
+      "lon": 80.1969799
+    },
+    {
+      "id": "chijlqid4ujeujorquc7_w3_iua",
+      "title": "Nellai Vegetable & Fruit Market",
+      "address": "W4JX+RFP Nellai Vegetable & Fruit Market, 2nd Main Rd, opposite to Nilgiris, Sarvamangala Nagar, Chitlapakkam, Tambaram, Tamil Nadu 600064",
+      "lat": 12.932082999999999,
+      "lon": 80.14869759999999
+    },
+    {
+      "id": "chij5bsgsvjeujorfa4ik4fj8_0",
+      "title": "Vasantham Vegetables Shop",
+      "address": "no106, Station Rd, nagarChromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.950961099999999,
+      "lon": 80.1436957
+    },
+    {
+      "id": "chijaer4m_nnujorwtr50ac4xbe",
+      "title": "NVR VEGETABLES",
+      "address": "no 13/33, Habibullah Sahib St, Ellis Puram, Padupakkam, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0596617,
+      "lon": 80.2726022
+    },
+    {
+      "id": "chiji2mnm75nujoruxu86n4hsco",
+      "title": "Ooty vegetables",
+      "address": "26VV+4P4 Ooty vegetables, N Boag Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0427682,
+      "lon": 80.244327
+    },
+    {
+      "id": "chijyyby9fxgujorj_obxavoxaa",
+      "title": "J.J. Market",
+      "address": "z, Number. 22, Kundrathur Main Rd, Vigneshwara Nagar, Porur, Chennai, Tamil Nadu 600125",
+      "lat": 13.028058699999999,
+      "lon": 80.1512738
+    },
+    {
+      "id": "chijb-ayphpdujor1qz8rsfhqqk",
+      "title": "Villa 42",
+      "address": "42, Chettinadu Green Villas Rd, Nesamani Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.899322999999999,
+      "lon": 80.1963778
+    },
+    {
+      "id": "chijasfu_rzfujorqvqfgewqehe",
+      "title": "Dharshan fruits and vegetables",
+      "address": "2, Nallathambi Main Rd, Pammal, Tambaram, Tamil Nadu 600075",
+      "lat": 12.9783838,
+      "lon": 80.13629619999999
+    },
+    {
+      "id": "chijm7h3k1nnujorgcbqpddvqdm",
+      "title": "Era. Anbalagan vegetables wholesale shop",
+      "address": "133, Railway Border Rd, Postal Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0355592,
+      "lon": 80.227412
+    },
+    {
+      "id": "chijftnjkvbeujorns5izd_xf-8",
+      "title": "Uzhavar Santhai",
+      "address": "W5X3+G2M Uzhavar Santhai, Nemilichery High Rd, Periyar Nagar, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9488335,
+      "lon": 80.1525472
+    },
+    {
+      "id": "chij8ytuus5nujorfxpntltazhs",
+      "title": "Andavar Vegetables Shop",
+      "address": "Thangal karai, Dharan Singh Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0534708,
+      "lon": 80.20912469999999
+    },
+    {
+      "id": "chijudyamdvcujoremo-qfjs-ow",
+      "title": "Suyambulingam Vegetable And Fruits",
+      "address": "100, 1st Main Rd, Kamakoti Nagar, Pallikaranai, Chennai, Kanchipuram, Tamil Nadu 600100",
+      "lat": 12.9422666,
+      "lon": 80.2082099
+    },
+    {
+      "id": "chijjbg1281fujorlyubyy63l7i",
+      "title": "Saila Farms (Indigenous Farms)",
+      "address": "old no 18, Saila Farms (Indigenous Farms), 27, Jothi Nagar 1st St, Venkataraman Nagar, Jothi Nagar, Chitlapakkam, Tambaram, Tamil Nadu 600064",
+      "lat": 12.9389852,
+      "lon": 80.14016099999999
+    },
+    {
+      "id": "chij39bn_8jhujorhiuvpk4vh-q",
+      "title": "Anandhi Vegetables & Fruits Shop",
+      "address": "No.90, Main Rd, Jayalakshmi Nagar, Kattupakkam, Kattuppakkam, Tamil Nadu 600056",
+      "lat": 13.0443783,
+      "lon": 80.12474929999999
+    },
+    {
+      "id": "chijcapiqehdujorzvaol15jcui",
+      "title": "Svs daily fresh",
+      "address": "W5FX+72W Svs daily fresh, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9232325,
+      "lon": 80.1975798
+    },
+    {
+      "id": "chijsbiyrfbmujor7rx80ydgonc",
+      "title": "Nagaraj fruits & vegetables shop",
+      "address": "40, Viswanathapuram Main Rd, Viswanatha Puram, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0468529,
+      "lon": 80.22637499999999
+    },
+    {
+      "id": "chijk-yg9q5dujorxxlb3x1-zaq",
+      "title": "Suyambulingam Fruits Centre",
+      "address": "48/38, 1st Main Rd, Phase-1, Tirumalai Nagar, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9598525,
+      "lon": 80.2404904
+    },
+    {
+      "id": "chijzv-dvjbdujorqs5j2uvfyi4",
+      "title": "A2B Greens",
+      "address": "V.O.C, A2B Greens, 37F, Velachery Main Rd, Next To Sutherland, V.O.C Nagar, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.972946799999999,
+      "lon": 80.2206384
+    },
+    {
+      "id": "chijk6wkki1mujorqjz4yektxf0",
+      "title": "Palamuthircholai Vegetable",
+      "address": "125/6, Vanniar St, Choolaimedu, Chennai, Tamil Nadu 600024",
+      "lat": 13.0582926,
+      "lon": 80.2236801
+    },
+    {
+      "id": "chijfrxknizhujorrxadkcm_jxy",
+      "title": "Kulasai Mutharamman Kaaikari Angadi",
+      "address": "No. 25, S.V.S Nagar Main Road, 1st Main Rd, Subramanya Swamy Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.038400099999999,
+      "lon": 80.17244579999999
+    },
+    {
+      "id": "chijaumwo-1mujor6efwncgsxju",
+      "title": "வெண்மேகம் காய்கறி கடை",
+      "address": "64, Sivan Kovil S St, Parameshwari Colony, Gangai Amman Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0564241,
+      "lon": 80.2191161
+    },
+    {
+      "id": "chijcs44hsdnujorguafx2zbsgc",
+      "title": "சக்தி காய்கறி கடை",
+      "address": "MGR Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.033273099999999,
+      "lon": 80.2008536
+    },
+    {
+      "id": "chij8wrb7sjnujorva10ev44qzs",
+      "title": "VIP vegetable Merchant",
+      "address": "No. 6, Marutham Street, MGR Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.035312999999999,
+      "lon": 80.2018757
+    },
+    {
+      "id": "chijm0zgxgbnujorudsthwg7tyg",
+      "title": "அண்ணாச்சி காய்கறி அங்காடி",
+      "address": "23/1, Venkatesh Nagar, Abbusali Street, AVM St, SBI Colony, Saligramam, Chennai, Tamil Nadu 600092",
+      "lat": 13.0537482,
+      "lon": 80.1995548
+    },
+    {
+      "id": "chijq0esmd5nujorr0lrpv501_i",
+      "title": "Kavitha vegetable market",
+      "address": "26XP+4CF Kavitha vegetable market, Dr Sadasivam Rd, Rama Kamath Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0478048,
+      "lon": 80.23605359999999
+    },
+    {
+      "id": "chijuz1inppmujorufn8s97iftu",
+      "title": "K. Subbaiah Vegetable and Fruit Shop",
+      "address": "14, Thambiah Rd, Ramakrishnapuram, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0439399,
+      "lon": 80.22537009999999
+    },
+    {
+      "id": "chijfx-r58jnujor0wrvn1bn_k4",
+      "title": "ஸ்ரீ sri vegetable and fruit store",
+      "address": "354Q+6RR ஸ்ரீ sri vegetable and fruit store, West St, Natesan Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.0556117,
+      "lon": 80.1895172
+    },
+    {
+      "id": "chijbfrr_yrhujorxb2zpud7yy8",
+      "title": "Lingam Store",
+      "address": "78, Thiruvalluvar Salai, East Kamakoti Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.0415146,
+      "lon": 80.1734677
+    },
+    {
+      "id": "chijh3y3ncdhujorvmpekhtbkmo",
+      "title": "Sri Saravana Vegetables And Fruits Shop",
+      "address": "25MF+HG6 Sri Saravana Vegetables And Fruits Shop, Senthil Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0339139,
+      "lon": 80.1737713
+    },
+    {
+      "id": "chijtdshsl1mujoreol9kdziubu",
+      "title": "S.K.D Kaikari Mattrum Maligai Kadai",
+      "address": "73, Rama St, Ponnangipuram, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.056909899999999,
+      "lon": 80.2432307
+    },
+    {
+      "id": "chij_-hjahthujornw-v2abk_yc",
+      "title": "லட்சுமி மளிகை & காய்கறி கடை",
+      "address": "25Q4+J7J லட்சுமி மளிகை & காய்கறி கடை, 3rd St, Karambakkam, Ponni Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.039078499999999,
+      "lon": 80.1556346
+    },
+    {
+      "id": "chijxfuzjcpnujorqtpgg4_wvta",
+      "title": "Lakshmi Fruit and Vegetable",
+      "address": "32, Abhiramapuram 4th St, Vidhya Thirtha Nagar, Abiramapuram, Chennai, Tamil Nadu 600018",
+      "lat": 13.0308385,
+      "lon": 80.2564587
+    },
+    {
+      "id": "chij15p3xsrhujorkpvdp3viaui",
+      "title": "Muthu Vegetable Store",
+      "address": "23, West Kamakoti Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.043548999999999,
+      "lon": 80.172642
+    },
+    {
+      "id": "chijf2auwivnujorkzobbepyul8",
+      "title": "Uyir Organic Farmers Market, Chennai Mylapore",
+      "address": "3rd St, East Abiramapuram, Bhaskarapuram, Abiramapuram, Chennai, Tamil Nadu 600004",
+      "lat": 13.0337459,
+      "lon": 80.2634243
+    },
+    {
+      "id": "chijezszomrhujorg2rbul2tm7o",
+      "title": "Bala Vegetable Shop",
+      "address": "407, Trunk Rd, Kumananchavadi, Kattuppakkam, Tamil Nadu 600056",
+      "lat": 13.045829099999999,
+      "lon": 80.1138467
+    },
+    {
+      "id": "chijvsirh0jnujor4_bu3r3qsye",
+      "title": "Nilakari surangam",
+      "address": "65-20, MGR Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.0341769,
+      "lon": 80.1978476
+    },
+    {
+      "id": "chiji-wazxbnujorr7ufkq_rv74",
+      "title": "Udhayam Store",
+      "address": "Shop No. 10, Udhayam Store, Anjaneyar Koil St, West Saidapet, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.021210199999999,
+      "lon": 80.2159677
+    },
+    {
+      "id": "chijezepwe9gujor7vatkgebaxq",
+      "title": "Pazhamudhir Cholai - Makal Santhai",
+      "address": "600116, Ramya Nagar, Mugalivakkam, Chennai, Tamil Nadu 600125",
+      "lat": 13.0206722,
+      "lon": 80.15851479999999
+    },
+    {
+      "id": "chij_7lwobnnujorlfbskclhwue",
+      "title": "Kadhir Farm Fresh & Organics",
+      "address": "6/13, 21st Cross St, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.9943853,
+      "lon": 80.25383409999999
+    },
+    {
+      "id": "chijn8lovk9mujorhev-zynta74",
+      "title": "Dhanyam Organic Superstore",
+      "address": "No. 24, N Boag Rd, Lakshimi Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0454806,
+      "lon": 80.24483839999999
+    },
+    {
+      "id": "chijfyry5_jgujorwklanci58ru",
+      "title": "Annai Vegetables Fruit Shop",
+      "address": "7, Anna Main Rd, Karumariamman Nagar, Kolapakkam, Tamil Nadu 600128",
+      "lat": 13.0109642,
+      "lon": 80.15180459999999
+    },
+    {
+      "id": "chijf7t3spxmujorsvco0uo5vrq",
+      "title": "Maatram Organic Store",
+      "address": "1, Mahadevan Street, Aryagowda Rd, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0382343,
+      "lon": 80.2208653
+    },
+    {
+      "id": "chijmws0wu39ujorvuvcg8xfgio",
+      "title": "Five Star Carts",
+      "address": "Kanchipuram High Road, Timmavaram, Chettipunyam Landmark - Backside Of Jai Lakshmi Electricals and Hardwares, Tamil Nadu 603101",
+      "lat": 12.715162699999999,
+      "lon": 79.95812629999999
+    },
+    {
+      "id": "chijg6utdln9ujorbuei50v7yla",
+      "title": "Nilgiris",
+      "address": "No 89-90, PV Kalathur - Thirukazhukundram Rd, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6818621,
+      "lon": 79.98959359999999
+    },
+    {
+      "id": "chij4xj3chp7ujorpzo265xdl8w",
+      "title": "PRABHU FRUITS STALL",
+      "address": "78, Mahindra World City, Veerapuram, Thirutheri R.F., Tamil Nadu 603002",
+      "lat": 12.7265964,
+      "lon": 79.9960722
+    },
+    {
+      "id": "chijcsm9kj79ujorepv6ttee9ey",
+      "title": "Juice Gallery",
+      "address": "Land Mark, 34, Ragavanar St, near St Joseph school, Vedachalam Nagar, branch, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6877877,
+      "lon": 79.9774456
+    },
+    {
+      "id": "chijizifbmn8ujorwqjwwr_hdqe",
+      "title": "AROGYAM ORGANIC SUPER STORES",
+      "address": "Devarajanar Street, Vedhachala Nagar Near St. Joseph Matriculation Hr. Sec School Chengalpet - 603 002 CHENALPATTU, Tamil Nadu 603001",
+      "lat": 12.687632899999999,
+      "lon": 79.9786853
+    },
+    {
+      "id": "chij8xt16anvujorrxvnzyy9glg",
+      "title": "Bhuvaneswari Vegetable Shop",
+      "address": "Middle street, Kottamedu, Tamil Nadu 603108",
+      "lat": 12.710587499999999,
+      "lon": 80.1089843
+    },
+    {
+      "id": "chij34ipft_2ujorqlvxdgtibd4",
+      "title": "Punitha vegetable super market",
+      "address": "25, lakshmi shopping complex iyyencherri main road, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.866534099999999,
+      "lon": 80.0759911
+    },
+    {
+      "id": "chijnykorwt3ujor4h90mggq04i",
+      "title": "MARI VEGETABLE SHOP",
+      "address": "5, Mailiyamman Kovil Street, Karanaipudhuchery, Kanchipuram, Karanaipuducheri, Tamil Nadu 603202",
+      "lat": 12.8496823,
+      "lon": 80.0814439
+    },
+    {
+      "id": "chijdbiddnv7ujorqm_nrevnaao",
+      "title": "Renu Store",
+      "address": "Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7379734,
+      "lon": 79.99987
+    },
+    {
+      "id": "chijfegirj_9ujorpra6rhib6mi",
+      "title": "Fresh Hub",
+      "address": "40/15, Dr Varadharajan St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.686788799999999,
+      "lon": 79.9805887
+    },
+    {
+      "id": "chijo2z5owd9ujorkptqghfolwe",
+      "title": "Kovai Pazhamudir Nilayam - Vallam, Chennai",
+      "address": "Plot No 74 &75, TKM Rd, Nandha Gopal Nagar, Alapakkam, Chengalpattu, Vallam, Tamil Nadu 603003",
+      "lat": 12.6817291,
+      "lon": 79.9900463
+    },
+    {
+      "id": "chijge9fead7ujorglnf6rc9l4i",
+      "title": "GM VEGITABLE & FRUITS SHOP",
+      "address": "Sengeniamman Kovil St, Mahindra World City, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.737759899999999,
+      "lon": 79.9998305
+    },
+    {
+      "id": "chijm6-i3gz7ujorcazgjbdnuly",
+      "title": "Wholesale fresh vegetables Market",
+      "address": "PXRQ+JX3 Wholesale fresh vegetables Market, Sivagami Nagar St, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.7408422,
+      "lon": 79.99099369999999
+    },
+    {
+      "id": "chijgvxryqd9ujorr0xnckzvlr4",
+      "title": "MS fruit Shop",
+      "address": "MXX9+QGW MS fruit Shop, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6994861,
+      "lon": 79.9688218
+    },
+    {
+      "id": "chijp5tat2_8ujor-mwtcmjncjy",
+      "title": "Flower Market, Chengalpattu",
+      "address": "Anna Salai High Rd J C K Nagar Chengalpattu Kanchipuram Tamil Nadu 603001 Republic of, Tamil Nadu 603002",
+      "lat": 12.6940729,
+      "lon": 79.9774043
+    },
+    {
+      "id": "chijt8vz0539ujorovevg251dyk",
+      "title": "Manishikaa Traders (மணிஷிகா டிரேடர்ஸ் ) Aachi masala Food in Distributor",
+      "address": "No.88, GST ROAD, PULIPAKKAM, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7068748,
+      "lon": 79.9772066
+    },
+    {
+      "id": "chijjx-rx179ujorzicrawvfp7q",
+      "title": "C V M VEGETABLE SHOP",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6958366,
+      "lon": 79.9769458
+    },
+    {
+      "id": "chijqr_kbad7ujortpnb4xz36yo",
+      "title": "Pachaiamman Fruit shop",
+      "address": "No.220, Pachaiamman Fruit shop, MAHINDRA WORLD CITY, Mahindra World City, Thirutheri R.F., Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.737780899999999,
+      "lon": 80.00195289999999
+    },
+    {
+      "id": "chijr6jqa2r7ujoryuaoh2clmqw",
+      "title": "RK Vegetables",
+      "address": "Mahindra World City, Chengalpattu, Chettipunyam, Tamil Nadu 603002",
+      "lat": 12.740477499999999,
+      "lon": 79.99061209999999
+    },
+    {
+      "id": "chijey-a3dx9ujoroabgjd9lawk",
+      "title": "Vasudevan Vegetables",
+      "address": "Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6961667,
+      "lon": 79.9769231
+    },
+    {
+      "id": "chijp6xsi8b9ujorly--ffdakdg",
+      "title": "MUNISHVARAN CHICKEN AND VEGETABLES SHOP",
+      "address": "1st Main Rd, Kamarajar Nagar, Vembakkam, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6729153,
+      "lon": 79.982147
+    },
+    {
+      "id": "chij63zzigv_ujorgbfx6e1wqrw",
+      "title": "Vikash Stores",
+      "address": "Shop no3, Vikash Stores, Kumarasamy complex, near AMSAM MAHAL, Thirukazhukundram road, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6659916,
+      "lon": 80.0144108
+    },
+    {
+      "id": "chijuwusxyb9ujorcmm67azwmym",
+      "title": "SREE PERUMAL FRUITS SHOP",
+      "address": "1, GST Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6840186,
+      "lon": 79.9832512
+    },
+    {
+      "id": "chijfyyh7rh9ujoru54leysftlu",
+      "title": "Selvi Fruits Shop",
+      "address": "No 11, Rajaji St, near New Bus Stand, J C K Nagar, Chennai, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.691389899999999,
+      "lon": 79.9804734
+    },
+    {
+      "id": "chijt0i1i9b3ujor4i7rt0wzqqm",
+      "title": "AR Traders",
+      "address": "21, near Samiyar Gate, Peramanur, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7901969,
+      "lon": 80.0164377
+    },
+    {
+      "id": "chijb_nqmzr_ujorl0uubl8690q",
+      "title": "Greens supermarket",
+      "address": "No 6, Tkm road, Santhi Nagar, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6661486,
+      "lon": 80.01351269999999
+    },
+    {
+      "id": "chij4zj88un8ujor2_i-m5k--kq",
+      "title": "M.S.Raja Super Market",
+      "address": "NGGO Nagar, Kamarajar Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6683984,
+      "lon": 79.9853852
+    },
+    {
+      "id": "chijeetcqm78ujoryekojb4rius",
+      "title": "Anbu Super Market",
+      "address": "No.29, Pillayar Kulam Street, New Bus Stand, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.690469799999999,
+      "lon": 79.9807233
+    },
+    {
+      "id": "chijrxhitw78ujor24gq5zamt7e",
+      "title": "New India Supermarket",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6937398,
+      "lon": 79.9783463
+    },
+    {
+      "id": "chij-0jdnqd9ujorsyvzen-xc2q",
+      "title": "PRC vegetable shop",
+      "address": "MXWG+4RJ PRC vegetable shop, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.695340999999999,
+      "lon": 79.97701909999999
+    },
+    {
+      "id": "chijkxg19h39ujorws0qfqcikgy",
+      "title": "SIVAGAMI FRUITS SHOP",
+      "address": "Old Buatand, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.696134299999999,
+      "lon": 79.97692719999999
+    },
+    {
+      "id": "chijqx41nsp9ujor795ftwj4_mm",
+      "title": "PAVITHRA FRUIT SHOP",
+      "address": "10, GST Rd, opp. Police Station, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.696180499999999,
+      "lon": 79.9770783
+    },
+    {
+      "id": "chij40md-kp8ujorlje2h667lu0",
+      "title": "Sumathi Stores",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6791304,
+      "lon": 79.9801021
+    },
+    {
+      "id": "chijyfve93r9ujorlmpgibklpvy",
+      "title": "Jothilakshmi Vegetables Shop",
+      "address": "116, Ramakrishna Nagar, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.688030699999999,
+      "lon": 79.9886575
+    },
+    {
+      "id": "chijkds6ref9ujoru6c_5uipnzy",
+      "title": "AJS VEGETABLE EXPORT'S",
+      "address": "koottinaykar Building, 224, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6958679,
+      "lon": 79.9767083
+    },
+    {
+      "id": "chijetn4wqd9ujorom4-uehz91y",
+      "title": "லஷ்மி மளிகை கடை Basic Grocery store",
+      "address": "MXXF+63Q லஷ்மி மளிகை கடை Basic Grocery store, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6980953,
+      "lon": 79.9727198
+    },
+    {
+      "id": "chijc_dhafd8ujor7seirnu05uu",
+      "title": "More Supermarket",
+      "address": "No.1, Adams Plaza, T.K.M.Road Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.682089,
+      "lon": 79.9890729
+    },
+    {
+      "id": "chija3ziobx9ujora1wukasfw8s",
+      "title": "DD& Brothers Fruits And Vegetables 1",
+      "address": "2, Kanchipuram - Chengalpattu Rd, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.7040405,
+      "lon": 79.96450589999999
+    },
+    {
+      "id": "chijz1_kikn9ujortayapl_ak-w",
+      "title": "Ponniamman Vegetables",
+      "address": "Old Bus Stand, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.696087799999999,
+      "lon": 79.9767461
+    },
+    {
+      "id": "chij2_njldv9ujor4bgno0zupee",
+      "title": "PVT VEGETABLES",
+      "address": "54, Chinnamman Koil St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6954301,
+      "lon": 79.9772109
+    },
+    {
+      "id": "chijh1sk_br9ujorjbdcnpf0okk",
+      "title": "TP Vegetables",
+      "address": "56, Chinnamman Koil St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6950074,
+      "lon": 79.9770231
+    },
+    {
+      "id": "chijl-gzjxp9ujor6phextrvgaa",
+      "title": "DELLI VEGETABLES SHOP",
+      "address": "No 35 Cinnamman Kovil Street, Neer, Chinnamman Koil St, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6956788,
+      "lon": 79.9770484
+    },
+    {
+      "id": "chija59kbj39ujorrhrjxmanawy",
+      "title": "PVT VEGETABLES 2",
+      "address": "2, Market Road, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6956984,
+      "lon": 79.9769778
+    },
+    {
+      "id": "chijx8zpzuz7ujoropfytrsrfzk",
+      "title": "Mithra Fresh Farm Vegetables & Fruits",
+      "address": "Sai, No 4, 1st St, near Sri Bala Sastha Iyappan Temple, opposite to Sai Commercial Store, Srivari Nagar, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.7638623,
+      "lon": 80.0080461
+    },
+    {
+      "id": "chijb5gsvy79ujorujq-z6xjih4",
+      "title": "Velnila Vegetable Shop",
+      "address": "52, Main Road, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.678288199999999,
+      "lon": 79.9797523
+    },
+    {
+      "id": "chijmtjsonv7ujordrrmx7burfs",
+      "title": "Nilgiris Canopy",
+      "address": "Unit no.1-A, block-C, the canopy, ground floor, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7307179,
+      "lon": 80.00041039999999
+    },
+    {
+      "id": "chijz-7dhy_7ujori9jj49v3bk8",
+      "title": "SRI FAMILY MART",
+      "address": "Kanchipuram - Chengalpattu Rd, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.7071445,
+      "lon": 79.96241719999999
+    },
+    {
+      "id": "chij80-evw_8ujor5blxc23rypg",
+      "title": "Chengalpattu Fish Market",
+      "address": "Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.693823,
+      "lon": 79.97664929999999
+    },
+    {
+      "id": "chijbeu63uv9ujorwonmhxqs0ua",
+      "title": "KANCHANA VEGETABLE STORE",
+      "address": "100, Bazaar Rd, near Fish Market, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6940207,
+      "lon": 79.9771252
+    },
+    {
+      "id": "chijg7t0p3d9ujorgwrris1l-1w",
+      "title": "CDL Banana & Leaf Wholesale Store",
+      "address": "Chinnamman Koil St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694717899999999,
+      "lon": 79.9771009
+    },
+    {
+      "id": "chijm1vzg8p9ujorvjnud09rzio",
+      "title": "Ramesh Vegetables",
+      "address": "Poo Market, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6940525,
+      "lon": 79.9772615
+    },
+    {
+      "id": "chijt_3c1fp5ujorvfu_t0drzkm",
+      "title": "Kulasai mutharamman vegetable shop",
+      "address": "GK Avenue, gokulaburam road, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.7741943,
+      "lon": 80.0388729
+    },
+    {
+      "id": "chijr8pn7y75ujorwmgznvvop2e",
+      "title": "Chokkalingam Vegetable Shop",
+      "address": "5, Sekkizhar St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.795999,
+      "lon": 80.0260603
+    },
+    {
+      "id": "chij2dekabv9ujor6g3ejcr0-0k",
+      "title": "Flower Shop",
+      "address": "D1, JCK Nagar Rd, J C K Nagar, Paranur, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6965953,
+      "lon": 79.9773501
+    },
+    {
+      "id": "chijhevug9p9ujorjlkbt_q0slg",
+      "title": "Arasan SuperMarket",
+      "address": "NGGO Nagar, Kamarajar Nagar, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6685771,
+      "lon": 79.9852263
+    },
+    {
+      "id": "chijqyfzgnx7ujorwgzommdusdq",
+      "title": "Adyar Ananda Bhavan - A2B",
+      "address": "No.2, GST road, S.P Kovil, next to Fortune Hotel, Chennai, Tamil Nadu 603204",
+      "lat": 12.7642542,
+      "lon": 80.00494429999999
+    },
+    {
+      "id": "chijty1ixqb9ujorrnnkr811tey",
+      "title": "Es Vegetable Shop",
+      "address": "227/A, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.68642,
+      "lon": 79.9749616
+    },
+    {
+      "id": "chijb-u4cob9ujor3lbsjga_z9o",
+      "title": "Anbu supermarket.",
+      "address": "No 380 B/3, TKM ROAD, VALLAM VILLAGE MELAMAIYYUR, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6814257,
+      "lon": 79.9905441
+    },
+    {
+      "id": "chijdabbapp_ujorshdconrlcuu",
+      "title": "VV Brothers Grocery shop",
+      "address": "Kootu road, Perundhandalam, Mullipakkam, Chengalpattu, Tamil Nadu 603108",
+      "lat": 12.6955643,
+      "lon": 80.06912179999999
+    },
+    {
+      "id": "chijhssume39ujor0dpvkpplui0",
+      "title": "Sri Pachaiyamman Vegetables",
+      "address": "4, Bazaar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6963916,
+      "lon": 79.9769742
+    },
+    {
+      "id": "chij_bax9xd9ujortwqzivw0_sa",
+      "title": "Suresh Auto Veg",
+      "address": "21 Tkm Road Vallam, Chennai, Tamil Nadu 603003",
+      "lat": 12.680713599999999,
+      "lon": 79.9915785
+    },
+    {
+      "id": "chij2_cobqj9ujort6en2zfdii0",
+      "title": "Magilchi Stores",
+      "address": "1, VOC St, near Kulunthi amman temple, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692699999999999,
+      "lon": 79.97825639999999
+    },
+    {
+      "id": "chijfyuqsoj9ujorvqxzwrjippw",
+      "title": "More Supermarket - Chengalpattu B",
+      "address": "82/25, Pillaiyar Kovil St, Chinnamelamaiyur, Alapakkam, Chengalpattu, Tamil Nadu 603301",
+      "lat": 12.68258,
+      "lon": 79.98873999999999
+    },
+    {
+      "id": "chijubzi8xd7ujornze3pywey7e",
+      "title": "ANNAMMAL VEGETABLE SHOP",
+      "address": "No 6, Bazzar Street, Mashindera City, Kanchipuram, Paranur, Tamil Nadu 603002",
+      "lat": 12.725978999999999,
+      "lon": 79.985112
+    },
+    {
+      "id": "chijcd__dgd9ujorvzangajvylm",
+      "title": "Sri Anjaneyaa Fruits",
+      "address": "New Bus Stand, 50, Rajaji St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.691478199999999,
+      "lon": 79.9801763
+    },
+    {
+      "id": "chijyufifad9ujorlbmt8mnf1_g",
+      "title": "KOSHIK VEGETABLE SHOP",
+      "address": "MXGX+RG5 KOSHIK VEGETABLE SHOP, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6770134,
+      "lon": 79.99885599999999
+    },
+    {
+      "id": "chijm95yobt9ujorwvlwlj_7i80",
+      "title": "JK Vegetables",
+      "address": "MXWG+4QP JK Vegetables, Chinnamman Koil St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6953497,
+      "lon": 79.9769627
+    },
+    {
+      "id": "chijt-0nl2r8ujorkbzanxkgusq",
+      "title": "Vinayaga Super Market",
+      "address": "3, Vinayaga Super Market, 13, Dr Varadharajan St, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6868207,
+      "lon": 79.9813005
+    },
+    {
+      "id": "chijm-ofyth9ujorm-udrenv28g",
+      "title": "MKV ONION TRADERS",
+      "address": "Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.695115399999999,
+      "lon": 79.976326
+    },
+    {
+      "id": "chijl9_ia8n7ujorkzaj9xeuaem",
+      "title": "Munees Super Market",
+      "address": "M. G. R Nagar, 3rd cross street, Chettipunniyam Rd, opposite to Mahendra world city, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7447646,
+      "lon": 79.9895166
+    },
+    {
+      "id": "chij3w89ctv7ujormq_jvbzxhce",
+      "title": "Heavenly Fresh",
+      "address": "P2Q2+64R Heavenly Fresh, Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7381142,
+      "lon": 80.0002588
+    },
+    {
+      "id": "chijbdgmlad7ujormm3rtghsqjs",
+      "title": "Ts vegetable and fruits",
+      "address": "18, Jubilee Rd, opp. Mahindra World City, Ganesh nagar, Signal, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.743163299999999,
+      "lon": 79.99191669999999
+    },
+    {
+      "id": "chijb99cfnd8ujorh5fe4lua7nw",
+      "title": "Vegetable Market",
+      "address": "MXWG+PH9 Vegetable Market, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6967878,
+      "lon": 79.9764955
+    },
+    {
+      "id": "chij-9vwvdv7ujor4hergibbb-o",
+      "title": "Home Needs Super Market",
+      "address": "Mahindra World, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.73789,
+      "lon": 80.0011081
+    },
+    {
+      "id": "chijmttecwj9ujorodtghxgea48",
+      "title": "VK VEGETABLE WHOLESALE AND RETAIL",
+      "address": "No 5, VK VEGETABLE WHOLESALE AND RETAIL, Mahindra World City, Market Chettipuniyam Road, Vedachalam Nagar, Paranur, Kanchipuram, Tamil Nadu 603001",
+      "lat": 12.6867216,
+      "lon": 79.9815232
+    },
+    {
+      "id": "chijd6lpdgd9ujorurbh4swl-i4",
+      "title": "SVM vegetables Melaripakkam",
+      "address": "317, Rajiv Gandhi, Santhi Nagar, Nenmeli, Meleripakkam, Vallam R.F., Tamil Nadu 603003",
+      "lat": 12.672094999999999,
+      "lon": 80.005178
+    },
+    {
+      "id": "chijlrvmbez9ujori9we0kydhdy",
+      "title": "Siva sakthi vegetable shop",
+      "address": "42/16, Kavarai St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6902533,
+      "lon": 79.974891
+    },
+    {
+      "id": "chijk19earn9ujorhzklilr6sk4",
+      "title": "Sountharan Vegetables",
+      "address": "58, GST Rd, opp. CMC Hospital, Alagesan Nagar, Varadharaja Nagar, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.678516,
+      "lon": 79.9797174
+    },
+    {
+      "id": "chijpbxcbzn5ujordux76def-ui",
+      "title": "KR Food Products",
+      "address": "Sirus 304, KR Food Products, Pristine Pavilion Club, Mahindra World City, Kanchipuram, Eachangaranai, Tamil Nadu 603004",
+      "lat": 12.721902499999999,
+      "lon": 80.0219812
+    },
+    {
+      "id": "chijl4tf7-n3ujorro1qwy2shl0",
+      "title": "PKR Greens and Consultants",
+      "address": "Perumattunallur Main Road, Perumanttunallur, Tamil Nadu 603202",
+      "lat": 12.8233167,
+      "lon": 80.080794
+    },
+    {
+      "id": "chijbxlzsi_3ujorjsqhvcvye8m",
+      "title": "MSD ENTERPRISES",
+      "address": "Senthil Nagar Extension South, Guduvancheri, Kutthanur, Tamil Nadu 603202",
+      "lat": 12.8469647,
+      "lon": 80.0363261
+    },
+    {
+      "id": "chijyzasn69hujor0ba716vpvti",
+      "title": "KRM ENTERPRISES",
+      "address": "Plot no:135, Chennai - Theni Hwy, Annadurai street, korukkanthangal, Chengalpattu, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.812232499999999,
+      "lon": 80.0164623
+    },
+    {
+      "id": "chij_8ojr01rujorvsywdeodshg",
+      "title": "V.N Fruit Shop",
+      "address": "TDK Complex, OMR Rd, Thiruporur, Tamil Nadu 603110",
+      "lat": 12.7276875,
+      "lon": 80.1885625
+    },
+    {
+      "id": "chijfctkisv7ujorr8v1yp5x6qe",
+      "title": "SHRI MEENAKSHI MALIGAI WHOLESALE",
+      "address": "No 104, Kanchipuram High Road, Thimmavaram, Palur, Athur, Tamil Nadu 603101",
+      "lat": 12.7138318,
+      "lon": 79.959177
+    },
+    {
+      "id": "chij6w1zlxj3ujorl4qp4pqcg24",
+      "title": "Sri Amman Fruit Shop",
+      "address": "07 Perumattu Nallur Nelikupam, Road, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8223965,
+      "lon": 80.077445
+    },
+    {
+      "id": "chijr4vivu39ujorw6dfbd05r4q",
+      "title": "CVM VEGITABLES",
+      "address": "55MAIN ROAD, GST Rd, J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.698803499999999,
+      "lon": 79.9765883
+    }
+  ],
+  "updated_at_utc": "2026-09-27T10:30:38.166315+00:00"
+}

@@ -1,0 +1,1591 @@
+{
+  "category": "bakery_sweets",
+  "status": "complete",
+  "count": 226,
+  "outside": 38,
+  "points": [
+    {
+      "id": "chijgascobvnujorqs6x2ciq7k0",
+      "title": "Old Madras Baking Company (Alwarpet)",
+      "address": "NEW NO.279, Old Madras Baking Company (Alwarpet), TTK Rd, next to Universal, Sri Ram Nagar, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.032870299999999,
+      "lon": 80.2528839
+    },
+    {
+      "id": "chij1zts_sxnujorkuqhclsavhe",
+      "title": "Fresh Baked Goodness",
+      "address": "New No: 22, Fresh Baked Goodness, Old No: 40, 3rd St, East Abiramapuram, East Abhiramapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.033747799999999,
+      "lon": 80.2624474
+    },
+    {
+      "id": "chijgxptyehbujorscp4_rjpyjs",
+      "title": "The Vintage Cakes",
+      "address": "No:16, The Vintage Cakes, savithri amal nagar, Village High Rd, Ezhil Nagar, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8989304,
+      "lon": 80.2281409
+    },
+    {
+      "id": "chijx24l4mpnujorswr0vdqmve8",
+      "title": "WINNERS BAKERY (Chennai)",
+      "address": "15A/9, Corporation Community College, CP Ramaswamy Rd, Raja Annamalaipuram, Chennai, Tamil Nadu 600018",
+      "lat": 13.0346651,
+      "lon": 80.2571682
+    },
+    {
+      "id": "chijsya-nxddujorfxjrau85iwm",
+      "title": "Speciality Pastry Shop",
+      "address": "Nesamani Nagar extension 2nd St chettinadu Villa Extension, Nesamani Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.8998104,
+      "lon": 80.19747679999999
+    },
+    {
+      "id": "chij5za1zxhfujoribryx-ipsmq",
+      "title": "CG Bakery Cake Shop",
+      "address": "Shop No. G-3, CG Bakery Cake Shop, 216/2, Gandhi Rd, Alappakam, Alapakkam, New Perungalathur, Chennai, Kanchipuram, Tamil Nadu 600063",
+      "lat": 12.8969133,
+      "lon": 80.1101395
+    },
+    {
+      "id": "chijr8sfc6ddujorfb1jfcc3sea",
+      "title": "Brod Bakery",
+      "address": "2/189, East Coast Rd, Hanuman Colony, Sakthi Vinayakar Nagar, Injambakkam, Chennai, Kotivakkam, Tamil Nadu 600115",
+      "lat": 12.9305769,
+      "lon": 80.2515007
+    },
+    {
+      "id": "chijbbmslsbdujorq0y8yps58b0",
+      "title": "Bazzar Bakery",
+      "address": "50/20, Bazaar Main Rd, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9653089,
+      "lon": 80.2075199
+    },
+    {
+      "id": "chijccqiv-xnujor_fqccxhpp3q",
+      "title": "Adyar Bakery",
+      "address": "110, Sardar Patel Rd, Baktavatsalm Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.006374399999999,
+      "lon": 80.2555129
+    },
+    {
+      "id": "chijownavgxdujorbxihnth8qz0",
+      "title": "City Bakery & Confectionery",
+      "address": "SH 49, Anna Enclave, Injambakkam, Chennai, Tamil Nadu 600115",
+      "lat": 12.9200784,
+      "lon": 80.25103349999999
+    },
+    {
+      "id": "chij75yvys_1ujor6cdo6_ttdxc",
+      "title": "Cake Trends",
+      "address": "Malles fortune Earth, 1, Mannivakkam Main Rd, opposite to lake, K.K.Nagar, Mannivakkam, Chennai, Tamil Nadu 600048",
+      "lat": 12.8818261,
+      "lon": 80.065292
+    },
+    {
+      "id": "chijawj0nahdujor76ogjpmwkha",
+      "title": "The Cakes Town",
+      "address": "1st Main Rd Sandeep Ave, Kazura Garden, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.956624699999999,
+      "lon": 80.25459889999999
+    },
+    {
+      "id": "chijy54u84hdujorpc_irhaqf0i",
+      "title": "CKs Bakery",
+      "address": "Back side of OMR - KFC, 60 A, Raju Nagar 3rd St, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9354473,
+      "lon": 80.2355339
+    },
+    {
+      "id": "chijpbqxfw73ujor20u2471uk0q",
+      "title": "VATHIYAR BAKERY",
+      "address": "1Railway, Station Rd, Sri Balaji Nagar, Annai, Sathiya Street, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603211",
+      "lat": 12.8675088,
+      "lon": 80.0680653
+    },
+    {
+      "id": "chijuqyscexdujoreck7svd4waa",
+      "title": "Theobroma Bakery and Cake Shop - Kotivakkam OMR, Chennai",
+      "address": "OMR Service Rd, next to KFC, Nehru Nagar, Perungudi, Kotivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.9720886,
+      "lon": 80.24957289999999
+    },
+    {
+      "id": "chijdr5p8b1bujornsybdzujjoe",
+      "title": "Cake Square - sholinganallur-Cake Shop & Birthday Cake-wedding cake shop",
+      "address": "1kumaran nagar, Rajiv Gandhi Salai, near Tcs, OMR, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8775649,
+      "lon": 80.2270667
+    },
+    {
+      "id": "chijv_zmt6ddujorqkxhm8a5u3s",
+      "title": "Cuppy Cakes & Bakes Home Bakers",
+      "address": "Tranquil Nest, 100, 3rd Main Rd, AGS Colony, Kamatchi Nagar, Kamakoti Nagar, Pallikaranai, Chennai, Tamil Nadu 600091",
+      "lat": 12.9419572,
+      "lon": 80.2157655
+    },
+    {
+      "id": "chijjvzoohtnujori6c3-ulz-4u",
+      "title": "Wheat Bakes",
+      "address": "13/6, Thanikachalam Rd, Pondy Bazaar, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.039192,
+      "lon": 80.24002999999999
+    },
+    {
+      "id": "chij3cs5gbbdujore_u5w1rzc8c",
+      "title": "Crescent Bakery",
+      "address": "Old No 23, Crescent Bakery, Thirumalai Nagar Annex, Plot No 105, Old Mamallapuram Road, Phase-2, Thirumalai Nagar Annexe, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.958748799999999,
+      "lon": 80.2441821
+    },
+    {
+      "id": "chij9edzdqbfujorbzgqanrkvbc",
+      "title": "Theobroma Bakery and Cake Shop - Chrompet, Chennai",
+      "address": "Grand Southern Trunk Rd, near Tata Croma, Kamakshi Colony, Chromepet, Tambaram, Tamil Nadu 600047",
+      "lat": 12.943698399999999,
+      "lon": 80.1344337
+    },
+    {
+      "id": "chijm1o_w7bnujoritd78egvezg",
+      "title": "VICTORY BAKERY",
+      "address": "45, Gowdiamutt Rd, Ganapathy Colony, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.050325899999999,
+      "lon": 80.26233789999999
+    },
+    {
+      "id": "chijcxa0pvdnujorbxk-rmqegfq",
+      "title": "Wheat Bakes",
+      "address": "77/17, C.P, Ramasamy Road, opposite Shilpi Boutique, Sriram Colony, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.034351599999999,
+      "lon": 80.256833
+    },
+    {
+      "id": "chij170fusdnujorugkvdrlvjkw",
+      "title": "DJ's Bakery Adambakkam (Chennai)",
+      "address": "95, KAKKAN NAGAR 1ST MAIN ROAD,ALIAS, Shastri Nagar Main Rd, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.9927876,
+      "lon": 80.2059481
+    },
+    {
+      "id": "chijvfgglatnujorrzgakkdrl3c",
+      "title": "Theobroma Bakery and Cake Shop - Besant Nagar, Chennai",
+      "address": "Shop No 18/G, Theobroma Bakery and Cake Shop - Besant Nagar, Chennai, Annai Velankanni Road, GOCHS Colony, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.9957218,
+      "lon": 80.2691463
+    },
+    {
+      "id": "chijs2l0dcv1ujoroqslhh46zhq",
+      "title": "Oven's Bae",
+      "address": "14, Kannadasan St, Lingam Nagar, Tambaram, Old Perungalathur, Chennai, Tamil Nadu 600063",
+      "lat": 12.9145977,
+      "lon": 80.0856148
+    },
+    {
+      "id": "chijpzth6t5nujor1toswipjehw",
+      "title": "The Cake Shop",
+      "address": "Adyar Sea Face, Leela Palace Rd, MRC Nagar, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.016788199999999,
+      "lon": 80.2738277
+    },
+    {
+      "id": "chijfwaaxhjdujortj-fklckmtw",
+      "title": "Heydudes.in Cake Cafe",
+      "address": "100 A, Butt Rd, Ramapuram, Parangi Malai, Gandhi Nagar, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 13.0104984,
+      "lon": 80.1960364
+    },
+    {
+      "id": "chijtxovodxlujor2fzmtaje4m4",
+      "title": "Sugar Brush",
+      "address": "No 1, 34, Nageswara Rd, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.0592998,
+      "lon": 80.245868
+    },
+    {
+      "id": "chijqa3cqabeujoravx5n7xd_6c",
+      "title": "Bakery Garden",
+      "address": "1, 47th Street, 5th Main Rd, Pazhavanthangal, Chennai, Tamil Nadu 600114",
+      "lat": 12.9859712,
+      "lon": 80.1858805
+    },
+    {
+      "id": "chijkz4accfnujor8u9yjntt69k",
+      "title": "Ovn Bakehouse",
+      "address": "garden section, 24, Cenotaph Rd, beside Cafe De paris, Rathna Nagar, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.031667299999999,
+      "lon": 80.24580569999999
+    },
+    {
+      "id": "chij18fzxf9nujornmqpgotsdf0",
+      "title": "From Sp's oven",
+      "address": "14, Thiruvalluvar Nagar 3rd St, Varadapuram, Kotturpuram, Chennai, Tamil Nadu 600085",
+      "lat": 13.0177433,
+      "lon": 80.2448536
+    },
+    {
+      "id": "chijhxayjhrnujorrdwlggyasps",
+      "title": "The Glaze - Chennai",
+      "address": "56/2, New Tank Street, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.055216999999999,
+      "lon": 80.2438193
+    },
+    {
+      "id": "chije_vccklnujorzxyk3kdkrly",
+      "title": "Mayilai Cakes & Cafe",
+      "address": "First Floor, Mayilai Cakes & Cafe, 4/5, Kalvi Varu St, Vinayagar Kovil, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0381103,
+      "lon": 80.2690472
+    },
+    {
+      "id": "chijtqsolkzmujorzt-cslqzzfi",
+      "title": "Hot Breads",
+      "address": "Tamil Illam, New No. 25, Old, No. 12, Second Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0073741,
+      "lon": 80.2567096
+    },
+    {
+      "id": "chijx2y_-0hnujorntfee50aw0y",
+      "title": "Cake Square St Thomas Mount- Birthday Cake Shop- Wedding Cakes- Bakery",
+      "address": "No: 5/79, Butt road, Poonamalle high road, road, Parangi Malai, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 13.0077208,
+      "lon": 80.196291
+    },
+    {
+      "id": "chije7gzmy_1ujor960njq8kuiw",
+      "title": "Chillax bakery, Tambaram Corporation",
+      "address": "W38G+7HC Chillax bakery, Tambaram Corporation, Tambaram - Mudichur - Sriperumbudur Rd, Gnanapanditha Nagar, Shanthi Nagar, Saravana Bawa Nagar, Mudichur, Tamil Nadu 600048",
+      "lat": 12.9156778,
+      "lon": 80.0763877
+    },
+    {
+      "id": "chijtyooww5fujor492ydpqrjn8",
+      "title": "Palace Bakery",
+      "address": "20/1, Siva Shanmugam St, near CANARA BANK - GENERAL BRANCH, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.925438399999999,
+      "lon": 80.1130565
+    },
+    {
+      "id": "chijnzr_wwbhujorlyxakmddj2w",
+      "title": "Theobroma Bakery and Cake Shop - Porur,Chennai",
+      "address": "No 24, Theobroma Bakery and Cake Shop - Porur,Chennai, New, Trunk Rd, next to Go Gas, opposite State Bank Of India, Nethaji Nagar, Ramakrishna Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.0346003,
+      "lon": 80.1587581
+    },
+    {
+      "id": "chijoyielundujora5wcbs8hatc",
+      "title": "THE CAKE BAKERS",
+      "address": "State Highway 49, 255/7, New Colony, Kottivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.968538299999999,
+      "lon": 80.2575008
+    },
+    {
+      "id": "chijp2jrwlvnujort5c6zjnmvda",
+      "title": "The Baker Ninja - Cake Shop, Alwarpet",
+      "address": "201, TTK Rd, behind Wildcraft, Seetammal Colony, Seethammal Colony, MIG Colony, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0350413,
+      "lon": 80.25422189999999
+    },
+    {
+      "id": "chijfssh5dvnujorfqx7h5bis-i",
+      "title": "Old Madras Baking Company (Ashok nagar)",
+      "address": "No 44, First Avenue, next to Subway Ashok Nagar, Sector 10, Sector 13, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.039017999999999,
+      "lon": 80.2121246
+    },
+    {
+      "id": "chij2snc-qhnujorxuowe3kpfpq",
+      "title": "Theobroma Bakery and Cake Shop - Nungambakkam, Chennai",
+      "address": "20/2, Theobroma Bakery and Cake Shop - Nungambakkam, Chennai, Uthamar Gandhi Rd, Ponnangipuram, Ambal Nagar, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.054651199999999,
+      "lon": 80.249838
+    },
+    {
+      "id": "chijz1pjk_dnujor7udduyjjcz8",
+      "title": "Lovely Bakes",
+      "address": "4, Annai Velankanni Road, Anna Colony, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.9961042,
+      "lon": 80.2625022
+    },
+    {
+      "id": "chijaxkmvy1nujorgu_0rygyp-e",
+      "title": "Midnight Cake Delivery in Chennai",
+      "address": "No:1455, 2nd Cross St, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.990282599999999,
+      "lon": 80.206968
+    },
+    {
+      "id": "chijq8_wlnjhujorwldpqhwnvue",
+      "title": "Meera Mithai - Sweet Shop Chat Shop",
+      "address": "2/492, River View Rd, Ramapuram, Ambedkar Nagar, Manapakkam, Chennai, Tamil Nadu 600125",
+      "lat": 13.016526899999999,
+      "lon": 80.1776996
+    },
+    {
+      "id": "chijqfnpq0fmujork6gywi2pcgg",
+      "title": "Shree Mithai",
+      "address": "Ground Floor, Shree Mithai, Jhaver Plaza, 1, Nungambakkam High Rd, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.054072699999999,
+      "lon": 80.2497391
+    },
+    {
+      "id": "chijmxbpyulmujorne2wfprdtmk",
+      "title": "Mithai Mandir",
+      "address": "Shop No, Mithai Mandir, 17, Palani Andavar Koil St, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0511432,
+      "lon": 80.2136044
+    },
+    {
+      "id": "chijr09jznrdujor1eog5ezy9ng",
+      "title": "Sri Krishna Sweets Thoraipakkam",
+      "address": "NJK Avenue, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9347903,
+      "lon": 80.233614
+    },
+    {
+      "id": "chijo_xysj1fujorx3rirdeaxh0",
+      "title": "Village Special native Sweets & snacks",
+      "address": "Shanthi Complex, No 6 7/9, Major Mukund Varadharajan Rd, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9203721,
+      "lon": 80.18643709999999
+    },
+    {
+      "id": "chijv_m0cr5nujorz-0xhydtca0",
+      "title": "Syed sweets Syed’s Egg Sweets",
+      "address": "No:117, Syed sweets Syed’s Egg Sweets, 57, Dr Besant Rd, Mirsahibpet, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0531011,
+      "lon": 80.2717761
+    },
+    {
+      "id": "chij94vrgb1hujorwixbmpwg1xu",
+      "title": "Nandhiniee Sweets",
+      "address": "Roundana, 54, Trunk Rd, Jaya Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.034804099999999,
+      "lon": 80.1553295
+    },
+    {
+      "id": "chijzbpj5xskujor8vorykges8e",
+      "title": "Aswins Sweets & Snacks (Poonamallee - Chennai)",
+      "address": "10/8, 10, Nambi St, behind Sannadhi Street, Sannadhi Street, Poonamallee, Tamil Nadu 600056",
+      "lat": 13.0517604,
+      "lon": 80.096479
+    },
+    {
+      "id": "chijpezl8hlnujorifvxxnmontm",
+      "title": "Sangeetha Sweets",
+      "address": "no. 57, Sangeetha Sweets, 29, New St, Panneerselvam Nagar, Old Pallavaram, Chennai, Tamil Nadu 600015",
+      "lat": 13.0243545,
+      "lon": 80.2148388
+    },
+    {
+      "id": "chijpassvudfujorqzkttq7bvtc",
+      "title": "Loiee's Sweets And Snacks",
+      "address": "Padamavathy Nagar, Yeswanth Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.910961499999999,
+      "lon": 80.1427853
+    },
+    {
+      "id": "chijk6jmqwxfujorkwf9hwdh1oe",
+      "title": "Great Indian Sweets (Nanganallur)",
+      "address": "31A,5th Main Road, 21st Street, Nehru Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.983703,
+      "lon": 80.1857283
+    },
+    {
+      "id": "chijffmnhvjnujor5tcw0wsrnki",
+      "title": "The Grand Sweets & Snacks",
+      "address": "No.5/1, 1st Ave, Shastri Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0008483,
+      "lon": 80.2612699
+    },
+    {
+      "id": "chijsz6jdnbnujoro9wx6fzptmw",
+      "title": "Suswaad Sweets and Savouries (P) Ltd.",
+      "address": "10/3, Madhans Apartment, Mandaveli, 35/13, S Canal Bank Rd, RA Puram, Ramakrishna Nagar, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0254354,
+      "lon": 80.2669082
+    },
+    {
+      "id": "chijvqjsmdxnujor8rlrbm7kahw",
+      "title": "Shree Mithai",
+      "address": "Old No.33, New, No. 88, 1st St, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.0332178,
+      "lon": 80.21210599999999
+    },
+    {
+      "id": "chijzszwjnjfujorur7rwcba2ve",
+      "title": "Sri Krishna sweets",
+      "address": "25/14, Siva Shanmugam St, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9257697,
+      "lon": 80.1129385
+    },
+    {
+      "id": "chijr6s8tt5gujorvxxkk5mmhx4",
+      "title": "Ganga Sweets",
+      "address": "Flat No. 4-A, New, Ganga Sweets, 124, Mount Poonamallee Rd, Adithi Colony, Sabari Nagar, Mugalivakkam, Chennai, Tamil Nadu 600116",
+      "lat": 13.0282009,
+      "lon": 80.1703328
+    },
+    {
+      "id": "chijs1re6vfnujor2-hagb-1nlu",
+      "title": "Grand Sweets And Snacks",
+      "address": "24 /2, Grand Sweets And Snacks, Second Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.007658099999999,
+      "lon": 80.25362659999999
+    },
+    {
+      "id": "chij17slcvldujor2byy1oj3mi4",
+      "title": "The Grand Sweets and Snacks -THIRUVANMIYUR",
+      "address": "Darshan Apartments, 2, E Mada St, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9859606,
+      "lon": 80.262095
+    },
+    {
+      "id": "chij3zm-w9fmujorrsjetgfebqo",
+      "title": "Suswaad sweets and savouries pvt ltd",
+      "address": "9/A, P.T. Rajan Salai, opp. Sakthi Vinayagar temple, Kalinga Colony, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.0404971,
+      "lon": 80.2052369
+    },
+    {
+      "id": "chijbzepg39hujorvpskemcmmpw",
+      "title": "Ganga Sweets And Hotel",
+      "address": "Mount Poonamallee Rd, Pushpa Nagar, Kattupakkam, Ayyappanthangal, Tamil Nadu 600056",
+      "lat": 13.0393911,
+      "lon": 80.13237529999999
+    },
+    {
+      "id": "chij423xis1mujortwwmpmpdetw",
+      "title": "Sri Krishna Sweets",
+      "address": "92, Dr Radha Krishnan Salai, Jagadambal Colony, Sripuram, Durgapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0447937,
+      "lon": 80.2678078
+    },
+    {
+      "id": "chij113t4nrnujor1b2dixujyv4",
+      "title": "Krishnaa Jelabi Kadai ( Kodambakkam )",
+      "address": "No:32, Krishnaa Jelabi Kadai ( Kodambakkam ), 7D, S Sivan Koil St, near Best Hospital, Gangai Amman Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0526176,
+      "lon": 80.21878749999999
+    },
+    {
+      "id": "chijqspxb6xnujor2pipvj12t44",
+      "title": "Gandhiji sweets & snacks",
+      "address": "355, Gandhiji sweets & snacks, 1, Anna Salai, CIT Nagar East, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.0257659,
+      "lon": 80.23096559999999
+    },
+    {
+      "id": "chijeweh4btnujor5spdv92erci",
+      "title": "Salim Sweets Mutta mittai",
+      "address": "31, Anna Salai, Marina Beach, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0461536,
+      "lon": 80.28062729999999
+    },
+    {
+      "id": "chijireyd9jnujor0h3zcqmodo4",
+      "title": "Sri Krishna Sweets",
+      "address": "39, Venkatesa Agraharam Rd, NEAR SAIBABA TEMPLE, Alamelu Manga Puram, Saradapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0328317,
+      "lon": 80.2669863
+    },
+    {
+      "id": "chijeyqr_zdmujorv7_9i05tqk0",
+      "title": "Gangotree Sweets & Snacks - Gopalapuram",
+      "address": "42, Cathedral Rd, opp. Stella Maris College (Autonomous), Gopalapuram, Chennai, Tamil Nadu 600086",
+      "lat": 13.0472279,
+      "lon": 80.25462499999999
+    },
+    {
+      "id": "chijaqaaqbdmujor7pwgxjbjowk",
+      "title": "Sweet Corner",
+      "address": "No. 172, Anna Salai, Mount Road, Anna Salai, Express Estate, Thousand Lights, Anna Salai, Chennai, Tamil Nadu 600002",
+      "lat": 13.0597696,
+      "lon": 80.26061659999999
+    },
+    {
+      "id": "chijt6ybugtnujorsi6ecwbmpw0",
+      "title": "Sri Krishna Sweets",
+      "address": "4, South Ave, Srinagar Colony, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.0124959,
+      "lon": 80.2272145
+    },
+    {
+      "id": "chij6rlqdctnujorf1q16mdlz8k",
+      "title": "Al-Nabee Sweets (Home Made Sweet)",
+      "address": "7/4, R.O.B. Main Road, Halls Garden, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.050640999999999,
+      "lon": 80.26558
+    },
+    {
+      "id": "chijp1ohl6dnujorfedbzyuadju",
+      "title": "Srivari Sweets - TNagar",
+      "address": "5, Coats Rd, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.043526499999999,
+      "lon": 80.2348231
+    },
+    {
+      "id": "chijcrjjkvddujorgubspyozj_g",
+      "title": "Shree Mithai",
+      "address": "Survey No. 704, Shree Mithai, Plot-2, 200 Feet Radial Rd, Pallikaranai Marshland, Pallikaranai, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9502863,
+      "lon": 80.23294039999999
+    },
+    {
+      "id": "chijd7p3ot9mujorlhtwjuv0o_q",
+      "title": "Atlas Sweets Savours",
+      "address": "Shop No, Atlas Sweets Savours, 670, Anna Salai, Thousand Lights East, Thousand Lights, Chennai, Tamil Nadu 600006",
+      "lat": 13.056301999999999,
+      "lon": 80.25609709999999
+    },
+    {
+      "id": "chijdsmamb5nujor-_8wx2lbg84",
+      "title": "Adyar Ananda Bhavan Sweets and Snacks",
+      "address": "Metro Campus, Ramapuram, Alandur, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 13.0041608,
+      "lon": 80.20152399999999
+    },
+    {
+      "id": "chijd1ydjybmujorw3ci53ln7de",
+      "title": "Basha Halwawala",
+      "address": "09, Fakir Sahib St, Jambazar, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.059636999999999,
+      "lon": 80.2715973
+    },
+    {
+      "id": "chijneph_1rmujorilkmmsat9ce",
+      "title": "Sri Krishna Sweets",
+      "address": "Old No.53, New No.20, Sri Krishna Sweets, Venkatanarayana Rd, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.036299399999999,
+      "lon": 80.23618019999999
+    },
+    {
+      "id": "chijv1u4ftpcujorlz2daybe414",
+      "title": "Ganga Sweets",
+      "address": "337 1, Alagiri St, Jeeva Nagar Extension, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.930238,
+      "lon": 80.2030087
+    },
+    {
+      "id": "chijlavbb-ndujorexm5peovrmk",
+      "title": "Sri Krishna Sweets",
+      "address": "59/1C, Medavakkam Main Rd, Ullagaram, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9746673,
+      "lon": 80.1923711
+    },
+    {
+      "id": "chijw6s15efeujor1cqccddmrto",
+      "title": "Ganga sweets",
+      "address": "No 209/895, Ganga sweets, Muthu Complex, Major Mukund Varadharajan Rd, Camp Road Junction, Mahalakshmi Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9227162,
+      "lon": 80.1434301
+    },
+    {
+      "id": "chijo48csclnujoreh2d60cgkjo",
+      "title": "Suriya Sweets & Greens",
+      "address": "68/47, 1st Main Rd, RA Puram, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0283278,
+      "lon": 80.2544364
+    },
+    {
+      "id": "chijhusweejmujor9ipdduidssk",
+      "title": "Mansukh's Sweets and Snacks",
+      "address": "57A, 7th Ave, near Sangamam Hotel, Sarvamangala Colony, Manthope Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.035538599999999,
+      "lon": 80.2163329
+    },
+    {
+      "id": "chijbxslustnujorrxlix6jqtz0",
+      "title": "nandhiniee sweets",
+      "address": "Ashoka Towers, No.45, Kavignar Bharathidasan Rd, Seetammal Colony, Seethammal Colony, Lubdhi Colony, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0353817,
+      "lon": 80.2513005
+    },
+    {
+      "id": "chijh2kux1nmujor5fm5tftmads",
+      "title": "Chennai Mithai",
+      "address": "Singaravelu St, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0398144,
+      "lon": 80.239452
+    },
+    {
+      "id": "chijo_xkq7bfujornbhu_qcooh4",
+      "title": "Sri Krishna Sweets",
+      "address": "Grand Southern Trunk Rd, near BALAJI BHAVAN HOTEL, Lakshmi Nagar, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9578774,
+      "lon": 80.1443745
+    },
+    {
+      "id": "chijfb4vg9rnujorxjlpdbnuvbg",
+      "title": "Sri Annapoorani Sweets",
+      "address": "7/1, Mathala Narayanan St, Girija Garden, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0340486,
+      "lon": 80.2713565
+    },
+    {
+      "id": "chijus5mfhxdujorsp0sxj2creg",
+      "title": "Sri Krishna Sweets and Bakery",
+      "address": "6, Peeliamman Koil St, Anna Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.984667199999999,
+      "lon": 80.240302
+    },
+    {
+      "id": "chijnc-s01lmujorii0ee40dfl4",
+      "title": "The grand sweets & snacks",
+      "address": "37/18, Bazullah Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0469343,
+      "lon": 80.2351202
+    },
+    {
+      "id": "chijn8h0ezbdujorke9dryk_dfe",
+      "title": "Sri Krishna Sweets",
+      "address": "1A, Sri Krishna Sweets, Sankaran Avenue, 1A/82A, 82A, Velachery Bypass Rd, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9879264,
+      "lon": 80.2181839
+    },
+    {
+      "id": "chij9-g2rjldujorexsgpjtdvtq",
+      "title": "SRI KASTURI SWEETS",
+      "address": "57, Bazaar Main Rd, Meenatchi Sundareswarar Koil, Sadasiva Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.965564899999999,
+      "lon": 80.2041094
+    },
+    {
+      "id": "chij_ywtqjbnujorfcpchz-zfrc",
+      "title": "Chandra sweets and snacks",
+      "address": "264V+HFM Chandra sweets and snacks, Sriram Nagar Main Rd, Sriram Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 13.006471699999999,
+      "lon": 80.24367889999999
+    },
+    {
+      "id": "chije5ohyfnmujorffwrjutv4l0",
+      "title": "Nandhiniee Sweets",
+      "address": "Building, No 49 Gokulam, Arcot Rd, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0531432,
+      "lon": 80.2240951
+    },
+    {
+      "id": "chijkxhxdr5nujor1zcektgiikm",
+      "title": "Grand Sweets & Snacks",
+      "address": "6, 1st Canal Cross Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0083551,
+      "lon": 80.2493772
+    },
+    {
+      "id": "chijz5ma9h9mujorrnvzc-b3ylu",
+      "title": "Sweet Shop in Triplicane",
+      "address": "120, Big St, Police Quarters, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.058417299999999,
+      "lon": 80.2756927
+    },
+    {
+      "id": "chijw1iuinhdujor6gugtjkfoec",
+      "title": "Sree Balaji Sweets",
+      "address": "4, Bharani St, Bharathi Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.981055999999999,
+      "lon": 80.23324
+    },
+    {
+      "id": "chij-2bljx9cujorv0owk2nfhck",
+      "title": "Ganga sweets",
+      "address": "Shakthivel Complex, 2/19, Major Mukund Varadharajan Rd, Munusamy Nagar, Vimala Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9170056,
+      "lon": 80.192036
+    },
+    {
+      "id": "chijw5wdwlpmujor88afk8hzcb4",
+      "title": "Suriya Sweets & Greens",
+      "address": "45/52, Thirumalai Pillai Rd, Rama Kamath Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.048861599999999,
+      "lon": 80.2398893
+    },
+    {
+      "id": "chij_ueu9m78ujoruwroivnfoo4",
+      "title": "LALA SWEETS",
+      "address": "59, Rajaji St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6915452,
+      "lon": 79.9799742
+    },
+    {
+      "id": "chijuwk4hwz8ujor3ufzltsdlqe",
+      "title": "Sree Gupta Bhavan - SgB",
+      "address": "24, GST Rd, near New bus stand, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.691008799999999,
+      "lon": 79.9809492
+    },
+    {
+      "id": "chijjv7ly7z7ujore46ob8tnejo",
+      "title": "Syed's muttai mittai",
+      "address": "PX9J+5GC Syed's muttai mittai, Rajakulipettai, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7179375,
+      "lon": 79.9812656
+    },
+    {
+      "id": "chijyrrwf_n9ujorxc9emk3hgwg",
+      "title": "Shri Iyyan Sweets and Bakery",
+      "address": "GST Road, #2, Rajaji St, Near Manikoondu, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6938059,
+      "lon": 79.9790897
+    },
+    {
+      "id": "chije1ova2z8ujor8fmtkb-iz0g",
+      "title": "Saravanabhavaa Sweet House",
+      "address": "7, GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690920799999999,
+      "lon": 79.9808577
+    },
+    {
+      "id": "chijaq2t8m_8ujorfngmjoxscqa",
+      "title": "Palace Sweets & Savouries",
+      "address": "MXRG+Q7M Palace Sweets & Savouries, 23, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694318899999999,
+      "lon": 79.9757182
+    },
+    {
+      "id": "chijr5zx90p8ujorfm9cxhooz_4",
+      "title": "Sree Sankara Sweets & Bakery",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6791661,
+      "lon": 79.9801083
+    },
+    {
+      "id": "chijifo_phb9ujorzili8ddnnxo",
+      "title": "Bhagwan Bakery & Sweets",
+      "address": "65, New Busstand, 105, Rajaji St, NewBusstand, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6915648,
+      "lon": 79.9803271
+    },
+    {
+      "id": "chijbymem278ujor3zizztsqhhq",
+      "title": "SRI VENKATESHWARA IYENGAR BAKERY & SWEETS",
+      "address": "2, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6954873,
+      "lon": 79.9778388
+    },
+    {
+      "id": "chij99jn90p8ujorkgaobdclt78",
+      "title": "Saravana Bhava Bakery",
+      "address": "603001, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.678901,
+      "lon": 79.9799561
+    },
+    {
+      "id": "chiju22p0ov9ujorlrsezwgb-5i",
+      "title": "Iyyan sweets and bakery",
+      "address": "1b, GST Rd, J C K Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6904667,
+      "lon": 79.9813269
+    },
+    {
+      "id": "chijmw0nagd9ujorwjh8sourxbw",
+      "title": "Prince Sweets",
+      "address": "121, GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.689752499999999,
+      "lon": 79.98233359999999
+    },
+    {
+      "id": "chijq_wq1yj6ujorh1zezocanls",
+      "title": "Sree Gupta Bhavan - SgB",
+      "address": "No. 1/55, Sree Gupta Bhavan - SgB, GST Rd, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.760684999999999,
+      "lon": 80.00315719999999
+    },
+    {
+      "id": "chij_fdz9uj9ujorwgqs9klymtu",
+      "title": "Ck's Bakery Chengalpattu",
+      "address": "Ground Floor, Ck's Bakery Chengalpattu, Adams Plaza, No.1, TKM Rd, Alapakkam, Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6820693,
+      "lon": 79.988963
+    },
+    {
+      "id": "chijhxuxn5z9ujoruv5vfhp8fa0",
+      "title": "Mega Sweets and Snacks",
+      "address": "MXJG+7GX Mega Sweets and Snacks, Anna Salai, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.680727899999999,
+      "lon": 79.97635989999999
+    },
+    {
+      "id": "chijscslhqd7ujoramohxt6dmsi",
+      "title": "D-Mart - Chengalpattu",
+      "address": "Ganapathi Nagar, Chettipunniyam Rd, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.7398893,
+      "lon": 79.98919769999999
+    },
+    {
+      "id": "chij8r7bgbt9ujor7-d4tz3wuyo",
+      "title": "Cream&fudge chengalpattu",
+      "address": "MSG COMPLEX, City Union Bank building, Santhi Nagar, Malainatham, Chengalpattu, Vallam R.F., Tamil Nadu 603003",
+      "lat": 12.6713284,
+      "lon": 80.0080565
+    },
+    {
+      "id": "chij0csg9g78ujorppp_652wwc0",
+      "title": "Sri Lakshmi Sweets",
+      "address": "MXVH+3PC Sri Lakshmi Sweets, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6926756,
+      "lon": 79.9792551
+    },
+    {
+      "id": "chijaqaaabz7qzsr53uo-eu5uku",
+      "title": "Iniyazh Sweets",
+      "address": "Pristine Pavilion Orion, Mahindra World City, chengalpattu, Anjur, Tamil Nadu 603004",
+      "lat": 12.7218777,
+      "lon": 80.0216595
+    },
+    {
+      "id": "chijg3kfumr8ujorluavll_4pkm",
+      "title": "Per Gratiam",
+      "address": "13 b, Ullavur-Chengalpattu Rd, Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.6801824,
+      "lon": 79.9793026
+    },
+    {
+      "id": "chij6y6fxwd9ujoryo0_8pg84xw",
+      "title": "Moms bonbons dessert cafe",
+      "address": "Moms bonbons, Moms bonbons dessert cafe, Rahamath Shopping Mall, 50, GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.680508099999999,
+      "lon": 79.980998
+    },
+    {
+      "id": "chijg2vra179ujorwygxnctuipy",
+      "title": "KIAAN's crazy cake lab",
+      "address": "St Joseph matric school, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6877742,
+      "lon": 79.9778793
+    },
+    {
+      "id": "chijt8fdocp9ujornva8xgdojvo",
+      "title": "India Super Market",
+      "address": "MXJG+CXV India Super Market, Unnamed Road, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6811153,
+      "lon": 79.9774157
+    },
+    {
+      "id": "chijvz8np8z9ujorxjgexpwb_60",
+      "title": "Arcot Mani Mark Kadalai Mittai, Chengalpattu.",
+      "address": "அஞ்சல், 255, கிரீன் லேண்ட், திருக்கழுகுன்றம் ரோடு, மோர் சூப்பர் மார்க்கெட் எதிரில் வல்லம், Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6818476,
+      "lon": 79.9886353
+    },
+    {
+      "id": "chijqyfzgnx7ujorwgzommdusdq",
+      "title": "Adyar Ananda Bhavan - A2B",
+      "address": "No.2, GST road, S.P Kovil, next to Fortune Hotel, Chennai, Tamil Nadu 603204",
+      "lat": 12.7642542,
+      "lon": 80.00494429999999
+    },
+    {
+      "id": "chijoz7xcgd7ujortebvpv3yqda",
+      "title": "Aaladipattiyan Singaperumal Koil 2",
+      "address": "servey No 120/1, Aaladipattiyan Singaperumal Koil 2, NO 86, GST Rd, thirutheri, Singaperumal Koil, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7492969,
+      "lon": 79.9975261
+    },
+    {
+      "id": "chijoby-hnv7ujorvszte-2ckyk",
+      "title": "Lava Cakes",
+      "address": "No:123, Mahindra World City, paranoor post, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.738935,
+      "lon": 79.9995155
+    },
+    {
+      "id": "chijl-p09ln7ujor2naaygyilhk",
+      "title": "Sri Kaviya Bakery & Sweets",
+      "address": "Kanchipuram High Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603101",
+      "lat": 12.6983471,
+      "lon": 79.9703487
+    },
+    {
+      "id": "chijfzcgfvp3ujorbgkrx9ca5ok",
+      "title": "FB Cakes Chengalpattu",
+      "address": "GST Rd, near New Bus Stand, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690709,
+      "lon": 79.98119799999999
+    },
+    {
+      "id": "chija6izh9t9ujoryn5ard_mfo8",
+      "title": "THE CAKES POP",
+      "address": "SRINIVVASAN ARCADE, NO:10, GST Rd, next to TRENDS, near Government Hospital, Anna Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6800926,
+      "lon": 79.9812008
+    },
+    {
+      "id": "chijq_rzk2h7ujorjjkbrgq__o0",
+      "title": "Amudhu Karupatti Coffee",
+      "address": "Veerapuram, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7384042,
+      "lon": 79.99996349999999
+    },
+    {
+      "id": "chij1-qukxd8ujoronhsgfl1ihy",
+      "title": "NSK Thanga Maaligai",
+      "address": "20, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6957156,
+      "lon": 79.9775487
+    },
+    {
+      "id": "chijrxhitw78ujor24gq5zamt7e",
+      "title": "New India Supermarket",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6937398,
+      "lon": 79.9783463
+    },
+    {
+      "id": "chijl6sz8e_7ujoresrscmau7wg",
+      "title": "Krishana Sweet & Bakery",
+      "address": "Mahindra World City, Kanchipuram, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.737929399999999,
+      "lon": 80.0007916
+    },
+    {
+      "id": "chijo2z5owd9ujorkptqghfolwe",
+      "title": "Kovai Pazhamudir Nilayam - Vallam, Chennai",
+      "address": "Plot No 74 &75, TKM Rd, Nandha Gopal Nagar, Alapakkam, Chengalpattu, Vallam, Tamil Nadu 603003",
+      "lat": 12.6817291,
+      "lon": 79.9900463
+    },
+    {
+      "id": "chijv9s-6h79ujor-sas-mon0t4",
+      "title": "Saravana's bakery &sweets",
+      "address": "hotel golden cafe, SUPER MARKET, TKM Rd, near MORE, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6821057,
+      "lon": 79.9887653
+    },
+    {
+      "id": "chijcqs_f7v9ujorqkhnp2rprrw",
+      "title": "Nithus Bakehouse",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6819636,
+      "lon": 79.9786604
+    },
+    {
+      "id": "chijrcya6ib7ujor_wzqnnlyvm4",
+      "title": "NIYAJ PAAN SHOP",
+      "address": "No11, Mahindra World City, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7377436,
+      "lon": 80.0017816
+    },
+    {
+      "id": "chijm29zyad7ujorgizsyp_pvyw",
+      "title": "DT Cafe",
+      "address": "p27, DT Cafe, Downtown Building, 2, 2nd Ave, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7298618,
+      "lon": 79.99912839999999
+    },
+    {
+      "id": "chij6zgsdtz8ujorsiag3xijvtu",
+      "title": "archana sweets&bakery",
+      "address": "215/1, thirukalukkundram road, alapaakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.679065699999999,
+      "lon": 79.9948739
+    },
+    {
+      "id": "chijg9lwbvr7ujorc6xfvtibxou",
+      "title": "EVOLVE CAKE",
+      "address": "22, GST Rd, near Chinna Muthumariyamman Kovil, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6854906,
+      "lon": 79.9833676
+    },
+    {
+      "id": "chijeynbs2d7ujorbhzm3t3ox70",
+      "title": "Egg sweet",
+      "address": "PX9J+8H2 Egg sweet, Thirutheri R.F., Rajakulipettai, Tamil Nadu 603002",
+      "lat": 12.7182745,
+      "lon": 79.9813753
+    },
+    {
+      "id": "chijqxj0thf9ujorjz7rxtlyhja",
+      "title": "ibaco - Chengalpattu",
+      "address": "No. 5, ibaco - Chengalpattu, VND Complex, T.K.M Rd, beside Maruti Suzuki Showroom, Alapakkam, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6819981,
+      "lon": 79.98914429999999
+    },
+    {
+      "id": "chijyyu0hsb9ujorapg0bes92zk",
+      "title": "CAKE WAVES CHENGALPATTU",
+      "address": "12, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6932532,
+      "lon": 79.9793574
+    },
+    {
+      "id": "chij_6tzkgd7ujoruiqk5pqn82i",
+      "title": "Sweet N Salt",
+      "address": "P2Q2+8FX Sweet N Salt, Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.738443,
+      "lon": 80.001297
+    },
+    {
+      "id": "chijmw1_bzh9ujoro77bu44qovs",
+      "title": "Cakes by Tejal",
+      "address": "130/56a, Periya Maniyakara St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6881275,
+      "lon": 79.9776167
+    },
+    {
+      "id": "chij49fqkq33ujorubzlzy3llxi",
+      "title": "Amaravathi Sweets And Snacks",
+      "address": "No: 68, Chennai - Theni Hwy, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.846628599999999,
+      "lon": 80.0620498
+    },
+    {
+      "id": "chijm771kth7ujor3w5fhf7pnuc",
+      "title": "FB Cakes Mahindra City",
+      "address": "Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7380997,
+      "lon": 80.00033909999999
+    },
+    {
+      "id": "chijmxyoxwx8ujorgbu_kudnwb0",
+      "title": "RV Super Market",
+      "address": "No,21 vedappar Street, chinna natham Near Chengalpattu old bus stand, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6943875,
+      "lon": 79.9746201
+    },
+    {
+      "id": "chijb1kptad7ujorvdhl6akqelk",
+      "title": "Coffee break",
+      "address": "SH58, near Indian bank, Athur, Chengalpattu, Tamil Nadu 603101",
+      "lat": 12.731207999999999,
+      "lon": 79.9473652
+    },
+    {
+      "id": "chijhfrn2gj9ujor3ncqxsp1sie",
+      "title": "Wafflehere",
+      "address": "43/19, Dr Varadharajan St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6865934,
+      "lon": 79.9824575
+    },
+    {
+      "id": "chijg_pv8k79ujorik-z92imx8y",
+      "title": "Girias Chengalpattu",
+      "address": "106, GST Rd, Thimmarajakulam, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.687063499999999,
+      "lon": 79.98312849999999
+    },
+    {
+      "id": "chij9d0qnf79ujorvlfmok5j7a4",
+      "title": "My little delight by punitha",
+      "address": "Ramakrishna nagar, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6847207,
+      "lon": 79.98592699999999
+    },
+    {
+      "id": "chij34lnlg78ujorq8r9oyhzhae",
+      "title": "Super Luck Store Supermarket",
+      "address": "No: 76/1, Rajaji St, near New Bus Stand, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6919762,
+      "lon": 79.9794058
+    },
+    {
+      "id": "chijzystnrn9ujorq9f7-hiubl4",
+      "title": "an delights",
+      "address": "33, Basith St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6951352,
+      "lon": 79.9742018
+    },
+    {
+      "id": "chij63zzigv_ujorgbfx6e1wqrw",
+      "title": "Vikash Stores",
+      "address": "Shop no3, Vikash Stores, Kumarasamy complex, near AMSAM MAHAL, Thirukazhukundram road, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6659916,
+      "lon": 80.0144108
+    },
+    {
+      "id": "chij40md-kp8ujorlje2h667lu0",
+      "title": "Sumathi Stores",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6791304,
+      "lon": 79.9801021
+    },
+    {
+      "id": "chij-9vwvdv7ujor4hergibbb-o",
+      "title": "Home Needs Super Market",
+      "address": "Mahindra World, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.73789,
+      "lon": 80.0011081
+    },
+    {
+      "id": "chijkyqvzgd9ujorc4-9govcqsy",
+      "title": "Mom’s bonbons",
+      "address": "Vallam bridge, near golden cafe, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.682224699999999,
+      "lon": 79.9884664
+    },
+    {
+      "id": "chijhevug9p9ujorjlkbt_q0slg",
+      "title": "Arasan SuperMarket",
+      "address": "NGGO Nagar, Kamarajar Nagar, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6685771,
+      "lon": 79.9852263
+    },
+    {
+      "id": "chij4tl293p9ujor7beqtbdailk",
+      "title": "Malabar Gold and Diamonds – Chengalpattu store",
+      "address": "21/108, GST Rd, near Chinna Muthu Mariamman Aalayam, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6862029,
+      "lon": 79.9832473
+    },
+    {
+      "id": "chijp5tat2_8ujor-mwtcmjncjy",
+      "title": "Flower Market, Chengalpattu",
+      "address": "Anna Salai High Rd J C K Nagar Chengalpattu Kanchipuram Tamil Nadu 603001 Republic of, Tamil Nadu 603002",
+      "lat": 12.6940729,
+      "lon": 79.9774043
+    },
+    {
+      "id": "chijwr8bbqd7ujorvrkzbopkemk",
+      "title": "Hanbee desserts spot",
+      "address": "Mahindra World City, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.737812499999999,
+      "lon": 80.0018125
+    },
+    {
+      "id": "chijmtjsonv7ujordrrmx7burfs",
+      "title": "Nilgiris Canopy",
+      "address": "Unit no.1-A, block-C, the canopy, ground floor, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7307179,
+      "lon": 80.00041039999999
+    },
+    {
+      "id": "chijgxlcict7ujorfktxm4hrnya",
+      "title": "Tara's Bake House (To Being Honest)",
+      "address": "No. 57/2, MGR cross street, Devaki Nagar, Thimmavaram, Athur, Tamil Nadu 603101",
+      "lat": 12.7074634,
+      "lon": 79.9614115
+    },
+    {
+      "id": "chijl9_ia8n7ujorkzaj9xeuaem",
+      "title": "Munees Super Market",
+      "address": "M. G. R Nagar, 3rd cross street, Chettipunniyam Rd, opposite to Mahendra world city, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7447646,
+      "lon": 79.9895166
+    },
+    {
+      "id": "chijb-u4cob9ujor3lbsjga_z9o",
+      "title": "Anbu supermarket.",
+      "address": "No 380 B/3, TKM ROAD, VALLAM VILLAGE MELAMAIYYUR, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6814257,
+      "lon": 79.9905441
+    },
+    {
+      "id": "chij_2u7-er9ujorkwy8u1pr4we",
+      "title": "NEW UDANKUDI KARUPATTI COFFEE",
+      "address": "MXGH+J85 NEW UDANKUDI KARUPATTI COFFEE, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.676454399999999,
+      "lon": 79.9782646
+    },
+    {
+      "id": "chijszexyyp7ujorzjdryskxwkg",
+      "title": "CHENGAI KARUPATTI",
+      "address": "Rajakulipettai, Tamil Nadu 603002",
+      "lat": 12.718562499999999,
+      "lon": 79.98118749999999
+    },
+    {
+      "id": "chijv14p_cn7ujorkwl68yq4g48",
+      "title": "Hygreva Supermarket",
+      "address": "1,Rajendra Nagar,jubilee road,Chettipuniyam, near Mahendra city, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7464655,
+      "lon": 79.986519
+    },
+    {
+      "id": "chijnwegfjn9ujoramlxpsfwmqy",
+      "title": "SRI KRISHNA SWEETS AND BAKERY",
+      "address": "22, GST Rd, Kamarajar Nagar, Kanchipuram, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.674504899999999,
+      "lon": 79.982647
+    },
+    {
+      "id": "chijoek6eup7ujorwmwymf-ylem",
+      "title": "Guna sweets and bakery",
+      "address": "P2Q2+677 Guna sweets and bakery, Mahindra World City, Thirutheri R.F., Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7380275,
+      "lon": 80.0006825
+    },
+    {
+      "id": "chijeetcqm78ujoryekojb4rius",
+      "title": "Anbu Super Market",
+      "address": "No.29, Pillayar Kulam Street, New Bus Stand, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.690469799999999,
+      "lon": 79.9807233
+    },
+    {
+      "id": "chiju7bvom78ujorhvz2r9qrf0i",
+      "title": "Sagar Sweets",
+      "address": "19, Rajaji St, J C K Nagar, Hanumanthai, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.691455099999999,
+      "lon": 79.9803599
+    },
+    {
+      "id": "chijuqtobgd3ujormuc0gxmsvuw",
+      "title": "Hake",
+      "address": "Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8202976,
+      "lon": 80.0372853
+    },
+    {
+      "id": "chijmceyulv5ujorkuxs0r2frhs",
+      "title": "Theobroma Bakery and Cake Shop - Maraimalai Nagar, Chengalpattu",
+      "address": "45, Vallal MGR Salai, near Go Colors, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7975316,
+      "lon": 80.02247659999999
+    },
+    {
+      "id": "chijo8hkkgd_ujorag6ijoefx_c",
+      "title": "PEARL Crumbs",
+      "address": "Nenmeli, Chengalpattu, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6659375,
+      "lon": 80.0146875
+    },
+    {
+      "id": "chijeq9yngz3ujorfk2d9pbkllo",
+      "title": "My Cake Valley",
+      "address": "Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8184594,
+      "lon": 80.03938629999999
+    },
+    {
+      "id": "chijisdcyqn3ujorl0vtqkkoqdw",
+      "title": "Warren Cakes N Desserts",
+      "address": "company gate, 244, Periyar Nagar Nellikuppam road, 2nd St, opposite of INTIMATE FASHIONS INDIA PVT LTD, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.830414,
+      "lon": 80.0730633
+    },
+    {
+      "id": "chijedy9egz3ujorc9u0cmj-mv8",
+      "title": "Lava Cakes",
+      "address": "1, Bharathiyar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819319,
+      "lon": 80.0367776
+    },
+    {
+      "id": "chijht9xq-_9ujor7tdadckoz_c",
+      "title": "Jango'z & CK's Bakery Chengalpattu",
+      "address": "No.1, Adams Plaza, T.K.M.Road Melamaiyur, Chengalpattu, Tamil Nadu 603001 Chengalpatt, Tamil Nadu 603003",
+      "lat": 12.6820831,
+      "lon": 79.9890724
+    },
+    {
+      "id": "chijsrkxp3_7ujortlczttc8apk",
+      "title": "New Buzz Cakes n Bakes",
+      "address": "Mahalaxmi nagar Nearby City union bank Kanchipuram main road Thimmavaram, Tamil Nadu 603101",
+      "lat": 12.7016052,
+      "lon": 79.9660195
+    },
+    {
+      "id": "chij184n0s76ujor4j1jkn-mcdy",
+      "title": "Mys Cakes",
+      "address": "2/29, Railway Station Rd, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7617038,
+      "lon": 80.00238
+    },
+    {
+      "id": "chijo8jcyd35ujorlpjlkprl7ls",
+      "title": "RIYA COOL CAKES",
+      "address": "33/20, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7934077,
+      "lon": 80.0253858
+    },
+    {
+      "id": "chijfspjmrr3ujor4t89umd1hvu",
+      "title": "French Cake Shop",
+      "address": "Nellikuppam Rd, Pankaja Ammal Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.833015099999999,
+      "lon": 80.06949259999999
+    },
+    {
+      "id": "chijc0lkagd3ujordrjdwompcuy",
+      "title": "THE LABAN SPOT GUDUVANCHERI",
+      "address": "Shop No. E2, No.20 2, THE LABAN SPOT GUDUVANCHERI, GST food street, Guduvancheri, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.8326912,
+      "lon": 80.04908069999999
+    },
+    {
+      "id": "chijfe9ngkz3ujordccnwtnv_bs",
+      "title": "Blueberry - The Cake Cafe",
+      "address": "160, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8438422,
+      "lon": 80.0592077
+    },
+    {
+      "id": "chijy9sdeaz3ujorwewv3algbc0",
+      "title": "The Cake Smith",
+      "address": "89 GST Road T.srinivasa complex, Service road, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.842998,
+      "lon": 80.05906
+    },
+    {
+      "id": "chijcz2qreh5ujordnkrui3_-mo",
+      "title": "Aravind Sweets and Bakery",
+      "address": "33/7, Pa ander Road, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.795008399999999,
+      "lon": 80.0262225
+    },
+    {
+      "id": "chijd9bpzad3ujorxlyfdnhdpee",
+      "title": "Bread and Brew - Continental",
+      "address": "Bus Stop, GST Rd, next to Thailavaram, Pandian Nagar, Thailavaram, Tamil Nadu 603203",
+      "lat": 12.830926,
+      "lon": 80.0456488
+    },
+    {
+      "id": "chijdx5kegd3ujor3kp9zx1xosk",
+      "title": "SR Bakery",
+      "address": "R2GV+QFV SR Bakery, Pratish St, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.826982399999999,
+      "lon": 80.04368199999999
+    },
+    {
+      "id": "chijhuaqfmv3ujorydo0muczhbq",
+      "title": "Cocoluxe",
+      "address": "Potheri, Cocoluxe, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8209912,
+      "lon": 80.04133279999999
+    },
+    {
+      "id": "chij1yyr5zh5ujorwjjzmcft8lw",
+      "title": "The Little Bakes",
+      "address": "3/9, The Little Bakes, MIG 2, 8th Street, Rail Nagar, Maraimalai Nagar, Chennai, Tamil Nadu 603203",
+      "lat": 12.7974044,
+      "lon": 80.0391204
+    },
+    {
+      "id": "chijw6stviv3ujorztgo13ny9fm",
+      "title": "Sa-ra Treats the Brownies spot",
+      "address": "Pillayar Koil St, SRM University, Vgp mount, Guduvancheri, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.819600999999999,
+      "lon": 80.0389701
+    },
+    {
+      "id": "chijayaopgd3ujorempr0es4ypc",
+      "title": "The Dine hub",
+      "address": "Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.8065616,
+      "lon": 80.0274312
+    },
+    {
+      "id": "chijhcebzfyqyysraqw5zbzz-rc",
+      "title": "Athome Cakes by Shrinithi",
+      "address": "SYLVAN COUNTY, Mahindra World City, Thirutheri R.F., Chengalpet, Tamil Nadu 603004",
+      "lat": 12.7315998,
+      "lon": 80.00073359999999
+    },
+    {
+      "id": "chijp83cfwd3ujord2cfuxujmwk",
+      "title": "Brownie Bistro",
+      "address": "R2CG+JQ9 Brownie Bistro, Kattankulathur Main Rd, Kavanur R.F.R[31]C, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8215405,
+      "lon": 80.0269844
+    },
+    {
+      "id": "chijurpbyrh3ujorcjblpxcnaee",
+      "title": "FB Cakes Singaperumal Kovil",
+      "address": "near MGR Statue, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.761925699999999,
+      "lon": 80.0039451
+    },
+    {
+      "id": "chij46p4q7b5ujor_nynhnbtpdo",
+      "title": "Maha Snacks & Hot Chips",
+      "address": "11, Vallal MGR Salai, NH-1, Maraimalai Nagar, Chengalpattu, Tamil Nadu 603209",
+      "lat": 12.7994714,
+      "lon": 80.0234673
+    },
+    {
+      "id": "chijidpfnwd3ujorfmye--_gghm",
+      "title": "Bannno bake's",
+      "address": "R23G+9C2 Bannno bake's, Vallal MGR Salai, NH-1, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.803378799999999,
+      "lon": 80.0260096
+    },
+    {
+      "id": "chij9rl-kvp5ujoret8q8p5otqe",
+      "title": "Lava Cakes",
+      "address": "Q2VH+4X6 Lava Cakes, Ambikapathy street, NH-2, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7927763,
+      "lon": 80.0298978
+    },
+    {
+      "id": "chij3-nq7uh3ujorbumlx-d047o",
+      "title": "Sweet Truth Potheri",
+      "address": "No.19, 1st Floor, Shamundiswari Nagar GST Road, Thailavaram, Potheri, Chennai, Tamil Nadu 603203",
+      "lat": 12.817364999999999,
+      "lon": 80.03480499999999
+    },
+    {
+      "id": "chij1ecyptl5ujor1ibhzmtdvww",
+      "title": "Ganesh Sweets And Bakery",
+      "address": "Thiruvalluvar Salai, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7964582,
+      "lon": 80.0254762
+    },
+    {
+      "id": "chijsuqrzwd3ujorcd0v54i5s8q",
+      "title": "My Cake Valley",
+      "address": "R2FW+78M My Cake Valley, SRM university, SRM University, Pother, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.823214199999999,
+      "lon": 80.0457103
+    },
+    {
+      "id": "chijh8l41233ujorlz1saikli18",
+      "title": "Bliss Cafe",
+      "address": "52, Kakkan St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8173287,
+      "lon": 80.04092659999999
+    },
+    {
+      "id": "chijvwf0qgr5ujorzrjx51ixbz0",
+      "title": "Moonwhip Millet bakes (Home baker)",
+      "address": "Vishnupriya Avenue, Rail Nagar, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7932822,
+      "lon": 80.03847189999999
+    },
+    {
+      "id": "chijy7g0sd73ujoryownjk9r4oi",
+      "title": "Cocoluxe",
+      "address": "Potheri Lk Rd, Potheri, SRM Nagar, Lake, Kanchipuram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8209638,
+      "lon": 80.0412903
+    },
+    {
+      "id": "chijdfshs4n5ujorjyh_0zclt8u",
+      "title": "Apurva Sweets and Bakery",
+      "address": "33/8, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.794358299999999,
+      "lon": 80.0258882
+    },
+    {
+      "id": "chij0yxjxzt3ujory-noyoxqv5o",
+      "title": "Sai ram Homemade cakes",
+      "address": "grk building, Plot no 6, Perumattunallur Main Road, near Sri aqua water company, ArvindAnnaiNagar, Guduvancheri, Chennai, Perumanttunallur, Tamil Nadu 603202",
+      "lat": 12.8240609,
+      "lon": 80.080722
+    },
+    {
+      "id": "chijouwr2an3ujorxeadczz2lsu",
+      "title": "One piece dezato",
+      "address": "31, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603204",
+      "lat": 12.8197526,
+      "lon": 80.03853749999999
+    },
+    {
+      "id": "chijd_zyoi_3ujorp0kgfqxbyiw",
+      "title": "yodelicious",
+      "address": "Kamarajar St, Kattankulathur, Kavanur R.F.R[31]C, Tamil Nadu 603203",
+      "lat": 12.8101722,
+      "lon": 80.02049579999999
+    },
+    {
+      "id": "chij3ylnomd5ujorbslntnl5ow8",
+      "title": "Laalu Bakes",
+      "address": "Kalaivanar St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7986899,
+      "lon": 80.0277101
+    },
+    {
+      "id": "chijbqv23y73ujorqkf9j3zbjsk",
+      "title": "My Cake Valley",
+      "address": "No-20, My Cake Valley, OMR FOOD STREET, GST Rd, Guduvancheri, Maraimalai Nagar, Tamil Nadu 603202",
+      "lat": 12.833033799999999,
+      "lon": 80.04890499999999
+    },
+    {
+      "id": "chij-dikcsp3ujor94hybjbs4ny",
+      "title": "Selvarani Sweet And Bakery",
+      "address": "1, Thiruvallur Street, Potheri, GST Rd, Potheri, Chennai, Tamil Nadu 603203",
+      "lat": 12.8189722,
+      "lon": 80.03639319999999
+    },
+    {
+      "id": "chij0ecwkad3ujor1cnobpewyem",
+      "title": "Escapes",
+      "address": "52, Kakkan St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.817355099999999,
+      "lon": 80.0408325
+    },
+    {
+      "id": "chij--aqmwd9ujorx8hiwhyyc50",
+      "title": "SEVVEL BAKER'S",
+      "address": "chengai royal City, 11A, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6806302,
+      "lon": 79.9726481
+    },
+    {
+      "id": "chijv_mfogd3ujorqe4r8p9buks",
+      "title": "Maseladar",
+      "address": "204, Potheri, SRM Nagar, Thailavaram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8266811,
+      "lon": 80.045977
+    },
+    {
+      "id": "chij_-sxk7r3ujorhhvttdzbl_k",
+      "title": "Ganapathi Sweets & Bakery",
+      "address": "Nellikuppam Rd, Pankaja Ammal Nagar, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8328949,
+      "lon": 80.0700143
+    },
+    {
+      "id": "chijjyp3nir3ujorjqkn1dddcco",
+      "title": "FB Cakes Urapakkam",
+      "address": "153, Chennai - Theni Hwy, Senthil Nagar, Urapakkam, Chennai, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8623786,
+      "lon": 80.0739224
+    },
+    {
+      "id": "chij_vm6jed3ujorw42eexpqjsk",
+      "title": "Cake Square Guduvanchery",
+      "address": "mary brown building, 187, GST Rd, N.G.O Colony, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8434555,
+      "lon": 80.05890029999999
+    },
+    {
+      "id": "chijlsrztjb3ujordjfcps0w3aw",
+      "title": "The Buffet Square By SRM Hotels - Channai",
+      "address": "GST Road, Intra College Rd, near SRM Institute of Science and Technology, Maraimalai Nagar, SRM Nagar, Chennai, Tamil Nadu 603203, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8239021,
+      "lon": 80.0414868
+    },
+    {
+      "id": "chij0qyuadn3ujorfj6oqsageqe",
+      "title": "SYZI BAKES-home bakery",
+      "address": "F block, SYZI BAKES-home bakery, urbanrise Jubilee residency, Vishnu Priya Nagar, Guduvancheri, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8174345,
+      "lon": 80.06763749999999
+    },
+    {
+      "id": "chiju8kgjgd3ujorgvrtmgik4tk",
+      "title": "Slice of Life",
+      "address": "R2FW+8J4 Slice of Life, Potheri, SRM Nagar, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.821767099999999,
+      "lon": 80.04776989999999
+    },
+    {
+      "id": "chijjbs_f6pxujorpklzibxxlk0",
+      "title": "The Cake Artist",
+      "address": "20, OMR Rd, Thiruporur, Tamil Nadu 603110",
+      "lat": 12.720240599999999,
+      "lon": 80.1872633
+    },
+    {
+      "id": "chijfxbce1l9ujorxsyf710mw9c",
+      "title": "VV Bakery",
+      "address": "No 20 Meleripakkam, X Road, Santhi Nagar, Vallam, Tamil Nadu 603003",
+      "lat": 12.6735046,
+      "lon": 80.0052762
+    },
+    {
+      "id": "chijczsigtn3ujorc5zsh5fpat8",
+      "title": "Ooty Fresh",
+      "address": "Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8200031,
+      "lon": 80.0373169
+    },
+    {
+      "id": "chijhrxrb0l3ujorlfaexzw1pli",
+      "title": "Green Apron Bakers",
+      "address": "Potheri, 2, Annai Therasa St, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.817667,
+      "lon": 80.04027549999999
+    }
+  ],
+  "updated_at_utc": "2026-09-27T12:55:39.023956+00:00"
+}

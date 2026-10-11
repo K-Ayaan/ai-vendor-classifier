@@ -1,0 +1,253 @@
+{
+  "note": "Regression target is the AI-judged expected_score (not ground truth); classification target is the weak is_pharmacy label.",
+  "regression": {
+    "metrics": {
+      "OLS (Gaussian MLE)": {
+        "train": {
+          "RMSE": 14.9758954286,
+          "MAE": 11.3600273647,
+          "R2": 0.798298349513
+        },
+        "test": {
+          "RMSE": 17.4579065788,
+          "MAE": 13.9775343049,
+          "R2": 0.750961005862
+        }
+      },
+      "Ridge (L2, MAP)": {
+        "train": {
+          "RMSE": 14.9758954289,
+          "MAE": 11.3600218764,
+          "R2": 0.798298349505
+        },
+        "test": {
+          "RMSE": 17.4579037115,
+          "MAE": 13.9775259959,
+          "R2": 0.750961087667
+        }
+      },
+      "Robust (Huber)": {
+        "train": {
+          "RMSE": 15.0801826401,
+          "MAE": 11.3348388417,
+          "R2": 0.795479400508
+        },
+        "test": {
+          "RMSE": 17.0318448692,
+          "MAE": 13.7805351621,
+          "R2": 0.762968312277
+        }
+      },
+      "Bayesian linear": {
+        "train": {
+          "RMSE": 14.9766544856,
+          "MAE": 11.3518537694,
+          "R2": 0.798277902397
+        },
+        "test": {
+          "RMSE": 17.4578419479,
+          "MAE": 13.9639105436,
+          "R2": 0.750962849793
+        }
+      },
+      "Kernel ridge (poly deg 2)": {
+        "train": {
+          "RMSE": 12.187649116,
+          "MAE": 8.39735210695,
+          "R2": 0.866413140876
+        },
+        "test": {
+          "RMSE": 15.320522015,
+          "MAE": 11.7255918531,
+          "R2": 0.808208149379
+        }
+      },
+      "Kernel ridge (RBF)": {
+        "train": {
+          "RMSE": 11.8803893912,
+          "MAE": 8.10738982313,
+          "R2": 0.873063884231
+        },
+        "test": {
+          "RMSE": 15.141269313,
+          "MAE": 11.4336339178,
+          "R2": 0.812669888496
+        }
+      }
+    },
+    "details": {
+      "features": [
+        "distance_km",
+        "within_radius",
+        "category_match",
+        "keyword_in_title",
+        "n_categories",
+        "is_chain"
+      ],
+      "ols_coef": {
+        "distance_km": -0.156768240291,
+        "within_radius": 18.1356545554,
+        "category_match": 59.4411157934,
+        "keyword_in_title": 15.4675931526,
+        "n_categories": -3.23964171151,
+        "is_chain": 3.47462156888
+      },
+      "ols_intercept": 0.296184866589,
+      "huber_coef": {
+        "distance_km": -0.156218265999,
+        "within_radius": 15.8617434644,
+        "category_match": 60.4587887688,
+        "keyword_in_title": 15.0572126756,
+        "n_categories": -2.42848513113,
+        "is_chain": 2.04462457561
+      },
+      "huber_intercept": -0.864198658574,
+      "huber_scale": 9.25879792816,
+      "huber_n_outliers_train": 121,
+      "huber_epsilon": 1.35,
+      "ridge_alpha": 0.001,
+      "bayes_noise_precision_alpha": 0.0043848554092,
+      "bayes_noise_variance_1_over_alpha": 228.057691002,
+      "bayes_weight_precision_lambda": 0.00145578539177,
+      "bayes_coef": {
+        "distance_km": -0.160894203266,
+        "within_radius": 17.9454142568,
+        "category_match": 59.2034743962,
+        "keyword_in_title": 15.0134240779,
+        "n_categories": -3.21854754165,
+        "is_chain": 3.39088648025
+      },
+      "bayes_coef_sd": {
+        "distance_km": 0.0755066158656,
+        "within_radius": 2.24636609066,
+        "category_match": 1.6802654093,
+        "keyword_in_title": 4.81493274816,
+        "n_categories": 0.653725608594,
+        "is_chain": 3.95305853766
+      },
+      "bayes_closed_form_vs_sklearn_max_abs_diff": 2.27373675443e-13,
+      "bayes_test_mean_predictive_sd": 15.2786348697,
+      "bayes_test_95pct_interval_coverage": 0.933333333333,
+      "kpoly_alpha": 3.16227766017,
+      "krbf_alpha": 0.1,
+      "krbf_gamma": 0.0316227766017
+    }
+  },
+  "classification": {
+    "metrics": {
+      "Logistic L2 (MAP), Phase 1": {
+        "confusion_matrix": {
+          "tn": 825,
+          "fp": 1,
+          "fn": 11,
+          "tp": 86
+        },
+        "accuracy": 0.986998916576,
+        "precision": 0.988505747126,
+        "recall": 0.886597938144,
+        "f1": 0.934782608696,
+        "roc_auc": 0.984249020244,
+        "pr_auc": 0.946522454134
+      },
+      "Logistic small-model MLE, Phase 1": {
+        "confusion_matrix": {
+          "tn": 826,
+          "fp": 0,
+          "fn": 62,
+          "tp": 35
+        },
+        "accuracy": 0.932827735645,
+        "precision": 1.0,
+        "recall": 0.360824742268,
+        "f1": 0.530303030303,
+        "roc_auc": 0.743815681086,
+        "pr_auc": 0.469466166421
+      },
+      "Fisher LDA (discriminant)": {
+        "confusion_matrix": {
+          "tn": 823,
+          "fp": 3,
+          "fn": 62,
+          "tp": 35
+        },
+        "accuracy": 0.929577464789,
+        "precision": 0.921052631579,
+        "recall": 0.360824742268,
+        "f1": 0.518518518519,
+        "roc_auc": 0.878572676668,
+        "pr_auc": 0.605539327078
+      },
+      "Bernoulli naive Bayes (generative)": {
+        "confusion_matrix": {
+          "tn": 820,
+          "fp": 6,
+          "fn": 11,
+          "tp": 86
+        },
+        "accuracy": 0.981581798483,
+        "precision": 0.934782608696,
+        "recall": 0.886597938144,
+        "f1": 0.910052910053,
+        "roc_auc": 0.978482813709,
+        "pr_auc": 0.936499042775
+      },
+      "Bayesian logistic (Laplace)": {
+        "confusion_matrix": {
+          "tn": 825,
+          "fp": 1,
+          "fn": 11,
+          "tp": 86
+        },
+        "accuracy": 0.986998916576,
+        "precision": 0.988505747126,
+        "recall": 0.886597938144,
+        "f1": 0.934782608696,
+        "roc_auc": 0.953907790619,
+        "pr_auc": 0.919620590034
+      },
+      "SVM linear": {
+        "confusion_matrix": {
+          "tn": 825,
+          "fp": 1,
+          "fn": 11,
+          "tp": 86
+        },
+        "accuracy": 0.986998916576,
+        "precision": 0.988505747126,
+        "recall": 0.886597938144,
+        "f1": 0.934782608696,
+        "roc_auc": 0.980504730286,
+        "pr_auc": 0.940703145806
+      },
+      "SVM RBF kernel": {
+        "confusion_matrix": {
+          "tn": 819,
+          "fp": 7,
+          "fn": 13,
+          "tp": 84
+        },
+        "accuracy": 0.978331527627,
+        "precision": 0.923076923077,
+        "recall": 0.865979381443,
+        "f1": 0.893617021277,
+        "roc_auc": 0.97068220963,
+        "pr_auc": 0.918303788365
+      }
+    },
+    "details": {
+      "laplace_lambda": 0.1,
+      "laplace_irls_converged": true,
+      "laplace_test_logloss_map_plugin": 0.0582839478439,
+      "laplace_test_logloss_predictive": 0.106526704227,
+      "laplace_mean_abs_shift_map_to_predictive": 0.0544705724701,
+      "laplace_max_abs_shift_map_to_predictive": 0.207562826698,
+      "lda_shrinkage": "auto (Ledoit-Wolf)",
+      "nb_alpha": 1.0,
+      "svm_linear_C": 1.0,
+      "svm_rbf_C": 10.0,
+      "svm_linear_n_support": 342,
+      "svm_rbf_n_support": 1155,
+      "n_train": 3689
+    }
+  }
+}

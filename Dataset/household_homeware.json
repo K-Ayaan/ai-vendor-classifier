@@ -1,0 +1,1773 @@
+{
+  "category": "household_homeware",
+  "status": "complete",
+  "count": 252,
+  "outside": 104,
+  "points": [
+    {
+      "id": "chijx8lz36v9ujorfxgznvggyqk",
+      "title": "MRS TRADERS",
+      "address": "14, Basith St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6966358,
+      "lon": 79.974752
+    },
+    {
+      "id": "chijuyo9v4b9ujor4vu9w3-mv5y",
+      "title": "SHRI BALAJI PLASTIC",
+      "address": "70, Bazaar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6941879,
+      "lon": 79.9763712
+    },
+    {
+      "id": "chijdc-cewd3ujoruuptaqijgau",
+      "title": "RAMDEV STORES & ESSENS",
+      "address": "37/B Nellikuppam Road, Chennai - Theni Hwy, Kamarajapuram, Guduvancheri, Chennai, Tamil Nadu 603202",
+      "lat": 12.8421679,
+      "lon": 80.0611473
+    },
+    {
+      "id": "chij-zqtt4t3ujorgdwz26ecabq",
+      "title": "IMIS Traders (Fancy and Stationary)",
+      "address": "No. 8, GANDHI NAGAR 1st STREET, Nellikuppam Rd, Nandhivaram, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8431831,
+      "lon": 80.0600176
+    },
+    {
+      "id": "chijt3s-nrn3ujorzz3mplkxvo8",
+      "title": "GOLDEN PLASTIC",
+      "address": "4, V.S.R Mahal, Madambakkam Main Rd, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.850187,
+      "lon": 80.05206
+    },
+    {
+      "id": "chij_wxzpa_3ujorvlb0k-kvb3i",
+      "title": "KS PET POLYMERS",
+      "address": "No: 1/26, Perumal kovil street, post, Madampakkam, Adhanur, Tamil Nadu 603202",
+      "lat": 12.8733481,
+      "lon": 80.0447672
+    },
+    {
+      "id": "chijnx30rqz3ujorp0ub0bjjw7k",
+      "title": "RICH ESSENCE MART",
+      "address": "14/3, Kamarajapuram Cross Rd, Kamarajapuram, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.842529599999999,
+      "lon": 80.06093229999999
+    },
+    {
+      "id": "chijn5q4mul5ujor2jhtgm_54wc",
+      "title": "JIIVA SUPERMARKET",
+      "address": "23, HIG, JIIVA SUPERMARKET, NH1, Thiruvalluvar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.8076555,
+      "lon": 80.02839709999999
+    },
+    {
+      "id": "chijg6emtczmujorozzymvdb4ci",
+      "title": "Heyaansh Industries Pvt Ltd",
+      "address": "MMDA Industrial complex, A1A, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7884256,
+      "lon": 80.03282639999999
+    },
+    {
+      "id": "chijcahf70x2ujorjdnoyjgy5oc",
+      "title": "Sri Balaji Store",
+      "address": "37, Priya Nagar Rd, Abnirami Nagar, Priya Nagar, Urapakkam, Vandalur R.F., Urappakkam, Tamil Nadu 603210",
+      "lat": 12.859295099999999,
+      "lon": 80.06948799999999
+    },
+    {
+      "id": "chij61pftgd3ujorlg-3x5zasb0",
+      "title": "Reliance Smart Bazaar Guduvanchery",
+      "address": "147, Mahalakshmi Nagar Main Rd, Mahalakshmi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8519113,
+      "lon": 80.0669552
+    },
+    {
+      "id": "chijv14p_cn7ujorkwl68yq4g48",
+      "title": "Hygreva Supermarket",
+      "address": "1,Rajendra Nagar,jubilee road,Chettipuniyam, near Mahendra city, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7464655,
+      "lon": 79.986519
+    },
+    {
+      "id": "chij7wfbrq72ujoredt9dn40g1y",
+      "title": "Sri Mutharamman Waste Paper Mart",
+      "address": "No 1 Main Road, Vandalur Chennai 600048, Chennai, Tamil Nadu 603211",
+      "lat": 12.863949499999999,
+      "lon": 80.0599448
+    },
+    {
+      "id": "chijfrwbfgb3ujorwbdtnjru7yq",
+      "title": "Kingini Handicrafts",
+      "address": "First Floor, Kingini Handicrafts, No. 359, GST Rd, near Karur Vysya Bank, Senthil Nagar, Urapakkam, Chengalpattu, Chennai, Tamil Nadu 603210",
+      "lat": 12.865086199999999,
+      "lon": 80.07494439999999
+    },
+    {
+      "id": "chijy7vfosb3ujorjkycuxhn3mq",
+      "title": "BARAKATH TRADERS (iron,plastic, paper)scarp",
+      "address": "5/149,4th main road, chennai -48, Vandalur, Chennai, Tamil Nadu 600048",
+      "lat": 12.882643799999999,
+      "lon": 80.0749546
+    },
+    {
+      "id": "chij91z826v3ujortntnslkgqoi",
+      "title": "Manoj Fancy",
+      "address": "129/2, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.841335899999999,
+      "lon": 80.05732139999999
+    },
+    {
+      "id": "chijfxpcrsj3ujorow3aamg7bvo",
+      "title": "Sunrise Tarpaulin",
+      "address": "EB Office, 22, GST Rd, opposite Guduvancheri, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8503758,
+      "lon": 80.06541039999999
+    },
+    {
+      "id": "chijayhw_cj6ujorhtihjsw5y4o",
+      "title": "S.A Sports (MAHINDRA WORLD CITY)",
+      "address": "No:18, AM Complex, Jubliee Road, Signal, Chettipunniyam Rd, opposite to Mahindra World city, Singaperumal Koil, Tamil Nadu 603004",
+      "lat": 12.743308599999999,
+      "lon": 79.99168499999999
+    },
+    {
+      "id": "chijqsbllel5ujorfwg5jr7mr1u",
+      "title": "KRC Enterprises",
+      "address": "Plot No: 9/3, MIG, NH-1, Thiruvalluvar Salai, Near St Joseph Hr Sec School, Maraimalai Nagar, Singaperumal Koil, Mahindra World City, Potheri, Urapakkam, Guduvancherry, Chengalpet, Tamil Nadu 603209",
+      "lat": 12.7937423,
+      "lon": 80.0188663
+    },
+    {
+      "id": "chij45oikq_3ujorgdbzuyhom3a",
+      "title": "Green chennai clay disposable products",
+      "address": "8/7, block 3 Masoodhi street, Vandalur, Tamil Nadu 600048",
+      "lat": 12.891347099999999,
+      "lon": 80.06854229999999
+    },
+    {
+      "id": "chijmzj0ykf2ujoryy7uw9pibf8",
+      "title": "Sathasivam",
+      "address": "40, Karanai Puducherry Rd, Senthil Nagar, Urapakkam, Vandalur R.F., Urappakkam, Tamil Nadu 603210",
+      "lat": 12.859704899999999,
+      "lon": 80.07326549999999
+    },
+    {
+      "id": "chijq93fgbt3ujor8qhoulxp5mk",
+      "title": "Mataji Marketing",
+      "address": "No.1, Gandhi Nagar First Street, Road, Guduvancheri, Nellikuppam, Tamil Nadu 603202",
+      "lat": 12.8431996,
+      "lon": 80.0600827
+    },
+    {
+      "id": "chijv4fi-zn3ujorznsusn_6uki",
+      "title": "MAADAN FURNITURES AND INTERIORS",
+      "address": "858, Nellikuppam Rd, Guduvancheri, Kayarambedu, Moolakazhani, Tamil Nadu 603202",
+      "lat": 12.8177431,
+      "lon": 80.077088
+    },
+    {
+      "id": "chij1eambql3ujorthq1_pvx3yc",
+      "title": "Sri Jayalakshmi Traders",
+      "address": "26, Iyyenchery Main Rd, Gandhi Nagar, Urapakkam, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.865845,
+      "lon": 80.079111
+    },
+    {
+      "id": "chij5rbux5l5ujormgqpggcdzew",
+      "title": "Motherson Automotive Technologies & Engineering FSP",
+      "address": "112 & 113, Motherson Automotive Technologies & Engineering FSP, New Ford India Supplier Park, S.No. 71, 77-85, Chithamanur Village, Maraimalai Nagar, Chennai, Tamil Nadu 603204",
+      "lat": 12.773539399999999,
+      "lon": 80.02145349999999
+    },
+    {
+      "id": "chijk6jflfl2ujoripsszuim9zq",
+      "title": "Surya Sports Zone",
+      "address": "20/1, GST Rd, near Al Sham Restaurant, Jaibeemnagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8491901,
+      "lon": 80.0646143
+    },
+    {
+      "id": "chijssdwj1z5ujorbazsqmywj34",
+      "title": "Reliance Smart Bazaar",
+      "address": "19, GST Rd, Peramanur, Singaperumal Koil, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7882255,
+      "lon": 80.0165931
+    },
+    {
+      "id": "chijscslhqd7ujoramohxt6dmsi",
+      "title": "D-Mart - Chengalpattu",
+      "address": "Ganapathi Nagar, Chettipunniyam Rd, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.7398893,
+      "lon": 79.98919769999999
+    },
+    {
+      "id": "chijzwaaand3ujorbba_u0ssjp4",
+      "title": "Kids junction",
+      "address": "Ground floor, Kids junction, Ram Residency Building, Kids junction, 133, GST Rd, next to G.R.T Jewellery Showroom, Guduvancheri, Chennai, Tamil Nadu 603202",
+      "lat": 12.8410759,
+      "lon": 80.05702169999999
+    },
+    {
+      "id": "chijmtjsonv7ujordrrmx7burfs",
+      "title": "Nilgiris Canopy",
+      "address": "Unit no.1-A, block-C, the canopy, ground floor, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7307179,
+      "lon": 80.00041039999999
+    },
+    {
+      "id": "chiju2cdnkt3ujorgmnfpygkbba",
+      "title": "Sri Kumaran Furnitures",
+      "address": "803, Nellikuppam Rd, Guduvancheri, Kayarambedu, Moolakazhani, Tamil Nadu 603202",
+      "lat": 12.8161851,
+      "lon": 80.0769854
+    },
+    {
+      "id": "chij51osead3ujorqdxc6bcakgq",
+      "title": "Big Save Supermarket",
+      "address": "R2CR+37G Big Save Supermarket, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8201948,
+      "lon": 80.0407075
+    },
+    {
+      "id": "chijyy1otpz3ujork3ihprbzpvo",
+      "title": "Manjula traders",
+      "address": "101, 2nd St, Govindarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8332828,
+      "lon": 80.0675365
+    },
+    {
+      "id": "chijss_okjrxujorkalqjghuhe0",
+      "title": "Sri Krishna Traders",
+      "address": "Sriperumbudur Road, near Kalyana Sundara Perumal Temple, Appur, Chengalpattu, Tamil Nadu 603204",
+      "lat": 12.799286299999999,
+      "lon": 79.97950209999999
+    },
+    {
+      "id": "chijmy5hest3ujorto9k0a3sjgg",
+      "title": "Maharaja Fancy And Gift And Toys",
+      "address": "Madras, No. 140, GST Rd, Near: signal, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.844486999999999,
+      "lon": 80.059945
+    },
+    {
+      "id": "chijwfv3jvl2ujortctmm-k7mqo",
+      "title": "Udayam Stores",
+      "address": "NO:269/A, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8482544,
+      "lon": 80.0633009
+    },
+    {
+      "id": "chijitafczh3ujoreide80cpcis",
+      "title": "Dubai Shopping",
+      "address": "51, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819184799999999,
+      "lon": 80.0397852
+    },
+    {
+      "id": "chij850ovad7ujorfhelbblgyc8",
+      "title": "Stationery Shop | House Keeping Material | Rolling Chair and Service",
+      "address": "Melrosapuram X road, GST Rd, opposite Eicher Showroom, Singaperumal Koil, Chengalpattu, Tamil Nadu 603204",
+      "lat": 12.7722897,
+      "lon": 80.00793379999999
+    },
+    {
+      "id": "chijx-byqeh5ujoredeo7m1y7o0",
+      "title": "AGS Super Market Pavendar Salai",
+      "address": "#84/5, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7953672,
+      "lon": 80.0265029
+    },
+    {
+      "id": "chije9q3xvl2ujorsyfmsibphu0",
+      "title": "New Parasakthi Department Store",
+      "address": "141, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8474361,
+      "lon": 80.0625766
+    },
+    {
+      "id": "chijdyhbekxxujorumms-du1s2w",
+      "title": "Ebenezer plastics",
+      "address": "Major District Road 633, Kolathur R.F., Tamil Nadu 603110",
+      "lat": 12.768999599999999,
+      "lon": 80.1519896
+    },
+    {
+      "id": "chijo3_prb5xujorwyzhvabiuo0",
+      "title": "Teklight Plastics",
+      "address": "P4VC+44C Teklight Plastics, Ammapettai, Tamil Nadu 603108",
+      "lat": 12.7428134,
+      "lon": 80.1202702
+    },
+    {
+      "id": "chiji2-6kyv5ujoruvbgj07xqg8",
+      "title": "A.V. Plastic & Silvers",
+      "address": "Q2G6+Cmp A.V. Plastic & Silvers, 417 Tnhb Kelakaeani, Marai Malai Nager, Kattankolatur R.F., Tamil Nadu 603204",
+      "lat": 12.77606,
+      "lon": 80.0116979
+    },
+    {
+      "id": "chijd7z_ahl3ujor8xhzjkqsnec",
+      "title": "SRI HARIHARAN HARDWARE AND PLASTIC",
+      "address": "Govindarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8339593,
+      "lon": 80.068469
+    },
+    {
+      "id": "chijtxawic9nujorrx8es2tus9q",
+      "title": "yazh home",
+      "address": "Pachaiyappan St, Thangavel Nagar, Annai Sathya Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600078",
+      "lat": 13.0310232,
+      "lon": 80.1979921
+    },
+    {
+      "id": "chijs2pxox1cujorkbjlirimeko",
+      "title": "HOME KRAFTER (Home Decor Shop )",
+      "address": "11, lal bahadur shastri street, Rajiv Gandhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.9066751,
+      "lon": 80.230474
+    },
+    {
+      "id": "chiji9dpzsxnujorfyxbtv9nfce",
+      "title": "Pure Home + Living",
+      "address": "Express Avenue Mall SHOP 272 & 273 SECOND FLOOR, 49/50L, Whites Rd, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0587462,
+      "lon": 80.2632551
+    },
+    {
+      "id": "chijtset0cjnujorgdtcxt6vdk4",
+      "title": "Home Centre|Furniture Store - Alwarpet",
+      "address": "81, TTK Rd, below Cauvery Hospital, CIT Colony, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.038614899999999,
+      "lon": 80.2572905
+    },
+    {
+      "id": "chijtsslfwjnujorlx4s0oivsma",
+      "title": "Home Stop",
+      "address": "1st Floor, Home Stop, Phoenix Market City, 142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9913026,
+      "lon": 80.2166199
+    },
+    {
+      "id": "chijhytwpwpmujorut2h2yhpi_8",
+      "title": "Home Centre|Furniture Store - Royapetah",
+      "address": "388, 49, Home Centre|Furniture Store - Royapetah, No 284/287 & 384, 50l, Whites Rd, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0590206,
+      "lon": 80.264157
+    },
+    {
+      "id": "chijq8fznmjnujorbnwnymfjhji",
+      "title": "Home Centre - Pheonix Market City",
+      "address": "1st Floor, Home Centre - Pheonix Market City, Phoenix Market City, No 142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9914045,
+      "lon": 80.21649479999999
+    },
+    {
+      "id": "chijoqishmbdujorvlvnh0wopl8",
+      "title": "Smris Home decor, Indian Handicrafts & Gifts",
+      "address": "First Floor, Smris Home decor, Indian Handicrafts & Gifts, bus stop, 2/98 D, Rajiv Gandhi Salai, near sathyabama university signal Next shop, Semmancheri, Semmencherry, Chennai, Tamil Nadu 600119",
+      "lat": 12.8715873,
+      "lon": 80.2268737
+    },
+    {
+      "id": "chijsd9kqv5cujorixaimqdvziy",
+      "title": "HOMEMART - Home Furnishing store and Curtains shop in Chennai",
+      "address": "5 319, Rajiv Gandhi Salai, near Thalapakatti Restaurant, Sri Sowdeswari Nagar, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9255666,
+      "lon": 80.23054619999999
+    },
+    {
+      "id": "chijy50gbqpdujorgqvi4e2oxog",
+      "title": "Couch & Decor - Furniture Store ECR, Chennai.",
+      "address": "30, East Coast Rd, Injambakkam, Chennai, Tamil Nadu 600115",
+      "lat": 12.9104035,
+      "lon": 80.250233
+    },
+    {
+      "id": "chijkbyyrmlnujorlrdcjjm5uoq",
+      "title": "Home Centre",
+      "address": "1st Floor, Home Centre, Phoenix Market City, 142, Velachery Main Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9907653,
+      "lon": 80.2170009
+    },
+    {
+      "id": "chijm9do8oxnujorren4b3ycnda",
+      "title": "Decorgeous Lifestyle - Luxury Home Decor in Chennai",
+      "address": "40, Gandhi Mandapam Rd, Chitra Nagar, Kotturpuram, Chennai, Tamil Nadu 600085",
+      "lat": 13.01948,
+      "lon": 80.2413554
+    },
+    {
+      "id": "chijo86gcwdmujor2mbpkl1s8ha",
+      "title": "Address Home - Chennai",
+      "address": "4/22, Rutland Gate 5th St, Srirampuram, Thousand Lights West, Nungambakkam, Chennai, Poombukar Nagar, Tamil Nadu 600006",
+      "lat": 13.0593576,
+      "lon": 80.2510436
+    },
+    {
+      "id": "chijq5mum4rbujorxhrnk9ebep0",
+      "title": "Home Centre|Furniture Store - The Marina Mall",
+      "address": "The Marina mall, No 13/1A, Rajiv Gandhi Salai, Egattur, Tamil Nadu 603103",
+      "lat": 12.835645999999999,
+      "lon": 80.229244
+    },
+    {
+      "id": "chijx30ohzvmujorqitwjlrgf8w",
+      "title": "Sama Home Store, Alwarpet",
+      "address": "11, CP Ramaswamy Rd, next to Apollo clinic, Sriram Colony, Abiramapuram, Chennai, Tamil Nadu 600018",
+      "lat": 13.036019699999999,
+      "lon": 80.2571229
+    },
+    {
+      "id": "chiji_skvobnujor0oifucmpywo",
+      "title": "Home Centre - Vadapalani",
+      "address": "Nexus Vijaya Mall 183, Great Southern Trunk Rd, Arcot Rd, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0504339,
+      "lon": 80.2094079
+    },
+    {
+      "id": "chijcaexvi5hujortgjyivckdvi",
+      "title": "Saravana Ideal Home",
+      "address": "77, Arcot Rd, Vani Nagar, Indira Nagar, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.040457799999999,
+      "lon": 80.1721651
+    },
+    {
+      "id": "chijzdzxuwbdujorqzxkwr7w2j0",
+      "title": "SS Home Appliances",
+      "address": "Velachery Main Rd, near Kumaran furniture, opposite Pallikaranai Government High School, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.926086999999999,
+      "lon": 80.19901399999999
+    },
+    {
+      "id": "chijyeywqh1dujor5ryy4ngbneg",
+      "title": "Home Decors (Exclusive show room for curtains)",
+      "address": "3/344 A, Kamarajar St, Nookampalayam Rd, near Church, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9061389,
+      "lon": 80.1995886
+    },
+    {
+      "id": "chijm4xxuyfdujoroijmk3z-kx8",
+      "title": "Cabana Home Store",
+      "address": "Store - No,4, Cabana Home Store, Ground Floor, 4/107, ECR, 107, SH 49, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.948767,
+      "lon": 80.2544508
+    },
+    {
+      "id": "chijs-drtovzujorovkrlgtgmae",
+      "title": "Paramparyam Home Needs",
+      "address": "Commercial Complex -6, Shop-6, SSM Nagar, New Perungalathur, Nedunkundram, Tamil Nadu 600063",
+      "lat": 12.891225299999999,
+      "lon": 80.1166398
+    },
+    {
+      "id": "chijzw1lyv31ujorxz8gmaiyplo",
+      "title": "HOME TRENDZ",
+      "address": "153, Mudichur Rd, Shanmuga Nagar, Mannivakkam, Chennai, Tamil Nadu 600048",
+      "lat": 12.899155299999999,
+      "lon": 80.0647236
+    },
+    {
+      "id": "chijy6hlneb2ujorfr0osf60dsm",
+      "title": "Masha Home Furniture",
+      "address": "Karanai Puducherry Rd, Urapakkam, Vandalur R.F., Chennai, Tamil Nadu 603210",
+      "lat": 12.8596428,
+      "lon": 80.07303309999999
+    },
+    {
+      "id": "chijj3o0rwbnujor4lrgcozgwco",
+      "title": "Home Centre - Forum Mall",
+      "address": "2 nd floor, Home Centre - Forum Mall, Forum Vijaya Mall, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0500182,
+      "lon": 80.2096048
+    },
+    {
+      "id": "chijpxrwkytnujorwh9xas90ute",
+      "title": "Home One",
+      "address": "Essar Towers, 41, Venkatanarayana Rd, CIT Nagar East, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0344033,
+      "lon": 80.2376029
+    },
+    {
+      "id": "chijiwbqnozxujorieywy9_n7ag",
+      "title": "Banu Home Goods Store",
+      "address": "RXF5+FXQ Banu Home Goods Store, Vattambakkam R.F., Senthamangalam, Tamil Nadu 603204",
+      "lat": 12.8237052,
+      "lon": 79.9599908
+    },
+    {
+      "id": "chiju83w4-9nujor17l0a0zgxki",
+      "title": "Home One",
+      "address": "27, Besant Ave Rd, Arunachalapuram, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.007797,
+      "lon": 80.25954999999999
+    },
+    {
+      "id": "chijssnxoltnujorvz1lcrcokqm",
+      "title": "Home2Home",
+      "address": "No:136, Kutchery Rd, next to Tea Time, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0353398,
+      "lon": 80.2704519
+    },
+    {
+      "id": "chijfrdcd5nnujordgyliq70hdk",
+      "title": "Pepperfry Home Furniture & Mattress Shop in Adyar",
+      "address": "M 49/50, Ground Floor, Pepperfry Home Furniture & Mattress Shop in Adyar, Classic Royal, Opposite Impcops, LB Rd, Indira Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.9921764,
+      "lon": 80.25579549999999
+    },
+    {
+      "id": "chijl945jfrdujorrknkfeulhde",
+      "title": "Pepperfry Home Furniture & Mattress Shop in Velachery",
+      "address": "181/A 100 Ft, Velachery Bypass Rd, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9766243,
+      "lon": 80.220159
+    },
+    {
+      "id": "chijdamavdznujoron3-iqe1wfc",
+      "title": "Decor Duniya",
+      "address": "109, Lakshmanaswamy Salai, Sector 1, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.0383021,
+      "lon": 80.203176
+    },
+    {
+      "id": "chijqamiwgffujoryzpq1d0lf_a",
+      "title": "Pepperfry Home Furniture & Mattress Shop in Valasaravakkam",
+      "address": "Ground Floor, Pepperfry Home Furniture & Mattress Shop in Valasaravakkam, 127, Arcot Rd, Karpaga Vinayagar Colony, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.040638,
+      "lon": 80.17154099999999
+    },
+    {
+      "id": "chijc7obmuzbujordsg_5zbscba",
+      "title": "Woodpecker Furniture - ECR Showroom",
+      "address": "Flat No.1 Door No.1 J,J Nager Housing Society, SH 49, Panaiyur, Chennai, Tamil Nadu 600119",
+      "lat": 12.891352099999999,
+      "lon": 80.24608789999999
+    },
+    {
+      "id": "chij0vg36p5cujorhkngwlpntno",
+      "title": "Woodooz Home Decor - Chennai",
+      "address": "Ground floor, Woodooz Home Decor - Chennai, 3/372, Rajiv Gandhi Salai, Mettukuppam, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9404164,
+      "lon": 80.2354697
+    },
+    {
+      "id": "chijk2g6cs1nujorlhknfyckpjc",
+      "title": "Gloob - Ganesh Home Decors",
+      "address": "No.2 South Canal Bank, Street, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0336115,
+      "lon": 80.2640888
+    },
+    {
+      "id": "chijecxndu5mujor3tnbycvyk2y",
+      "title": "Interio by Godrej - Furniture and Mattress Store in T Nagar, Chennai",
+      "address": "Anu Etage, N Boag Rd, beside Kovai Pazhamudir Store, Drivers Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.042178999999999,
+      "lon": 80.24444199999999
+    },
+    {
+      "id": "chijxxrhamfdujorof9u4c7qhyq",
+      "title": "Furniture Magik - Manufacturers of Custom Made Designer Furniture (Experience Store)",
+      "address": "S1- Plot number 15&16, Furniture Magik - Manufacturers of Custom Made Designer Furniture (Experience Store), North, Jawaharlal Nehru Salai, Kubera Nagar, Srinivasa Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.970774299999999,
+      "lon": 80.2138903
+    },
+    {
+      "id": "chij1xyl8otnujorrugpdprbuga",
+      "title": "Currimbhoys Home Products Pvt.Ltd",
+      "address": "47, Adyar Bridge Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.008229199999999,
+      "lon": 80.2592884
+    },
+    {
+      "id": "chijn_nqvvvhujormlghdbmdjoi",
+      "title": "Saravana Stores - Super Home Store - Porur",
+      "address": "Porur Sakthi Nagar, SH 55, Theru Veedhi Amman Koil Streets, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.032112699999999,
+      "lon": 80.1633548
+    },
+    {
+      "id": "chijd2nkd5xdujorrenvdtt8n6o",
+      "title": "Wooden Street - Furniture and Mattress Store in Pallikaranai, Chennai",
+      "address": "Plot 13, Velachery Main Rd, Mailai Balaji Nagar, Karapagambal Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.954265099999999,
+      "lon": 80.2119496
+    },
+    {
+      "id": "chiju6oas_9mujoryltybwdlicm",
+      "title": "Saravana Stores",
+      "address": "Gopathy Narayana Rd, Thirumurthy Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0422853,
+      "lon": 80.2347927
+    },
+    {
+      "id": "chijhd9jsh1lujor-ujac3pie6a",
+      "title": "Wabi Sabi Home",
+      "address": "Plot 13, Velachery Main Rd, Mailai Balaji Nagar, Karapagambal Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9543067,
+      "lon": 80.21196619999999
+    },
+    {
+      "id": "chijwudxgpvhujormvf9sm7kk5g",
+      "title": "Ornate Decoratives",
+      "address": "NO:60, Maxworth Nagar Phase 1, Kolapakkam, Tamil Nadu 600128",
+      "lat": 13.013867099999999,
+      "lon": 80.1503342
+    },
+    {
+      "id": "chijtawf67znujorqlwmm7pnnfe",
+      "title": "The Purple Turtles",
+      "address": "Amethyst, 28, Whites Rd, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0571608,
+      "lon": 80.25942649999999
+    },
+    {
+      "id": "chijkrhosv9mujor1iehoml-nua",
+      "title": "Rathna Stores",
+      "address": "15, Ranganathan St, T Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0369906,
+      "lon": 80.2296921
+    },
+    {
+      "id": "chijxsqg2f5cujor24ujyflgipq",
+      "title": "Kurlon Mattress Store",
+      "address": "Vinayaga Avenue, Rajiv Gandhi Salai, nearby Vodafone Idea Store, Sri Sowdeswari Nagar, Chennai, Tamil Nadu 600097",
+      "lat": 12.927384199999999,
+      "lon": 80.2307038
+    },
+    {
+      "id": "chij7xsnblrmujorboqc2f_daii",
+      "title": "Rathna Stores",
+      "address": "Siva Complex, 91, Sir Thyagaraya Rd, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0405941,
+      "lon": 80.2369624
+    },
+    {
+      "id": "chijbzzmmhdfujor_uttvsbgtfi",
+      "title": "Home Needs",
+      "address": "Ground Floor, Home Needs, Sathya Appartments, Elangovan St, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9230086,
+      "lon": 80.12971519999999
+    },
+    {
+      "id": "chiji4zbrjxmujorj2qbnghanye",
+      "title": "M S Home Decors Furnishing",
+      "address": "No:225, M S Home Decors Furnishing, 1, Peter's Rd, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.053770799999999,
+      "lon": 80.2662805
+    },
+    {
+      "id": "chijaz0kv_nnujoraqdjpemx-s4",
+      "title": "Sri Murugan Stores",
+      "address": "New No 99 Old Telephone Exchange, 41, LB Rd, near Adyar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0016036,
+      "lon": 80.25670339999999
+    },
+    {
+      "id": "chijp60ynexdujorrpyofnqpm7c",
+      "title": "Sri Kannan Super Stores",
+      "address": "51A, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9714829,
+      "lon": 80.2187987
+    },
+    {
+      "id": "chij2xpxmwxfujorogjv9zmfq_s",
+      "title": "K.Dhasthagir & Brother Furniture Showroom",
+      "address": "36, Velachery Main Rd, near MADRAS CHRISTIAN COLLEGE, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9232041,
+      "lon": 80.1188768
+    },
+    {
+      "id": "chijy6lfzolmujor1covn7-ews4",
+      "title": "Bharatham Stores",
+      "address": "7/28, Palani Andavar Koil St, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0508895,
+      "lon": 80.21333229999999
+    },
+    {
+      "id": "chiji5en9ztnujorlw7wfajcplw",
+      "title": "Padmavati Home Decor",
+      "address": "No. 59/9 100 ft road 26, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.047177999999999,
+      "lon": 80.2124676
+    },
+    {
+      "id": "chijouawjenhujorul5j5quktr8",
+      "title": "Taanush Garden and Home Decor Store",
+      "address": "3rd phase, Taanush Garden and Home Decor Store, AGS Colony, Main Rd, Selvalakshmi Garden, Mugalivakkam, Chennai, Tamil Nadu 600125",
+      "lat": 13.0190301,
+      "lon": 80.16114569999999
+    },
+    {
+      "id": "chijazszoirdujor_ivujg09grg",
+      "title": "Girias - Velachery",
+      "address": "Door No. 3c, 100 Feet, Taramani Link Rd, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9789844,
+      "lon": 80.2266159
+    },
+    {
+      "id": "chijbeu2scjmujor9mr8decohek",
+      "title": "YASH HOME FURNISHINGS",
+      "address": "165/361, Pycrofts Rd, near Express Avenue Mall, Bharathi Salai, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.058305299999999,
+      "lon": 80.2658072
+    },
+    {
+      "id": "chijf57pso5nujordyd5d2ov2y4",
+      "title": "Interio by Godrej - Furniture & Mattress Store Arcot Road, Chennai",
+      "address": "47, Arcot Rd, next to Mani Mahal, Velayutham Colony, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.047701,
+      "lon": 80.1995443
+    },
+    {
+      "id": "chijnenkgb9dujorwpiielkfsqe",
+      "title": "Aishwarya Stores",
+      "address": "Police Station, No. 352, East Coast Road, East Coast Rd, opposite to Neelankarai, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.9473348,
+      "lon": 80.2544107
+    },
+    {
+      "id": "chijwzpi61dmujori61ldx27gea",
+      "title": "Sathya Agencies, T.Nagar - Electronics and Home Appliances Store",
+      "address": "12, Somasundaram St, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0457647,
+      "lon": 80.23292579999999
+    },
+    {
+      "id": "chijrrnop2rnujorswwvialsr-q",
+      "title": "Eshaa Home Decor",
+      "address": "2/87 Rajiv Gandhi salai, OMR, near jain college, Customs Colony, Ellaiamman Nagar, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9452833,
+      "lon": 80.23875369999999
+    },
+    {
+      "id": "chijdrtn0ynhujorgap7f3q4t_m",
+      "title": "New Punjab Handloom",
+      "address": "No 2, Arcot Road, Ekambara Naicker Industrial Estate, Alapakkam, Chennai, Tamil Nadu 600116",
+      "lat": 13.038877,
+      "lon": 80.167889
+    },
+    {
+      "id": "chijsdvlhvnnujorhqqn4sora2m",
+      "title": "Homely Hub",
+      "address": "NEW NO 50, OLD NO 43/1 ,FIRST FLOOR, Homely Hub, Nerkundram Rd, NGO Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0548185,
+      "lon": 80.2095545
+    },
+    {
+      "id": "chij1cfscojeujorlmok_puqzfi",
+      "title": "Sleepwell Shoppe - Sri Aishwarya Furniture Mart - Shoppe",
+      "address": "New No 35, Sleepwell Shoppe - Sri Aishwarya Furniture Mart - Shoppe, Old No 19, Camp Rd, nearby The Professional Couriers, Mahalakshmi Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.92398,
+      "lon": 80.1429737
+    },
+    {
+      "id": "chij4wpq7zhbujorkk7j720teho",
+      "title": "Wakefit - Furniture Store in OMR Chennai",
+      "address": "No - 3/437, Wakefit - Furniture Store in OMR Chennai, Thoraipekkam, 162/6/s, Rajiv Gandhi Salai, OMR, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9389642,
+      "lon": 80.2355062
+    },
+    {
+      "id": "chijjaosd_vdujor7zbprpeferc",
+      "title": "BOSCH Brand Store - Lakshmi Electronics",
+      "address": "199A, Major Mukund Varadharajan Rd, opposite HDFC Bank, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9290253,
+      "lon": 80.2024095
+    },
+    {
+      "id": "chijtai-fnvdujor_pvqa6kqzow",
+      "title": "Asfa Decor",
+      "address": "HDFC ATM Nukkampalaya, Perumbakkam Main Rd, opposite Chennai, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9044937,
+      "lon": 80.199424
+    },
+    {
+      "id": "chijtzpixy1dujorq5mlbuza_su",
+      "title": "POSH Customize Furniture",
+      "address": "Bus Stop, No: 253, Velachery Main Rd, opposite Keiveli, Thanthai Periyar Nagar, Ram Nagar, Pallikaranai, Chennai, Tamil Nadu 600042",
+      "lat": 12.9631586,
+      "lon": 80.2155497
+    },
+    {
+      "id": "chijrfgr6ylnujor3wmuataw_lu",
+      "title": "BOSCH Brand Store - RK Home Appliances",
+      "address": "Old No 38/1, GF, BOSCH Brand Store - RK Home Appliances, New, 64/1, 4th Ave, opposite Pudhur High School, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.041144099999999,
+      "lon": 80.215767
+    },
+    {
+      "id": "chijq_gnafhnujorcr338klb8ba",
+      "title": "The Decor & More",
+      "address": "3, 1st Floor, The Decor & More, Sir Thyagaraya Rd, Pondy Bazaar, JJ Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.039563099999999,
+      "lon": 80.24508829999999
+    },
+    {
+      "id": "chijddwg0zbnujoro_hmlsftepi",
+      "title": "Bhagawan party store",
+      "address": "12, Sivaprakasam St, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.040063,
+      "lon": 80.2380744
+    },
+    {
+      "id": "chijitcgff5dujorxl8y832yz1e",
+      "title": "Cotton House",
+      "address": "68, LB Rd, Kamaraj Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.988005099999999,
+      "lon": 80.2560285
+    },
+    {
+      "id": "chijnypd8w1dujorntjbwkuswai",
+      "title": "VASANTH & CO",
+      "address": "No: 65/26, Rajiv Gandhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.9017599,
+      "lon": 80.2283242
+    },
+    {
+      "id": "chij8tmdoondujorroqa4emkfr0",
+      "title": "FURNITURE INDIA",
+      "address": "49/75, Medavakkam Main Rd, near gemini plywood, opposite to Indian oil petrol pump, Puzhuthivakkam, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.975574199999999,
+      "lon": 80.1924698
+    },
+    {
+      "id": "chij0uiedtnnujorn2rf47hnwqm",
+      "title": "Selvi Stores",
+      "address": "Ponnambala Vathiyar street, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.032796699999999,
+      "lon": 80.27014129999999
+    },
+    {
+      "id": "chijwsoxluf5ujorwjfdrdfyjmg",
+      "title": "Tamilnadu stores",
+      "address": "Singaravelan street, NH-ll, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7906538,
+      "lon": 80.0296449
+    },
+    {
+      "id": "chijqwc-jjrmujor9xt8xdir7lw",
+      "title": "BOSCH Brand Store - Adorn",
+      "address": "No 119, BOSCH Brand Store - Adorn, O57, TTK Rd, opposite Naradhagana Shaba, CIT Colony, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.040895899999999,
+      "lon": 80.25863939999999
+    },
+    {
+      "id": "chijwrsyefjmujoryu_62qaxxbc",
+      "title": "Punjab Handloom World",
+      "address": "324, Arcot Rd, Ganga Nagar, Trustpuram, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0530587,
+      "lon": 80.2219932
+    },
+    {
+      "id": "chijp7zn9hvbujor0_atq_r00nc",
+      "title": "BOSCH Brand Store - General Pumps Pvt Ltd",
+      "address": "Akkari Junction, 20A, Dr Kalanjar Karunanidi Salai, ECR, OMR Link Road, near Akkari Junction, Chennai, Tamil Nadu 600119",
+      "lat": 12.898449399999999,
+      "lon": 80.24532839999999
+    },
+    {
+      "id": "chijvqyhx21fujor5slt1cm9bua",
+      "title": "Roja Stores",
+      "address": "211,Shanmugam road, 45, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9262903,
+      "lon": 80.1163205
+    },
+    {
+      "id": "chijqaunmttdujor_5dkdudvgoq",
+      "title": "Rosh Cookwares - Perungudi",
+      "address": "34, 1st Main Rd, Phase-2, Thirumalai Nagar Annexe, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9597628,
+      "lon": 80.24231739999999
+    },
+    {
+      "id": "chijgw_189nnujorlyqs6enytkw",
+      "title": "Sri Indra stainless steel store",
+      "address": "10, E Mada St, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0336663,
+      "lon": 80.27132499999999
+    },
+    {
+      "id": "chijbygjex5eujorht4yzgcqlnq",
+      "title": "Sri Ram Metals & Kitchen Appliances",
+      "address": "Old No: 1, Sri Ram Metals & Kitchen Appliances, Signal, New No: 1/120, 644, Medavakkam Main Rd, near Kovilambakkam, Nanmangalam, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.938541599999999,
+      "lon": 80.1821713
+    },
+    {
+      "id": "chijx8fgjd1dujorivnyni20jii",
+      "title": "Balamurugan stores",
+      "address": "1/163,Eswaran koil street, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.963023,
+      "lon": 80.197887
+    },
+    {
+      "id": "chijg-kp9shnujorkzeiyrqf_qy",
+      "title": "Sri Murugan's Kitchen &Tableware Stores",
+      "address": "9/6, 4th Cross St, Ramakrishna Nagar, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.026612,
+      "lon": 80.2572265
+    },
+    {
+      "id": "chijgydzzthmujornv90bbfy8us",
+      "title": "Selvan Stores -Kitchenwares and Home appliances",
+      "address": "2/82, Kalaignar Karunanidhi Rd, MGR Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.035202199999999,
+      "lon": 80.20108689999999
+    },
+    {
+      "id": "chija_s4uv9mujormjfn5annqnc",
+      "title": "Saravana Stores Pathira Kadai",
+      "address": "No. 13, Ranganathan St, T Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0368491,
+      "lon": 80.2298963
+    },
+    {
+      "id": "chiju9cwrx1hujorbhm3ufpwpge",
+      "title": "Kasi Stores",
+      "address": "Old no.46, new no.11, Kasi Stores, Trunk Rd, Ramakrishna Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.0345199,
+      "lon": 80.15739959999999
+    },
+    {
+      "id": "chijpwibd8pdujoriltwm5ccax4",
+      "title": "Sri Murugan's Kitchen and Pooja Essentials",
+      "address": "Old No: 1/161, Sri Murugan's Kitchen and Pooja Essentials, New 1/618, G1, East Coast Rd, Kottivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.9735654,
+      "lon": 80.25807979999999
+    },
+    {
+      "id": "chij____qzrkujorjfklm4wiw5y",
+      "title": "Lakkshmi Stores [Camp Road]",
+      "address": "9, Lakkshmi Stores [Camp Road], Wahab Complex, Camp Road Junction, Ezhil Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9219756,
+      "lon": 80.14337789999999
+    },
+    {
+      "id": "chijbwm46xpfujorhs5en-oebog",
+      "title": "Rathna Stores (Gowrivakkam)",
+      "address": "No. 3, Velachery Main Road, VGP Santhanammal Nagar Main Rd, Gowriwakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9206939,
+      "lon": 80.16934359999999
+    },
+    {
+      "id": "chij_ymgcz1dujortdkflmopv5s",
+      "title": "DHANALAKSHMI STORES",
+      "address": "4, DHANALAKSHMI STORES, 23, SH 49, Sri Kapaleeswarar Nagar, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.949322899999999,
+      "lon": 80.254832
+    },
+    {
+      "id": "chij423xis1mujoraiepli19cgw",
+      "title": "A.Thangavel Nadar Stores",
+      "address": "Shop No, A.Thangavel Nadar Stores, 227, Ramakrishna Mutt Rd, Venkatesa Agraharam, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0328661,
+      "lon": 80.267575
+    },
+    {
+      "id": "chijjepu9opnujorllau-u7ojzo",
+      "title": "Essential Traditions by Kayal",
+      "address": "7, Essential Traditions by Kayal, 3, 2nd Cross Rd, R K Nagar, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0264653,
+      "lon": 80.25642839999999
+    },
+    {
+      "id": "chijmehuzoxnujor_nnmixmjrtm",
+      "title": "Annai Stores",
+      "address": "No: 148, LB Rd, near Indian Oil Petrol Bunk, Venkata Rathinam Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.999754699999999,
+      "lon": 80.2560551
+    },
+    {
+      "id": "chijx96wiwncujorkdy6otltc1i",
+      "title": "PUSPA STORES WAREHOUSE",
+      "address": "W66H+CJW PUSPA STORES WAREHOUSE, OMR Service Rd, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.911121399999999,
+      "lon": 80.2290912
+    },
+    {
+      "id": "chije2tfywbrujor-lypytpxfo8",
+      "title": "Sri Murugan Stores",
+      "address": "no 3/44, OMR Rd, Kittu Nagar, Chennai, Egattur, Tamil Nadu 603103",
+      "lat": 12.787791499999999,
+      "lon": 80.22078909999999
+    },
+    {
+      "id": "chijmqaalchdujor6t8zuhskv0g",
+      "title": "JK Supermarket & Home Appliances",
+      "address": "PLOT NO. 41, 1st Main Rd, Thirumalai Nagar Annexe, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.959854199999999,
+      "lon": 80.243563
+    },
+    {
+      "id": "chijxbg7qj1dujorl0jvmhv6r6i",
+      "title": "Sekar Stores",
+      "address": "99, East Coast Rd, Thiruvanmiyur East, Valmiki Nagar, Netaji Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9790382,
+      "lon": 80.25914519999999
+    },
+    {
+      "id": "chijfadbhlhdujordknanpy41_s",
+      "title": "Essential Traditions by Kayal",
+      "address": "235/1, Hibiscus, SH 49, opp. Prarthana Drive, Injambakkam, Chennai, Tamil Nadu 600115",
+      "lat": 12.9289319,
+      "lon": 80.2513536
+    },
+    {
+      "id": "chijlxe4jbhcujorodxf2khgci0",
+      "title": "Sri Ambal Stores",
+      "address": "No 1/257 Vellachery Main Road Medavakkam, 787, Velachery Main Rd, Jalladiampet, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.918724,
+      "lon": 80.19547299999999
+    },
+    {
+      "id": "chijiydmrlldujor8gjcj-3nrt4",
+      "title": "Sri Venkateswara Stores",
+      "address": "Shop No.31, Sri Venkateswara Stores, N Mada St, Lalitha Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.986105,
+      "lon": 80.26083799999999
+    },
+    {
+      "id": "chijdxb2abbdujorhhxggkrpq2e",
+      "title": "Annai Stores Perungudi (Utensil Dealers)",
+      "address": "No: 32, Old No: 1, 124, Rajiv Gandhi Salai, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9529759,
+      "lon": 80.2422661
+    },
+    {
+      "id": "chij9xydydbdujorcfihmk0t_1q",
+      "title": "METRO METALS",
+      "address": "No5, METRO METALS, Near koot road, Medavakkam Main Rd, Madipakkam, Moovarasampettai, Tamil Nadu 600091",
+      "lat": 12.968682399999999,
+      "lon": 80.19076989999999
+    },
+    {
+      "id": "chijs7huycrnujorbsszvjgxt_k",
+      "title": "Salem Stainless Shoppe,Chennai",
+      "address": "ISPAT BHAVAN, AND, Kodambakkam High Rd, near HOTEL PALM GROVE, opposite to Capital Towers, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.0532804,
+      "lon": 80.2489642
+    },
+    {
+      "id": "chijjazr9ufdujormjkyxag2e1w",
+      "title": "VB DACE Experience Center(Perungudi)",
+      "address": "Floor Plot No. 30, VB DACE Experience Center(Perungudi), Falcon Heights, VB Dace Appliances Pvt Ltd, 3'rd, Main Rd, Industrial Estate, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9574841,
+      "lon": 80.2453427
+    },
+    {
+      "id": "chijt7nxgnzeujoryryd5yxdd5k",
+      "title": "Omega Glassware",
+      "address": "9A, Medavakkam Main Rd, above Nilgiris Supermarket, Rajamanickam Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.958627,
+      "lon": 80.18675309999999
+    },
+    {
+      "id": "chijx3cfwf9mujor7g9upytphe8",
+      "title": "Ponny Stores",
+      "address": "37, Sir Thyagaraya Rd, Pondy Bazaar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0404468,
+      "lon": 80.2378566
+    },
+    {
+      "id": "chijc0fa53deujor2lu04r64gf4",
+      "title": "Prestige Xclusive - Keelkattalai, Chennai",
+      "address": "No. 50 - A, Medavakkam Main Rd, near Lenskart, Ranga Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9545143,
+      "lon": 80.1864915
+    },
+    {
+      "id": "chij2zriq-feujoratcwyby1r-8",
+      "title": "Prestige Xclusive - Selaiyur, Chennai",
+      "address": "First floor, Prestige Xclusive - Selaiyur, Chennai, Mohan Plaza, Velachery Main Rd, near Chennai Call Taxi, Mahalakshmi Nagar, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9228129,
+      "lon": 80.14728029999999
+    },
+    {
+      "id": "chiju22roabnujorxauzdd1pr2k",
+      "title": "Sri saravana stores",
+      "address": "18, S Usman Road, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.033691,
+      "lon": 80.230272
+    },
+    {
+      "id": "chijnem1ph9hujorshjljx5pjga",
+      "title": "KookMate",
+      "address": "No:4, New No:285, KookMate, Old, Alapakkam Main Rd, Srinivasa Nagar, Janaki Nagar, Maduravoyal, Chennai, Tamil Nadu 600095",
+      "lat": 13.055957699999999,
+      "lon": 80.1674879
+    },
+    {
+      "id": "chijg4g9z0zhujorrafibx78lak",
+      "title": "Pradeep Stainless India Private Limited",
+      "address": "MEPZ, Special Economic Zone, C3 & B7, Phase 2, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.946146299999999,
+      "lon": 80.1191438
+    },
+    {
+      "id": "chij1wa4e1hmujorb_pjwyl4rai",
+      "title": "SOWBAGHYA ENTERPRISES PVT LTD",
+      "address": "32A, N Usman Rd, Bharathy Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.049621,
+      "lon": 80.23367089999999
+    },
+    {
+      "id": "chij71hbzufeujorvmj5p_a9dqs",
+      "title": "MSI Raja Store",
+      "address": "71, Camp Rd, Barathi Nagar, IOB Colony, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9210487,
+      "lon": 80.1437164
+    },
+    {
+      "id": "chijx-vgeqbdujorwq8azmuxnzi",
+      "title": "Muthu Kumaran Stores",
+      "address": "525, Village High Road, Anna St, Corner, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.904738499999999,
+      "lon": 80.2326686
+    },
+    {
+      "id": "chij21op2ldmujore9yk_tv5_eg",
+      "title": "three star plastics",
+      "address": "6 8, Sarojini St, T Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0368503,
+      "lon": 80.2335683
+    },
+    {
+      "id": "chijyzu1ztrfujorqjhnlqaiizk",
+      "title": "Sri Kumaran Plastics",
+      "address": "Venkateswara Nagar, Anna Nagar, HL Colony, Pozhichalur, Polichalur, Tamil Nadu 600074",
+      "lat": 12.981616599999999,
+      "lon": 80.1394517
+    },
+    {
+      "id": "chijgzlpbabdujorfibnjzyo_ci",
+      "title": "Ramdev plastic wholesale dealers in all plastic items",
+      "address": "PTC, 206, Gangai Amman Koil St, Chandrasekaran Ave Main Rd, Raj Nagar, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.933681,
+      "lon": 80.233362
+    },
+    {
+      "id": "chijaauxbulmujorxrvdnaeemui",
+      "title": "Salam Plastic Mart, Packing Material",
+      "address": "26, Salam Plastic Mart, Packing Material, 1/26, Palani Andavar Koil St, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0505401,
+      "lon": 80.21331909999999
+    },
+    {
+      "id": "chijkxw0ah1nujorubsexn06m30",
+      "title": "Gyan Plastics",
+      "address": "No.4/39,kavarai street, Near Muthalamman Koli And Postal Colony, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.033568899999999,
+      "lon": 80.2205761
+    },
+    {
+      "id": "chijf4oyet5dujord-wz0eiaaym",
+      "title": "SV PLASTICS",
+      "address": "9/186, patel street, near kaleeshwari tower, United Colony, Ranganathapuram, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9185053,
+      "lon": 80.1876872
+    },
+    {
+      "id": "chije9gs3ttnujorgqqdw7cmdnw",
+      "title": "Mathani Plastics",
+      "address": "No.32/18, Gandhi Nagar Main Rd, Gandhi Nagar, Chennai, Tamil Nadu 600032",
+      "lat": 13.0176229,
+      "lon": 80.20270599999999
+    },
+    {
+      "id": "chijrcnhiynmujoryepcqr-7h1a",
+      "title": "Shri sai ganesh plastics",
+      "address": "No. 171, Jani Jhan Khan Rd, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0539094,
+      "lon": 80.2697037
+    },
+    {
+      "id": "chijaa5xxx1nujor1bpgu2jr3c4",
+      "title": "Siva Plastic",
+      "address": "42/30, Naickamar St, Ram Colony, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0345587,
+      "lon": 80.21949219999999
+    },
+    {
+      "id": "chijm9kito9eujorvds7kz4zh6k",
+      "title": "Bismi Plastics",
+      "address": "12/16, Kamarajapuram Main Rd, Kamarajapuram, Sembakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9244963,
+      "lon": 80.15512749999999
+    },
+    {
+      "id": "chijzx81em9dujorjhrtzs_sfh8",
+      "title": "Trinity Traders",
+      "address": "1-D, Kannabiran Koil St, Jeeva Nagar Extension, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9305735,
+      "lon": 80.20329009999999
+    },
+    {
+      "id": "chij7ab05yfmujoruvngb_c08ce",
+      "title": "Kalanjiyam Plastic & Essence Mart",
+      "address": "6/22 General, Parthasarathy Swamy St, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.058694599999999,
+      "lon": 80.2725705
+    },
+    {
+      "id": "chijw08oeqbnujoraljuvk_zmei",
+      "title": "Bharatham Stores",
+      "address": "366,Arcot road,Vadapalani,Chennai-6000026, Chennai, Tamil Nadu 600026",
+      "lat": 13.050367,
+      "lon": 80.21353529999999
+    },
+    {
+      "id": "chijrwnjaxrfujorjaqivbuxxjm",
+      "title": "HAROON CHENNAI PLASTICS",
+      "address": "Subiksha Avenue, 7/256, Kurinji Nagar Main Rd, Satya Nagar, Lakshmi Nagar, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9394764,
+      "lon": 80.18311469999999
+    },
+    {
+      "id": "chijc8uf9ohmujord_7iyzr9jqe",
+      "title": "MKP Plastics & Essence",
+      "address": "113, Saidapet Rd, Sarvamangala Colony, Aruna Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0474304,
+      "lon": 80.21287269999999
+    },
+    {
+      "id": "chijwze6fx9oujorh7z4gayhhcq",
+      "title": "Royal Plastic",
+      "address": "Number 62 & 63,, Kutchery Road, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.035065999999999,
+      "lon": 80.270592
+    },
+    {
+      "id": "chijhdai6rhhujorfvdsxnymjs4",
+      "title": "Sri Lakshmi Plastiks & Essence Mart",
+      "address": "No 5, Sri Lakshmi Plastiks & Essence Mart, 25, Arcot Rd, Karambakkam, Buddhar Colony, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.0373608,
+      "lon": 80.15728
+    },
+    {
+      "id": "chijysl9uufdujorckbna_jtnnw",
+      "title": "Go Green Enterprises-Bio Compostable Carry Bags, Garbage Bags",
+      "address": "31, Pazhandi Amman Koil St, near Ambedkar Statue, Ramapuram, Paramesh Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.9951277,
+      "lon": 80.202659
+    },
+    {
+      "id": "chijdyvsdnrgujorc3x5d2iwpwm",
+      "title": "BISMI PLASTICS",
+      "address": "5/2A AZAHAPURI, Valluvar Salai, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0281358,
+      "lon": 80.1832198
+    },
+    {
+      "id": "chijcdqa1dtnujort6mml1q4u2o",
+      "title": "Preci Tech Plastics",
+      "address": "2 Balavinayagar Koil street, Ganapathy Nagar,, Ekkaduthangal, Chennai, Tamil Nadu 600032",
+      "lat": 13.022971199999999,
+      "lon": 80.20365439999999
+    },
+    {
+      "id": "chijzyupyrphujor8wm4ywhu7mq",
+      "title": "Lovely pet Bottles",
+      "address": "1, T V Nagar Rd, near india shoe, near DLF IT Park Road, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.024179799999999,
+      "lon": 80.174601
+    },
+    {
+      "id": "chijz-xkvd5fujordf3n_qiutrk",
+      "title": "PMT PLASTIC & SCRAP'S",
+      "address": "4/342, Kennedy Valley, Keelkattalai, Chennai, St.Thomas Mount-cum-Pallavaram, Tamil Nadu 600117",
+      "lat": 12.967431999999999,
+      "lon": 80.1786786
+    },
+    {
+      "id": "chijy0ajcz5dujorcgbxlnzyxi0",
+      "title": "MALAR (ESSENCE,PLASTICS,NUTS & SPICES)",
+      "address": "3/453, Ma Po Si St, opposite to Mosque, Krishna Nagar, Palavakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.9625535,
+      "lon": 80.2561942
+    },
+    {
+      "id": "chijiwpp5yv9ujorikj1tyzmdnw",
+      "title": "INDIA HOME NEEDS",
+      "address": "54, Periyar Rd, J C K Nagar, Chengalpattu, Kanchipuram, Tamil Nadu 603001",
+      "lat": 12.6934389,
+      "lon": 79.9784329
+    },
+    {
+      "id": "chijws36nff9ujorvv0ziuax0b4",
+      "title": "Rathna Stores (Chengalpattu)",
+      "address": "T.K.M Rd, Sakthi Nagar, Thenur, Melamaiyur, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6819054,
+      "lon": 79.9885355
+    },
+    {
+      "id": "chijpyst0kh8ujorzhjdrk38otq",
+      "title": "New Ananda store",
+      "address": "24 A, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6930316,
+      "lon": 79.9788804
+    },
+    {
+      "id": "chij9fb7nmv9ujorpel7gf16cks",
+      "title": "Sathya Agencies, Chengalpattu - Electronics and Home Appliances Store",
+      "address": "6 A, GST Rd, near Anjaneyar Koil Petrol Bunk, Vedachalam Nagar, Dimmarajakulam, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.689262,
+      "lon": 79.982316
+    },
+    {
+      "id": "chijd264bod9ujorx6jqoqfn9nc",
+      "title": "India Home Needs",
+      "address": "MXMM+96X India Home Needs, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6834855,
+      "lon": 79.9831051
+    },
+    {
+      "id": "chijmt2lf2r8ujorztlfna-eqiw",
+      "title": "FATHIMA FURNITURES AND HOME APPLIANCES-Wakefit Authorized Dealer Store-CHENGALPATTU",
+      "address": "89, NA, GST Rd, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.684346099999999,
+      "lon": 79.9833774
+    },
+    {
+      "id": "chijgd56g2z8ujorgsw6tknztp8",
+      "title": "Satyaa Store",
+      "address": "125, Surya Complex, G.S.T. Road,, Opp. New Bus Stand, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6911049,
+      "lon": 79.98118579999999
+    },
+    {
+      "id": "chijkc_bjcf9ujorn-gvszsn5wk",
+      "title": "NELLAI STORES",
+      "address": "162/12, TKM Rd, Alapakkam, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6804116,
+      "lon": 79.9928509
+    },
+    {
+      "id": "chijvayu8mv8ujorfpwckhcdxgu",
+      "title": "Bagawaan furniture",
+      "address": "No.9, GST Rd, near KCC bank, Vedachalam Nagar, vedhacalanagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6885383,
+      "lon": 79.9825639
+    },
+    {
+      "id": "chij45wwd5d9ujor2c54trrr3la",
+      "title": "Sri Balaji Enterprizes",
+      "address": "1/129, Tkm koot road, Alapakkam, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6755371,
+      "lon": 80.0024428
+    },
+    {
+      "id": "chijqy_f_t_9ujorwyr1xhq043k",
+      "title": "Supermarket",
+      "address": "Kanchipuram mettu street, 138, Kanchipuram - Chengalpattu Rd, Tamil Nadu 604410",
+      "lat": 12.6913862,
+      "lon": 79.9748607
+    },
+    {
+      "id": "chij9bkb1y76ujordkce1p--9co",
+      "title": "Anbuselvi Store",
+      "address": "Q263+M56 Anbuselvi Store, Railway Station Rd, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7616667,
+      "lon": 80.0028882
+    },
+    {
+      "id": "chijx8onqm_8ujorb9t9focjl0u",
+      "title": "SARAVANA STORE",
+      "address": "296/1, SARAVANA STORE, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6949027,
+      "lon": 79.9778583
+    },
+    {
+      "id": "chijeetcqm78ujoryekojb4rius",
+      "title": "Anbu Super Market",
+      "address": "No.29, Pillayar Kulam Street, New Bus Stand, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.690469799999999,
+      "lon": 79.9807233
+    },
+    {
+      "id": "chij59us0qp9ujor7s4i8isrk7w",
+      "title": "Manikandan S/O Ravichandran",
+      "address": "MXRJ+995 Manikandan S/O Ravichandran, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690897,
+      "lon": 79.9809775
+    },
+    {
+      "id": "chijiz-utv79ujorrlspuqkqyso",
+      "title": "PERIYASWAMY TRADERS",
+      "address": "No .64, GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6800742,
+      "lon": 79.98089759999999
+    },
+    {
+      "id": "chijmsfx5kr9ujorn5wo9xzuel8",
+      "title": "Ashapura Interior Solutions (Raka Living)",
+      "address": "8, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.704410099999999,
+      "lon": 79.97682429999999
+    },
+    {
+      "id": "chijrxhitw78ujor24gq5zamt7e",
+      "title": "New India Supermarket",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6937398,
+      "lon": 79.9783463
+    },
+    {
+      "id": "chijfby7vsf9ujor70xi8vozeqq",
+      "title": "Ramraj Cotton - Hanumanthai, Chengalpattu",
+      "address": "4, GST Rd, near New Bus Stand, J C K Nagar, Hanumanthai, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6925472,
+      "lon": 79.9796667
+    },
+    {
+      "id": "chijewaaafz8ujortsrptuay_l0",
+      "title": "VASANTH & CO",
+      "address": ": 30/1A, Kanchipuram High Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.699366,
+      "lon": 79.96913239999999
+    },
+    {
+      "id": "chijqrgvbdt9ujornwawdfauh5k",
+      "title": "bismillah bedding mart",
+      "address": "KK Nagar, area, Chengalpattu, Tamil Nadu 603111",
+      "lat": 12.6686213,
+      "lon": 79.9842898
+    },
+    {
+      "id": "chijvrr7dxf9ujorgw_lmt6w4v4",
+      "title": "fathima bedding Chengalpattu",
+      "address": "No.4/2, Dr Varadharajan St, opposite to Equitas bank, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.686689,
+      "lon": 79.9826374
+    },
+    {
+      "id": "chijqqbgayz6ujorqejqimdxpl0",
+      "title": "Furniture world",
+      "address": "Upstairs, Furniture world, State Bank of India, KML Complex, GST Rd, thirutheri, Singaperuma koil, Vingiyambakkam, Vinjiambakkam, Tamil Nadu 603204",
+      "lat": 12.757405499999999,
+      "lon": 80.00206349999999
+    },
+    {
+      "id": "chiju2sccan9ujorkb0mmdlparo",
+      "title": "Dinesh home ️",
+      "address": "MXJG+Q94 Dinesh home ️, Municipal Colony, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6820039,
+      "lon": 79.9758049
+    },
+    {
+      "id": "chijl7edckd8ujoryui0vg99gmw",
+      "title": "devasri store",
+      "address": "MXMP+57X devasri store, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6829776,
+      "lon": 79.9857423
+    },
+    {
+      "id": "chijf9yjqqd9ujorhs-y1ohbtqm",
+      "title": "Darling Retail Elite - Chengalpattu",
+      "address": "ICICI Complex, 12A, GST Road Ratina kinaru, junction, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6837114,
+      "lon": 79.98323529999999
+    },
+    {
+      "id": "chij6ylwepb9ujorr_y_lkwai3y",
+      "title": "India stores",
+      "address": "64, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6938008,
+      "lon": 79.9777632
+    },
+    {
+      "id": "chijj_cilw39ujorkicovqlumfq",
+      "title": "RJ Traders",
+      "address": "95A, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692705,
+      "lon": 79.9775974
+    },
+    {
+      "id": "chijkfotmtb9ujorgbswbsmljha",
+      "title": "Royal furniture",
+      "address": "No.70/2b, Royal furniture, Mc andaramanricemill, Thiruporur Rd, Alapakkam, Vallam, Tamil Nadu 603003",
+      "lat": 12.675778699999999,
+      "lon": 80.00191029999999
+    },
+    {
+      "id": "chijq_mtkud8ujor-ikliqv3hem",
+      "title": "Sathya Store, Electronics & Furniture",
+      "address": "MXMM+RJ9 Sathya Store, Electronics & Furniture, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6845441,
+      "lon": 79.9840961
+    },
+    {
+      "id": "chijdaacyyl9ujortd9zb6eyrws",
+      "title": "Anbu stores and karthik stores",
+      "address": "283 and 284, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6954991,
+      "lon": 79.9776361
+    },
+    {
+      "id": "chij63zzigv_ujorgbfx6e1wqrw",
+      "title": "Vikash Stores",
+      "address": "Shop no3, Vikash Stores, Kumarasamy complex, near AMSAM MAHAL, Thirukazhukundram road, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.6659916,
+      "lon": 80.0144108
+    },
+    {
+      "id": "chij0qjepwd9ujordmsjq4xfj18",
+      "title": "Zionocies furniture &electronics shop",
+      "address": "5/42a, Old GST Rd, Municipal Colony, Anumanthaputheri, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.683012699999999,
+      "lon": 79.97488
+    },
+    {
+      "id": "chijlcnnscf9ujor0y02f9bpoxk",
+      "title": "FABER SHOWROOM CHENGLEPET FABER PLATINUM STUDIO",
+      "address": "1ST FLOOR, FABER SHOWROOM CHENGLEPET FABER PLATINUM STUDIO, 7/1, VARADHANAR STREET, GST Rd, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.689149899999999,
+      "lon": 79.9822983
+    },
+    {
+      "id": "chijrbxo0m_8ujorbvboneeytnw",
+      "title": "Naasar Bedding",
+      "address": "No.304, Anna Salai, opp. amma aapakadai and N.S.K, Thanga maaligai, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.695716,
+      "lon": 79.97755
+    },
+    {
+      "id": "chijx0r6ogt9ujor5n8kbbiv3po",
+      "title": "PEPS-Sai Enterprises-Chengalpattu",
+      "address": "No.26, PEPS-Sai Enterprises-Chengalpattu, Abiramai Complex, Kanchipuram High Rd, near Venkateshwara Mahal Commercial Tax Department Building, Thimmavaram, Mahalakshmi Nagar, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.701630999999999,
+      "lon": 79.96601799999999
+    },
+    {
+      "id": "chij-9vwvdv7ujor4hergibbb-o",
+      "title": "Home Needs Super Market",
+      "address": "Mahindra World, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.73789,
+      "lon": 80.0011081
+    },
+    {
+      "id": "chijg_pv8k79ujorik-z92imx8y",
+      "title": "Girias Chengalpattu",
+      "address": "106, GST Rd, Thimmarajakulam, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.687063499999999,
+      "lon": 79.98312849999999
+    },
+    {
+      "id": "chijz0unk_n9ujornz0hkvkodhc",
+      "title": "PERIANDAVAR STORE",
+      "address": "MXV9+XXM PERIANDAVAR STORE, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694955499999999,
+      "lon": 79.969937
+    },
+    {
+      "id": "chijfzhxeyd9ujorbc1-6pha6mm",
+      "title": "Sri Sivagami Enterprises",
+      "address": "T.E.L.C Church, 32, Colony, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.680098399999999,
+      "lon": 79.9840226
+    },
+    {
+      "id": "chijebsscmj8ujorjj_9osqkmw4",
+      "title": "Subam Store",
+      "address": "134, Gandhi Salai, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6855417,
+      "lon": 79.97529899999999
+    },
+    {
+      "id": "chij1bgzyqd9ujorofeqyhfautm",
+      "title": "Sai dusasha marketing pvt ltd",
+      "address": "MXMM+FJP Sai dusasha marketing pvt ltd, Anna Nagar, Chengalpattu, Pattaravakkam, Tamil Nadu 603001",
+      "lat": 12.683617199999999,
+      "lon": 79.9842584
+    },
+    {
+      "id": "chijjxwgvyj7ujorjwqesim0twy",
+      "title": "New Prince & Co",
+      "address": "No.7, GST Rd, Chengalpattu, Thirutheri R.F., Tamil Nadu 603001",
+      "lat": 12.7098421,
+      "lon": 79.9778616
+    },
+    {
+      "id": "chijx3dewvn9ujorjglojpllhou",
+      "title": "MATHAJI FANCY STORE",
+      "address": "215, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6944577,
+      "lon": 79.97611859999999
+    },
+    {
+      "id": "chijxfyxuk_9ujor_qpn7ny-3by",
+      "title": "PRINCE AND COMPANY",
+      "address": "GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6818598,
+      "lon": 79.98194459999999
+    },
+    {
+      "id": "chijpdwa5qr9ujor1shaw2tan_w",
+      "title": "The Raymond shop",
+      "address": "1E, GST Rd, opp. Murugan Temple, J C K Nagar, Paranur, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7037256,
+      "lon": 79.976936
+    },
+    {
+      "id": "chijifwq1nr9ujoreuugk5h7kyu",
+      "title": "GoGizmo - Chengalpattu",
+      "address": "No. 11, GoGizmo - Chengalpattu, S.K.T. Towers, Chengalpattu Main Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.680290099999999,
+      "lon": 79.9809302
+    },
+    {
+      "id": "chijt33n7g78ujorsgpehgzqww0",
+      "title": "Live And let Live",
+      "address": "South Chennai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693979899999999,
+      "lon": 79.97917319999999
+    },
+    {
+      "id": "chijw34rsot9ujortthzivyycfk",
+      "title": "KAVIMANI ENTERPRISES",
+      "address": "5, Gandiyappan Street, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.688920399999999,
+      "lon": 79.9828915
+    },
+    {
+      "id": "chijd3d3olp9ujorwxxpqdqvgvu",
+      "title": "Swastik lite",
+      "address": "No.366/1, TKM Road, Periya Melamaiyur, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6811729,
+      "lon": 79.9911596
+    },
+    {
+      "id": "chijb1cpzvb9ujorct6diqlqumk",
+      "title": "Sathik bed mart",
+      "address": "No9 santhi nagar Melaripakkam post Near thiruporur, x, road, Vallam, Tamil Nadu 603003",
+      "lat": 12.6742568,
+      "lon": 80.0049372
+    },
+    {
+      "id": "chijsclfp4h9ujor05bzhfvl340",
+      "title": "DINESH ELECTRICALS & HARDWARES",
+      "address": "94/77, DINESH ELECTRICALS & HARDWARES, Big Chetty St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6918916,
+      "lon": 79.9784912
+    },
+    {
+      "id": "chijq6q5zw_8ujordl_rclufhg8",
+      "title": "MASTHAN BEDDING & FURNITURE",
+      "address": "30/70, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694954099999999,
+      "lon": 79.9777666
+    },
+    {
+      "id": "chijhyw6had9ujorq7mc_jrwxgi",
+      "title": "Central kitchen",
+      "address": "Ent Block-3, Kamarajar Nagar, Ammanambakkam, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6778794,
+      "lon": 79.9813626
+    },
+    {
+      "id": "chij40md-kp8ujorlje2h667lu0",
+      "title": "Sumathi Stores",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6791304,
+      "lon": 79.9801021
+    },
+    {
+      "id": "chij93dubyb9ujorbhgnatpd_7c",
+      "title": "New Teak N OAK Furniture Chengalpattu",
+      "address": "1st floor, New Teak N OAK Furniture Chengalpattu, 89, TKM Rd, Alapakkam, Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6818335,
+      "lon": 79.9896461
+    },
+    {
+      "id": "chijmy3s6bf9ujorqjc-vrv3scy",
+      "title": "Namma Chengalpattu Home Shiftin-g Service",
+      "address": "104, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6984201,
+      "lon": 79.9724245
+    },
+    {
+      "id": "chijf_nt_w78ujord2indjl2vja",
+      "title": "Ashok Electronics",
+      "address": "#73, Periyar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692715999999999,
+      "lon": 79.97827
+    },
+    {
+      "id": "chijjy48rzv8ujorxgtlxsywmqc",
+      "title": "Ambika Electrical & Hardwares",
+      "address": "Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6778791,
+      "lon": 79.9965309
+    },
+    {
+      "id": "chijmutqr6f9ujortvgvmwojt4o",
+      "title": "Imayam Enterprises",
+      "address": "No 15, Imayam Enterprises, opp. to GH, Alagesan Nagar, Extn, Chennai, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6802411,
+      "lon": 79.9791458
+    },
+    {
+      "id": "chijm4-cy2_8ujorkswtk8rohig",
+      "title": "Sekar Stores",
+      "address": "Besides Jain Jewellery, 290/73, Anna Salai, Chengalpet, Chennai, Tamil Nadu 603002",
+      "lat": 12.6946845,
+      "lon": 79.9777692
+    },
+    {
+      "id": "chij__v9csxnujorhx-xqgasadg",
+      "title": "Selvam & Son",
+      "address": "282, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.694445799999999,
+      "lon": 79.9779166
+    },
+    {
+      "id": "chij-6eu1eh8ujort_4nr7afauc",
+      "title": "Balaji Hardware & Glass Plywoods",
+      "address": "ICICI Bank, 32/134, GST Rd, HO, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6844451,
+      "lon": 79.98328839999999
+    },
+    {
+      "id": "chijuxe1cj79ujorh14xiri-vjy",
+      "title": "Thulasi Wood Works",
+      "address": "Thuncham Road Nemmeli, Tirukazhukundram, Tamil Nadu 603003",
+      "lat": 12.671883399999999,
+      "lon": 80.0049506
+    },
+    {
+      "id": "chijx5ytptd9ujorqdzrqhgvq1m",
+      "title": "SGS Home",
+      "address": "Kalathu, SGS Home, 42, Gandhi Salai, Indra Nagar, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6914093,
+      "lon": 79.97492419999999
+    },
+    {
+      "id": "chijotxon1p_ujorqxjsbwgltbc",
+      "title": "NEW GOKUL G ENTERPRISE",
+      "address": "65, T.K.M Rd, Nenmeli, Chengalpattu, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.665588999999999,
+      "lon": 80.0187831
+    },
+    {
+      "id": "chijz-7gjw78ujor58ymzjw7brs",
+      "title": "Vimal Enterprises",
+      "address": "19/4, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6925157,
+      "lon": 79.9796945
+    },
+    {
+      "id": "chijl_a2xor7ujory7helq7sby4",
+      "title": "Kanniga store",
+      "address": "No.390, Chettipunniyam Rd, Anbu Nagar, Tamil Nadu 603004",
+      "lat": 12.7397707,
+      "lon": 79.9842413
+    },
+    {
+      "id": "chijf2-o7tp9ujorcmzwjsb6siy",
+      "title": "Winly Distributors Private Limited",
+      "address": "GST Rd, J C K Nagar, Pulipakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6928241,
+      "lon": 79.97950949999999
+    }
+  ],
+  "updated_at_utc": "2026-09-27T14:04:16.296764+00:00"
+}

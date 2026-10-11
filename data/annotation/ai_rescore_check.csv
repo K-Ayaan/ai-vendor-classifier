@@ -1,0 +1,46 @@
+pair_id,rescore,rationale
+P029,40,Bouquet florist 40 km away; no nursery
+P031,20,Milk parlour; minimal help for a food stall need
+P036,45,"Tiffin centre 10.5 km, outside 5 km"
+P037,45,"Tea cafe 10.7 km, outside radius"
+P040,35,Tea and tiffin centre 22 km away
+P041,40,Food street 14 km away
+P055,0,Horoscope service; unrelated
+P074,0,Vegetable store; unrelated to beauty
+P079,72,Auto spares within radius; bike not explicit
+P084,40,Automobile shop 35 km away
+P100,10,Textile shop; not plastic homeware
+P123,5,Household traders; not a ration shop
+P159,50,Eyewear store 48 km away
+P160,5,Pharmacy; not optical
+P174,95,Mobile shop within radius
+P178,0,Household store far away; unrelated
+P180,50,"Mobile accessories shop 16 km, outside radius"
+P192,45,"Auto parts 17 km, outside 3 km"
+P193,35,Auto workshop 29 km away
+P197,0,Meat shop; unrelated to pharmacy
+P214,75,Fruit stall within radius; no vegetables
+P217,0,Pharmacy; unrelated to fruit
+P220,0,Handicraft shop; unrelated to fruit
+P237,20,Supermarket 31 km away; not a street market
+P244,92,Hardware traders very close
+P268,65,Provision store just beyond 5 km
+P278,25,Supermarket; little stationery
+P282,30,Xerox shop 39 km away
+P289,70,Computer shop within radius; not appliances
+P302,0,Pharmacy; unrelated to vegetables
+P308,40,Fruit market 14 km away
+P314,5,Fish stall; unrelated
+P316,70,Small grocery within radius
+P319,20,Vegetable store 24 km away; partial
+P331,65,MedPlus just beyond 5 km
+P337,10,Provision store; not a pharmacy
+P339,0,Textile shop; unrelated
+P353,50,Dry fruit shop nearby; not fresh fruit
+P357,40,Fruit and vegetable shop 37 km away
+P367,60,Homeware store nearby; some appliances
+P380,55,"Aquarium fish seller 6.8 km, outside 1 km"
+P391,100,Fish stall within radius
+P398,48,Chicken shop 10 km away
+P407,0,Clothing hypermarket; no bakery
+P433,50,"Fabric shop 3 km, outside 1 km"

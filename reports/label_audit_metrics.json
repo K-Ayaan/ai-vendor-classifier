@@ -1,0 +1,173 @@
+{
+  "label_note": "AI-judged labels, not ground truth",
+  "labelling": "Claude Code judged is_pharmacy from title and address only; did not open the key, weak labels or predictions while labelling. Caveat: 12 audit vendors' weak labels had been shown earlier in the session (Step 4 error analysis).",
+  "stratum_weights": {
+    "weak=0": 8.01941747573,
+    "weak=1": 1.0
+  },
+  "test_counts": {
+    "weak=0": 826,
+    "weak=1": 97
+  },
+  "sample_counts": {
+    "weak=0": 103,
+    "weak=1": 97
+  },
+  "agreement_ai_vs_weak": {
+    "n_sample": 200,
+    "ai_positive": 84,
+    "ai_negative": 116,
+    "crosstab_weak_vs_ai": {
+      "weak=0,ai=0": 103,
+      "weak=0,ai=1": 0,
+      "weak=1,ai=0": 13,
+      "weak=1,ai=1": 84
+    },
+    "agreement_sample_unweighted": 0.935,
+    "agreement_test_reweighted": 0.985915492958,
+    "share_weak_positives_ai_confirms": 0.865979381443,
+    "share_weak_negatives_ai_confirms": 1.0,
+    "cohen_kappa_sample_unweighted": 0.869372990354,
+    "cohen_kappa_test_reweighted": 0.920413618365,
+    "estimated_ai_positive_rate_test_reweighted": 0.0910075839653,
+    "weak_positive_rate_test": 0.105092091008
+  },
+  "human_agreement": {
+    "n_filled": 0,
+    "status": "true_is_pharmacy not filled; human validation not done"
+  },
+  "classifiers": {
+    "small_mle": {
+      "vs_ai_labels_test_reweighted": {
+        "confusion_matrix": {
+          "tn": 838.0,
+          "fp": 1.0,
+          "fn": 50.0,
+          "tp": 34.0
+        },
+        "accuracy": 0.94474539545,
+        "precision": 0.971428571429,
+        "recall": 0.404761904762,
+        "f1": 0.571428571429,
+        "roc_auc": 0.755692635433,
+        "pr_auc": 0.490501227674
+      },
+      "vs_ai_labels_sample_unweighted": {
+        "confusion_matrix": {
+          "tn": 115.0,
+          "fp": 1.0,
+          "fn": 50.0,
+          "tp": 34.0
+        },
+        "accuracy": 0.745,
+        "precision": 0.971428571429,
+        "recall": 0.404761904762,
+        "f1": 0.571428571429,
+        "roc_auc": 0.746869868637,
+        "pr_auc": 0.701252983463
+      },
+      "vs_weak_labels_test_reweighted": {
+        "confusion_matrix": {
+          "tn": 826.0,
+          "fp": 0.0,
+          "fn": 62.0,
+          "tp": 35.0
+        },
+        "accuracy": 0.932827735645,
+        "precision": 1.0,
+        "recall": 0.360824742268,
+        "f1": 0.530303030303,
+        "roc_auc": 0.73971574417,
+        "pr_auc": 0.470816799103
+      }
+    },
+    "l2_map": {
+      "vs_ai_labels_test_reweighted": {
+        "confusion_matrix": {
+          "tn": 835.0,
+          "fp": 4.0,
+          "fn": 2.0,
+          "tp": 82.0
+        },
+        "accuracy": 0.993499458288,
+        "precision": 0.953488372093,
+        "recall": 0.97619047619,
+        "f1": 0.964705882353,
+        "roc_auc": 0.993245170014,
+        "pr_auc": 0.897860849384
+      },
+      "vs_ai_labels_sample_unweighted": {
+        "confusion_matrix": {
+          "tn": 112.0,
+          "fp": 4.0,
+          "fn": 2.0,
+          "tp": 82.0
+        },
+        "accuracy": 0.97,
+        "precision": 0.953488372093,
+        "recall": 0.97619047619,
+        "f1": 0.964705882353,
+        "roc_auc": 0.971674876847,
+        "pr_auc": 0.90429878576
+      },
+      "vs_weak_labels_test_reweighted": {
+        "confusion_matrix": {
+          "tn": 826.0,
+          "fp": 0.0,
+          "fn": 11.0,
+          "tp": 86.0
+        },
+        "accuracy": 0.988082340195,
+        "precision": 1.0,
+        "recall": 0.886597938144,
+        "f1": 0.939890710383,
+        "roc_auc": 0.984385947353,
+        "pr_auc": 0.950736778473
+      }
+    },
+    "full_unpenalised_invalid_mle": {
+      "vs_ai_labels_test_reweighted": {
+        "confusion_matrix": {
+          "tn": 826.980582524,
+          "fp": 12.0194174757,
+          "fn": 3.0,
+          "tp": 81.0
+        },
+        "accuracy": 0.983727608369,
+        "precision": 0.870785930487,
+        "recall": 0.964285714286,
+        "f1": 0.915153841935,
+        "roc_auc": 0.99033872028,
+        "pr_auc": 0.957000739805
+      },
+      "vs_ai_labels_sample_unweighted": {
+        "confusion_matrix": {
+          "tn": 111.0,
+          "fp": 5.0,
+          "fn": 3.0,
+          "tp": 81.0
+        },
+        "accuracy": 0.96,
+        "precision": 0.941860465116,
+        "recall": 0.964285714286,
+        "f1": 0.952941176471,
+        "roc_auc": 0.981629720854,
+        "pr_auc": 0.967771831273
+      },
+      "vs_weak_labels_test_reweighted": {
+        "confusion_matrix": {
+          "tn": 817.980582524,
+          "fp": 8.01941747573,
+          "fn": 12.0,
+          "tp": 85.0
+        },
+        "accuracy": 0.978310490275,
+        "precision": 0.913787704832,
+        "recall": 0.876288659794,
+        "f1": 0.894645411813,
+        "roc_auc": 0.975878290461,
+        "pr_auc": 0.940253414277
+      }
+    }
+  }
+}

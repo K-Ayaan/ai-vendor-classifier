@@ -1,0 +1,3411 @@
+{
+  "category": "pharmacy",
+  "status": "complete",
+  "count": 486,
+  "outside": 64,
+  "points": [
+    {
+      "id": "chij68ppmnv9ujormby8ghfagxq",
+      "title": "MEDPLUS RAMANAN PHARMA",
+      "address": "shop no:1 Ground floor, MEDPLUS RAMANAN PHARMA, Hotel kanchi building, 86A/1, dhimarajakulam, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6845954,
+      "lon": 79.9835129
+    },
+    {
+      "id": "chij8vtkbz_8ujor83veq0abf98",
+      "title": "MedPlus Sunnambukara Street Chengalpattu",
+      "address": "Door No. 37, MedPlus Sunnambukara Street Chengalpattu, Ground Floor, Shop No. 2&3, Sunnambukara Street, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6942729,
+      "lon": 79.9749228
+    },
+    {
+      "id": "chij21_htkh8ujorwozqcnvtzew",
+      "title": "MedPlus Chengalpet Rajaji Street",
+      "address": "No 77, MedPlus Chengalpet Rajaji Street, 74, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6917952,
+      "lon": 79.97999109999999
+    },
+    {
+      "id": "chijhf3gihd9ujorpgjecsaozx8",
+      "title": "Shifa Medical Mart",
+      "address": "No 21-A, Chairman Ekambaranar St, nearby to State Bank of India, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.689112999999999,
+      "lon": 79.9803712
+    },
+    {
+      "id": "chijzfrp8m78ujorvxhlpn84e1o",
+      "title": "Shifa Medicals",
+      "address": "No 73, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6917931,
+      "lon": 79.9800266
+    },
+    {
+      "id": "chijmdjpmgrfujorqonanf2c_2y",
+      "title": "Apollo Pharmacy Chengalpattu 2",
+      "address": "8/74, GST Rd, opp. HP Petrol Bunk, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.688785699999999,
+      "lon": 79.9824352
+    },
+    {
+      "id": "chijc_ef71j9ujorscbqimdy31q",
+      "title": "MEDPLUS ANNA SALAI J C K NAGAR",
+      "address": "Shop No.1&2, MEDPLUS ANNA SALAI J C K NAGAR, 101B, Door No, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6923996,
+      "lon": 79.9774492
+    },
+    {
+      "id": "chijnfd6cet8ujorhnc96ptfjpq",
+      "title": "SUPER MEDICAL STORE",
+      "address": "5th, GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6787276,
+      "lon": 79.9798792
+    },
+    {
+      "id": "chijjwljfc_3ujorodgclkf9thc",
+      "title": "VSG Potheri Pharmacy",
+      "address": "73, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.820197499999999,
+      "lon": 80.04089689999999
+    },
+    {
+      "id": "chijlspzo5v9ujor1dpleeti44i",
+      "title": "Apollo Pharmacy Chengalpattu",
+      "address": "21-68, SH58, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6897332,
+      "lon": 79.9818574
+    },
+    {
+      "id": "chije01bdet9ujorxphkjb2lpow",
+      "title": "Apollo Pharmacy Thimmavaram",
+      "address": "258, Kanchipuram High Rd, Mahalakshmi Nagar, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.7019986,
+      "lon": 79.9657732
+    },
+    {
+      "id": "chijx8o5shx9ujorywylqycmw0o",
+      "title": "Pappiah Medicals",
+      "address": "No. 69 Ground And First Floor, Pappiah Medicals, Periyar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692898,
+      "lon": 79.9782968
+    },
+    {
+      "id": "chijsci6dmn8ujorqubbqttnc_a",
+      "title": "Chengai Medical Stores",
+      "address": "603 001, Chengai Medical Stores, 16, Alagesan Street Vedachalam Nagar Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.6876967,
+      "lon": 79.97893429999999
+    },
+    {
+      "id": "chijwfjavpf9ujorl28mathmy2m",
+      "title": "PRABAL PHARMA",
+      "address": "SHOP NO.4,DOOR NO.1/4 ,V.N.A COMPLEX,KANDEEBAN, Rajeswari Vedhachalam Street, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.686416,
+      "lon": 79.9828777
+    },
+    {
+      "id": "chijt13gncd9ujor7-4zhcyl9u8",
+      "title": "STAR MEDICALS",
+      "address": "B-15, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6800061,
+      "lon": 79.9793755
+    },
+    {
+      "id": "chijjx-oez73ujor73jbrrv1tis",
+      "title": "Apollo Pharmacy Potheri",
+      "address": "1, Kambar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819879799999999,
+      "lon": 80.0370119
+    },
+    {
+      "id": "chijo_w4wrn9ujornps-mwlcf9u",
+      "title": "HABIRRAMI MEDICALS",
+      "address": "50/7, HABIRRAMI MEDICALS, New Bus Stand, 50, Rajaji St, near new Bus stand, J C K Nagar, Chengalpattu, Hanumanthai, Tamil Nadu 603001",
+      "lat": 12.691472399999999,
+      "lon": 79.980188
+    },
+    {
+      "id": "chijp-ryxpv9ujorghdx_cxpnys",
+      "title": "Aasan pharmacy",
+      "address": "Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6958145,
+      "lon": 79.9775045
+    },
+    {
+      "id": "chijt9kksdndujorfkrcaol8xgw",
+      "title": "Sree Sakthi Medical",
+      "address": "70, Kanchipuram High Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.697446,
+      "lon": 79.9721019
+    },
+    {
+      "id": "chijw_0jlgd9ujoraplsm_i7mla",
+      "title": "Apollo pharmacy",
+      "address": "No. 255A, Mamallapuram Rd, near G world, Alapakkam, Tirukazhukundram, Chennai, Tamil Nadu 603109",
+      "lat": 12.6820121,
+      "lon": 79.98929969999999
+    },
+    {
+      "id": "chijq4uhwhf7ujorvdsy4_r8xog",
+      "title": "Pharmacy plus",
+      "address": "153, Singaperumal Koil - Sriperumbudur Rd, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7632558,
+      "lon": 80.0036109
+    },
+    {
+      "id": "chijl3vedmz3ujork9b8ptgtczs",
+      "title": "Sri Ayappan Nattu Marunthu Kadai",
+      "address": "6, Bharathiyar St, Potheri, Chennai, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819141,
+      "lon": 80.0368361
+    },
+    {
+      "id": "chij9xpmc0j3ujorxp5kotpqsjg",
+      "title": "OM SAI MEDICALS",
+      "address": "Vivekandhar Nagar, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8208667,
+      "lon": 80.03211929999999
+    },
+    {
+      "id": "chijz23r_2b_ujornrkowueiomc",
+      "title": "Apollo Pharmacy Nenmeli Chengalpattu",
+      "address": "Shop No.4&5, Ground Floor, Apollo Pharmacy Nenmeli Chengalpattu, Plot No.4, Thirukazhukundram road, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.665977499999999,
+      "lon": 80.01451139999999
+    },
+    {
+      "id": "chij9zrbqhn9ujornmvwvw0whta",
+      "title": "DEEPA ENTERPRISES THIRUPORUR ROAD VALLAM Franchisee Of MedPlus Pharmacy",
+      "address": "Ground Floor, DEEPA ENTERPRISES THIRUPORUR ROAD VALLAM Franchisee Of MedPlus Pharmacy, South West Facing, Door No.56 Shop No.1 & 2 From, Thiruporur Rd, Nehru Nagar, Vallam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6757022,
+      "lon": 80.00390259999999
+    },
+    {
+      "id": "chij51osead3ujorqdxc6bcakgq",
+      "title": "Big Save Supermarket",
+      "address": "R2CR+37G Big Save Supermarket, Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8201948,
+      "lon": 80.0407075
+    },
+    {
+      "id": "chij2qxmz9d3ujorg67lejtmfls",
+      "title": "Advanced GroHair & GloSkin - Potheri",
+      "address": "2nd Floor, Advanced GroHair & GloSkin - Potheri, Ram Complex, 8-11, NH Service Road, above SBI Bank, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8288891,
+      "lon": 80.0443212
+    },
+    {
+      "id": "chijoysnzhfxujoryj54spjwonm",
+      "title": "MedPlus Thiruporur Road Vallam Exp",
+      "address": "Ground Floor Shop No.1&2 Door, MedPlus Thiruporur Road Vallam Exp, 56, Thiruporur Rd, Santhi Nagar, Nehru Nagar, Vallam, Tamil Nadu 603003",
+      "lat": 12.6757388,
+      "lon": 80.0037262
+    },
+    {
+      "id": "chijc6d0b__2ujor4geqyfeah60",
+      "title": "Sri Thirumala Medicals",
+      "address": "No.5/1 Shop, Sri Thirumala Medicals, 4, Madambakkam Main Rd, near DBS ATM, opposite Guduvancheri, Siripi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8496147,
+      "lon": 80.0546419
+    },
+    {
+      "id": "chijwvxlxuf2ujortod7ysdgpii",
+      "title": "DMS Medicals - Urapakkam Branch",
+      "address": "Ground Floor, DMS Medicals - Urapakkam Branch, DMS Medicals North Facing, 59/862A, Karanai Puducherry Rd, Rajiv Gandhi Nagar, Urapakkam, Kanchipuram, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8593718,
+      "lon": 80.0738192
+    },
+    {
+      "id": "chijd_lyldd3ujorsqsvsnn16am",
+      "title": "Sakthi Medical",
+      "address": "Perumal Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8172535,
+      "lon": 80.0403378
+    },
+    {
+      "id": "chij1cdxvij7ujorr22nlok-qfu",
+      "title": "Sri Ramajayam Enterprises",
+      "address": "No.2/3, Sri Ramajayam Enterprises, GST Rd, opposite to Govt Arts Collage, Anna Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6860924,
+      "lon": 79.98354619999999
+    },
+    {
+      "id": "chijj3vg_rl3ujorh6rohthic6c",
+      "title": "MB City Sports",
+      "address": "1, GST Road, Potheri, near SRM Medical College, Chamundeshwari Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8294768,
+      "lon": 80.0448435
+    },
+    {
+      "id": "chijsr5imwz3ujorm6y2uzwswee",
+      "title": "AARTHI MEDICALS",
+      "address": "Potheri, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.818305599999999,
+      "lon": 80.0391669
+    },
+    {
+      "id": "chijczfsjyb8ujorhekthnjriqo",
+      "title": "ANNAI MEDICAL",
+      "address": "338, Tkm Road, Post, Nenmeli, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6741738,
+      "lon": 80.0045476
+    },
+    {
+      "id": "chijhrxg8vr2ujoruk38pu-exsi",
+      "title": "SRM Medical College Hospital And Research Centre",
+      "address": "Mahatma Gandhi Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8209398,
+      "lon": 80.0481385
+    },
+    {
+      "id": "chijx1squwv3ujorkyahtc-32mu",
+      "title": "SRM General Hospital",
+      "address": "R2FX+C8G SRM General Hospital, Mahatma Gandhi Road, District, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.822941799999999,
+      "lon": 80.0479642
+    },
+    {
+      "id": "chijc7dbyw33ujor3ae3mdrafu0",
+      "title": "Patti Shop",
+      "address": "R2HW+426 Patti Shop, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.827798099999999,
+      "lon": 80.0450285
+    },
+    {
+      "id": "chijuftdegf3ujorg3anx23ldu0",
+      "title": "110, Chakkarathy building",
+      "address": "Plot No, narasimman Nagar, near SRM pharmacy, near SRM, Potheri, potheri, Valliammai, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8277886,
+      "lon": 80.0445524
+    },
+    {
+      "id": "chijmykjw2z3ujoro4k0ovg0jma",
+      "title": "SRM University Kattankulathur",
+      "address": "R2FV+5H4 SRM University Kattankulathur, Mahatma Gandhi Rd, Potheri, SRM Nagar, Chennai, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8228774,
+      "lon": 80.0439593
+    },
+    {
+      "id": "chija3lk-wz9ujorcqcuhuvsb7w",
+      "title": "Vijaya pharmacy",
+      "address": "No 51, Vijaya pharmacy, 32 A, Dr Varadharajan St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6862734,
+      "lon": 79.9804831
+    },
+    {
+      "id": "chiji9ajryf9ujorwqcca97mtwm",
+      "title": "INDIRA MEDICAL",
+      "address": "Alapakkam, Vallam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6813858,
+      "lon": 79.9907364
+    },
+    {
+      "id": "chij2rflcgn8ujordyske2dlhn4",
+      "title": "Andavar Medicals",
+      "address": "603 001, Andavar Medicals, 24 A, Alagesan Street Vedachalam Nagar Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.687661,
+      "lon": 79.9788463
+    },
+    {
+      "id": "chijzzd3fhx8ujor2jwc0ox9e0y",
+      "title": "Udhayam Medicals",
+      "address": "MXJQ+X6G Udhayam Medicals, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.682430499999999,
+      "lon": 79.9880819
+    },
+    {
+      "id": "chijz9f-swd9ujorflofdlx-gnc",
+      "title": "Apollo medical",
+      "address": "MXJQ+QHX Apollo medical, T.K.M Rd, Sakthi Nagar, Alapakkam, Alappakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.681993199999999,
+      "lon": 79.9889824
+    },
+    {
+      "id": "chijtz9an2n3ujormjik8st5suw",
+      "title": "SRM Global Hospitals",
+      "address": "Mahatma Gandhi Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8229964,
+      "lon": 80.04799299999999
+    },
+    {
+      "id": "chijw_ggbnd8ujorpmtpplgvt3o",
+      "title": "STEPHEN'S PHARMACY",
+      "address": "MXWG+F64 STEPHEN'S PHARMACY, Parthasarathy St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6961316,
+      "lon": 79.9755636
+    },
+    {
+      "id": "chijuqemfsz3ujorezehmo2jrpw",
+      "title": "MSP SIDDHA CLINIC AND PHARMACY",
+      "address": "5, Dravidian Street, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.817755499999999,
+      "lon": 80.0374052
+    },
+    {
+      "id": "chijax58ipt9ujoroabix9dhtbe",
+      "title": "Om Muruga Medicals",
+      "address": "GST Road, Opposite to Chengalpattu Government Hospital [Emergency Building, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6760062,
+      "lon": 79.9779781
+    },
+    {
+      "id": "chijdzyso8f9ujoraooy2s2nxcw",
+      "title": "SAI MEDICALS",
+      "address": "17a, Alagesan Rd, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6879276,
+      "lon": 79.978439
+    },
+    {
+      "id": "chijsdkbc579ujormamgyljfpwm",
+      "title": "YAAZH IYARKAI ANGADI",
+      "address": "106 A, Big Chetty St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6935094,
+      "lon": 79.9784012
+    },
+    {
+      "id": "chijb_o3-il9ujorllexiidkhya",
+      "title": "Zam Zam Medicals",
+      "address": "No A1, Zam Zam Medicals, Jayalakshmi Kalyana Mandapam Complex, GST Rd, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6867238,
+      "lon": 79.9830255
+    },
+    {
+      "id": "chijpyst0kh8ujorrfxijvrs3wu",
+      "title": "MedPlus Alagesan Nagar - Chengalpet",
+      "address": "B-10/2, Alagesan Nagar, Extension, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6801222,
+      "lon": 79.9786609
+    },
+    {
+      "id": "chijquz2swv8ujor3vswlvx7mny",
+      "title": "S SP MEDICALS",
+      "address": "No.38A, Alagesan Rd, Vedachalam Nagar, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6872902,
+      "lon": 79.9829833
+    },
+    {
+      "id": "chij9ahuuhb9ujorcbfjvkf18h8",
+      "title": "Pharmacy",
+      "address": "16, Ragavanar St, Vedachalam Nagar, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.687584399999999,
+      "lon": 79.97747059999999
+    },
+    {
+      "id": "chij4rs-ij_9ujorljzpavctpua",
+      "title": "OM SAKTHI MEDICALS",
+      "address": "177/99, GST Rd, opp. AXIS BANK, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.686191299999999,
+      "lon": 79.983576
+    },
+    {
+      "id": "chij40md-kp8ujorlje2h667lu0",
+      "title": "Sumathi Stores",
+      "address": "Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.6791304,
+      "lon": 79.9801021
+    },
+    {
+      "id": "chijedpjjyb3ujorukcamnyafv8",
+      "title": "S.K. Homoeo Pharmacy",
+      "address": "43, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8443312,
+      "lon": 80.0597717
+    },
+    {
+      "id": "chijt3refmr8ujorjn114bsfjsy",
+      "title": "Sri Bhuvaneshwari Drugs And General Stores",
+      "address": "25, GST Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6849125,
+      "lon": 79.9834568
+    },
+    {
+      "id": "chijoy-sq2v3ujorupfiyoji9lm",
+      "title": "Anandhi Fancy Store",
+      "address": "V366+C6J Anandhi Fancy Store, Urapakkam, Nandivaram-Guduvancheri, Tamil Nadu 603211",
+      "lat": 12.8610876,
+      "lon": 80.0605163
+    },
+    {
+      "id": "chijc_dhafd8ujor7seirnu05uu",
+      "title": "More Supermarket",
+      "address": "No.1, Adams Plaza, T.K.M.Road Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.682089,
+      "lon": 79.9890729
+    },
+    {
+      "id": "chijxsp-xlz3ujormgy5wqhkjyq",
+      "title": "MADHA MEDICALS",
+      "address": "Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.810354799999999,
+      "lon": 80.0273248
+    },
+    {
+      "id": "chijr2fbunr9ujorbev6cvcbdvu",
+      "title": "MEDPLUS Thiruporur Junction Chengalpattu",
+      "address": "M2G3+5G2 MEDPLUS Thiruporur Junction Chengalpattu, Santhi Nagar, Nenmeli, Vallam, Tamil Nadu 603003",
+      "lat": 12.6754775,
+      "lon": 80.0037574
+    },
+    {
+      "id": "chiju8kgjgd3ujorgvrtmgik4tk",
+      "title": "Slice of Life",
+      "address": "R2FW+8J4 Slice of Life, Potheri, SRM Nagar, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.821767099999999,
+      "lon": 80.04776989999999
+    },
+    {
+      "id": "chiji0bghgn8ujoruw6mmt2zw5o",
+      "title": "JJ PHARMACY",
+      "address": "MXPJ+Q37 JJ PHARMACY, Dr Varadharajan St, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6869068,
+      "lon": 79.98016539999999
+    },
+    {
+      "id": "chijmy4khnv8ujorgbbmluzrgma",
+      "title": "Prabha Medicals",
+      "address": "நெ.70/6E, காஞ்சிபுரம் நெடுஞ்சாலை, பெரியநத்தம், Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.697412199999999,
+      "lon": 79.9722735
+    },
+    {
+      "id": "chijrsgcdof5ujorux5kbi-lcew",
+      "title": "Titan Eye+ at Gst Road, Chengalpet (Buy 1 Get 1 Free)",
+      "address": "10, Srinivasan Arcade, GST Rd, opposite Rahmath Complex, next to Jockey Showroom, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6799273,
+      "lon": 79.9810938
+    },
+    {
+      "id": "chijz1unh0h8ujorlqn2y5mgjno",
+      "title": "Makkal Marunthagam",
+      "address": "3, Rajeswari Vedhachalam Street, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6821374,
+      "lon": 79.98089259999999
+    },
+    {
+      "id": "chijoc_8pg33ujortz77j54-fc0",
+      "title": "Chennai Book Centre",
+      "address": "No.62A, Potheri Lk Rd, Potheri, Chennai, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8196949,
+      "lon": 80.0403528
+    },
+    {
+      "id": "chijpyst0kh8ujordpbn8xbb26u",
+      "title": "ambis Stores",
+      "address": "SH58, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6839952,
+      "lon": 79.9833483
+    },
+    {
+      "id": "chijf6hm_w78ujoraqfjyfdcoak",
+      "title": "Nalam Iyarkai Angadi",
+      "address": "No 1 Main Road, 77, Big Chetty St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6922573,
+      "lon": 79.978184
+    },
+    {
+      "id": "chijwusddgn8ujorq0-o0ncxipo",
+      "title": "New Tamilnadu Medicals",
+      "address": "12/26, Alagesan Rd, Vedachalam Nagar, Alagesan Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.687602,
+      "lon": 79.97954469999999
+    },
+    {
+      "id": "chijp4cpydn3ujoracjesi9kpfa",
+      "title": "HOSPIBUY GUDUVANCHERI",
+      "address": "3, GST Rd, near SRM Potheri, Pandian Nagar, SRM Nagar, Thailavaram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8307554,
+      "lon": 80.0463063
+    },
+    {
+      "id": "chijh9kyhrj9ujorf96mxwa8fg8",
+      "title": "Zam Zam Pet Shop",
+      "address": "No.2, Zam Zam Pet Shop, Jayalakshmi Kalyana Mandapam Complex, GST Rd, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6866972,
+      "lon": 79.9830325
+    },
+    {
+      "id": "chijlsd1wph9ujorhvoqf2mji-o",
+      "title": "Makkal Marunthagam Chengalpattu | Pradhan Mantri Bhartiya Janaushadhi Store",
+      "address": "Wallgreens Arcade, 51/A, 11, Alagesan Rd, opp. to Government Hospital, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6785704,
+      "lon": 79.9798009
+    },
+    {
+      "id": "chijiwiz9kp8ujorblebmclzbmy",
+      "title": "Sri Vidya Medicals",
+      "address": "MXHH+HX7 Sri Vidya Medicals, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.678911,
+      "lon": 79.9799336
+    },
+    {
+      "id": "chij_6drruf8ujor3ot5msbao34",
+      "title": "GG Phaarma",
+      "address": "7th Cross Circle, Street, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6781694,
+      "lon": 79.9853601
+    },
+    {
+      "id": "chij2xgqubl3ujormtjlrqneuf0",
+      "title": "SRM Institute of Science and Technology",
+      "address": "Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8232764,
+      "lon": 80.0453063
+    },
+    {
+      "id": "chijqwfw_mv8ujoraaaamftbdiq",
+      "title": "Subbiah Medical Agency",
+      "address": "1st Floor Councilar, Subbiah Medical Agency, No 22 B, Devarajanar St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6899105,
+      "lon": 79.9809381
+    },
+    {
+      "id": "chijg7gtn-n9ujor4sku8flmjnm",
+      "title": "Patanjali Gramin Arogya Kendra",
+      "address": "No 77/9, Chinnamman Koil St, J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694832,
+      "lon": 79.977025
+    },
+    {
+      "id": "chij5tglhdl9ujor-bdbpnf7-ow",
+      "title": "Ram Medical",
+      "address": "8/14, KK STREET, Kanchipuram, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6892409,
+      "lon": 79.978207
+    },
+    {
+      "id": "chijeek68m78ujoragmnlxrmdz4",
+      "title": "Annai Medicals",
+      "address": "No 60, Rajaji St, J C K Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.691304899999999,
+      "lon": 79.9805271
+    },
+    {
+      "id": "chij____j0p8ujorhpgsga6s2he",
+      "title": "Maria Medicals",
+      "address": "No 1 Main Road, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.680069999999999,
+      "lon": 79.98094999999999
+    },
+    {
+      "id": "chijjzaenwh9ujor8ddkxadf0x4",
+      "title": "Dr Agarwals Eye Clinic",
+      "address": "No 39 A, New No 158, Ground Floor, Dr Agarwals Eye Clinic, Bus Stand, Rattinakinaru, GST Rd, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6839417,
+      "lon": 79.9831044
+    },
+    {
+      "id": "chijm8nlr9l9ujor0yqksrfeyhm",
+      "title": "Jayam Siddha Herbal Clinic",
+      "address": "40, Jayam Siddha Herbal Clinic, 4B, TKM Rd, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.683250899999999,
+      "lon": 79.9847784
+    },
+    {
+      "id": "chijb_m85ef9ujoryuvv2u1q0iu",
+      "title": "Titan World",
+      "address": "Shop No 2, Ground Floor, Titan World, Nand Gopal Nagar, Door No 76/77, near Apollo Pharmacy, Alapakkam, Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6819543,
+      "lon": 79.9893402
+    },
+    {
+      "id": "chijezj-jm_8ujor9hazdobvnde",
+      "title": "Care clinic and pharmacy",
+      "address": "Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.693933399999999,
+      "lon": 79.9757523
+    },
+    {
+      "id": "chij0wd0dlh7ujorxnfwrx3xyhm",
+      "title": "Apollo Pharmacy",
+      "address": "No 220, Central Ave, Mahindra World City, Chengalpattu, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7383647,
+      "lon": 80.0010963
+    },
+    {
+      "id": "chijyauvi839ujorigjjg1cxuck",
+      "title": "Raj Medicals",
+      "address": "1st St., Sakthi Nagar, Panakkattukudi, Thenur, Kanchipuram, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6817815,
+      "lon": 79.9890989
+    },
+    {
+      "id": "chijyykybut8ujorwxrn5tqzqb0",
+      "title": "PHARMACY",
+      "address": "CHENGALPATTU MEDICAL COLLEGE AND HOSPITAL, Kamarajar Nagar, Ammanambakkam, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6781246,
+      "lon": 79.98022449999999
+    },
+    {
+      "id": "chij186-_gj8ujor3vlpuvzwzzq",
+      "title": "Siddha / Ayurvedha Medical",
+      "address": "MXQH+44G Siddha / Ayurvedha Medical, Alagesan Rd, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6878234,
+      "lon": 79.9778366
+    },
+    {
+      "id": "chijefxeld78ujorouofd7rugcu",
+      "title": "IDEAL PHARMACY",
+      "address": "Sakthi Nagar, Thenur, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6808632,
+      "lon": 79.99067749999999
+    },
+    {
+      "id": "chij5_yvhw39ujorfmnv1m3kpdu",
+      "title": "Lenskart.com at Chengalpet, Kanchipuram (First Lens Replacement Free)",
+      "address": "NO 11, Joesph Towers, GST Main Road Alagesan Nagar Extention, Chengalpet, Kanchipuram, Tamil Nadu 603001",
+      "lat": 12.6802654,
+      "lon": 79.98111569999999
+    },
+    {
+      "id": "chijgdtcufl9ujorvlpzqvcs08a",
+      "title": "SIVA HOSPITAL 24 X 7",
+      "address": "No.45, 4A/2, OLD, TKM Rd, RATTINAKINARU, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.683627399999999,
+      "lon": 79.9841191
+    },
+    {
+      "id": "chijqyhxpbf9ujor8aiw_sfcxhk",
+      "title": "Aranga Dhananjayan Siddha Doctor",
+      "address": "27 D/1 Kaandeepan vedhachalam Street, Street, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6788075,
+      "lon": 79.98259709999999
+    },
+    {
+      "id": "chijv_6btkn8ujor9aujhmxjwzc",
+      "title": "Varshini Medicals",
+      "address": "35, Manimegalai St, NGGO Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.670051299999999,
+      "lon": 79.9850163
+    },
+    {
+      "id": "chiju9dnght3ujorxie49e8w9ro",
+      "title": "SRM Medical College",
+      "address": "R2CX+777 SRM Medical College, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8206701,
+      "lon": 80.048157
+    },
+    {
+      "id": "chijo48csclnujorgw7rekr_duo",
+      "title": "Sethuram & Co Medical shop",
+      "address": "Shop No. 18/11, Cooperation, Sethuram & Co Medical shop, New Shopping Complex, 3rd Cross St, R K Nagar, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0268909,
+      "lon": 80.25657269999999
+    },
+    {
+      "id": "chijn2p6qjnmujorfvccjjf-8wm",
+      "title": "Karuppiah Pharmacy",
+      "address": "139, Karuppiah Pharmacy, 61, Luz Church Rd, Bhaskarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0373409,
+      "lon": 80.2615981
+    },
+    {
+      "id": "chijqz4zqxffujorsuc1djmdtg8",
+      "title": "MedPlus Potheri",
+      "address": "Shop No 1, 2, Door No, 1, Kambar St, Potheri, Chennai, Tamil Nadu 603203",
+      "lat": 12.819771699999999,
+      "lon": 80.0370229
+    },
+    {
+      "id": "chij9dy2ce1nujorxhfr2ttoc3k",
+      "title": "Om Pharmacy",
+      "address": "Shop No, Om Pharmacy, No 48 TNHB Complex, 2, LB Rd, near Telephone Exchange, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.000294199999999,
+      "lon": 80.2565272
+    },
+    {
+      "id": "chijf4n-zpnnujorguc_u2rijly",
+      "title": "SRI VIJAY PHARMACY (SOUTH SIVAN KOVIL BRANCH)",
+      "address": "70, S Sivan Kovil St, Ottagapalayam, Sector 15, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0469713,
+      "lon": 80.2109328
+    },
+    {
+      "id": "chijqathirrfujoruglzc2y5yjq",
+      "title": "S.V.Elumalai Country Drug Shop",
+      "address": "NO 722, Gandhi Road, Yeswanth Nagar, Madambakkam, Arani, Tambaram, Tamil Nadu 600126",
+      "lat": 12.90588,
+      "lon": 80.1547458
+    },
+    {
+      "id": "chijd_9x1vtdujortzodncwugtw",
+      "title": "Apollo Pharmacy Ram Nagar South Bazaar Road",
+      "address": "23, Bazaar Main Rd, Balaiah Garden, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.965515799999999,
+      "lon": 80.2010662
+    },
+    {
+      "id": "chijb6lrsw33ujortwrtnrqtpjq",
+      "title": "Santhanam Pharmacy",
+      "address": "54, Potheri Lk Rd, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819268,
+      "lon": 80.039918
+    },
+    {
+      "id": "chijq6q2lqpnujor4trrdexn5-o",
+      "title": "Adhish Pharmacy",
+      "address": "16 Shop, Adhish Pharmacy, Nu 2, 24, S Dhandapani St, T Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0322874,
+      "lon": 80.23289609999999
+    },
+    {
+      "id": "chijq3maqwvnujorjac7m4xjuey",
+      "title": "Medichennai pharmacy",
+      "address": "Old no.76,new, Medichennai pharmacy, 73, S W Boag Rd, CIT Nagar West, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.031664699999999,
+      "lon": 80.2344244
+    },
+    {
+      "id": "chijnrp5jkpgujorhlqfziwkfpe",
+      "title": "Amutha Medicals & Generals",
+      "address": "No:50, Amutha Medicals & Generals, 5, Vembuli Amman Koil St, Palavanthangal, Chennai, Tamil Nadu 600061",
+      "lat": 12.9879731,
+      "lon": 80.18563069999999
+    },
+    {
+      "id": "chijmzgxeafdujor9tjfd7mc8ue",
+      "title": "J J PHARMACY Madipakkam",
+      "address": "Balaji Nagar, Venkatesha Street, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.953944799999999,
+      "lon": 80.2075163
+    },
+    {
+      "id": "chijobla6kp3ujoreqaa2i3utmk",
+      "title": "New Green Pharmacy",
+      "address": "No.33 A Chelli amman Kovil Street,Kattan Kulathur, VGN Kavanur Road, Kattankulathur, Chennai, Tamil Nadu 603203",
+      "lat": 12.8154548,
+      "lon": 80.0268306
+    },
+    {
+      "id": "chijs1xyes9mujor_8j9ox8ymuk",
+      "title": "Stocking Drughouse-R",
+      "address": "Old No 74 New No 103, Lloyd's Road, Avvai Sanmuga Salai, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0474985,
+      "lon": 80.2686466
+    },
+    {
+      "id": "chijsv-1koxnujor0yylkqcx6v8",
+      "title": "Apollo Pharmacy Adayar Gandhi Nagar",
+      "address": "No. 73-33A/1, Gandhi Nagar 1st Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0068063,
+      "lon": 80.2561278
+    },
+    {
+      "id": "chij--oum_leujorbrjpehp_lpi",
+      "title": "Hetero Pharmacy",
+      "address": "W5P2+CMG Hetero Pharmacy, Hasthinapuram, Chitlapakkam, Tambaram, Tamil Nadu 600064",
+      "lat": 12.936072699999999,
+      "lon": 80.1516951
+    },
+    {
+      "id": "chijow5obufdujor-vi1hr5heni",
+      "title": "SIVA SHAKTHI COUNTRY DRUGS SHOP",
+      "address": "3/179, Madipakkam Main Rd, Defence Colony, Madipakkam, Kanchipuram, Moovarasampettai, Tamil Nadu 600091",
+      "lat": 12.968665,
+      "lon": 80.1904941
+    },
+    {
+      "id": "chijb_wpwlh_ujorvncyr0siowu",
+      "title": "Dass Medicals",
+      "address": "5/62, Kottamedu Main Road, Kottamedu, Junction, Chengalpattu - Thiruporur Rd, Viralpakkam, Tamil Nadu 603108",
+      "lat": 12.7051146,
+      "lon": 80.0919244
+    },
+    {
+      "id": "chijiyp4nzneujordsd1z-zybgw",
+      "title": "Hetero Pharmacy",
+      "address": "No.6, Hetero Pharmacy, 32, Bazaar Rd, opp. Alamara koil, Pallavaram, Pallavaram (Contonment), Tamil Nadu 600043",
+      "lat": 12.970614099999999,
+      "lon": 80.1458337
+    },
+    {
+      "id": "chij9fw1in5dujorfw_ahf3ybrg",
+      "title": "Bawaa Medicals OMR Karapakkam",
+      "address": "Rajiv Gandhi Salai, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.911623599999999,
+      "lon": 80.2292071
+    },
+    {
+      "id": "chij48q0vjnnujorq6uhtqzok9i",
+      "title": "NEW PHARMA WORLD",
+      "address": "No:19/2, (Old No.24/2), 2nd floor, NEW PHARMA WORLD, Vellalar St, opp. to The Best Hospital, Gangai Amman Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0537686,
+      "lon": 80.219167
+    },
+    {
+      "id": "chijx9o4akphujorozk7yxa9tds",
+      "title": "SURIYA PHARMACY",
+      "address": "Dhanalakshmi Nagar, Chennai, Tamil Nadu 600107",
+      "lat": 13.0573686,
+      "lon": 80.1835917
+    },
+    {
+      "id": "chijh6razsrcujorni-xdutqmca",
+      "title": "Adisashan Adithamigu Country Drug Store & Health Store",
+      "address": "No 106 Velachery Main Road, 100, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.927597299999999,
+      "lon": 80.198526
+    },
+    {
+      "id": "chijp7xvs4rdujorscasqakyu7o",
+      "title": "SRIVARI HOMOEO PHARMACY",
+      "address": "ground, New no : 5c Old no : 35f1, 3rd Main Rd, near Dhandeeswaram, Dhadeswaram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9803606,
+      "lon": 80.2240207
+    },
+    {
+      "id": "chij5zxliltdujoryy9mza0mv28",
+      "title": "Shree Saai Country Drugs",
+      "address": "2/1261, Dr Ambedkar Salai, Raja Rajeswari Nagar, Ambedkar Salai, Madipakkam, Kanchipuram, Tambaram, Tamil Nadu 600091",
+      "lat": 12.9593399,
+      "lon": 80.198768
+    },
+    {
+      "id": "chijnfeqthrdujorba2r8cyfqyy",
+      "title": "24 Hour Medical",
+      "address": "X6GF+M23 24 Hour Medical, 3rd Cross St, Varadharajapuram, Tansi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9766345,
+      "lon": 80.22256159999999
+    },
+    {
+      "id": "chij90iknp1bujororf4pqi-avy",
+      "title": "A.S.J Country Drug Store",
+      "address": "V5PQ+8P4 A.S.J Country Drug Store, Ottiambakkam Main Rd, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.885767699999999,
+      "lon": 80.1893213
+    },
+    {
+      "id": "chijlxi0tofeujorvpjv-05rquc",
+      "title": "Hetero Pharmacy",
+      "address": "2/535, Medavakkam Main Rd, near Sree Bhavani Wedding Hall, Kovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9375342,
+      "lon": 80.1823412
+    },
+    {
+      "id": "chijnc4jnk9dujor7k4q51paewe",
+      "title": "Ss, country drugs and Pooja items shop",
+      "address": "X5MR+Q9P Ss, country drugs and Pooja items shop, NCBS Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9844662,
+      "lon": 80.19095089999999
+    },
+    {
+      "id": "chijfvswjq9hujorhoowutmbwy4",
+      "title": "Hetero Pharmacy",
+      "address": "No 66, No 2/684, Oil Mill Road, Opp Oil Mill Gate, A.N. Elumalai Salai, VGN Nagar, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600056",
+      "lat": 13.0399233,
+      "lon": 80.13619709999999
+    },
+    {
+      "id": "chijt6oriqhfujordm6_twvpcvg",
+      "title": "Stocking Drug House",
+      "address": "15/2, Railway Border Rd, Sanatorium, Sri Ram Colony, Tambaram, Tamil Nadu 600047",
+      "lat": 12.936933,
+      "lon": 80.1303581
+    },
+    {
+      "id": "chijsfv-_bxhujorfppcelsifr8",
+      "title": "SRI AMMAN DRUGS STORE",
+      "address": "Devi Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.035429299999999,
+      "lon": 80.15630139999999
+    },
+    {
+      "id": "chij5yjihsbyujorhdayavzvgp4",
+      "title": "Supermed Pharmacy",
+      "address": "No 33, Gandhi Rd, Ramanujar Nagar, Sriperumbudur, Tamil Nadu 602105",
+      "lat": 12.9669175,
+      "lon": 79.94602479999999
+    },
+    {
+      "id": "chijvzwxhrzdujorts2_yfbfdrc",
+      "title": "MedPlus Sriperumbudur Main Road Nandhambakkam",
+      "address": "Ground Floor, Shop No.1&2, MedPlus Sriperumbudur Main Road Nandhambakkam, Sri Devi, Karumari Amman Nagar (Anjugam Nagar, Plot No 606, Nandambakkam, Chennai, Tamil Nadu 600133",
+      "lat": 12.977824,
+      "lon": 80.05274469999999
+    },
+    {
+      "id": "chijs8ipr8b3ujor7ls5efkgkcg",
+      "title": "MedPlus Urapakkam Rajivgandhi Nagar Pharmacy & Lab",
+      "address": "Shop No 1&2 Ground floor, MedPlus Urapakkam Rajivgandhi Nagar Pharmacy & Lab, Door No, 224, Gandhi Street, Rajiv Gandhi Nagar, Chennai, Tamil Nadu 603210",
+      "lat": 12.8580153,
+      "lon": 80.07595359999999
+    },
+    {
+      "id": "chijy5tlwl5mujorrqw4dbeh4nq",
+      "title": "Saince Pharmacy Kodambakkam",
+      "address": "Shop No 3, Saince Pharmacy Kodambakkam, South Facing, H.No 130 (133, Kodambakkam High Rd, Kamdar Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.0536763,
+      "lon": 80.2356142
+    },
+    {
+      "id": "chijx8iyxo1mujorgm8r1vbhfus",
+      "title": "Sembaruthi pharmacies pvt ltd",
+      "address": "old no 6, Sembaruthi pharmacies pvt ltd, 54/9, S Sivan Koil St, Ganga Nagar, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0526585,
+      "lon": 80.2192352
+    },
+    {
+      "id": "chijh2wkjtdzujoryh-khgusgws",
+      "title": "SR PHARMACY",
+      "address": "Shop No:A5, SR PHARMACY, NGO Nagar Main Rd, Allapakkam, New Perungalathur, Nedunkundram, Tamil Nadu 600063",
+      "lat": 12.8899975,
+      "lon": 80.1153885
+    },
+    {
+      "id": "chijfzfsjsfgujorsv05afazebo",
+      "title": "Vasantham Pharmacy",
+      "address": "Ramapuram, Girigori Nagar, Manapakkam, Chennai, Tamil Nadu 600125",
+      "lat": 13.013033,
+      "lon": 80.1699288
+    },
+    {
+      "id": "chijh6f8cdhfujorytl-pcs9zug",
+      "title": "pills & capsules pharmacy",
+      "address": "7/162, Agaram Main Rd, Selaiyur, Agaramthen, Tambaram, Tamil Nadu 600126",
+      "lat": 12.886116999999999,
+      "lon": 80.1498861
+    },
+    {
+      "id": "chij017s-kdeujorp_nrnwouwts",
+      "title": "A.V.National Drug Store",
+      "address": "Raja Joseph Colony, Pallavaram, Tambaram, Tamil Nadu 600043",
+      "lat": 12.9631783,
+      "lon": 80.15458269999999
+    },
+    {
+      "id": "chijl-o7ozzeujorjqavbwgzbk0",
+      "title": "Bawaa Medicals",
+      "address": "8/23, Indira Gandhi Rd, Pallavaram, Pallavaram (Contonment), Tamil Nadu 600043",
+      "lat": 12.9681296,
+      "lon": 80.14875789999999
+    },
+    {
+      "id": "chij4wk-h_j1ujorgwxe4lc5da8",
+      "title": "Eswaran Medicals",
+      "address": "X56F+Q4C Eswaran Medicals, Kannabiran St, Union Carbide Colony, Tirusulam, Chennai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9619266,
+      "lon": 80.17275649999999
+    },
+    {
+      "id": "chijq6qq6j5hujorh7c2nbkgg44",
+      "title": "Benson Drugs",
+      "address": "Plot 10, Benson Drugs, Swetha Garden, Kovoor, Balaji Nagar Main Rd, Kovur, Tamil Nadu 600128",
+      "lat": 13.0068693,
+      "lon": 80.1100048
+    },
+    {
+      "id": "chijgxmaxmpdujor0-vmjil5xwm",
+      "title": "MRS Surgicals",
+      "address": "No:10, 39, Moovendhar Street, Major Mukund Varadharajan Rd, next to Annai Theresa Hospitals Pvt Ltd, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.917678599999999,
+      "lon": 80.19038929999999
+    },
+    {
+      "id": "chijztrcokjfujortshzydyjnvs",
+      "title": "Thatha Kadai Country Drugs Pooja Shop",
+      "address": "No.1, Yadaval St, Gandhi Nagar, Anakaputhur, Kanchipuram, Tambaram, Tamil Nadu 600070",
+      "lat": 12.980475499999999,
+      "lon": 80.1284101
+    },
+    {
+      "id": "chijlf5ez7rfujorucguuxwcy0e",
+      "title": "Shri Varshini Pharmacy",
+      "address": "Central Bank Colony, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9590319,
+      "lon": 80.1396426
+    },
+    {
+      "id": "chijcynauo1dujorrwvagct-y1s",
+      "title": "S A Anandhi pharmacy",
+      "address": "179, MGR Nagar, AGS Colony, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.978086699999999,
+      "lon": 80.2115226
+    },
+    {
+      "id": "chijk6-tmfr1ujoraaaamaunrsy",
+      "title": "Sun Pharmacy",
+      "address": "Ground Floor Shop, Sun Pharmacy, 1/11, 1, Walajabad Rd, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8933509,
+      "lon": 80.08356409999999
+    },
+    {
+      "id": "chijjfrr4njhujor4nsdwlmvncm",
+      "title": "Elite Pharmacy - Discounted Medicines and Online Pharmacy",
+      "address": "Chokkalingam Naicker 5th St, Ganapathi Nagar, Vanagaram, Chennai, Tamil Nadu 600095",
+      "lat": 13.0533597,
+      "lon": 80.1612973
+    },
+    {
+      "id": "chijnvoeoh_1ujoruq0xezeu5-0",
+      "title": "DRB PHARMACY",
+      "address": "No :11, DRB PHARMACY, VL Complex, Kamaraj High Rd, Raja Rajeswari Nagar, Venkat Nagar, Chennai, Old Perungalathur, Tamil Nadu 600063",
+      "lat": 12.9183574,
+      "lon": 80.0863138
+    },
+    {
+      "id": "chijpzryng1nujorst2miukcdg4",
+      "title": "Supermed Pharmacy Ltd",
+      "address": "Jamal Sonu Terrace, Ground Floor, 42-Loganathan Nagar 1st Street, Jawaharlal Nehru Salai, Choolaimedu, Chennai, Tamil Nadu 600026",
+      "lat": 13.0599835,
+      "lon": 80.21171059999999
+    },
+    {
+      "id": "chijotwnrendujorr-zmdtg3--e",
+      "title": "Hetero Pharmacy",
+      "address": "Old No-29, New No-119, Flat No-AG3, Durisamy Apartment, Muthukadu Road, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.978145099999999,
+      "lon": 80.2593028
+    },
+    {
+      "id": "chij037rmmxfujor__qrlr-rkss",
+      "title": "Tea A Legal Drug",
+      "address": "East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9232997,
+      "lon": 80.1185393
+    },
+    {
+      "id": "chij6ecgwlzmujorynow9omfv2s",
+      "title": "Nandhi Medicals",
+      "address": "Old No. 80/3, New No. 106/3, Gopathi Narayanaswami Chetty Road, Thiyagaraya Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.042984899999999,
+      "lon": 80.235992
+    },
+    {
+      "id": "chijkefaipbdujoreu8unxoi8zu",
+      "title": "Muruga Medicals",
+      "address": "6, Muruga Medicals, 1,6/2, 1st Cross St, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9753484,
+      "lon": 80.2199366
+    },
+    {
+      "id": "chij-f138ornujor4vou1xwoox8",
+      "title": "New Polo Pharmacy",
+      "address": "Shop no 1, New Polo Pharmacy, Yeskay Building, 74/144, Greams Rd, Thousand Lights West, Thousand Lights, Chennai, Tamil Nadu 600006",
+      "lat": 13.0591371,
+      "lon": 80.2540721
+    },
+    {
+      "id": "chij_57olozeujord1jwcsssukc",
+      "title": "PHARMACY",
+      "address": "Ambedkar Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9224841,
+      "lon": 80.15006989999999
+    },
+    {
+      "id": "chij2875d7zfujor5nsukibjhuu",
+      "title": "Hetero Pharmacy",
+      "address": "X46P+FV8 Hetero Pharmacy, Shiva Shankar Nagar, Nagalkeni, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9611626,
+      "lon": 80.1371995
+    },
+    {
+      "id": "chijy3v4zwbfujorujvqmj6qzvc",
+      "title": "Makkal Marundhagam Pallavaram / Makkal Marunthagam Pallavaram - Pradhan Mantri Bhartiya Janaushadhi Kendra",
+      "address": "28, Duraikannu Salai, Murugesapuram, Old Pallavaram, Tambaram, Tamil Nadu 600117",
+      "lat": 12.9597792,
+      "lon": 80.1742761
+    },
+    {
+      "id": "chijtravtttzujorlffj3kef4b4",
+      "title": "DASVIN MEDICAL",
+      "address": "3/1097, thiruvallur Main Road, Molachur,Sunguvarchatram 3/1097, thiruvallur, Main Rd, Sung Sunguvachathiram, Molasur, Tamil Nadu 602105",
+      "lat": 12.962834599999999,
+      "lon": 79.9424612
+    },
+    {
+      "id": "chija9mkhmbcujoru-ijqpzfd-s",
+      "title": "The Madras Pharmaceuticals",
+      "address": "137- B, Rajiv Gandhi Salai, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.920532699999999,
+      "lon": 80.2292597
+    },
+    {
+      "id": "chijg3wyex5fujorlcqo2xt601m",
+      "title": "Quality Chemist & Druggists",
+      "address": "Rajeshwari Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.922635699999999,
+      "lon": 80.1416891
+    },
+    {
+      "id": "chij72u0enbfujorvhjorytsqbq",
+      "title": "Bionic Serve-Cancer Medicine Supplier Chennai",
+      "address": "5th block, Bionic Serve-Cancer Medicine Supplier Chennai, Vijayalakshmi Flats, G3, near power print solution, Zamin pallavaram, bhavani nagar, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.9392333,
+      "lon": 80.1716818
+    },
+    {
+      "id": "chijoyxvktbdujorg_fqpvun68k",
+      "title": "Lakshmi medicals",
+      "address": "No 190, 2nd South Main Rd, near Union Bank of India, Sri Kapaleeswarar Nagar, Neelankarai, Chennai, Tamil Nadu 600115",
+      "lat": 12.9498795,
+      "lon": 80.25620769999999
+    },
+    {
+      "id": "chij0vhrkqpnujortqtgtlkfxfo",
+      "title": "Apollo Pharmacy South Usman Road",
+      "address": "52, S Usman Road, opposite Best Money Gold, T Nagar, Kannammapet, CIT Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0327489,
+      "lon": 80.23033
+    },
+    {
+      "id": "chijn4afwwjdujorkqjxdjdyjq4",
+      "title": "C L Baid Metha College Of Pharmacy",
+      "address": "2, SH 49A, Ellaiamman Nagar, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9460901,
+      "lon": 80.2399343
+    },
+    {
+      "id": "chij-csithfnujorv0cdx9_ipa0",
+      "title": "Apollo Pharmacy Velachery 2",
+      "address": "137, Dandeeshwaram Main Rd, Ram Nagar, Ramnagar South, Dhadeswaram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9837407,
+      "lon": 80.2226544
+    },
+    {
+      "id": "chijvw1qtwzcujormgypfrwtjj8",
+      "title": "ANBU PHARMACY",
+      "address": "shop no,G1, ANBU PHARMACY, Harshini complex, 1st Main Rd, near advent church, Perumbakkam, Chennai, Tamil Nadu 600100",
+      "lat": 12.906236,
+      "lon": 80.1997638
+    },
+    {
+      "id": "chijpzqnxed3ujorerrg5ney0si",
+      "title": "MedPlus Mahalakshmi Nagar Thimaavaram",
+      "address": "Ground Floor Shop No.2, MedPlus Mahalakshmi Nagar Thimaavaram, Plot No- 26, Mahalakshmi Nagar, Thimaavaram, Athur, Tamil Nadu 603101",
+      "lat": 12.7015941,
+      "lon": 79.96601989999999
+    },
+    {
+      "id": "chij93ntqmx8ujoryag3gbln5cs",
+      "title": "Maruti Medicals",
+      "address": "MXVF+QPW Maruti Medicals, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694490799999999,
+      "lon": 79.97431449999999
+    },
+    {
+      "id": "chijqwrydc73ujoro6a36d3uecm",
+      "title": "SREE SELVAA MEDICALS",
+      "address": "12/13, Pillaiyar Kovil St, Potheri, Thailavaram, Kanchipuram, Tamil Nadu 603203",
+      "lat": 12.8312008,
+      "lon": 80.0447743
+    },
+    {
+      "id": "chijsdgxfmz3ujoryj-kmlrbffs",
+      "title": "Vcaare Medical",
+      "address": "34, Thiruvalluvar St, Potheri, Kanchipuram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.818270199999999,
+      "lon": 80.0378041
+    },
+    {
+      "id": "chijk-wast_3ujorydovgh6su9g",
+      "title": "Sri Krishna Medicals",
+      "address": "Shop No. 2, Sri Krishna Medicals, GST Rd, Potheri, Thailavaram, Tamil Nadu 603203",
+      "lat": 12.8311833,
+      "lon": 80.04671689999999
+    },
+    {
+      "id": "chijw0wa1bp5ujornu6njsffm68",
+      "title": "MedPlus Maraimalai Nagar Pavendar Street",
+      "address": "Ground floor,No 1/17 Mig Nh2 paaventhar street, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7948407,
+      "lon": 80.0264713
+    },
+    {
+      "id": "chiji7eqhvz3ujorer5gwa0up_e",
+      "title": "Medplus",
+      "address": "R3GG+756 Medplus, Vishnupriya Nagar, Krishna Nagar, Moolakazhani, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8256702,
+      "lon": 80.0753927
+    },
+    {
+      "id": "chijnxvnc0f5ujorzqfjnzdfm1o",
+      "title": "MedPlus Silappathikaram Street Maraimalainagar Exp",
+      "address": "Ground Floor, Shop No.1&2, No.6/22, MedPlus Silappathikaram Street Maraimalainagar Exp, NH3, Silapathykaram St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.789849199999999,
+      "lon": 80.0355391
+    },
+    {
+      "id": "chijpwsue-n3ujorofpse9idoog",
+      "title": "MedPlus Guduvancheri",
+      "address": "Door No.9, Ground Floor, MedPlus Guduvancheri, Gandhi St, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.846956899999999,
+      "lon": 80.0613065
+    },
+    {
+      "id": "chijizztmin6ujorj8oaojwshma",
+      "title": "VISALAKSHI MEDICAL",
+      "address": "1/44, GST Rd, Singaperumal Koil, Chengalpattu, Tamil Nadu 603204",
+      "lat": 12.761119299999999,
+      "lon": 80.0032722
+    },
+    {
+      "id": "chij6az239x5ujoraxl8haj9qte",
+      "title": "PRADHAN MANTRI BHARTIYA JANAUSHADHI KENDRA (MAKKAL MARUNTHAGAM)",
+      "address": "SHOP NO.5, PRADHAN MANTRI BHARTIYA JANAUSHADHI KENDRA (MAKKAL MARUNTHAGAM), MIG-37, Vallal Adhiyaman St, Maraimalai Nagar, Chennai, Tamil Nadu 603209",
+      "lat": 12.7993112,
+      "lon": 80.02439129999999
+    },
+    {
+      "id": "chijownsvtp5ujoradd9xo4m9og",
+      "title": "PRABHU MEDICALS",
+      "address": "8th street, Kattur Main Rd, Rail Nagar, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.7984142,
+      "lon": 80.0371275
+    },
+    {
+      "id": "chijzxrjauj5ujoryhbm3fssc60",
+      "title": "Shyam Medicals",
+      "address": "Prabha complex, 28/1, Silapathykaram St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7899628,
+      "lon": 80.0349911
+    },
+    {
+      "id": "chijw5muaez5ujor0g76vf0tihe",
+      "title": "Apollo Pharmacy Maraimalai Nagar Vallal MGR Salai",
+      "address": "17, Vallal MGR Salai, near ESAF Small Finance Bank, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7988857,
+      "lon": 80.02311329999999
+    },
+    {
+      "id": "chijsa4clqf3ujorwfrbejg6ks8",
+      "title": "Nanba pharmacy",
+      "address": "Theepanchamman kovil st, Vallanchery Main Rd, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.833170899999999,
+      "lon": 80.0548693
+    },
+    {
+      "id": "chijqvrr6xv0ujorzpomynsefhs",
+      "title": "Apollo Pharmacy Maraimalai Nagar",
+      "address": "Block No. 1, Apollo Pharmacy Maraimalai Nagar, 33/4, Sekkizhar St, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7959886,
+      "lon": 80.0279929
+    },
+    {
+      "id": "chijxeiq3pt3ujor4a-ga3nvndw",
+      "title": "MAKKAL MARUTHAGAM",
+      "address": "NO:99/1 ,MOOLAKAZHANI,NELLIKUPPAMROAD, Kayarambedu Rd, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8139887,
+      "lon": 80.0767781
+    },
+    {
+      "id": "chijbvwx8pn5ujorxioanq5iep4",
+      "title": "Star Apollo Medical",
+      "address": "Shop No. 1, 2, 3, Star Apollo Medical, From North, Plot No: 33/4, Ground Floor, West Facing, NH1, Sekkizhar St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7957377,
+      "lon": 80.0259348
+    },
+    {
+      "id": "chij3yuqd-l5ujorpwqubgc_jze",
+      "title": "Sri Velan Medicals",
+      "address": "Maraimalanagar, Kanchipuram, NH-45, Chennai Trichy Highway, Grand Southern Trunk Road, Kanchipuram, Kanchipuram, Tamil Nadu 603209",
+      "lat": 12.799551,
+      "lon": 80.02360399999999
+    },
+    {
+      "id": "chij_xxleql5ujoryr54gbhs2js",
+      "title": "Sri Vasavi Medicals and General Stores",
+      "address": "No.17, HIG, Sri Vasavi Medicals and General Stores, Vallal MGR Salai, NH-1, kanchipuram, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7987726,
+      "lon": 80.0230863
+    },
+    {
+      "id": "chijyvzwu_l3ujor8qi_1tcniee",
+      "title": "sri sai venkateswara medicals",
+      "address": "S.I.S Queenstown, Opposed, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8131018,
+      "lon": 80.0748041
+    },
+    {
+      "id": "chijdwy07ql5ujoryea1lbgo_sw",
+      "title": "Makkal Marunthagam",
+      "address": "4/10, Kambar 1st St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.794948199999999,
+      "lon": 80.0270762
+    },
+    {
+      "id": "chijn8egsod5ujorlj-q1mrm40w",
+      "title": "Ora care surgicals",
+      "address": "HIG G1, No88, NH1, Pavendar street, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.797307199999999,
+      "lon": 80.0293165
+    },
+    {
+      "id": "chijgywwdy73ujorjti7tyhfmqo",
+      "title": "THIRUPATHI MEDICAL",
+      "address": "52, Kamarajar St, Kattankulathur, Chennai, Tamil Nadu 603203",
+      "lat": 12.8083301,
+      "lon": 80.03095069999999
+    },
+    {
+      "id": "chijdsnczqz3ujorlnkrlyly8uw",
+      "title": "MEDPLUS GUDAVANCHERRY NELLIKUPPAM ROAD",
+      "address": "Ground Floor, Shop No 1,2&3, MEDPLUS GUDAVANCHERRY NELLIKUPPAM ROAD, Plot No 31/1, Nellikuppam Rd, Nandivaram, Guduvancheri, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8390209,
+      "lon": 80.064043
+    },
+    {
+      "id": "chijj_pzga73ujorl4eppkc8bnc",
+      "title": "Apollo Pharmacy Guduvancheri",
+      "address": "No.1.2&3, GST Rd, near Ram Residency, Guduvancheri, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8411058,
+      "lon": 80.0570398
+    },
+    {
+      "id": "chijiwhqbvl5ujor7z1frzgkhsa",
+      "title": "ARUL MEDICALS",
+      "address": "370 MIG, Vallal Adhiyaman St, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.798712199999999,
+      "lon": 80.02530279999999
+    },
+    {
+      "id": "chijsvv0apn3ujor5kxznb69pzc",
+      "title": "New Bawa Medical's",
+      "address": "19&20, GST Rd, near Girias, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.840792299999999,
+      "lon": 80.056758
+    },
+    {
+      "id": "chijh7jvcqd5ujor9hrirg-yduo",
+      "title": "Sindhu medical & clinic",
+      "address": "14th street, Rail Nagar, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.7941775,
+      "lon": 80.0361238
+    },
+    {
+      "id": "chijuypde1b5ujorjtqbygcky3w",
+      "title": "Vettri Medicals",
+      "address": "6/23, Silapathykaram St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.789700999999999,
+      "lon": 80.035439
+    },
+    {
+      "id": "chijsrwnncv5ujorl45vmgvgjok",
+      "title": "Apollo Pharmacy Maraimalai Nagar",
+      "address": "Shop No.1, Apollo Pharmacy Maraimalai Nagar, HIG 60, Anna Salai Rd, near IOB ATM, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7954399,
+      "lon": 80.02147389999999
+    },
+    {
+      "id": "chijnq-k6wv3ujormsmaoamwjkw",
+      "title": "VASANTHA MEDICALS",
+      "address": "Estancia shopping complax, Potheri, SRM Nagar, Kavanur, Kattankulathur, Tamil Nadu 603202",
+      "lat": 12.827784099999999,
+      "lon": 80.049071
+    },
+    {
+      "id": "chijz3rczqz3ujoryva5dcoysiq",
+      "title": "Sri Amman Medicals",
+      "address": "no-20, Sri Amman Medicals, 5, Nellikuppam Rd, Gandhi Nagar, Kamarajapuram, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8431289,
+      "lon": 80.0602165
+    },
+    {
+      "id": "chijt2dikcl3ujorg24qol3cb9m",
+      "title": "JAYABHARATH MEDICALS",
+      "address": "Thiruvalluvar street, Guruganesh Nagar, Iyyapa Nagar, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.808238,
+      "lon": 80.0761679
+    },
+    {
+      "id": "chijcyp_p-h5ujoraqtme8v4ids",
+      "title": "A.M Herbal store",
+      "address": "Pavendhar Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.795551399999999,
+      "lon": 80.0269299
+    },
+    {
+      "id": "chijg_o0buh5ujorighouwbyrwg",
+      "title": "Maruti Medicals",
+      "address": "Q2WG+9JV Maruti Medicals, Thiruvalluvar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7959658,
+      "lon": 80.02654249999999
+    },
+    {
+      "id": "chijxq3nzaz3ujor5z2uejd-c7s",
+      "title": "Sri Venkateshwara Medical",
+      "address": "29/1, Nellikuppam Rd, Kamarajapuram, Guduvancheri, Vandalur R.F., Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.842940599999999,
+      "lon": 80.0606061
+    },
+    {
+      "id": "chijeyobeol3ujorda_heox9m9w",
+      "title": "SRM PHARMACY",
+      "address": "R2FX+334 SRM PHARMACY, SRM General Hospital, Potheri, SRM Nagar, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.8226353,
+      "lon": 80.0476934
+    },
+    {
+      "id": "chijt_blnkz3ujore9w8fub11k4",
+      "title": "Dharshini Medicals",
+      "address": "No. 7, Arignar Anna Street Railway, Railway Station Rd, Guduvancheri, Chennai, Tamil Nadu 603202",
+      "lat": 12.8445866,
+      "lon": 80.05933069999999
+    },
+    {
+      "id": "chij37qhpgl3ujorwxzcoo4apik",
+      "title": "MAKKAL MARUNTHAGAM (GENERIC MEDICAL STORE)",
+      "address": "No.6,pillaiyar kovil street kamarajapuram, nandhivaram, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8438751,
+      "lon": 80.0604974
+    },
+    {
+      "id": "chiju1x-qoh5ujor6w0xgcy7lno",
+      "title": "NKS Pharmacy",
+      "address": "NH-2, B-14A, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.795273799999999,
+      "lon": 80.0267542
+    },
+    {
+      "id": "chijdv-qoap3ujorwyxockrvqea",
+      "title": "Royal Medical Shop",
+      "address": "R2RV+M9C Royal Medical Shop, Vallalar Nagar, Thailavaram, Tamil Nadu 603202",
+      "lat": 12.8416844,
+      "lon": 80.0433997
+    },
+    {
+      "id": "chijtdagv6v3ujori2sz4zejxd8",
+      "title": "Subam Medicals",
+      "address": "R3R5+V2R Subam Medicals, G.S.T. Road, NH Service Road, near K.R. Hospital, Srinivasapuram, Kumaran Nagar, Tamil Nadu 603202",
+      "lat": 12.8422409,
+      "lon": 80.05750259999999
+    },
+    {
+      "id": "chij56tcdcj3ujorxv2sgmmyxds",
+      "title": "Sri Dhanalakshmi Medicals",
+      "address": "165, Sri Dhanalakshmi Medicals, 2, GST Rd, N.G.O Colony, Kumaran Nagar, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8415219,
+      "lon": 80.0567145
+    },
+    {
+      "id": "chijn9txhul5ujorxacacjmfh8y",
+      "title": "ARUL MEDICALS",
+      "address": "Q2MG+R5W ARUL MEDICALS, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.784616199999999,
+      "lon": 80.0254531
+    },
+    {
+      "id": "chijqbffnz73ujory8gt4si_6qe",
+      "title": "Netmeds Pharmacy",
+      "address": "SMART Point, No.9 & 10, Gr Flr, Se Corner Samundeeswari Ngr, Thailavaram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8392812,
+      "lon": 80.0410091
+    },
+    {
+      "id": "chijzrzydwd3ujorem1rjp591-o",
+      "title": "Pills and Tonics Kayarambedu",
+      "address": "82, Nellikuppam Rd, Kameshwary Nagar, Iyyapa Nagar, Moolakazhani, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8148611,
+      "lon": 80.07683329999999
+    },
+    {
+      "id": "chijnz6ezjp5ujorzxvhlzfh3ju",
+      "title": "VIVEK MEDICALS AND GENERAL STORE",
+      "address": "No 9 LIG, THIRUVALLUVAR STREET, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7964126,
+      "lon": 80.0254793
+    },
+    {
+      "id": "chijrdyoqcz3ujormvm20k0ats8",
+      "title": "New senthil green pharmacy",
+      "address": "104, GST Rd, Gandhi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.843077,
+      "lon": 80.0591014
+    },
+    {
+      "id": "chijtf2xqtl5ujorc9eduaaaija",
+      "title": "Apollo Pharmacy Maraimalai Nagar 2",
+      "address": "Plot No.5 , Block -b,NH-II Extension, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7843317,
+      "lon": 80.0297389
+    },
+    {
+      "id": "chijz8axuaj5ujordgiibpxfxnw",
+      "title": "Patanjali Green Store",
+      "address": "Light.60, Thayumanavar St, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7966144,
+      "lon": 80.02793249999999
+    },
+    {
+      "id": "chijt2pfugdxujorpl8y2o9jtwm",
+      "title": "ANNAI MEDICALS",
+      "address": "NO 7, PERAMANUR APPUR, East Coast Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.799744899999999,
+      "lon": 80.00652629999999
+    },
+    {
+      "id": "chij0d83d-x3ujoru4oawxjcglk",
+      "title": "Lupin Diagnostics | Pathology Lab & Full Body Checkup in Potheri",
+      "address": "4, Periyar St, nearby Green pearl Apartment, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8152653,
+      "lon": 80.03588069999999
+    },
+    {
+      "id": "chijobmwwen5ujorngorp9vns6w",
+      "title": "SRI BALAJI PHARMACY",
+      "address": "2, SRI BALAJI PHARMACY, 38, GST Rd, Peramanur, Singaperumal Koil, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.795333999999999,
+      "lon": 80.019973
+    },
+    {
+      "id": "chijl9fmkht3ujorle5pbceyn6y",
+      "title": "Mahaveer Medicals ,Clinic and Labs",
+      "address": "NO.1, Mahaveer Medicals ,Clinic and Labs, EZHIL AVENUE, Nellikuppam Rd, NANDHIVARAM, Guduvancheri, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8352381,
+      "lon": 80.06673119999999
+    },
+    {
+      "id": "chijb_xaxub5ujoraaaamm30niu",
+      "title": "Dr. Mohan's Medicals",
+      "address": "2/20, Poongundranar St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.793557999999999,
+      "lon": 80.027118
+    },
+    {
+      "id": "chijh6mvg0p3ujorktjjwlbuosu",
+      "title": "Nalam Health Care Oxygen cylinder|Oxygen concentrator Rental",
+      "address": "Potheri, Guduvancheri, Thailavaram, Tamil Nadu 603203",
+      "lat": 12.8279178,
+      "lon": 80.0410453
+    },
+    {
+      "id": "chijayvyz6z3ujoravryxi_t0pu",
+      "title": "Senthil Pharmacy",
+      "address": "21, Senthil Pharmacy, 2, Nellikuppam Rd, Kuberan Nagar, Kamarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.843238399999999,
+      "lon": 80.0603989
+    },
+    {
+      "id": "chij6qrvc9n3ujorwvykomxay-e",
+      "title": "SREE RANGA PHARAMACY ,CLINICAL LAB & 24 HOURS CLINIC",
+      "address": "3, Usha Nagar, NANDHIVARAM, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8275034,
+      "lon": 80.0743918
+    },
+    {
+      "id": "chijgxamb4h3ujorctqy6ubzaxo",
+      "title": "Vijayalakshmi Medicals",
+      "address": "98, Jayalakshmi Nagar, Mahalakshmi Nagar, Nandivaram Guduvanchery, Chengalpattu, Tamil Nadu 603202",
+      "lat": 12.8498638,
+      "lon": 80.0728903
+    },
+    {
+      "id": "chijh73jbl33ujorqt-ynv1j2ei",
+      "title": "Aarthi Medicals and Generals",
+      "address": "Sadhasivam Rd, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8094355,
+      "lon": 80.0302584
+    },
+    {
+      "id": "chijnzu6dtl5ujortesmhaxphqy",
+      "title": "SRI MUTHU KUMARAN CLINIC",
+      "address": "No32 A, Nh2, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7983237,
+      "lon": 80.03035589999999
+    },
+    {
+      "id": "chijn8gclrf3ujorjyteu4hosp0",
+      "title": "DR.SathishClinic",
+      "address": "21A, Thiruvalluvar St, near v care Pharmacy, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8183741,
+      "lon": 80.0378061
+    },
+    {
+      "id": "chijb6-7cqd5ujorhmtjdb3s0lg",
+      "title": "Geetha medical",
+      "address": "Q2MR+J9M Geetha medical, Gudalur, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.7840873,
+      "lon": 80.0409288
+    },
+    {
+      "id": "chiju69dwkv3ujor-tblylkazic",
+      "title": "darshini medical store",
+      "address": "R3R4+VX9 darshini medical store, NH Service Rd, N.G.O Colony, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8421501,
+      "lon": 80.0574905
+    },
+    {
+      "id": "chijc6s0evt5ujorgvilie8rfoc",
+      "title": "Vijaya Medicals",
+      "address": "7, Vijaya Medicals, 18, Kambar Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.793728999999999,
+      "lon": 80.0288679
+    },
+    {
+      "id": "chijwykyywr3ujoriqgbnskvf5u",
+      "title": "Sairam pets",
+      "address": "Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.811833799999999,
+      "lon": 80.031454
+    },
+    {
+      "id": "chijryruqzb3ujorakfvkqwx1xa",
+      "title": "Apollo 24|7 Lab Tests Near Me | Potheri | Home collection | Kattankulathur",
+      "address": "1, S. No. 2, Ground Floor Kambar Street, Pillayar Koil St, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8196712,
+      "lon": 80.0368086
+    },
+    {
+      "id": "chija3d8t-h5ujorhkgq_qlql4q",
+      "title": "Muthaiah Medicals",
+      "address": "Q2WG+5Q6 Muthaiah Medicals, Pavendhar Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7954185,
+      "lon": 80.0268937
+    },
+    {
+      "id": "chijuxswbop5ujoraaaamnnqxne",
+      "title": "Shree Medicals",
+      "address": "H I, Shree Medicals, G 63, Anna Salai Rd, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7950901,
+      "lon": 80.0218348
+    },
+    {
+      "id": "chijmuy8_qtfujorkpcf0ulxgus",
+      "title": "Vaishnavi Pharmacy",
+      "address": "Guduvanchery 115, GST Rd, Gandhi Nagar, Guduvancheri, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8422725,
+      "lon": 80.05825519999999
+    },
+    {
+      "id": "chijzailcdj5ujorxnkeusr8wp4",
+      "title": "Jayalakshmi Medicals",
+      "address": "13b, Pavendhar Rd, Near Aravind sweets and bakery, NH-2, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7950144,
+      "lon": 80.0263088
+    },
+    {
+      "id": "chijn5tezdf5ujor0fqwsr---xg",
+      "title": "Dr. Viji's Homeo Clinic",
+      "address": "Q2QP+WWH Dr. Viji's Homeo Clinic, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.789800999999999,
+      "lon": 80.0373709
+    },
+    {
+      "id": "chijh1im99x5ujoreisrbnrvm8q",
+      "title": "Balaji Medicals And General Stores",
+      "address": "2/7, Bhoodathalvar Street, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.798373999999999,
+      "lon": 80.0275113
+    },
+    {
+      "id": "chij_csqhlx5ujorpxr6_omak0c",
+      "title": "MEDSUN MEDICALS",
+      "address": "No 1, MEDSUN MEDICALS, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.790405199999999,
+      "lon": 80.0339953
+    },
+    {
+      "id": "chijhzrgjnp3ujor4ctixaj9czo",
+      "title": "MS PHARMACY",
+      "address": "244, Nellikuppam Rd, PERIYAR NAGAR, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.830375799999999,
+      "lon": 80.073093
+    },
+    {
+      "id": "chijlxul_ef3ujortkw8vdtwci8",
+      "title": "MedFarm Pharmacy",
+      "address": "Saminathan Street, 9, GST Rd, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8419131,
+      "lon": 80.0579279
+    },
+    {
+      "id": "chijy1f5g-h5ujorul9z-tzhia0",
+      "title": "JOSU PHARMACY",
+      "address": "Q2WH+F5G JOSU PHARMACY, Pavendhar Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7961934,
+      "lon": 80.027962
+    },
+    {
+      "id": "chijx62ksn73ujorjempnhii-gu",
+      "title": "MANESH PHARMA",
+      "address": "R29G+WPW MANESH PHARMA, Kattankulathur Main Rd, Kavanur R.F.R[31]C, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819865799999999,
+      "lon": 80.0268373
+    },
+    {
+      "id": "chij1ejgein3ujor5jc7rbv37d4",
+      "title": "Apollo Pharmacy Kayarambedu",
+      "address": "No1, Nellikuppam Rd, near SRI SARAVANA BHAVAN, Vishnu Priya Nagar, Moolakazhani, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8252422,
+      "lon": 80.07533149999999
+    },
+    {
+      "id": "chijyrv95al5ujormqyahsi5dj4",
+      "title": "Lenskart.com at Maraimalai Nagar, Chennai (First Lens Replacement Free)",
+      "address": "HIG 31, NH 1, Vallal MGR Road, Maraimalai Nagar Kanchipuram, Chengalpattu, next to Spencers Super Market, Chennai, Tamil Nadu 603209",
+      "lat": 12.798632099999999,
+      "lon": 80.0229535
+    },
+    {
+      "id": "chijiti-nqz3ujorae73rzctkpu",
+      "title": "Madras Medicals",
+      "address": "No. 16B, Railway Station Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8448852,
+      "lon": 80.0593057
+    },
+    {
+      "id": "chijr9o6zlv3ujord-of1e_glo0",
+      "title": "SRIRAM STORES NATTU MARUNDHU KADAI",
+      "address": "bus stand, No 21 mtc bus stand inside complex, beside Guduvancheri, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.844842,
+      "lon": 80.0612465
+    },
+    {
+      "id": "chijy9gvpwp5ujor3cncyop2wp8",
+      "title": "Alpha Medical",
+      "address": "Q2JR+FRX Alpha Medical, Ashta Lakshmi Nagar, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.7812316,
+      "lon": 80.04211579999999
+    },
+    {
+      "id": "chij3xy_3vj5ujorbyknq8zt1gc",
+      "title": "SPECSHOP",
+      "address": "Thiruthakkadevar St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.798753699999999,
+      "lon": 80.02311639999999
+    },
+    {
+      "id": "chije2lnv5ndujorml6mgtlocbs",
+      "title": "SREE RUDHRAA AYURVEDA CLINIC & PHARMACY",
+      "address": "403/ 6A2, THIRUVALLUVAR SALAI, Kayarambedu Rd, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8089216,
+      "lon": 80.0766404
+    },
+    {
+      "id": "chijkxyildp3ujorws46nid5zsk",
+      "title": "Eden Sidha Herbal Centre",
+      "address": "No:14/8, railway station road, guduvanchery Near: new style tailor, Chennai, Tamil Nadu 603202",
+      "lat": 12.845632,
+      "lon": 80.05847899999999
+    },
+    {
+      "id": "chijs-maqoh3ujorz2uwgr8hv1c",
+      "title": "Apollo Pharmacy Kayarambedu-2",
+      "address": "No.729,Shop NO.2,3 & 4,From South,East Facing,Nellikuppam Road Moolakazhani, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8187198,
+      "lon": 80.0759317
+    },
+    {
+      "id": "chijfrvedml5ujorynso-gapwbw",
+      "title": "Apollo Pharmacy Maraimalai Nagar Kambar Street",
+      "address": "Block No.1, HIG, Apollo Pharmacy Maraimalai Nagar Kambar Street, Shyam ponnuchamy's home, Plot No.1, Kambar Rd, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7909685,
+      "lon": 80.03266719999999
+    },
+    {
+      "id": "chijevq29-nfujorrf-8zyyyzdy",
+      "title": "The pharmacy",
+      "address": "No. 150,Ragamalika Apartments Medavakkam koot rd, ch-100, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9208432,
+      "lon": 80.1850532
+    },
+    {
+      "id": "chijj7bstp5zujord0woklvwbv0",
+      "title": "MAS PHARMACY",
+      "address": "318, Nellikuppam Rd, Melakottaiyur, Chennai, Tamil Nadu 600127",
+      "lat": 12.8486906,
+      "lon": 80.1418576
+    },
+    {
+      "id": "chijlawq_lnnujor1cna-dcrvni",
+      "title": "Chennai Medicals",
+      "address": "161, TTK Rd, CIT Colony, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.040303199999999,
+      "lon": 80.258393
+    },
+    {
+      "id": "chijiftex81zujorgxnzo33t9q4",
+      "title": "NewDay pharmacy",
+      "address": "Nellikuppam Rd, Kandigai, Chennai, Tamil Nadu 600127",
+      "lat": 12.842909599999999,
+      "lon": 80.1375345
+    },
+    {
+      "id": "chijm2ksng33ujorbknardern7o",
+      "title": "SRM College of Pharmacy",
+      "address": "Intra College Rd, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8263793,
+      "lon": 80.043388
+    },
+    {
+      "id": "chijifnwb5hdujor-ndzubutkis",
+      "title": "Aditya pharmacy",
+      "address": "shop.no-350A Rajiv Gandhi Street, Perumbakkam Main Rd, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9087306,
+      "lon": 80.1977342
+    },
+    {
+      "id": "chijazn0uqbfujorrpo54tnott8",
+      "title": "Mangalambigai Pharmacy",
+      "address": "Perumal Koil St, Vijayalakshmi Nagar, Nanmangalam, Chennai, Kanchipuram, Tamil Nadu 600129",
+      "lat": 12.938909899999999,
+      "lon": 80.17580629999999
+    },
+    {
+      "id": "chijwd2o1ij6ujorxnpvmri-9vo",
+      "title": "PHARMACY",
+      "address": "Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.762248399999999,
+      "lon": 80.0035899
+    },
+    {
+      "id": "chijx-ojfp71ujor8omj4ymv9w4",
+      "title": "GAJA PHARMACY",
+      "address": "2, Indira Gandhi St, Raja Rajeswari Nagar, Old Perungalathur, Chennai, Tamil Nadu 600063",
+      "lat": 12.9187928,
+      "lon": 80.0838879
+    },
+    {
+      "id": "chij3zgz9kpdujorbvj0mjw6hzw",
+      "title": "ADITYA PHARMACY",
+      "address": "DOOR NO. 187, GROUND FLLOR, ADITYA PHARMACY, Nookampalayam Rd, Nookampalayam, Nesamani Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.8980462,
+      "lon": 80.1981808
+    },
+    {
+      "id": "chij___tqyrcujoricb5uj5aoae",
+      "title": "KTR PHARMACY",
+      "address": "4/234, Bhavani Amman Koil St, Surya Nagar, MGR Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9271719,
+      "lon": 80.19486409999999
+    },
+    {
+      "id": "chijk_4qfctdujorsh5zrcd0fge",
+      "title": "Apollo Pharmacy Thoraipakkam OMR",
+      "address": "No.187, OMR Service Rd, near KFC, NJK Avenue, Thoraipakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.9349255,
+      "lon": 80.2336195
+    },
+    {
+      "id": "chijixzm4ahfujorihtmpw7x_yg",
+      "title": "Shanmuga Medical",
+      "address": "No.4/827, Selvakumar Avenue Malligai, Street, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9189932,
+      "lon": 80.1968302
+    },
+    {
+      "id": "chijb2ofkx_3ujorwmabt-fqowi",
+      "title": "Sulax Pharmacy",
+      "address": "1, Shop No.2, Eswaran Koil Street, GST Rd, Urapakkam, Kanchipuram, Tamil Nadu 603210",
+      "lat": 12.8630965,
+      "lon": 80.0741757
+    },
+    {
+      "id": "chijyc1jzihmujori8myezowvgg",
+      "title": "Sri Balaji Pharmacy",
+      "address": "600005, Sri Balaji Pharmacy, 23, Avvai Shanmugham Salai, krishnampet, Gokulam Colony, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0468727,
+      "lon": 80.2747006
+    },
+    {
+      "id": "chijnr3jsul2ujorj2weqkfispo",
+      "title": "Urapakkam Medicals",
+      "address": "16,S-3, Station Rd, Sri Balaji Nagar, Rohini Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603211",
+      "lat": 12.8672819,
+      "lon": 80.0687299
+    },
+    {
+      "id": "chij_9lccfjfujor3p99xqgjz9u",
+      "title": "Russel Pharmacy",
+      "address": "No 145, Russel Pharmacy, Velachery Main Rd, East Tambaram, Tambaram, Kanchipuram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.923207399999999,
+      "lon": 80.12651819999999
+    },
+    {
+      "id": "chij9tqayw9cujorib2a4-hwgmk",
+      "title": "Bagavathy Pharmacy",
+      "address": "19, 4th St, VGP Prabhu Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9076793,
+      "lon": 80.201246
+    },
+    {
+      "id": "chijnr73o5ndujornefggja2say",
+      "title": "Periyandavar pharmacy",
+      "address": "Shop 2, Periyandavar pharmacy, Manohar Nagar 7th St, Manohar Nagar Extension, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.936522,
+      "lon": 80.2088491
+    },
+    {
+      "id": "chijz7t3e0bdujorywtdsylnx3m",
+      "title": "Emami frank Ross Pharmacy",
+      "address": "Semmozhi Rd, Elcot Sez, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.9061173,
+      "lon": 80.2227849
+    },
+    {
+      "id": "chijixtpk8tdujorik-k-hcdqly",
+      "title": "Sri Guna Pharmacy",
+      "address": "No 27, Sri Guna Pharmacy, Rajesh Nagar, Kannan Nagar 1st Main Rd, VGP Rajesh Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9434074,
+      "lon": 80.2067604
+    },
+    {
+      "id": "chijcazuksjcujori31ncrsbbpi",
+      "title": "MedPlus Pharmacy Medavakkam Velachery Main Road",
+      "address": "Near, Velachery Main Rd, Sowmya Nagar, Vengaivasal, Medavakkam, Chennai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9187031,
+      "lon": 80.1924982
+    },
+    {
+      "id": "chij-vqcvwnhujor7zjyejfrvw0",
+      "title": "Swetha Pharmacy Porur (Medical Shop in Porur/Pharmacy in Porur)",
+      "address": "No: 4/1, Mandaveli 1st Street, Karambakkam, Porur, near Karpaga Vinayagar Koil, Chennai, Tamil Nadu 600116",
+      "lat": 13.037595399999999,
+      "lon": 80.1553055
+    },
+    {
+      "id": "chijp1t7ylhdujorhdht3haxcsc",
+      "title": "Apollo Pharmacy Perumbakkam 2",
+      "address": "Plot No 82, Ground Floor, Indrapriyadharshini Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9042724,
+      "lon": 80.2078034
+    },
+    {
+      "id": "chijuahqnxhgujor9opllbhb9t0",
+      "title": "Medplus Pharmacy (Head Office)",
+      "address": "1 A, Kundrathur Main Rd, Kovur, Karambakkam, Devi Nagar, Mangadu, Kovur, Tamil Nadu 602101",
+      "lat": 13.0113262,
+      "lon": 80.1248571
+    },
+    {
+      "id": "chijyfa00hlcujorqb4zgt5bhii",
+      "title": "Sri Jayalakshmi Medicals",
+      "address": "Sri Balaji Interiors, Anna Salai, Nesavalar nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9205744,
+      "lon": 80.1986561
+    },
+    {
+      "id": "chijae1hsfxmujoraqihopv2rbi",
+      "title": "Jaya Medicals",
+      "address": "51, Aryagowda Rd, AGS Colony, Ramakrishnapuram, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.039558099999999,
+      "lon": 80.221369
+    },
+    {
+      "id": "chijg6elni1dujor6xpgdba3564",
+      "title": "MedPlus Narayanapuram Pallikaranai Pharmacy & Lab",
+      "address": "No 2A, 1st St, IIT Colony, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9381682,
+      "lon": 80.20567369999999
+    },
+    {
+      "id": "chijv-siwtndujor-jhrc1dvuvw",
+      "title": "Nigaran Ayurveda Siddha Homoeopathy Clinic & Pharmacy",
+      "address": "No. 3, Nigaran Ayurveda Siddha Homoeopathy Clinic & Pharmacy, No. 3/172, 172, 1st Main Rd, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.906193799999999,
+      "lon": 80.1997651
+    },
+    {
+      "id": "chij-wc5let0ujorqlxekno3rnu",
+      "title": "Shree Pharmacy & Clinic",
+      "address": "Avvaiyar St, Ramji Nagar, Somangalam, Tamil Nadu 600133",
+      "lat": 12.949871799999999,
+      "lon": 80.0464884
+    },
+    {
+      "id": "chijq-iedvz2ujort-vbj_syjue",
+      "title": "Muthu Medicals",
+      "address": "V22W+CQJ Muthu Medicals, Kanchipuram, Madambakkam, Tamil Nadu 603202",
+      "lat": 12.8510944,
+      "lon": 80.0468994
+    },
+    {
+      "id": "chijty15eabbujor0-dvnlkjccw",
+      "title": "SAAMY PHARMACY",
+      "address": "4, Vengadamangalam Rd, Kandigai, Tamil Nadu 600127",
+      "lat": 12.85534,
+      "lon": 80.14282589999999
+    },
+    {
+      "id": "chijd96vptvzujorq9kobfzvv_4",
+      "title": "MEENAKSHI MEDICALS",
+      "address": "NO 3A KELAMBAKKAM MAIN ROAD VANDALUR (VIA) KEELAKOTTAIYUR, near VIT COLLEGE, Chennai, Tamil Nadu 600127",
+      "lat": 12.8395748,
+      "lon": 80.15368029999999
+    },
+    {
+      "id": "chijsaedtdjdujoriylpgxiekks",
+      "title": "Inbam hospital",
+      "address": "Selvam Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.933986899999999,
+      "lon": 80.2044552
+    },
+    {
+      "id": "chij_sdrwljzujorb2rebz7yv1y",
+      "title": "Global medicals",
+      "address": "Sri Sai complex, Kolapakkam, Tamil Nadu 600127",
+      "lat": 12.8714709,
+      "lon": 80.10651949999999
+    },
+    {
+      "id": "chijzveyogbdujor--ywpekuknm",
+      "title": "Medivine Pharmacy",
+      "address": "249, Sai Ganesh Nagar 1st Main Rd, Ward 191, Sai Ganesh Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9230711,
+      "lon": 80.20843339999999
+    },
+    {
+      "id": "chijs7d9ufbdujorflgamhzidee",
+      "title": "JJ PHARMACY",
+      "address": "Shop No.3, JJ PHARMACY, No.1, 1st Main Rd, Kamakoti Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9425206,
+      "lon": 80.2082787
+    },
+    {
+      "id": "chijw9t1yhlcujorhfuxyjkjpxs",
+      "title": "Bharat Generic Pharmaceuticals Pvt. Ltd.",
+      "address": "4, Bharat Generic Pharmaceuticals Pvt. Ltd., 883, Perumbakkam Main Rd, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9142076,
+      "lon": 80.1949358
+    },
+    {
+      "id": "chijmrxmtftdujord29dvxfelaa",
+      "title": "Dinesh Pharmacy",
+      "address": "MS Complex, Anna St, Ambedkar Nagar, Madavakkam, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9168896,
+      "lon": 80.1946052
+    },
+    {
+      "id": "chijwzehgtdnujorvjtu6esp2gk",
+      "title": "R.R. Pharmacy",
+      "address": "240/1, Royapettah High Rd, Vinayagar Kovil, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0373249,
+      "lon": 80.26771049999999
+    },
+    {
+      "id": "chijbf8enpbqujorsp1bpvysr9o",
+      "title": "Chettinad Pharmacy",
+      "address": "CHETTINAD HOSPITAL AND RESEARCH INSTITUTE, Chettinad hospital, Kelambakkam, Tamil Nadu 603103",
+      "lat": 12.7956224,
+      "lon": 80.21706739999999
+    },
+    {
+      "id": "chijiyjawkpfujormvhyd3gvlfa",
+      "title": "Shanmuga Pharmacy",
+      "address": "no 40 A, 40, Rice Mill Rd, Jalladiampet, Medavakkam, Chennai, Tamil Nadu 600100",
+      "lat": 12.9207351,
+      "lon": 80.20177029999999
+    },
+    {
+      "id": "chij1xne75hdujoreegp--ma68u",
+      "title": "Apollo Pharmacy Sholinganallur-Rajiv Gandhi Road",
+      "address": "2, OMR Service Rd, near Madras Coffee House, Elcot Sez, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.9098977,
+      "lon": 80.2284906
+    },
+    {
+      "id": "chijus19sb9cujor8m0wuditews",
+      "title": "Sakthi Pharmacy",
+      "address": "5, Sakthi Pharmacy, 48 Ganapathy Main Road, Pallikarani, 30, Pillaiyar Kovil St, Varadharajapuram, Chennai, Tamil Nadu 600100",
+      "lat": 12.9267066,
+      "lon": 80.202996
+    },
+    {
+      "id": "chijnyp40tywytsrnzibux5ecmc",
+      "title": "Apollo Pharmacy",
+      "address": "Ground Floor, Apollo Pharmacy, No 12/486, Mambakkam - Medavakkam Main Rd, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.913094399999999,
+      "lon": 80.1921658
+    },
+    {
+      "id": "chijszsjzwbdujorjlh-flgaums",
+      "title": "Russel pharmacy",
+      "address": "Doshi Risington, Rajiv Gandhi Salai, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.915046499999999,
+      "lon": 80.2269031
+    },
+    {
+      "id": "chijj-tgxabdujorvs3mmb2fzoa",
+      "title": "Rani Pharmacy",
+      "address": "2, Earikarai St, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9273066,
+      "lon": 80.2060462
+    },
+    {
+      "id": "chijnesjitzcujor7c8nmbz2-da",
+      "title": "Sri Venkateswara Medicals",
+      "address": "No 3/290, Nookampalayam Rd, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9050066,
+      "lon": 80.199524
+    },
+    {
+      "id": "chijlwxjt5ddujorru5oszy0pou",
+      "title": "Apollo Pharmacy Pallikaranai Kamakoti Nagar",
+      "address": "Ground Floor, Apollo Pharmacy Pallikaranai Kamakoti Nagar, 8A & 1, 1st Main Rd, Kamakoti Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9425206,
+      "lon": 80.20853629999999
+    },
+    {
+      "id": "chijccoxhundujorwouojyljqpc",
+      "title": "Siloam Pharmacy",
+      "address": "Bazaar Main Rd, Meenatchi Sundareswarar Koil, Madipakkam, Kanchipuram, Chennai, Tamil Nadu 600091",
+      "lat": 12.9652455,
+      "lon": 80.206479
+    },
+    {
+      "id": "chijitek6fjdujorbxqvvij3mdq",
+      "title": "Apollo Pharmacy Apollo Hospital Karapakkam OP",
+      "address": "OMR Landmark, Apollo Pharmacy Apollo Hospital Karapakkam OP, Aravind theatre, 2/319, OMR Service Rd, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.915270399999999,
+      "lon": 80.2298096
+    },
+    {
+      "id": "chija0lzbhxzujorq626f_vjkbk",
+      "title": "Sri Vasavi pharmacy",
+      "address": "No3, Ramanujar Nagar, Sriperumbudur, Tamil Nadu 602105",
+      "lat": 12.9658986,
+      "lon": 79.94516349999999
+    },
+    {
+      "id": "chijaql0-bpcujordymfoejvvyc",
+      "title": "PRADHAN MANTRI BHARTIYA JAN AUSHADHI KENDRA - Makkal Marunthagam",
+      "address": "Jan Aushadhi Store, 7/48, Ground Floor, Anna Salai Perumbakkam Main Road, 5th Main Rd, Jalladiampet, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9113929,
+      "lon": 80.1964677
+    },
+    {
+      "id": "chijmxiiycrwujor1vilhssvgn8",
+      "title": "SUGUM MEDICALS AND GENARALS",
+      "address": "Sriperumbudur, Kandigai, Panrutti, Tamil Nadu 631604",
+      "lat": 12.840528899999999,
+      "lon": 79.9209535
+    },
+    {
+      "id": "chijny3r2btcujorjk_gf_dfy1a",
+      "title": "Green Pharmacy",
+      "address": "No.547 Shop, Green Pharmacy, No. 2&3, Velachery Main Rd, Vijayanagaram, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9142733,
+      "lon": 80.194897
+    },
+    {
+      "id": "chijy2n-bwbdujor3llqxfw5rfe",
+      "title": "Sai ram pharmacy",
+      "address": "W6J5+F5M Sai ram pharmacy, Thulukathamman, Kannabiran Koil St, opposite to Apollo Pharmacy, Jeeva Nagar Extension, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9312066,
+      "lon": 80.2079199
+    },
+    {
+      "id": "chijb-3y2xpcujorwcxbqvl9eew",
+      "title": "Newgen Pharmacy",
+      "address": "W55W+RGV Newgen Pharmacy, Radha Nagar 4th Main Rd, Radha Nagar, Medavakkam, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.909611199999999,
+      "lon": 80.196299
+    },
+    {
+      "id": "chijl7jrmabdujor3tsrmbfjdde",
+      "title": "TRAX Pharmacy",
+      "address": "Indrapriyadharshini Nagar, Cheran Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.901926999999999,
+      "lon": 80.2071898
+    },
+    {
+      "id": "chijfwb2rrbxujori5wakjlpyqu",
+      "title": "*\"MULTIMED PHARMACY\"*",
+      "address": "SURIYADEVI COMPLEX, MAIN ROAD, Singaperumal Koil - Sriperumbudur Rd, Oragadam, Tamil Nadu 602118",
+      "lat": 12.849727999999999,
+      "lon": 79.9433286
+    },
+    {
+      "id": "chijnwbanyncujorz5vdxz4nfiy",
+      "title": "KRISHNA MEDICALS",
+      "address": "10A, Thiruvalluvar 2nd St, MGR Nagar, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9243852,
+      "lon": 80.1958476
+    },
+    {
+      "id": "chijvyqclgbdujortb0xmtazu8i",
+      "title": "Apollo Pharmacy Senthamizh nagar",
+      "address": "28, Bishop Garden St, Bishop Garden, Raja Annamalaipuram, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9236276,
+      "lon": 80.19730729999999
+    },
+    {
+      "id": "chijst3lmlfdujorij6ly--cs00",
+      "title": "Adhi Medicals",
+      "address": "W662+5VW Adhi Medicals, VGP Prabhu Nagar Main Rd, Jalladiampet, VGP Prabhu Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9104836,
+      "lon": 80.2022125
+    },
+    {
+      "id": "chijzxhhxincujorlem0bi0ekvi",
+      "title": "New Gnanam Medicals",
+      "address": "144, Velachery Main Rd, MGR Nagar, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9254876,
+      "lon": 80.19718019999999
+    },
+    {
+      "id": "chiji-wuzrjdujornt3zirqye2y",
+      "title": "Apollo Pharmacy Pallikaranai",
+      "address": "Ground Floor, Apollo Pharmacy Pallikaranai, No. 109, Velachery Main Rd, opp. Chandra Mahal, Devi Karumariamman Nagar, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9275454,
+      "lon": 80.19857379999999
+    },
+    {
+      "id": "chijc_2b8jtcujorkqxwrxsd7s8",
+      "title": "Anbu Medical",
+      "address": "W6G3+J6C Anbu Medical, Velachery Main Road, Vardharajapuram Main Road, Green Court, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9265669,
+      "lon": 80.2030079
+    },
+    {
+      "id": "chijqdzxodpcujorma-xemalwyu",
+      "title": "Saravana Medicals",
+      "address": "48, Velachery Main Rd, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9295937,
+      "lon": 80.2029087
+    },
+    {
+      "id": "chij67n0chrdujorr_0hio8mw6s",
+      "title": "MedPlus Pallikaranai",
+      "address": "Shop No 2, Door No 32, Ground Floor, Velachery Main Rd, Pallikaranai, Tamil Nadu 600100",
+      "lat": 12.9286497,
+      "lon": 80.2014001
+    },
+    {
+      "id": "chijrzqgiwrdujorbobtjvkfs1g",
+      "title": "ABI PHARMACY",
+      "address": "3/201A, 1st Main Rd, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9058461,
+      "lon": 80.19975409999999
+    },
+    {
+      "id": "chijvwga4pvdujorhqubbhyv_ty",
+      "title": "Gunam Pharmacy",
+      "address": "OIL MILL STOP, DOOR No. 46D, SHOP NO 8, M S COMPLEX, PILLAIYAR KOIL STREET, KP, Velachery Main Rd, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9281267,
+      "lon": 80.202623
+    },
+    {
+      "id": "chijmun26hpcujorjkbqmav6i2o",
+      "title": "Apollo Pharmacy Perumbakkam",
+      "address": "139, Perumbakkam Main Rd, opp. Indian Overseas Bank, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.909960499999999,
+      "lon": 80.1970272
+    },
+    {
+      "id": "chijtrg5xjffujor_lmavxbxb8y",
+      "title": "Apollo Pharmacy Bhel Nagar Medavakkam",
+      "address": "No. 2/791 & 1, Vadakkupattu Main Rd, United Colony, BHEL Nagar, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.922177,
+      "lon": 80.18580469999999
+    },
+    {
+      "id": "chijacysjcncujor4sjl9ksqcpe",
+      "title": "Nalam Peruga Pharmacy",
+      "address": "Bus Stop, 2, Anna St, near Asan College, Jeyachandran Nagar, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9233063,
+      "lon": 80.1978073
+    },
+    {
+      "id": "chijmzk_bfldujor691qbkqxieg",
+      "title": "MedPlus Pallikaranai Jalladianpet Pharmacy & Lab",
+      "address": "Ground floor Shop No1&2 S No.210/1CRice Mill Slai Pazhandiyamman Kovil Street, Chennai, Tamil Nadu 600100",
+      "lat": 12.923508,
+      "lon": 80.2062665
+    },
+    {
+      "id": "chijyemzxztcujor-nilafxb4j4",
+      "title": "Nizam Traders & Country Pharmacy",
+      "address": "1/252, Pattel Street R.S Nagar, Jalladiampet, Chennai, Tamil Nadu 600100",
+      "lat": 12.9276182,
+      "lon": 80.20296069999999
+    },
+    {
+      "id": "chije73r1v1zujornbmrjsvzrj8",
+      "title": "Nalam Medicals",
+      "address": "No 649/4, Janakpuri Nagar 1st Street, road, Annai Meenakshi Nagar, Kolapakkam, Unamancheri, Tamil Nadu 600127",
+      "lat": 12.8672009,
+      "lon": 80.1077842
+    },
+    {
+      "id": "chijwx6nx71eujor3qiu_tuy99g",
+      "title": "Super Medicals",
+      "address": "No 19 Oil mill bus stop,, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9292708,
+      "lon": 80.20250779999999
+    },
+    {
+      "id": "chijz6gja01dujorsma6dunc0xk",
+      "title": "Apollo Pharmacy Jalladianpettai",
+      "address": "65/1,Shop, Apollo Pharmacy Jalladianpettai, Survey No.60,61/2,62/1,62/2,64/1, No.3&4, Veerathamman Koil St, Jalladiampet, Chennai, Tamil Nadu 600100",
+      "lat": 12.9336039,
+      "lon": 80.2019713
+    },
+    {
+      "id": "chijcxmqqrtdujor5zruch7zysy",
+      "title": "Apollo Pharmacy - Pallikaranai",
+      "address": "Ground Floor, Apollo Pharmacy - Pallikaranai, 182, Velachery Main Rd, opp. HDFC Bank, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9292319,
+      "lon": 80.2025003
+    },
+    {
+      "id": "chijv_onqjf9ujorcihm9bipo-e",
+      "title": "Nanjil Pharma Agency",
+      "address": "SLKK Building, GST Rd, opposite Chengalpattu Railway Station, near Chengalpattu New Bus stand, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692826499999999,
+      "lon": 79.97948219999999
+    },
+    {
+      "id": "chijsd0ep378ujorviglsiurhle",
+      "title": "Power Medical & Green Lab ECG.",
+      "address": "Ground Floor, Power Medical & Green Lab ECG., 1, Dhimvaram, Kanchipuram, Tamil Nadu 603101",
+      "lat": 12.702592899999999,
+      "lon": 79.9651502
+    },
+    {
+      "id": "chijerzgrg78ujorrzjhk4rs7ws",
+      "title": "AMMA PHARMACY",
+      "address": "No33chenagapttu Railway Station, J C K Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6940546,
+      "lon": 79.97906329999999
+    },
+    {
+      "id": "chijl-vqs278ujorcflmz0g1-o4",
+      "title": "Sivas Medicals",
+      "address": "MXRH+3W9 Sivas Medicals, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6901662,
+      "lon": 79.979861
+    },
+    {
+      "id": "chijxwu--f_9ujor3ubxcjln4jq",
+      "title": "Shree Balajii Medicals",
+      "address": "14/6, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6949849,
+      "lon": 79.97632279999999
+    },
+    {
+      "id": "chijvvvvlwn8ujorifntmhac7us",
+      "title": "Guruvallalar Sidha Ayurveda Marunthagam",
+      "address": "15, Periyar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6938002,
+      "lon": 79.97793329999999
+    },
+    {
+      "id": "chijf7hr7sd9ujorswx8ggnl-iu",
+      "title": "Raja Rani medicals",
+      "address": "Bazaar Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.691005599999999,
+      "lon": 79.9808642
+    },
+    {
+      "id": "chijs58mpgn8ujordgvgneixfkm",
+      "title": "Kalaivani Medicals",
+      "address": "603001, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6890705,
+      "lon": 79.9789852
+    },
+    {
+      "id": "chijawutgwd9ujord1_brqolndy",
+      "title": "PRADHAN MANTIRI BHARTHIYA JAN AUSHADHI KENDRA",
+      "address": "MXVJ+88X PRADHAN MANTIRI BHARTHIYA JAN AUSHADHI KENDRA, J C K Nagar, Chengalpattu, Hanumanthai, Tamil Nadu 603001",
+      "lat": 12.693356,
+      "lon": 79.98086839999999
+    },
+    {
+      "id": "chijas9uf-x9ujorii5rx7qpvze",
+      "title": "Veda medicals",
+      "address": "MXQG+79J Veda medicals, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6882247,
+      "lon": 79.97590319999999
+    },
+    {
+      "id": "chijqy4_vmr9ujorsbulifrmq-i",
+      "title": "Lister Metropolis",
+      "address": "Kanchipuram High Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6980677,
+      "lon": 79.9712923
+    },
+    {
+      "id": "chijcep3xwn8ujorqd0fqdj2q_q",
+      "title": "MRK Hospital",
+      "address": "MXQJ+G4V MRK Hospital, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.688866899999999,
+      "lon": 79.98028819999999
+    },
+    {
+      "id": "chijvdtt_ft9ujorgidktja6dyq",
+      "title": "INDIA MEDICALS",
+      "address": "No 53, Periyar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6949329,
+      "lon": 79.9777974
+    },
+    {
+      "id": "chijifuatad9ujorx7x6on5dzrq",
+      "title": "Abirami Pharmacy",
+      "address": "MXQH+RXF Abirami Pharmacy, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6895098,
+      "lon": 79.98004259999999
+    },
+    {
+      "id": "chij6zzd6k_9ujorsahymjwjdnc",
+      "title": "Gadiya Pharmaceuticals (P) Ltd",
+      "address": "Big Chetty St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6936254,
+      "lon": 79.9785144
+    },
+    {
+      "id": "chijaerawmv8ujorm2uv9xik77g",
+      "title": "Sree Renga Hospital",
+      "address": "No .12 Varada Reddy Street, Vedachalam Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6896355,
+      "lon": 79.9792069
+    },
+    {
+      "id": "chijg3ynead9ujorxg1oqypdtme",
+      "title": "Shri Marundeeswarar Homoeo Care & Cure",
+      "address": "shop no 4, Shri Marundeeswarar Homoeo Care & Cure, 1/7, Gandeepan St, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.686178,
+      "lon": 79.9828567
+    },
+    {
+      "id": "chijrztq7g78ujordmba0loresq",
+      "title": "Mobile Doctor service centre",
+      "address": "14, VOC St, J C K Nagar, Gokulapuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6921979,
+      "lon": 79.97819799999999
+    },
+    {
+      "id": "chijv5duw6z3ujorwvigd-pzgts",
+      "title": "SEMBARUTHI PHARMACIES PVT LTD.",
+      "address": "Ground Floor, SEMBARUTHI PHARMACIES PVT LTD., No: 10/9, Nellikuppam Rd, Kamarajapuram, Nandhivaram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8427928,
+      "lon": 80.06071109999999
+    },
+    {
+      "id": "chijq4v2quh7ujor5_xm_ugrowa",
+      "title": "Vijay Medicals",
+      "address": "Pillayar Kovil St, Paranur, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7332219,
+      "lon": 79.9902606
+    },
+    {
+      "id": "chijxrvpuoz9ujoryvhxzy4fvyo",
+      "title": "S.S.S TuitionCentre",
+      "address": "Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6935319,
+      "lon": 79.9733036
+    },
+    {
+      "id": "chijtxon5az9ujorv6emeuh-kbg",
+      "title": "ANBU CHEMISTRY ACADEMY",
+      "address": "212, Kurinji St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.7005424,
+      "lon": 79.9748333
+    },
+    {
+      "id": "chijvsyolg78ujorrqtmjoxh2dk",
+      "title": "DS.SP.MEDICAL",
+      "address": "MXRH+QQ8 DS.SP.MEDICAL, Rajaji St, J C K Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6919031,
+      "lon": 79.9794403
+    },
+    {
+      "id": "chijw-04q4n7ujoreaz0rnvrwqs",
+      "title": "Zam Zam Medicals",
+      "address": "No 1 A, GST Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.704417099999999,
+      "lon": 79.9771942
+    },
+    {
+      "id": "chijf8tfju39ujornhrevj4b36y",
+      "title": "S.P medical",
+      "address": "GST Rd, Venbakkam, Tamil Nadu 603111",
+      "lat": 12.6649126,
+      "lon": 79.9691971
+    },
+    {
+      "id": "chijefgx02_8ujorbeyppszvw7w",
+      "title": "JAN MEDICAL",
+      "address": "236, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.695384299999999,
+      "lon": 79.9777824
+    },
+    {
+      "id": "chij2qs52af7ujor3ow_aax5pto",
+      "title": "Power Medical",
+      "address": "Thimmavaram Electrical Sub Station, Shop No 2 Mubraq Nagar, Chengalpattu, Tamil Nadu 603101",
+      "lat": 12.7155048,
+      "lon": 79.957653
+    },
+    {
+      "id": "chij8scrmdx9ujordfj2qeegcks",
+      "title": "National Medicals",
+      "address": "Big Chetty St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693449699999999,
+      "lon": 79.97886869999999
+    },
+    {
+      "id": "chijfsmmrip9ujoraot6exsbbro",
+      "title": "SRK CHEMISTRY TUITION",
+      "address": "76, Chinna Maniyakara St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6880013,
+      "lon": 79.9768771
+    },
+    {
+      "id": "chij-xohijb9ujorrke-skyzmui",
+      "title": "Anbu Medicals",
+      "address": "23 Bharathiyar Street Gokulapuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6858196,
+      "lon": 79.9802857
+    },
+    {
+      "id": "chijsuz1zyp9ujor2b-rf95ibvi",
+      "title": "VK BONE & JOINT CLINIC",
+      "address": "No 20, OV Alagesan street, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6879391,
+      "lon": 79.978128
+    },
+    {
+      "id": "chijb6yeokj9ujoruqgsuzl65bi",
+      "title": "Vicky",
+      "address": "MXXW+9CF Vicky, Unnamed Road, Shanthasaraswathi Nagar, Amanambakkam, Tamil Nadu 603003",
+      "lat": 12.698449199999999,
+      "lon": 79.99606109999999
+    },
+    {
+      "id": "chijiy-mv7b7ujorphhti4fdtii",
+      "title": "Jeevan Sumyuktha Pharmacy",
+      "address": "14/3, 2nd Avenue, Domestic Traffic Area, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7285083,
+      "lon": 79.99795139999999
+    },
+    {
+      "id": "chijq120fmr9ujoruy3egpdo-wu",
+      "title": "AUROPET CLINIC & PETSTORE",
+      "address": "Door No. 10, AUROPET CLINIC & PETSTORE, old GST, Pulipakkam Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.7042333,
+      "lon": 79.9767758
+    },
+    {
+      "id": "chij7v3yqad9ujorrepjuknc9_k",
+      "title": "KENZO Ortho & Women Care Centre A Multi speciality Hospital",
+      "address": "Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6895072,
+      "lon": 79.9787283
+    },
+    {
+      "id": "chij-6wyuqb7ujor7-zrnpa0pco",
+      "title": "Nandhini medical",
+      "address": "Vasantham Nagar Thimavaram, No.1099/4A, Kangichipuram High Road, Palur, Athur, Tamil Nadu 603101",
+      "lat": 12.7128225,
+      "lon": 79.9599349
+    },
+    {
+      "id": "chijg-9q7sj9ujorjy3yfuejyuo",
+      "title": "Srinisha Medicals",
+      "address": "MXJJ+6H6 Srinisha Medicals, Chengalpattu Main Rd, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.680542899999999,
+      "lon": 79.98140479999999
+    },
+    {
+      "id": "chij4co9j-_9ujornizsrajweiw",
+      "title": "Sai Fertility Centre and Hospital ( Multi-Speciality ) Chengalpattu",
+      "address": "New # 43, Sai Fertility Centre and Hospital ( Multi-Speciality ) Chengalpattu, Old # 21, Devarajanar St, behind new bus stand, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6898542,
+      "lon": 79.9802029
+    },
+    {
+      "id": "chijatu5cwj8ujor-qfsddjsg_y",
+      "title": "NEW UDHAYAM MEDICALS",
+      "address": "MXPG+447 NEW UDHAYAM MEDICALS, Old GST Rd, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6852938,
+      "lon": 79.9752954
+    },
+    {
+      "id": "chijnfxls_z9ujordl9xmiuh0dg",
+      "title": "Pavithrapharmacy",
+      "address": "Pavithrapharmacy, 9/24, ekambaranar street, Vedachalam Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.688745599999999,
+      "lon": 79.9800424
+    },
+    {
+      "id": "chijxwbgrj39ujordtpd0lbe8fy",
+      "title": "Cooperative Medical",
+      "address": "M2C4+VX9SH58, Santhi Nagar, Nenmeli, Vallam R.F., Tamil Nadu 603003",
+      "lat": 12.6721354,
+      "lon": 80.00754649999999
+    },
+    {
+      "id": "chijrfnu61_9ujortj6ceatdpha",
+      "title": "Sivagantha Illam",
+      "address": "68E-3, Alagesan Nagar, Varadharaja Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.680827899999999,
+      "lon": 79.9793566
+    },
+    {
+      "id": "chijz78wug9kujorqnslwqzmv1c",
+      "title": "Apollo Pharmacy Infosys",
+      "address": "Infosys Limited, Techno Park Sez Mahindra World City, Natham, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7346866,
+      "lon": 80.0076342
+    },
+    {
+      "id": "chijdcebk2n8ujorybxbdijt97a",
+      "title": "Aswin Medicals",
+      "address": "No:52, Bharathiyar St, Mahindra World City, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6860518,
+      "lon": 79.9799124
+    },
+    {
+      "id": "chijdrjzuif9ujor3lpkhrsnai0",
+      "title": "ABC Child Care and Vaccination Center",
+      "address": "75, Thirukazhukundram Road, near More Super Market, near Apollo Pharmacy, New Colony, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.681892699999999,
+      "lon": 79.9893848
+    },
+    {
+      "id": "chijsv5mu2n8ujorxne220i-s4m",
+      "title": "Bharath Medicals",
+      "address": "7-B, Pillayar Kulam Street, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690278099999999,
+      "lon": 79.98042559999999
+    },
+    {
+      "id": "chijt7ko-8_9ujor6nxgs0qtxbm",
+      "title": "CHEMISTRY ACADEMY (JEBASINGH.A)",
+      "address": "PHYSICS ACADEMY, 1/1, Sasthiri Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.688562,
+      "lon": 79.9745442
+    },
+    {
+      "id": "chijdf6y7g78ujorkfqngjaayry",
+      "title": "Apollo Pharmacy Chengalpattu",
+      "address": "11, VOC St, near Sai menz fashion, Gokulapuram, Chennai, Tamil Nadu 603001",
+      "lat": 12.6920279,
+      "lon": 79.9790604
+    },
+    {
+      "id": "chijn1azzlz9ujorilop6tbmpc8",
+      "title": "AM HEALTH CARE",
+      "address": "Bazaar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693386799999999,
+      "lon": 79.97903509999999
+    },
+    {
+      "id": "chij90itath9ujorlm-he7khvzg",
+      "title": "guru vallalar SIitha",
+      "address": "Chengalpattu Main Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.68835,
+      "lon": 79.9758133
+    },
+    {
+      "id": "chijqyofvqn3ujorkt0pzqqwalm",
+      "title": "Pharmacy",
+      "address": "995, GST Rd, Urapakkam, Vandalur R.F., Urappakkam, Tamil Nadu 603210",
+      "lat": 12.862214999999999,
+      "lon": 80.0731508
+    },
+    {
+      "id": "chijy_ytux5dujorr3lzpygxz2o",
+      "title": "BHOOMI PHARMACY",
+      "address": "4, Thiruvalluvar 2nd St, Pallikaranai, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9239917,
+      "lon": 80.1966139
+    },
+    {
+      "id": "chijgyuukghdujorxc1uqvngixg",
+      "title": "MEDTAQ PHARMACY",
+      "address": "Thulukanathamman Koil St, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9309326,
+      "lon": 80.2129375
+    },
+    {
+      "id": "chije04yhyldujorpae9yycoki0",
+      "title": "Speciality Pharmacy",
+      "address": "No.19, 7th Cross Street, Velachery Bypass Rd, Rajalakshmi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9857015,
+      "lon": 80.2183786
+    },
+    {
+      "id": "chijtvuhpef2ujors013jasxpzq",
+      "title": "Apollo Pharmacy Urapakkam 2",
+      "address": "Ground Floor, Apollo Pharmacy Urapakkam 2, No. 40, Senthil Nagar, Urapakkam, Chennai, Tamil Nadu 603210",
+      "lat": 12.8629325,
+      "lon": 80.074134
+    },
+    {
+      "id": "chijhvb0qsv0ujorjrivsfikxia",
+      "title": "NEW SURYA MEDICALS",
+      "address": "9 /134, l, THUDAL KAZHANI, Vandalur, Karasangal, Tamil Nadu 601301",
+      "lat": 12.894540899999999,
+      "lon": 80.04784149999999
+    },
+    {
+      "id": "chije_02cav1ujorn8orw2jg-rs",
+      "title": "Metro Medical Mart",
+      "address": "No 1/737, South, Mudichur Rd, near TRP Super Market, Lakshmi Nagar, Tambaram, Mudichur, Tamil Nadu 600048",
+      "lat": 12.902073099999999,
+      "lon": 80.0656236
+    },
+    {
+      "id": "chije6deauh40zsrqe3j2khsp38",
+      "title": "Apollo Pharmacy Urapakkam",
+      "address": "Railway Station, 27, Rohini Nagar Rd, near Urappakkam, Sri Balaji Nagar, Rohini Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603211",
+      "lat": 12.867236499999999,
+      "lon": 80.0694778
+    },
+    {
+      "id": "chij6xuod6ndujorfde5krqbabe",
+      "title": "Bharath Pharmacy",
+      "address": "No: 4/364, Ambedkar Salai, Krishna Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9067958,
+      "lon": 80.1970171
+    },
+    {
+      "id": "chij16_05zrcujorcunlvfuakjy",
+      "title": "INDIAN PHARMACY",
+      "address": "1/110, East Coast Rd, Anna Enclave, Injambakkam, Kanchipuram, Chennai, Tamil Nadu 600115",
+      "lat": 12.919372599999999,
+      "lon": 80.2507617
+    },
+    {
+      "id": "chijred2gn5cujoraaaa0nuhghy",
+      "title": "Saravana Pharmacy",
+      "address": "480/1B, Anna St, Sholinganallur, Kanchipuram, Chennai, Tamil Nadu 600119",
+      "lat": 12.904086,
+      "lon": 80.22867839999999
+    },
+    {
+      "id": "chijd3npjwrfujorl4ck9rco26g",
+      "title": "TAMILNADU PHARMACY",
+      "address": "OLD NO50, TAMILNADU PHARMACY, NEW NO545, Mudichur Rd, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9253466,
+      "lon": 80.1013332
+    },
+    {
+      "id": "chij7bvrl9j3ujorcy4znlnhbba",
+      "title": "VEDHA PHARMACY",
+      "address": "New Otteri 1st Main Rd, Otteri, Chennai, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8809112,
+      "lon": 80.0762452
+    },
+    {
+      "id": "chijzsyecyd3ujormswsnjzz-my",
+      "title": "SRI LAKSHMI PHARMACY",
+      "address": "16, Iyyenchery Main Rd, Ganesh Nagar, Urapakkam, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.8663755,
+      "lon": 80.0769716
+    },
+    {
+      "id": "chijjrknp1tmujorn1lsug2lego",
+      "title": "Muthu Pharmacy - T.Nagar, Thirumalai Pillai Road",
+      "address": "No.22, Thirumalai Pillai Rd, Darmapuram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0506642,
+      "lon": 80.240346
+    },
+    {
+      "id": "chijie0pv1_5ujorgyuzupql0dk",
+      "title": "NanBa Pharmacy 2",
+      "address": "Nandeeswarar Colony Rd, Nandeswaran Colony, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.845602999999999,
+      "lon": 80.06383699999999
+    },
+    {
+      "id": "chij8-ppyubmujoreyq2vhzoyyi",
+      "title": "Classic Pharmacy (Apollo Medicines | Best Pharmacy in Thousand lights and Greams road)",
+      "address": "76/60 Aziz Mulk 3rd Street, Facing, GMM St, opposite to pearl beauty parlour, Thousand Lights West, Chennai, Tamil Nadu 600006",
+      "lat": 13.056116,
+      "lon": 80.25333839999999
+    },
+    {
+      "id": "chij2xjkv-xnujorrxohmmgmcia",
+      "title": "Amani Pharmacy",
+      "address": "54/53, Shop No 12, Khurasani Peer Mosque Complex, Lattice Bridge Road, Near Adayar Bus Depot, Adayar, Adayar, Chennai, Tamil Nadu 600020",
+      "lat": 12.9985459,
+      "lon": 80.2561734
+    },
+    {
+      "id": "chijeyhrc25fujor7xgfmlpzzfw",
+      "title": "TAMILNADU MEDICALS",
+      "address": "10f, Shanmugam Rd, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9267723,
+      "lon": 80.11428049999999
+    },
+    {
+      "id": "chijuvnfs4jdujorgbkdgn0s8fs",
+      "title": "Ilakkiya Pharmacy",
+      "address": "shop no 2, Ilakkiya Pharmacy, Dr, Murphy Doss Rd, VGP Seetapathi Street, VGP Seethapathy Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.981276,
+      "lon": 80.2293724
+    },
+    {
+      "id": "chijvb7aw1jeujordguxti7utgs",
+      "title": "A G Pharmacy ( A G Hospital - Chromepet)",
+      "address": "30, South St, near Railway station, Radha Nagar, Doctors Colony, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9502692,
+      "lon": 80.1440283
+    },
+    {
+      "id": "chijq88gcjfhujoriria09cx-pu",
+      "title": "Medical & Pharmacy home Delivery 10% discount",
+      "address": "Shifa Pharmacy, 33, Thiruvalluvar Salai, Meenachi Amman Nagar, Saraswathi Nagar, Nerkundram, Chennai, Tamil Nadu 600107",
+      "lat": 13.053559,
+      "lon": 80.1828907
+    },
+    {
+      "id": "chijn6u5ivznujorhpokb6bqaam",
+      "title": "VAVA PHARMACY",
+      "address": "New No 17 Old No, VAVA PHARMACY, 48, Kamaraj Salai, Lakshmipuram, Radhakrishnan Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9911582,
+      "lon": 80.2615112
+    },
+    {
+      "id": "chijoshigsd1ujorfgewb0noicq",
+      "title": "Eswara Homoeo Pharmacy (Near Tambaram)",
+      "address": "shop no 6, 4/116E (Oppsite to Ravindra Bharathi School, Mudichur Rd, near Tambaram, Mudichur, Tamil Nadu 600048",
+      "lat": 12.9151403,
+      "lon": 80.0724951
+    },
+    {
+      "id": "chijg62ewdngujorevc_e_lj_uc",
+      "title": "Sri Vinayaga Pharmacy",
+      "address": "5, Sri Vinayaga Pharmacy, 9, Valluvar Salai, Sriram Nagar, Moogambigai Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.025968899999999,
+      "lon": 80.1830825
+    },
+    {
+      "id": "chijny37ivvnujordpan3ir58bw",
+      "title": "MANTRA PHARMACY",
+      "address": "10, Venkataswamy St, Kuil Thoppu, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0302189,
+      "lon": 80.2749104
+    },
+    {
+      "id": "chijhrol1htnujorkk4wjvojdyo",
+      "title": "Cloudnine Pharmacy - T.Nagar, Chennai",
+      "address": "Raghav Road, 54, Vijayaraghava Rd, near Hyatt Regency, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.043479,
+      "lon": 80.246298
+    },
+    {
+      "id": "chijgeg3sczmujorpu6wx7mnhjo",
+      "title": "SMART PHARMACY (Diabetes medicines | Women care | pediatric medicines | Best Pharmacy in Royapettah)",
+      "address": "No .141, SMART PHARMACY (Diabetes medicines | Women care | pediatric medicines | Best Pharmacy in Royapettah), 66, Dr Besant Rd, Mirsahibpet, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0531943,
+      "lon": 80.2711678
+    },
+    {
+      "id": "chij96v5iqleujor-fbb6nblzss",
+      "title": "SUYAMBULINGAM PHARMACY",
+      "address": "2/4, M.G.R. Rd, South Bakthavatsalam Nagar, Gandhi Nagar, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.973144,
+      "lon": 80.1833003
+    },
+    {
+      "id": "chijsdlxnmxnujorjwvivalhinq",
+      "title": "Om sai pharmacy",
+      "address": "21, Guruvappa St, Teachers Colony, Duraisamy Nagar, Kotturpuram, Chennai, Tamil Nadu 600085",
+      "lat": 13.014253,
+      "lon": 80.244658
+    },
+    {
+      "id": "chijczovmvfnujora-umqi1xwks",
+      "title": "RAJ PHARMACY ADYAR",
+      "address": "no.58, RAJ PHARMACY ADYAR, new no.128, Old, Ellaiamman Koil St, Salavaiyalar Street, Vannanthurai, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.9967242,
+      "lon": 80.262022
+    },
+    {
+      "id": "chijesixpz5nujorzssdic3w1by",
+      "title": "Big Shop Pharmacy",
+      "address": "Sq-9, Vandi Pathai Street, Labour Colony, SIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu 600032",
+      "lat": 13.0156754,
+      "lon": 80.2085769
+    },
+    {
+      "id": "chijxxinrppnujorcfifoxgxla8",
+      "title": "Maharaja Medicals",
+      "address": "Number. E 147, Maharaja Medicals, A, Shop, 2nd Ave, RBI Quarters, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.9984197,
+      "lon": 80.2674437
+    },
+    {
+      "id": "chij-tw_bmdnujor8dddbewpcqo",
+      "title": "Medplus",
+      "address": "Ground Floor, East Facing Old No 89, New No 44, Shop No.1 from South, Cart Track Rd, 5th St, Guindy, Adyar, Tamil Nadu 600032",
+      "lat": 12.9971646,
+      "lon": 80.2118374
+    },
+    {
+      "id": "chijhcotrppnujorfsvtc7dz32c",
+      "title": "Elite Pharmacy",
+      "address": "E-147/A, 2nd Ave, RBI Quarters, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.998456299999999,
+      "lon": 80.2674277
+    },
+    {
+      "id": "chijv1-zqpfdujord686thmbtpy",
+      "title": "JEYA MEDICALS",
+      "address": "946, Bazaar Main Rd, near Nilgiris, Ram Nagar South, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.964478399999999,
+      "lon": 80.2111876
+    },
+    {
+      "id": "chijc-vcx_pnujorerg7o7xptju",
+      "title": "Shobika Pharmacy",
+      "address": "2nd Ave, next to Brown Tree, Custom Colony, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.998178999999999,
+      "lon": 80.26755
+    },
+    {
+      "id": "chijhroly9zmujorh8153ewvtea",
+      "title": "OMKAR MEDICAL DISTRIBUTORS PRIVATE LIMITED",
+      "address": "LOCATION. 147, Thirupathi Nagar Main Street On Shridevikuppam Main Road, Thirupathi Nagar Main Rd, Valasaravakkam, Chennai, Tamil Nadu 600087",
+      "lat": 13.043787199999999,
+      "lon": 80.1761657
+    },
+    {
+      "id": "chijjqv59df3ujorxqsn1jmwdny",
+      "title": "Pills & Tonics Urapkkam",
+      "address": "Ground Floor, Pills & Tonics Urapkkam, South Facing, Plot No. 16, Shop No, 2 From West, Station Rd, Selvaraj Nagar, Urapakkam, Chennai, Tamil Nadu 603211",
+      "lat": 12.8675622,
+      "lon": 80.067594
+    },
+    {
+      "id": "chiju0hxeo1mujordgkaybyifo4",
+      "title": "RX Pharmacy",
+      "address": "OLD NO:12/NEW NO: Sri Ramapuram 2nd St, Choolaimedu,, Chennai, Tamil Nadu 600094",
+      "lat": 13.059652999999999,
+      "lon": 80.222607
+    },
+    {
+      "id": "chijkfniodbmujornhaoclzc4v4",
+      "title": "PHARMACY GANESH",
+      "address": "old no, #319, new, PHARMACY GANESH, 142, TTK Rd, Pudupet, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0469824,
+      "lon": 80.2607239
+    },
+    {
+      "id": "chijlqh0gybmujora18zpzgbhpc",
+      "title": "Ambika Pharmacy",
+      "address": "Shop No: New # 113,Old # 56, Opposite Vinayagar Koil, Big St, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0588157,
+      "lon": 80.27594069999999
+    },
+    {
+      "id": "chijqxckoatnujorn35ibfli4ii",
+      "title": "BHAARATHAM PHARMACY",
+      "address": "152a, BHAARATHAM PHARMACY, 47, S W Boag Rd, CIT Nagar East, T. Nagar, Chennai, Tamil Nadu 600035",
+      "lat": 13.0318113,
+      "lon": 80.23683779999999
+    },
+    {
+      "id": "chijvaeeqypnujormowrhrxno3o",
+      "title": "SUPREME PHARMACY",
+      "address": "OLD NO 28. NEW, SUPREME PHARMACY, 77, Bazaar Rd, Basha Garden, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0363537,
+      "lon": 80.27389029999999
+    },
+    {
+      "id": "chijb8ne6rddujoravs64nupep0",
+      "title": "Athithya Pharmacy",
+      "address": "No. 28, Thai Nagar, Mylai, Balaji Nagar - Next to Dumpyard, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9535672,
+      "lon": 80.2105643
+    },
+    {
+      "id": "chijw_w-4t72ujor34g9lk9mrmm",
+      "title": "Jaya pharmacy",
+      "address": "22, Iyyenchery Main Rd, Gandhi Nagar, Urapakkam, Chennai, Kilampakkam, Tamil Nadu 603210",
+      "lat": 12.865858399999999,
+      "lon": 80.0790768
+    },
+    {
+      "id": "chijpz9tff32ujorfr1sbhui4ze",
+      "title": "Sri Annai Medicals",
+      "address": "No:6, Urappakkam West, Manivakkam Extension, Athanur Main Road, Kannadasan Nagar, Annai Anjugam Nagar, Urapakkam, Chennai, Tamil Nadu 603211",
+      "lat": 12.869073,
+      "lon": 80.0623153
+    },
+    {
+      "id": "chijur6pu0bmujorb8uiash7dci",
+      "title": "Model Pharmacy",
+      "address": "3752+2Q7 Model Pharmacy, 36, Model School Rd, Sector 1, Thousand Lights, Chennai, Tamil Nadu 600006",
+      "lat": 13.0577057,
+      "lon": 80.2520037
+    },
+    {
+      "id": "chijpaq3vutmujor8i2-9styq_o",
+      "title": "Subam Pharmacy",
+      "address": "No 29 / 13, Eldams Rd, near Raj TV & Velu Militry Hotel, Subbarayan Nagar, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0394078,
+      "lon": 80.2503499
+    },
+    {
+      "id": "chijd5c0kgbdujorsxdcr3f1fcc",
+      "title": "MEDSTAR PHARMACY",
+      "address": "Ram Nagar South Extension, Alaiamman Nagar, Kovilambakkam, Chennai, Tamil Nadu 600042",
+      "lat": 12.9519865,
+      "lon": 80.2071137
+    },
+    {
+      "id": "chijmxhkzy9mujorak2t1_hqv-4",
+      "title": "24hrs Pharmacy",
+      "address": "27W8+6JQ 24hrs Pharmacy, Royapettah High Rd Flyover, Jagadambal Colony, Krishnapuram, Royapettah, Chennai, Tamil Nadu 600004",
+      "lat": 13.045591,
+      "lon": 80.2666172
+    },
+    {
+      "id": "chij06kikkpdujorcbhs1iszpue",
+      "title": "PADMA PHARMACY",
+      "address": "12, Madipakkam Main Rd, Ram Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.96384,
+      "lon": 80.21430939999999
+    },
+    {
+      "id": "chij17kkf3xdujor_39ovgtb-ag",
+      "title": "Sri Ramana Medicals",
+      "address": "9, Peeliamman Kovil St, Mahathma Gandhi Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.9843317,
+      "lon": 80.2402149
+    },
+    {
+      "id": "chijvxvduoddujor9palgexn9cw",
+      "title": "SHREE AMBAL MEDICAL",
+      "address": "2, Kalaignar Karunanidhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.901128499999999,
+      "lon": 80.2284416
+    },
+    {
+      "id": "chijf_5sugjcujorv3va-yoihym",
+      "title": "Abirami Medical Shop",
+      "address": "2/290, Anna St, Karappakam, Chennai, Anna St, Karapakkam, Chennai, Tamil Nadu 600097",
+      "lat": 12.913236099999999,
+      "lon": 80.2298756
+    },
+    {
+      "id": "chijr-ivlx9cujorxxa9k3_dwas",
+      "title": "Sri Krishna Medical Shop",
+      "address": "W59R+2XH Sri Krishna Medical Shop, Pillaiyar Kovil St, Vengaivasal, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9175579,
+      "lon": 80.1924691
+    },
+    {
+      "id": "chijuwiodkldujor07l_rr3vdr8",
+      "title": "SRI GUHAN MEDICALS",
+      "address": "No.3, SRI GUHAN MEDICALS, 1/L, 1st St, near Hotel Devamirthas, Devaraj Nagar, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.9010623,
+      "lon": 80.23055719999999
+    },
+    {
+      "id": "chijp9wvwgrbujorrn-8v6skv6k",
+      "title": "Apollo Pharmacy Sholinganallur",
+      "address": "New No. 13, Apollo Pharmacy Sholinganallur, Old No. 8, MGR Rd, opp. Nivis Kitchen, Ezhil Nagar, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8973891,
+      "lon": 80.2298543
+    },
+    {
+      "id": "chijz8gsbad3ujoruwc12tdsf3e",
+      "title": "Kauvery medical store",
+      "address": "V3FJ+3Q7 Kauvery medical store, Kilambakkam, Chennai, Kilampakkam, Tamil Nadu 600048",
+      "lat": 12.8726632,
+      "lon": 80.08193399999999
+    },
+    {
+      "id": "chijy-ofxohmujor5yyt-ccx3ju",
+      "title": "SRI VIJAY PHARMACY (MAIN BRANCH)",
+      "address": "12, Duraiswamy Rd, Dr.Subbaraya Nagar, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0496325,
+      "lon": 80.2147312
+    },
+    {
+      "id": "chijvfldzbfnujoryafdogm5kpw",
+      "title": "ABIRAMI&CO MEDICAL",
+      "address": "Shop Number 76, ABIRAMI&CO MEDICAL, 98, Pasumpon Muthuramalinga Thevar Rd, Y Block, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.029305299999999,
+      "lon": 80.24690729999999
+    },
+    {
+      "id": "chijx4cmpkpnujoriangynvlioo",
+      "title": "CAPZ 'N' TABZS MEDICALS",
+      "address": "Old No:10, New, CAPZ 'N' TABZS MEDICALS, No: 23, Devanathan St, Jeth Nagar, Mandaveli, Chennai, Tamil Nadu 600028",
+      "lat": 13.0275737,
+      "lon": 80.2636923
+    },
+    {
+      "id": "chij4yxkmxfnujoravkmpedoq3y",
+      "title": "Grand city medical",
+      "address": "24 C, Grand city medical, Rameswaram St, opposite to IDBI bank Quarter's, Postal Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0401744,
+      "lon": 80.2292018
+    },
+    {
+      "id": "chijn48glundujord4__uhnhsc0",
+      "title": "Best Medicals",
+      "address": "NO: 1, 13East Coast Rd, Valmiki Nagar, Raja Garden, Kottivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.9711599,
+      "lon": 80.2583155
+    },
+    {
+      "id": "chijqw5v8v1dujoruf7jb_bzbv0",
+      "title": "MODERN MEDICALS",
+      "address": "101/54, LB Rd, near State Bank of India, L.I.C Colony, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9910651,
+      "lon": 80.2561922
+    },
+    {
+      "id": "chij3dysp1fnujorwwj66tvri28",
+      "title": "Shree Srinivasa Medicals",
+      "address": "469/325, MKN Rd, Ramapuram, Thiruvalluvar Nagar, Alandur, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 12.996863999999999,
+      "lon": 80.195053
+    },
+    {
+      "id": "chijpzb0zqnnujoryvxmela7kky",
+      "title": "Madras Medicals",
+      "address": "2, Ponniamman Koil St, Avvai Colony, Kotturpuram, Chennai, Tamil Nadu 600085",
+      "lat": 13.017857,
+      "lon": 80.2412094
+    },
+    {
+      "id": "chijf8w30vtdujorsrz0akpbfsi",
+      "title": "Raja Medicals",
+      "address": "New Number 24, Raja Medicals, Old 59, Kuppam Beach Rd, CGE Housing Colony, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.984622199999999,
+      "lon": 80.2630932
+    },
+    {
+      "id": "chijd3b3klvnujorkhcss8slu6a",
+      "title": "Star Medicals",
+      "address": "All Thottam, 7/7, ROB Main St, Peters Colony, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0552777,
+      "lon": 80.25992819999999
+    },
+    {
+      "id": "chij1cdyxpnmujorg6odhiht15u",
+      "title": "TAMILNADU MEDICAL",
+      "address": "127/1 New, Pathai, Andavar Nagar, Choolaimedu, Chennai, Tamil Nadu 600094",
+      "lat": 13.058322299999999,
+      "lon": 80.21558879999999
+    },
+    {
+      "id": "chijjajiemnmujorxeriejhdgd0",
+      "title": "Vasanth Medicals",
+      "address": "Kodandapani Legacy, No.52, old no. near hdfc bank,, 75, Arcot Rd, Sathya Garden, Saligramam, Chennai, Tamil Nadu 600026",
+      "lat": 13.048262999999999,
+      "lon": 80.204195
+    },
+    {
+      "id": "chijywjclrb3ujor5l45layw3-w",
+      "title": "ESHAAN MEDICAL",
+      "address": "NELLIKUPPAM ROAD,IYYAPPA NAGAR,KAYARAMBEDU, Koot Road, Tamil Nadu 603202",
+      "lat": 12.8100244,
+      "lon": 80.0772985
+    },
+    {
+      "id": "chijjwxkylzmujore-nrqp6ahy4",
+      "title": "RR Medical Shop",
+      "address": "355V+MPV RR Medical Shop, 3rd Main Rd, Chinmaya Nagar Stage 2, Natesan Nagar, Virugambakkam, Chennai, Tamil Nadu 600092",
+      "lat": 13.059239999999999,
+      "lon": 80.19431139999999
+    },
+    {
+      "id": "chij423xis1mujorp_uuw4aa8zq",
+      "title": "Sivakami Medicals",
+      "address": "Sivakami medicals, 11/3, TSV Koil St, near DR Prahlad clinic, Alamelu Manga Puram, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0317213,
+      "lon": 80.2694611
+    },
+    {
+      "id": "chijvd2eagbnujorrvzipvbarfw",
+      "title": "MedPlus - VADAPALANI",
+      "address": "shop no:1, MedPlus - VADAPALANI, Simha Health Care, No:39, Nerkundram Rd, near Ambika Empira, Dharan Singh Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.054451199999999,
+      "lon": 80.21077389999999
+    },
+    {
+      "id": "chijzafqlsbmujorpfnngvksabk",
+      "title": "Tamilnadu Medicals",
+      "address": "10 Gangai Amman Koil Street, Nerkundram Rd, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0546992,
+      "lon": 80.20918
+    },
+    {
+      "id": "chij8qfxjmphujorm-8ywkvzboi",
+      "title": "MEDI HEALTH PLUS MEDICALS & GENERAL STORE UNION SALAI",
+      "address": "24GM+R76 MEDI HEALTH PLUS MEDICALS & GENERAL STORE UNION SALAI, Keshavardhini Nagar, Muthiz Nagar, Ponniamman Nagar, Iyyappanthangal, Kolathuvancheri, Tamil Nadu 600122",
+      "lat": 13.026985499999999,
+      "lon": 80.1331403
+    },
+    {
+      "id": "chij0dme9ufnujorpnjr-mz-ang",
+      "title": "Sri Balaji Country Drug Shop",
+      "address": "opposite Jain'sWestminster appartments, 12, Arunachalam Rd, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.0535459,
+      "lon": 80.2039527
+    },
+    {
+      "id": "chijdbjgxmlnujorzsljbhl1nsc",
+      "title": "Muruga Medicals",
+      "address": "Shop No.4, Muruga Medicals, K V Apartments, 11, Chakrapani St, Ramapuram, Old Narasingapuram, Maduvinkarai, Guindy, Chennai, Tamil Nadu 600032",
+      "lat": 13.003874099999999,
+      "lon": 80.2109712
+    },
+    {
+      "id": "chijn8x-mil1ujorwzzaujvyr64",
+      "title": "Friends Medicals",
+      "address": "426/A1, Sakthi Nagar, Somangalam Main Road, Chennai, Tamil Nadu 600133",
+      "lat": 12.9716293,
+      "lon": 80.0466417
+    },
+    {
+      "id": "chije0pwdy1mujorh6c2osxmmw8",
+      "title": "Asian Medicals",
+      "address": "Number 324, Asian Medicals, 148, Royapettah High Rd, Block Z, Luz, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.038644399999999,
+      "lon": 80.2674854
+    },
+    {
+      "id": "chijxwzxy_ilujorvas-a5io4bw",
+      "title": "Chennai Medicals",
+      "address": "4/79 A, kalaignar Nagar, Nandambakkam, Kundrathur, Chennai, Tharavur, Tamil Nadu 600069",
+      "lat": 12.9821931,
+      "lon": 80.056794
+    },
+    {
+      "id": "chijxdkwo8fmujor2ub9yxvokfm",
+      "title": "Jaya Medicals",
+      "address": "8A/16, Kumaran Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0528823,
+      "lon": 80.2076254
+    },
+    {
+      "id": "chijs-waxwd1ujorszquqyj1n1a",
+      "title": "Chennai Medicals",
+      "address": "1/19, Mohalingam salai, Kalaignar nagarKundrathurNandambakkam, Chennai, Nandambakkam, Tamil Nadu 600069",
+      "lat": 12.98008,
+      "lon": 80.054053
+    },
+    {
+      "id": "chijcqanoe5mujorcpkz0o8idfc",
+      "title": "Palani Medicals",
+      "address": "266, Gangaiamman Rd, Arcot Rd, Kodambakkam, Chennai, Tamil Nadu 600026",
+      "lat": 13.0515714,
+      "lon": 80.2165788
+    },
+    {
+      "id": "chijx9ttejpmujorppgu-lrenwc",
+      "title": "R.V. Medicals",
+      "address": "New No. 237.60/4, Gowdiyamutt Road New No. 134, Old No. 60/4, Gowdia Mutt Road, Avvai Shanmugham Salai, Gopalapuram, Chennai, Tamil Nadu 600086",
+      "lat": 13.048316699999999,
+      "lon": 80.26100129999999
+    },
+    {
+      "id": "chij734c-_5mujorogdpdatlacc",
+      "title": "New Grand City Medicals",
+      "address": "No. 29/2, Ranganathan Street, T. Nagar, Rameswaram St, Postal Colony, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.039413,
+      "lon": 80.2289716
+    },
+    {
+      "id": "chij2d2a0otmujor4ziypd1prvo",
+      "title": "Thulasi Pharmacy - Vadapalani, Chennai",
+      "address": "14, Amman Koil St, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0519625,
+      "lon": 80.21330929999999
+    },
+    {
+      "id": "chijs9ivjo1mujorwd3io9jlcgw",
+      "title": "jaya medicals",
+      "address": "3649+GCV jaya medicals, Sivan Kovil S St, Raghavan Colony, Muthu Thottam, Choolaimedu, Chennai, Tamil Nadu 600024",
+      "lat": 13.0563577,
+      "lon": 80.2185337
+    },
+    {
+      "id": "chijl1bnfdpdujoroicmolhqcno",
+      "title": "Medical Shop",
+      "address": "15, Medical Shop, 12, Govindaswamy Nagar Rd, Thiruvengadam Nagar, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.9690091,
+      "lon": 80.2461969
+    },
+    {
+      "id": "chij-7m_mczmujorz6wm5wydabm",
+      "title": "MedPlus Saligramam",
+      "address": "53/2t05, Senthil Andavar Street, Thangal karai, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.0550492,
+      "lon": 80.2068409
+    },
+    {
+      "id": "chijobx_ub9mujorivsas00s4ek",
+      "title": "RAMS MEDICAL STORE",
+      "address": "3653+2RG RAMS MEDICAL STORE, Kamaraj St, Gandhi Nagar, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.0575657,
+      "lon": 80.2045809
+    },
+    {
+      "id": "chijlr9sa_1aujorjpneouz68ge",
+      "title": "Ansar Medicals",
+      "address": "267, SH 49, Kovalam, Kanathur Reddy Kuppam, Tamil Nadu 603112",
+      "lat": 12.8510111,
+      "lon": 80.2418575
+    },
+    {
+      "id": "chij4uqgdbpnujorplpfkv63xra",
+      "title": "MedPlus Duraisamy Street Vadapalani",
+      "address": "Ground floorShop No.1&2 No.35, MedPlus Duraisamy Street Vadapalani, 9, Duraiswamy Rd, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.049783999999999,
+      "lon": 80.214528
+    },
+    {
+      "id": "chijuudty8zmujorxj3qxx2qf5o",
+      "title": "Om Medicals",
+      "address": "7/4, Arunachalam Rd, Pushpa Colony, Saligramam, Chennai, Tamil Nadu 600093",
+      "lat": 13.052894499999999,
+      "lon": 80.2039183
+    },
+    {
+      "id": "chij-3kg6sdmujorhv_noyo9o9g",
+      "title": "SRI SARAVANA MEDICALS &GENERALS",
+      "address": "31/2, AVM St, Venkatesa Nagar, Saligramam, Chennai, Tamil Nadu 600092",
+      "lat": 13.0552903,
+      "lon": 80.19983069999999
+    },
+    {
+      "id": "chijew6kvmjmujor-mbuxlukakc",
+      "title": "Archana Medical Store",
+      "address": "Shop no: 18, Ground Floor, Archana Medical Store, 174, Arcot Rd, Ottagapalayam, Kannika Puram, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0486569,
+      "lon": 80.20721669999999
+    },
+    {
+      "id": "chijr7ocikxmujoronj_hwnrmxu",
+      "title": "TUCS Kamadhenu Cooperative Pharmacy",
+      "address": "No 273 / 379, Opp To Vanavil Bus Stop, Anna Salai, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.041024199999999,
+      "lon": 80.2474399
+    },
+    {
+      "id": "chijwyschhlnujormh8yxobtd8w",
+      "title": "Balamurugan Pharmacy & General",
+      "address": "2, 2nd St, Thirunagar, Tiru Nagar, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0586006,
+      "lon": 80.2094439
+    },
+    {
+      "id": "chijxf_f4omkujorfsw9rrthwri",
+      "title": "Medical store",
+      "address": "23HJ+MVW Medical store, Agaramel, Tamil Nadu 600123",
+      "lat": 13.029230799999999,
+      "lon": 80.0822137
+    },
+    {
+      "id": "chijg9909-pmujor7uh3lae5kiy",
+      "title": "Jeyam Medicals",
+      "address": "Shop No.4/1, Nerkundram Pathai, Bhakthavathchalam Colony,1st St, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.054474299999999,
+      "lon": 80.2118699
+    },
+    {
+      "id": "chijmbedg-pmujorsfrjhhyjsxg",
+      "title": "SUBASH MEDICALS",
+      "address": "New no 39/1, old no 51b, Nerkundram pathai, vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0547513,
+      "lon": 80.2101357
+    },
+    {
+      "id": "chijzusfzuxmujorbx8zjprwwqe",
+      "title": "Jai Balaji Medicals",
+      "address": "119/34, Gangaiamman Koil St, Gangai Amman Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.053702999999999,
+      "lon": 80.216529
+    }
+  ],
+  "updated_at_utc": "2026-09-27T12:23:25.393257+00:00"
+}

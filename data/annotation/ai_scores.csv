@@ -1,0 +1,451 @@
+pair_id,expected_score,rationale
+P001,25,Milk parlour next door; covers only dairy part of a grocery need
+P002,75,Grocery store very close; not a departmental store
+P003,55,"Department store matches preference but 36 km away, far outside radius"
+P004,5,Electronics and home appliance dealer; grocery listing is noise
+P005,20,Satyaa is an appliance/electronics store; grocery listing doubtful
+P006,50,"Supermarket but 16 km away, outside the 3 km radius"
+P007,25,Aavin milk shop; only partial help for groceries
+P008,75,Supermarket within radius; not departmental
+P009,0,"A pharmacy college, not a shop; unrelated"
+P010,80,"Broad-range supermarket near bus stand, within radius; department-like"
+P011,45,"Generic supermarket 35 km away, far outside radius"
+P012,70,Provision traders on Market Street within radius; likely grocery wholesale
+P013,50,Supermarket but 39 km away
+P014,5,Unnamed building address listed as pharmacy; not grocery
+P015,60,"Mixed shopping centre nearby; grocery uncertain, somewhat departmental"
+P016,75,Flower shop within radius; no nursery plants indicated
+P017,0,Garment shop 40 km away; unrelated
+P018,0,Home appliance shop; unrelated to flowers
+P019,75,Flower shop within radius; no nursery
+P020,60,Florist just outside 5 km radius
+P021,50,"Florist about 10 km away, outside radius"
+P022,72,"Flower stall within radius; small stall, no nursery"
+P023,72,Garland shop (mala kadai) within radius; flowers but no nursery
+P024,75,Flower shop within radius; no nursery
+P025,10,Fruit shop; not a florist
+P026,10,Vegetable and fruit shop; not flowers
+P027,58,Florist slightly outside radius at 6.3 km
+P028,0,Bathroom fittings dealer; unrelated
+P029,45,Bouquet shop but 40 km away
+P030,0,Meat shop; unrelated
+P031,25,"Milk parlour; may sell tea or snacks, partial help"
+P032,92,"Tiffin centre within radius, near its edge"
+P033,20,"Department store; packaged snacks only, partial help"
+P034,5,Supermarket 22 km away; not a food stall
+P035,65,Tea stall just beyond the 5 km radius
+P036,50,"Tiffin centre 10 km away, outside radius"
+P037,50,"Tea cafe 11 km away, outside radius"
+P038,100,Tiffin centre well within radius
+P039,95,Tiffin centre within radius
+P040,40,Tea and tiffin centre 22 km away
+P041,45,"Food street 14 km away, outside radius"
+P042,5,Vegetable shop; not prepared food
+P043,92,Tea stall within radius
+P044,0,Florist; unrelated to food
+P045,5,"Fish market; raw fish, not a food stall"
+P046,5,Clothing store just outside radius; not provisions
+P047,75,Provision store within radius; no pet items indicated
+P048,58,Provision store just beyond 1 km radius
+P049,25,"Medical mart; sells some sundries, mostly not provisions"
+P050,75,Maligai (provision shop) within radius; no pet supplies
+P051,75,Supermarket within radius; no pet supplies indicated
+P052,76,Broad-range supermarket within radius; pet items unlikely
+P053,0,Medical shop 34 km away; unrelated
+P054,10,Pharmacy at buyer location; not a provision store
+P055,0,Horoscope and computer service; unrelated
+P056,50,"Superstore 16 km away, far outside radius"
+P057,58,Provision store just beyond radius
+P058,45,Provision store 34 km away
+P059,0,Plumbing supplier 48 km away; unrelated
+P060,10,Fish shop; not provisions
+P061,62,Health and Glow beauty store just beyond 1 km; not Naturals
+P062,40,"Grooming salon in Chengalpattu, 45 km away"
+P063,15,Mixed shopping centre 45 km away; minor beauty listing
+P064,60,Cosmetics shop just outside radius
+P065,55,"Health and Glow store 2 km away, outside radius"
+P066,48,Cosmetics shop 8.6 km away
+P067,15,Organic farmers market; few natural personal-care items at best
+P068,58,"Cosmetics shop 1.5 km away, outside radius"
+P069,48,Cosmetics brand store 8 km away
+P070,25,Household store nearby; may stock basic toiletries
+P071,5,"Ration shop; essentials only, not beauty"
+P072,62,Health and Glow just beyond radius
+P073,10,Supermarket 27 km away; toiletries only
+P074,0,Vegetable shop; unrelated
+P075,0,Vegetable market; unrelated
+P076,0,Baby products store; unrelated
+P077,40,Car repair shop 18 km away; not bike parts
+P078,70,Cycle shop within radius; bicycles loosely fit bike preference
+P079,75,Auto spares shop within radius; bike parts not explicit
+P080,0,Computer shop; unrelated
+P081,55,Tata car service centre within radius; poor fit for bike parts
+P082,0,Department store 32 km away; unrelated
+P083,45,Auto parts shop 31 km away
+P084,45,Automobile shop 35 km away
+P085,75,Auto spares near RTO within radius; bike not explicit
+P086,0,Provision store; unrelated
+P087,0,Flower shop; unrelated
+P088,62,"Tyre puncture shop within radius; serves bikes, not a parts store"
+P089,55,Two-wheeler spares match bike preference but 46 km away
+P090,0,Flower shop; unrelated
+P091,0,Two-wheeler parts shop; unrelated
+P092,75,Household goods traders within radius; plastics not explicit
+P093,0,"Tea cafe with a pun name, not a drug shop or homeware"
+P094,68,Homeware shop within radius; little detail from name
+P095,45,"General store with homeware, 25 km away"
+P096,78,Home needs shop within radius; likely some plastic ware
+P097,45,"Supermarket with home needs, 20 km away"
+P098,15,"Textile shop; home linens at most, partial help"
+P099,5,Aquarium and pet shop; unrelated
+P100,15,Textile shop; home linens at most
+P101,0,Tea stall; unrelated
+P102,60,"Handicraft decor shop within radius; homeware-adjacent, no plastics"
+P103,45,"Household stores in Chengalpattu, 25 km away"
+P104,70,Furniture shop within radius; homeware but not plastics
+P105,72,"Plastics shop matches preference, just beyond 10 km radius"
+P106,85,Dairy farm within radius; farm milk fits fresh preference
+P107,50,"Aavin parlour 15 km away, outside radius"
+P108,0,Pharmacy; unrelated
+P109,45,"Rose milk drink shop; dairy beverage, not milk or eggs supply"
+P110,15,General store 20 km away; packaged milk only
+P111,50,"Egg shop 16 km away, outside radius"
+P112,75,"Fresh cow milk farm matches preference, just beyond radius"
+P113,78,Egg mart within radius
+P114,77,Egg mart within radius
+P115,5,Home products store; unrelated
+P116,10,Organic producer company 49 km away; marginal
+P117,62,Frozen dairy supplier within radius; frozen conflicts with fresh
+P118,50,Hatsun milk shop 14 km away
+P119,0,Pet shop; unrelated
+P120,0,Medical shop; unrelated
+P121,0,Electronics company; unrelated
+P122,0,Clothing store; unrelated
+P123,5,Household traders far away; not a ration shop
+P124,30,Grocery shop nearby can supply staples but not PDS rations
+P125,0,Electrical and plumbing works; unrelated
+P126,0,Electrical shop 27 km away; unrelated
+P127,45,"Ration shop 12 km away; outside radius, likely other cardholders"
+P128,40,Village ration shop 24 km away
+P129,40,"Ration shop in Chengalpattu, 22 km away"
+P130,40,Ration shop 22 km away
+P131,100,Ration shop within 1 km
+P132,100,Ration shop within 1 km
+P133,100,Ration shop very close
+P134,100,Ration shop very close
+P135,97,Ration shop about 1.4 km away
+P136,45,"Grocery with vegetables, 8.6 km away, outside radius"
+P137,0,Electrical hardware shop; unrelated
+P138,45,Vegetable store (Tamil name) but 47 km away
+P139,82,Vegetable market within radius; fruit likely available
+P140,45,Vegetable market 43 km away
+P141,85,"Fruit shop also selling vegetables, within radius; matches fruit"
+P142,50,"Basic grocery with some vegetables, within radius"
+P143,78,Vegetable shop within radius; fruit not indicated
+P144,30,"Grocery store; staples, little fresh produce"
+P145,0,Pharmacy 36 km away; unrelated
+P146,0,Tea shop; unrelated
+P147,40,Meat and vegetable supplier 14 km away
+P148,30,Small provision shop; limited vegetables
+P149,0,Skincare store 50 km away; unrelated
+P150,60,Supermarket with vegetables within radius; not a dedicated vegetable shop
+P151,0,Sweet shop and restaurant; unrelated
+P152,92,Optical shop within radius; sells eyeglasses
+P153,15,Menswear store; sunglasses at most
+P154,0,Grocery and household store; unrelated
+P155,5,"Pharmacy; maybe reading glasses, essentially unrelated"
+P156,55,Optical shop 42 km away
+P157,55,Optical shop 46 km away
+P158,0,Sweet shop; unrelated
+P159,58,Eyewear store but 48 km away
+P160,5,Pharmacy 19 km away; unrelated
+P161,92,Optical shop within radius; sells eyeglasses
+P162,58,Specsmakers eyeglasses store but 47 km away
+P163,0,"Person name listing, household; unrelated"
+P164,92,Optical shop within radius; sells eyeglasses
+P165,92,Optical shop within radius; sells eyeglasses
+P166,95,Mobile gadgets shop within radius
+P167,98,Mobile shop within radius
+P168,100,Mobiles and accessories shop within radius
+P169,40,"Phone service centre 16 km away; repairs, not accessories"
+P170,10,Electrical hardware; chargers or cables at most
+P171,50,"Mobile shop 15 km away, outside radius"
+P172,15,General household store nearby; cheap accessories possible
+P173,15,Electronics shop 32 km away; marginal
+P174,98,Mobile shop within radius
+P175,5,Grocery store; unrelated
+P176,45,Mobile shop 30 km away
+P177,0,Fruit and vegetable shop; unrelated
+P178,5,Household store 33 km away; unrelated
+P179,97,Mobile shop within radius
+P180,48,Mobile accessories store 16 km away
+P181,0,Electrical and plumbing works; unrelated
+P182,0,Chicken shop; unrelated
+P183,70,Automobile shop just beyond 3 km radius
+P184,85,Car accessories shop within radius; decor more than parts
+P185,95,Automobile parts shop within radius
+P186,0,Restaurant; unrelated
+P187,45,Automobile shop 21 km away
+P188,45,Motorcycle shop 25 km away
+P189,0,Tiffin centre; unrelated
+P190,35,Commercial vehicle dealer 14 km away; parts possible
+P191,95,Bike parts shop very close
+P192,50,Auto parts shop 17 km away
+P193,40,Auto repair workshop 29 km away
+P194,95,Automobile shop within radius
+P195,0,Supermarket; unrelated
+P196,75,Pharmacy within radius; not hospital-linked
+P197,0,Meat shop; unrelated
+P198,5,Optical store; unrelated to medicines
+P199,0,Mobile shop 32 km away; unrelated
+P200,50,"Medical shop 16 km away, outside radius"
+P201,45,Cooperative medical store 33 km away
+P202,0,Sweet shop; unrelated
+P203,0,Fish stall; unrelated
+P204,60,Pharmacy just beyond 5 km radius
+P205,55,Country (traditional) drug shop within radius; limited allopathic medicines
+P206,75,Pharmacy within radius; not hospital-linked
+P207,77,Hetero chain pharmacy within radius
+P208,72,"Cancer medicine supplier within radius; specialist, hospital-oriented"
+P209,0,Vegetable shop; unrelated
+P210,55,Medical shop 8.6 km away
+P211,55,Fruit and greens shop 16 km away; matches vegetables
+P212,0,Innerwear store; unrelated
+P213,0,Photocopy shop; unrelated
+P214,75,Fruit stall within radius; vegetables not indicated
+P215,0,Optical store; unrelated
+P216,10,Milk shop; unrelated to fruit
+P217,0,Pharmacy; unrelated
+P218,10,Gift and stationery shop; fruit listing doubtful
+P219,40,"Juice centre nearby; sells juice, not fruit retail"
+P220,0,Handicraft shop; fruit listing is noise
+P221,0,Hardware agency; unrelated
+P222,55,"Vegetables and fruits shop, matches preference, 24 km away"
+P223,98,Vegetables and fruits shop very close
+P224,0,Furniture and appliance store; unrelated
+P225,90,Vegetable supermarket with fruits within radius
+P226,15,Fancy and gift store; not a market
+P227,0,Optical store; unrelated
+P228,55,"Supermarket within radius; not a street market, has fresh produce"
+P229,40,Fruit seller 24 km away; fruit match but far
+P230,58,Nilgiris supermarket within radius with fruits; not a street market
+P231,20,"Mutton and chicken stall; market-like, no fruit"
+P232,0,Sweet shop; unrelated
+P233,0,Pet and aquarium shop; unrelated
+P234,50,Wholesale supermarket within radius; not a street market
+P235,30,Mini-mart and clothing; weak fit
+P236,30,Supermarket 11 km away
+P237,20,Supermarket 31 km away
+P238,0,Automotive factory; unrelated
+P239,72,"Fruit shop within radius; matches fruit, market-style seller"
+P240,40,"Real fish market but 38 km away, no fruit"
+P241,100,Hardware store very close
+P242,88,Jaquar sanitary fittings dealer nearby; specialised hardware
+P243,40,Tiles and sanitary shop 48 km away
+P244,90,Hardware traders nearby
+P245,25,Homeware store; some tools possible
+P246,0,Pharmacy; unrelated
+P247,10,Electronics shop 22 km away
+P248,55,"Hardware store 16 km away, outside radius"
+P249,40,Electricals shop 35 km away
+P250,95,Hardware and tools store nearby
+P251,0,Ration shop; unrelated
+P252,0,Dairy farm; unrelated
+P253,0,Egg shop; unrelated
+P254,85,Kohler sanitaryware showroom nearby; specialised hardware
+P255,40,Hardware supplier 40 km away
+P256,0,Home appliance shop far away; unrelated
+P257,0,Computer shop; unrelated
+P258,92,D-Mart within radius; full provisions range
+P259,100,Provision store within radius
+P260,95,Provision and grocery store within radius
+P261,45,Supermarket 34 km away
+P262,92,Nilgiris supermarket very close; provisions available
+P263,0,Generic medicine store far away; unrelated
+P264,0,Telecom store; unrelated
+P265,45,General store 31 km away
+P266,5,Pani puri stall; unrelated
+P267,0,Event decorator; unrelated
+P268,68,Provision store just beyond 5 km
+P269,92,Supermarket within radius; provisions available
+P270,65,Supermarket just beyond 5 km
+P271,0,Andhra meals restaurant; unrelated
+P272,78,Stationery and xerox shop within radius; no fancy items indicated
+P273,55,D-Mart within radius; basic stationery aisle only
+P274,0,Ration shop far away; unrelated
+P275,0,Pharmacy; unrelated
+P276,78,Stationery and xerox shop within radius
+P277,45,Used bookshop 36 km away
+P278,30,Supermarket nearby; minimal stationery
+P279,0,Auto workshop; unrelated
+P280,0,Medical shop far away; unrelated
+P281,30,Smart Bazaar 6 km away; some stationery
+P282,35,Xerox shop 39 km away
+P283,100,Stationery and fancy shop within radius; matches preference
+P284,45,Stationery shop 43 km away
+P285,0,Medical shop far away; unrelated
+P286,0,Pet shop far away; unrelated
+P287,0,Tea stall; unrelated
+P288,0,Provision store far away; unrelated
+P289,72,Computer shop within radius; electronics but not appliances
+P290,20,Electrical and AC service 32 km away
+P291,72,Computer hardware shop within radius; not appliances
+P292,78,Electronics shop within radius; appliances possible
+P293,35,Mobile phone shop nearby; narrow electronics
+P294,58,Poorvika appliances store matches preference but 14 km away
+P295,0,"IT office park, not a shop"
+P296,72,Lenovo computer store within radius; not appliances
+P297,50,Electronics shop 9 km away
+P298,5,Supermarket; unrelated
+P299,100,Electronics and home appliances store within radius
+P300,30,Electronics and photo studio 44 km away
+P301,85,Kovai Pazhamudir Nilayam fresh produce chain within radius; farm-fresh style
+P302,0,Pharmacy; unrelated
+P303,45,Vegetable seller 36 km away
+P304,80,Green grocery mart within radius
+P305,50,Vegetable shop 18 km away
+P306,10,Milk shop; unrelated to vegetables
+P307,0,Xerox shop; unrelated
+P308,45,Market with fruits 14 km away
+P309,82,Fruit and vegetable shop within radius
+P310,40,Banana and leaf wholesaler 36 km away
+P311,80,Daily fresh vegetable shop within radius
+P312,65,"Farm fresh vegetables matches preference, 15 km away"
+P313,50,Small supermarket nearby; some vegetables
+P314,5,Fish stall; unrelated
+P315,80,Vegetables and fruits shop within radius
+P316,72,Small grocery shop within radius; fresh produce not indicated
+P317,45,Super bazaar 36 km away
+P318,75,Grocery store within radius; fresh not indicated
+P319,20,Vegetable store 24 km away; partial help
+P320,72,Grocery and household store within radius
+P321,55,Grocery store just beyond 3 km
+P322,45,Supermarket 47 km away
+P323,5,Pet shop; unrelated
+P324,0,Hair salon; unrelated
+P325,77,Supermarket within radius; likely some fresh produce
+P326,0,Xerox shop; fruit listing is noise
+P327,45,Supermarket 40 km away
+P328,0,Chemistry tuition academy; unrelated
+P329,75,Grocery store within radius
+P330,0,IT company campus; unrelated
+P331,70,MedPlus pharmacy just beyond 5 km
+P332,98,Pharmacy within radius
+P333,98,Hetero pharmacy within radius
+P334,50,MedPlus pharmacy 10 km away
+P335,97,Pharmacy within radius
+P336,0,Furniture shop far away; unrelated
+P337,10,Provision store; basic remedies at most
+P338,50,Pharmacy 10 km away
+P339,0,Textile shop; unrelated
+P340,0,Dairy store far away; unrelated
+P341,0,Fruit shop; unrelated
+P342,40,Medical shop 42 km away
+P343,0,Seafood market; unrelated
+P344,98,Pharmacy within radius
+P345,100,Medical shop very close
+P346,0,Home appliance shop far away; unrelated
+P347,45,Kovai Pazhamudir Nilayam fruit store 40 km away
+P348,100,Fruit shop within radius
+P349,0,Mobile and laptop service; unrelated
+P350,0,Ration shop; unrelated
+P351,85,"Vegetable shop that also sells fruit, within radius"
+P352,65,Fruit and vegetable shop just beyond 10 km
+P353,55,Cashew and dry fruit shop nearby; not fresh fruit
+P354,0,Textile shop; unrelated
+P355,100,Fruit stall within radius
+P356,0,Stationery shop; unrelated
+P357,45,Fruit and vegetable shop 37 km away
+P358,75,Supermarket with fruits within radius
+P359,55,Fruit shop 14 km away
+P360,0,Pharmacy; unrelated
+P361,45,Furniture and appliance store 28 km away
+P362,50,Vasanth and Co appliance store 15 km away
+P363,100,Home appliance store within radius
+P364,45,Reliance Digital 48 km away
+P365,0,Pharmacy far away; unrelated
+P366,50,Appliance store 17.5 km away
+P367,70,Large T Nagar homeware store nearby; stocks some appliances
+P368,98,Bosch appliance brand store within radius
+P369,97,Electronics and home appliance store within radius
+P370,40,Electricals and appliances shop 26 km away
+P371,0,Supermarket far away; unrelated
+P372,97,Electronics and home appliance store within radius
+P373,100,Viveks appliance store within radius
+P374,0,Beauty shop; unrelated
+P375,40,"Vessel shop nearby; kitchenware, few appliances"
+P376,5,Chicken broiler shop; pet listing is noise
+P377,0,Mobile service centre; unrelated
+P378,0,Electrical shop; unrelated
+P379,55,"Pet clinic and store 3.5 km away, outside 1 km"
+P380,58,Aquarium fish seller matches preference but 6.8 km away
+P381,0,Automobile shop; unrelated
+P382,60,"Aquarium shop matches preference, 3.3 km away"
+P383,0,Pharmacy; unrelated
+P384,50,Pet clinic just beyond 1 km; limited supplies
+P385,50,Pet shop 8 km away
+P386,40,Pet store 44 km away
+P387,0,Dry fruit shop; unrelated
+P388,0,Flower decor; unrelated
+P389,50,Pet shop 8 km away
+P390,40,"Pet grooming centre 4.4 km away; grooming, not supplies"
+P391,100,Fish stall within radius
+P392,98,Meat shop within radius
+P393,100,Meat shop within radius
+P394,0,Milk shop; unrelated
+P395,55,Broiler and mutton shop 8 km away
+P396,58,Chicken shop 7 km away
+P397,98,Fish market within radius
+P398,50,Chicken shop 10 km away
+P399,0,Sweet shop; unrelated
+P400,0,Electrical shop; unrelated
+P401,0,Milk shop; unrelated
+P402,45,Fish market 14 km away
+P403,5,Fast food centre far away; unrelated
+P404,0,Stationery and toys; unrelated
+P405,100,Halal meat shop within radius
+P406,10,Chengalpattu flower market 47 km away; minor sweets
+P407,5,Clothing hypermarket; no bakery
+P408,10,Tiffin centre 21 km away; not a bakery
+P409,0,Mobile shop; unrelated
+P410,0,Optical shop; unrelated
+P411,45,Cake shop 39 km away
+P412,45,Bakery 47 km away
+P413,78,Sri Krishna Sweets within radius; not a supermarket
+P414,55,"Bakery 8 km away, outside radius"
+P415,75,Sweet shop within radius
+P416,75,Sweet shop within radius
+P417,0,Ration shop; unrelated
+P418,75,Bakery within radius
+P419,75,Sweets and snacks shop within radius
+P420,0,Meat shop far away; unrelated
+P421,40,Clothing store 24 km away
+P422,0,Fish market; unrelated
+P423,0,Enterprise listed as pharmacy far away; unrelated
+P424,40,Footwear shop 43 km away
+P425,58,"Textile shop 3 km away, outside 1 km"
+P426,0,Dairy shop; unrelated
+P427,0,Fruit shop; unrelated
+P428,62,Shoes and bags shop 2.2 km away
+P429,48,Plus-size clothing store 11 km away
+P430,45,Apparel store 15 km away
+P431,0,Meat shop; unrelated
+P432,62,Textile shop 2.1 km away
+P433,55,"Fabric shop 3 km away; cloth, not ready-made"
+P434,0,Pharmacy; unrelated
+P435,55,Textiles and dresses shop 3.8 km away
+P436,40,Household traders 47 km away
+P437,20,LG appliance shop 14 km away; not homeware
+P438,62,Home Centre store 1.9 km away; some plastic storage
+P439,25,Electronics and furniture store 47 km away
+P440,30,Provision store nearby; may stock basic plastic items
+P441,30,Mattress dealer 47 km away
+P442,35,Mattress store 15 km away
+P443,58,Homeware store 1.7 km away
+P444,60,Home Centre store 2 km away
+P445,45,Household stores 11 km away
+P446,0,Pharmacy far away; unrelated
+P447,55,Godrej furniture store 1.4 km away; not plastics
+P448,0,Tea stall; unrelated
+P449,0,Tiffin centre; unrelated
+P450,58,Household stores 2.3 km away

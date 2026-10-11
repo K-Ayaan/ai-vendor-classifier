@@ -1,0 +1,842 @@
+{
+  "category": "pet_supplies",
+  "status": "complete",
+  "count": 119,
+  "outside": 23,
+  "points": [
+    {
+      "id": "chijz9zzbk9dujorsodxz2f5whq",
+      "title": "JUNGLII - PETTING ZOO (Concept Petshop)",
+      "address": "49, 27D, ECR [East Coast Road, Injambakkam, Chennai, Tamil Nadu 600115",
+      "lat": 12.9111142,
+      "lon": 80.2502792
+    },
+    {
+      "id": "chijeenozydjujori-7cijplpzy",
+      "title": "Luxury Paws Pet Shop",
+      "address": "Ist Floor, Luxury Paws Pet Shop, Mambakkam - Medavakkam Main Rd, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.8942116,
+      "lon": 80.1805128
+    },
+    {
+      "id": "chijvx2ynxrfujoryfnwlt5yh6i",
+      "title": "C.R Pets & Aquarium",
+      "address": "No.30, C.R Pets & Aquarium, ACSM Complex, Railway, Station Rd, Kadaperi, Tambaram, Tambaram Sanatorium, Chennai, Tamil Nadu 600047",
+      "lat": 12.9371303,
+      "lon": 80.1287315
+    },
+    {
+      "id": "chijy4dfrh5zujor2lcw7ypskxe",
+      "title": "Chennai Pets & Aquarium",
+      "address": "No. 5/60, Plot, Chennai Pets & Aquarium, bus stop, Ottiambakkam Main Rd, Devlaxmi Nagar, Valluvar nagar, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.893371,
+      "lon": 80.18340959999999
+    },
+    {
+      "id": "chij8_zgc5vnujorhinwnee99ie",
+      "title": "Oliver pet shop",
+      "address": "3rd Cross St, Ramakrishna Nagar, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.026668599999999,
+      "lon": 80.2569347
+    },
+    {
+      "id": "chijqqgdophdujorzq5ik0k2djg",
+      "title": "Lovely Pet shop",
+      "address": "SH49, 1/27, East Coast Rd, Valmiki Nagar, Raja Garden, Kottivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.970762899999999,
+      "lon": 80.2582315
+    },
+    {
+      "id": "chijcyqmcfveujorkeducxhg4vc",
+      "title": "Arun pet shop",
+      "address": "FIRST FLOOR, Arun pet shop, 99, 64, Dr Rajendra Prasad Rd, Hasthinapuram, Tambaram, Tamil Nadu 600064",
+      "lat": 12.941571699999999,
+      "lon": 80.1451675
+    },
+    {
+      "id": "chij7z4ixbtzujorhqrwjbpln_q",
+      "title": "Abi's Pet House",
+      "address": "5th St, Periyar Nagar West, Mambakkam, Chennai, Tamil Nadu 600127",
+      "lat": 12.834078799999999,
+      "lon": 80.1575963
+    },
+    {
+      "id": "chijqvoq2zzfujoryjd35qcbhd0",
+      "title": "Amazing pet shop",
+      "address": "Tambaram Sanatorium Railway Station, 369/100 Baratha, Bharathamadha St, opp. jaigopal National Hrs School, near Tambaram, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9320805,
+      "lon": 80.1277971
+    },
+    {
+      "id": "chijk6x2-olbujorib6cvfucuty",
+      "title": "JK Pets World",
+      "address": "JK Pets World Express Food Street, OMR, Semmancheri, Semmanjeri, Chennai, Tamil Nadu 600119",
+      "lat": 12.870549899999999,
+      "lon": 80.2268113
+    },
+    {
+      "id": "chijm-c_kkjhujorarwbernqg9e",
+      "title": "Elite Pet Store",
+      "address": "No5, Mount Poonamallee Rd, Kattupakkam, Kattuppakkam, Tamil Nadu 600056",
+      "lat": 13.0453162,
+      "lon": 80.11738129999999
+    },
+    {
+      "id": "chijnwqdug9nujorcbhhzib799k",
+      "title": "Tamed Pets - Velachery | Pet Store",
+      "address": "9-A, Tharamani, Jawaharlal Nehru Salai, LIC Colony, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.976805899999999,
+      "lon": 80.222191
+    },
+    {
+      "id": "chijyqaycdzdujor_estf3vdfge",
+      "title": "Heads Up For Tails Pet Store & Spa - Velachery, Chennai",
+      "address": "Shop No 15, Heads Up For Tails Pet Store & Spa - Velachery, Chennai, 8, Velachery Main Rd, opp. Phoenix Market City, Indira Gandhi Nagar, Guindy, Chennai, Tamil Nadu 600042",
+      "lat": 12.9941617,
+      "lon": 80.2177884
+    },
+    {
+      "id": "chijk-ymaujdujorql8waja_o7e",
+      "title": "Pets Hub",
+      "address": "Balaji Nagar Extn-II, Sivaprakash Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9750526,
+      "lon": 80.2079931
+    },
+    {
+      "id": "chijlavceljdujoraxrguyq0vfy",
+      "title": "Metro Pet Shop",
+      "address": "41, Perumbakkam Main Rd, opposite to Reliance Smart Point, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9101403,
+      "lon": 80.1967356
+    },
+    {
+      "id": "chijgw0fo6n1ujorjiii5b569ss",
+      "title": "ANIMAUX PETS HUB",
+      "address": "BEFORE MITHRAN TRADERS, 102, MUDICHUR ROAD, MGR NAGAR, MUDICHUR CHENNAI 600048, Chennai, Tamil Nadu 600048",
+      "lat": 12.9071407,
+      "lon": 80.06753069999999
+    },
+    {
+      "id": "chij-fflcw9nujor1ja0tdj57c8",
+      "title": "NEW LOVELY PET SHOP",
+      "address": "No.56, Bazaar Main Rd, Meenatchi Sundareswarar Koil, Sadasiva Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.965583299999999,
+      "lon": 80.2039338
+    },
+    {
+      "id": "chijhcxtanxfujorf4huhupr8lk",
+      "title": "S.P.S Pet Shop",
+      "address": "No.151,ALS Nagar, 5th Street Madambakkam, Selaiyur, Tambaram, Tamil Nadu 600126",
+      "lat": 12.9027912,
+      "lon": 80.1545802
+    },
+    {
+      "id": "chijtbryfqd3ujort6tfom2nelg",
+      "title": "Pets park & aquariums",
+      "address": "193, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8438726,
+      "lon": 80.0593588
+    },
+    {
+      "id": "chijz3xvlpjzujorojerqa6norq",
+      "title": "Madhan Pets",
+      "address": "2nd St, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.892967899999999,
+      "lon": 80.18449869999999
+    },
+    {
+      "id": "chijmbijljxbujoruoj675kcioi",
+      "title": "Heads Up For Tails Pet Store & Spa - Uthandi, Chennai",
+      "address": "3, Heads Up For Tails Pet Store & Spa - Uthandi, Chennai, A-2, SH 49, Nainarkuppam, Uthandi, Chennai, Tamil Nadu 600119",
+      "lat": 12.877094,
+      "lon": 80.2439575
+    },
+    {
+      "id": "chijm4l8n85nujorslx5ajnvda8",
+      "title": "Simply Pets",
+      "address": "Forest, Simply Pets, Housing Board, 8th St, CLRI Staff Quarters, Perumbakkam, Chennai, Tamil Nadu 600025",
+      "lat": 13.0077775,
+      "lon": 80.24748269999999
+    },
+    {
+      "id": "chije0l2tb1nujormvsordxfqpu",
+      "title": "Pets 101 Alwarpet",
+      "address": "18, Seethammal Rd, Seethammal Colony, Lubdhi Colony, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0371934,
+      "lon": 80.2540387
+    },
+    {
+      "id": "chijc_rlysddujoru0nwdmbd_lc",
+      "title": "Pets Mart",
+      "address": "251, Tambaram Signal, to, Major Mukund Varadharajan Rd, Thanthai Periyar Nagar, Kaiveli, Madipakkam, Chennai, Tamil Nadu 600100",
+      "lat": 12.9626839,
+      "lon": 80.215401
+    },
+    {
+      "id": "chij2frsudtnujora9g1nm17icy",
+      "title": "KSR Pet Shop",
+      "address": "209, Triplicane High Rd, Triplicane, Chennai, Tamil Nadu 600005",
+      "lat": 13.0558763,
+      "lon": 80.2738273
+    },
+    {
+      "id": "chijdat0oflnujoraahsl9acx8i",
+      "title": "Heads Up For Tails Pet Store & Spa - Besant Nagar, Chennai",
+      "address": "H/136/1, H/136/2, 6th Avenue, Elliot's Promenade, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 13.000490099999999,
+      "lon": 80.2707835
+    },
+    {
+      "id": "chij_9ahsxldujornfvsyd1kwaa",
+      "title": "Heads Up For Tails Pet Store & Spa - Sholinganallur Taluk, Chennai",
+      "address": "Plot No. 3, Old Survey No. 164/2A3 Part, New Survey No. 164/50B and 164/50C Patta No. 4542 & 4543, ECR Road, Injambakkam Village, Taluk, Sholinganallur, Chennai, Tamil Nadu 600115",
+      "lat": 12.9245238,
+      "lon": 80.2514477
+    },
+    {
+      "id": "chiji4a-m59nujorq3hfpvsadx0",
+      "title": "Sk Pet's Chennai",
+      "address": "No: 5 Annai, Sk Pet's Chennai, Satya Nagar, Labour Colony, SIDCO Industrial Estate, Guindy, Chennai, Tamil Nadu 600032",
+      "lat": 13.0157115,
+      "lon": 80.2084051
+    },
+    {
+      "id": "chijawvdjxzeujorupnxlpfnua4",
+      "title": "Divya Aquarium and Pet Shop",
+      "address": "82a, Medavakkam Main Rd, Rajamanickam Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.957281,
+      "lon": 80.186871
+    },
+    {
+      "id": "chijofa845h3ujorhkv4brfxchk",
+      "title": "LOKE AQUARIUM & PETS",
+      "address": "4/42, Old, Vembuli Amman Kovil St, opposite SRR Grand hotel, Otteri, Vandalur, Chennai, Tamil Nadu 600048",
+      "lat": 12.8827284,
+      "lon": 80.0830369
+    },
+    {
+      "id": "chijw3h8fwvfujorknxb0rkfnwg",
+      "title": "Yadhavi Pet Shop",
+      "address": "No.77 & 78, Rajaji Rd, East Tambaram, Tambaram Sanatoruim, Tambaram, Tamil Nadu 600045",
+      "lat": 12.926443599999999,
+      "lon": 80.1078617
+    },
+    {
+      "id": "chijvzobszldujorenxfypu5pfk",
+      "title": "Daschuand puppy sales in Chennai",
+      "address": "Kannigai Street, MCN Nagar Extension, Chennai, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9497649,
+      "lon": 80.2328843
+    },
+    {
+      "id": "chijw5p65lj2ujorl96c8r8izrc",
+      "title": "Sara Kennel",
+      "address": "bus stop, 1, Krishnapuri, Erikarai Rd, Guduvancheri, Adhanur, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.857268,
+      "lon": 80.0576987
+    },
+    {
+      "id": "chijadrehzbnujor0hls5r2gews",
+      "title": "SHAGGIE PET SHOP (MAIN BRANCH)",
+      "address": "R2, TURN BULLS ROAD, 2ND CROSS STREET ADJACENT TO TOWER BLOCK, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.0280803,
+      "lon": 80.246404
+    },
+    {
+      "id": "chij69w5bpl1ujorgr6f3_j0o0i",
+      "title": "Max Pet Shop",
+      "address": "No.7,GRS Complex, Old Perungalathur, Mudichur Rd, Tambaram, Chennai, Tamil Nadu 600063",
+      "lat": 12.920072099999999,
+      "lon": 80.0880469
+    },
+    {
+      "id": "chijmxvy1wzfujordgpfpwkpjvc",
+      "title": "Pet shop chennai25",
+      "address": "8, Kishkintha Main Rd, Varadharajapuram, Chennai, Tamil Nadu 600132",
+      "lat": 12.940484099999999,
+      "lon": 80.08092359999999
+    },
+    {
+      "id": "chij_ujnzgbzujortl_vsychguw",
+      "title": "ZENZOO Aqua Pets",
+      "address": "274 vandalur to kelambakam, main road, near St'Joseph's Church, Melakottaiyur, Chennai, Tamil Nadu 600127",
+      "lat": 12.846436599999999,
+      "lon": 80.14791559999999
+    },
+    {
+      "id": "chij0vg52jl1ujorkhpndj2vo-y",
+      "title": "VANDALUR PET SHOP",
+      "address": "1/187,WALAJABATH MAIN ROAD OPP S2DREAM GYM or METRO JUICEE, OPP, M K Stalin St, Vandalur, Tamil Nadu 600048",
+      "lat": 12.8934568,
+      "lon": 80.0802623
+    },
+    {
+      "id": "chijaaualshnujorlduw6qojv28",
+      "title": "Pet Campus",
+      "address": "1st St, Kamarajar Colony, Dr.Subbaraya Nagar, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0493094,
+      "lon": 80.21937919999999
+    },
+    {
+      "id": "chijd_quuel2ujorpp3jparq190",
+      "title": "Kalani Pet Shop",
+      "address": "No:44, Railway Station Road, Selvaraj Nagar 5th Street, Sri Balaji Nagar, Selvaraj Nagar-V, Urapakkam, Kilampakkam, Tamil Nadu 603211",
+      "lat": 12.8674646,
+      "lon": 80.06812169999999
+    },
+    {
+      "id": "chijo8tgscjnujormagsu-somqs",
+      "title": "Heads Up For Tails Pet Store & Spa - Kotturpuram, Chennai",
+      "address": "1 No, Heads Up For Tails Pet Store & Spa - Kotturpuram, Chennai, Door No 47F GF, 2, Gandhi Mandapam Rd, Kotturpuram, Chennai, Tamil Nadu 600085",
+      "lat": 13.0222959,
+      "lon": 80.2422698
+    },
+    {
+      "id": "chijqftztkd2ujorkt78n7t3nds",
+      "title": "SPN Pet Shop",
+      "address": "444, GST Rd, Senthil Nagar, Urapakkam, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8646605,
+      "lon": 80.0747799
+    },
+    {
+      "id": "chijgabp0snmujorq3iyqu8wwi4",
+      "title": "PETS SALES",
+      "address": "52, Thangal karai, Kumaran Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.054447399999999,
+      "lon": 80.20688299999999
+    },
+    {
+      "id": "chij8w5n-kddujorscmzovb3ur0",
+      "title": "Lovely Pet shop",
+      "address": "18A1, 18A2, Rajiv Avenue, SH 49, Akkarai, Injambakkam, chennnai, Tamil Nadu 600115",
+      "lat": 12.9050766,
+      "lon": 80.24927509999999
+    },
+    {
+      "id": "chijg-joombfujortszdkilknxo",
+      "title": "Luxury Paws - Puppies & Dogs Sales",
+      "address": "No 10, Mambakkam - Medavakkam Main Rd, Sithalapakkam, Sittalapakkam, Tamil Nadu 600126",
+      "lat": 12.898136299999999,
+      "lon": 80.1820874
+    },
+    {
+      "id": "chijp3diqvznujorigciyighaeq",
+      "title": "Heads Up For Tails Pet Store Express Avenue Chennai",
+      "address": "1st Floor, Heads Up For Tails Pet Store Express Avenue Chennai, Express Avenue Mall, S110, Whites Rd, Express Estate, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.0583426,
+      "lon": 80.2640571
+    },
+    {
+      "id": "chijfzslbadnujorqeexw30p2-k",
+      "title": "Golden India Aquarist",
+      "address": "4, CIT 1st Main Rd, CIT Nagar West, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.030617399999999,
+      "lon": 80.2305925
+    },
+    {
+      "id": "chijxt2nj41hujorsl0rb9uqcek",
+      "title": "Maya Pets - Pet Store, Grooming & Clinic",
+      "address": "No. 307/4, Maya Pets - Pet Store, Grooming & Clinic, Alapakkam Main Rd, opposite Tony & Guy Salon, Srinivasa Nagar, Sri Krishna Nagar, Alapakkam, Maduravoyal, Chennai, Tamil Nadu 600116",
+      "lat": 13.0509588,
+      "lon": 80.16655109999999
+    },
+    {
+      "id": "chijwswhgannujormjoezeqdlss",
+      "title": "Excellent Pet Shop & Clinic",
+      "address": "63, Reddy Kuppam Rd, Panneerselvam Nagar, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.029105999999999,
+      "lon": 80.2241263
+    },
+    {
+      "id": "chijiwoolkzmujorqd51ogqtqic",
+      "title": "Classic Pet Products",
+      "address": "Old 104, G N, Classic Pet Products, Arihant Vtn Square, T, Gopathy Narayana Rd, Thirumurthy Nagar, Satyamurthy Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.046427,
+      "lon": 80.24204999999999
+    },
+    {
+      "id": "chijz_9tpabdujor_gnzh0qc4xo",
+      "title": "Dx aqua and pets",
+      "address": "55, East Coast Rd, Valmiki Nagar, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9763972,
+      "lon": 80.2643981
+    },
+    {
+      "id": "chijqwuxkwfdujorlztewt0s2wq",
+      "title": "Pets4U",
+      "address": "Pillaiyar Koil St, near antony chicken shop, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9509639,
+      "lon": 80.238224
+    },
+    {
+      "id": "chijz4dqiuppujorrbkmmffb5ky",
+      "title": "Stella Pet shop",
+      "address": "Dooming Street, Loop Rd, Santhome, Chennai, Tamil Nadu 600004",
+      "lat": 13.028489299999999,
+      "lon": 80.2782115
+    },
+    {
+      "id": "chij19_p0afnujorcke75dawbpi",
+      "title": "Vet4Pet",
+      "address": "539, Anna Salai, Fanepet, Nandanam, Chennai, Tamil Nadu 600035",
+      "lat": 13.025953999999999,
+      "lon": 80.231618
+    },
+    {
+      "id": "chij704cxvddujorlboiioigc1g",
+      "title": "C R Pet Shop",
+      "address": "Number.39, C R Pet Shop, 94, 2nd Main Rd, Sanatorium, Kamakoti Nagar, West Kamakoti Nagar, Valasaravakkam, Chennai, Tamil Nadu 600116",
+      "lat": 13.0457539,
+      "lon": 80.1703909
+    },
+    {
+      "id": "chijmzkc5c1mujorilaklfsj4xk",
+      "title": "GV Pets & Clinic",
+      "address": "No.127-B, E Vanniar St, KK Nagar West, Virugambakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.0456667,
+      "lon": 80.1927343
+    },
+    {
+      "id": "chijk3jpta9zujorlc053u1ffqq",
+      "title": "Zyropets – Pet Products & Accessories Wholesale",
+      "address": "65, Mambakkam - Medavakkam Main Rd, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.8942917,
+      "lon": 80.1806002
+    },
+    {
+      "id": "chijcd9g18tfujordubdujdxqza",
+      "title": "Alpha Pet Foods & Vet Pharmacy",
+      "address": "30, Medavakkam Main Rd, opposite to Indian Overseas Bank, Soundararajan Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",
+      "lat": 12.954609099999999,
+      "lon": 80.1868228
+    },
+    {
+      "id": "chijsxsya_hcujors3xniy9ad6o",
+      "title": "Lovely Pet Shop",
+      "address": "335A, Shantham Avenue Okkiyam Pettai, Rajiv Gandhi Salai, near Indian Oil Petrol Bunk, Chennai, Tamil Nadu 600097",
+      "lat": 12.926777999999999,
+      "lon": 80.23121669999999
+    },
+    {
+      "id": "chijhytj3mxhujorshhwxwwusqm",
+      "title": "ALPHA PET STORE",
+      "address": "10, Arcot Rd, near to Sathya Electronics, Lakshmi Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.038384899999999,
+      "lon": 80.1643016
+    },
+    {
+      "id": "chij-ss49wjfujorgljthudnmhs",
+      "title": "Sri pet shop",
+      "address": "520, Mudichur Rd, opposite to OM SARAVANA SWEET & BAKERY, Pandian Nagar, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.924880199999999,
+      "lon": 80.0995985
+    },
+    {
+      "id": "chijo8z107lfujorqrfrpba54em",
+      "title": "SOS pet shop",
+      "address": "105, SOS pet shop, 920, Grand Southern Trunk Rd, Kamaraj Nagar, Tambaram Sanatoruim, Tambaram Sanatorium, Tambaram, Tamil Nadu 600047",
+      "lat": 12.938333499999999,
+      "lon": 80.1292576
+    },
+    {
+      "id": "chijv3zs4arnujornguhfkkwj1o",
+      "title": "The Pet's Country - Pets Store, Pet Clinic & Vet Pharmacy",
+      "address": "Old No.30, The Pet's Country - Pets Store, Pet Clinic & Vet Pharmacy, New 49, N Usman Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.050470299999999,
+      "lon": 80.2337933
+    },
+    {
+      "id": "chijcyz5am5fujornigpaodigym",
+      "title": "Tamil Nadu Pet Shop",
+      "address": "28-a, Venkatesan St, West Tambaram, Tambaram, Tamil Nadu 600045",
+      "lat": 12.929915099999999,
+      "lon": 80.1146115
+    },
+    {
+      "id": "chij2eshzwbnujorfyvyrahukhs",
+      "title": "Raj Pet Shop",
+      "address": "Ground Floor Ellaiammman, Raj Pet Shop, Old No.54, New No. 191, Ellaiamman Koil St, Vannanthurai, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 12.9970166,
+      "lon": 80.26209899999999
+    },
+    {
+      "id": "chijvzcuw0p1ujorhenhjbyyhtg",
+      "title": "Chennai Pet Shop SP Aviary",
+      "address": "5a, Mullai Street, West, Ramani Nagar, Krishna Nagar Extension, Tambaram, Chennai, Tamil Nadu 600045",
+      "lat": 12.9198591,
+      "lon": 80.0953208
+    },
+    {
+      "id": "chijaqbjddzhujorsg9a79sfbdu",
+      "title": "Best For Pets - Ramapuram, Chennai",
+      "address": "4 23, Valluvar Salai, Rayala Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0300728,
+      "lon": 80.1838684
+    },
+    {
+      "id": "chijdcb7gchnujorku9nhm4zew0",
+      "title": "PETS MART",
+      "address": "16, 36th St, near Thillai Ganga Nagar Subway, Nanganallur, Thillaiganga Nagar, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9910388,
+      "lon": 80.1949997
+    },
+    {
+      "id": "chijurcnoa1bujorpgpesuc4zb0",
+      "title": "Sukar Pet Supplies",
+      "address": "No 618/1, Rajiv Gandhi Salai, Gandhi Nagar, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8847442,
+      "lon": 80.2264509
+    },
+    {
+      "id": "chijq7lxu-xfujorjdgocv2jtzc",
+      "title": "Pet Souq",
+      "address": "170A, Velachery Main Rd, East Tambaram, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9226765,
+      "lon": 80.1367317
+    },
+    {
+      "id": "chij4sm-hptnujormvsmmrqgvn8",
+      "title": "ZEN TAIL PET SHOP * CLINIC * SPA",
+      "address": "120, Jani Jhan Khan Rd, Bharathi Salai, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.056949,
+      "lon": 80.2704656
+    },
+    {
+      "id": "chijiwwdikfnujorzcrkqm6rncy",
+      "title": "Wag a Day Pet Store & Spa",
+      "address": "Ground Floor, Wag a Day Pet Store & Spa, E-163/11, Annai Velankanni Road, Ashtalaxmi Garden, Besant Nagar, Chennai, Tamil Nadu 600090",
+      "lat": 12.995434999999999,
+      "lon": 80.2683797
+    },
+    {
+      "id": "chij70xvvaxnujorqtyns-_rrqc",
+      "title": "Heads Up For Tails Pet Store & Spa - Alwarpet",
+      "address": "Door No. 281, Heads Up For Tails Pet Store & Spa - Alwarpet, Karthik Complex, New, Mowbrays Rd, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.032768599999999,
+      "lon": 80.2527789
+    },
+    {
+      "id": "chij5e2vdg32ujoru9m5shcjlza",
+      "title": "Giffy Tails & Meds",
+      "address": "4/109, Perumal Complex GST Road, Opp Vandalur Zoo, Vandalur, Tamil Nadu 600127",
+      "lat": 12.870431799999999,
+      "lon": 80.1077033
+    },
+    {
+      "id": "chijq_-w7yvdujorfzq2t0qb5wi",
+      "title": "lovely pet needs",
+      "address": "No. 28, Velachery Main Rd, Dhandeeswaram, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9823942,
+      "lon": 80.22185139999999
+    },
+    {
+      "id": "chijaqaaaptnujor8gsbacd2hs4",
+      "title": "Alpha Pet Store – Besant Nagar – Dog & Cat Shop",
+      "address": "Aspiran Garden Colony, Besant Nagar, Chennai, Tamil Nadu 600010",
+      "lat": 13.0004849,
+      "lon": 80.2635007
+    },
+    {
+      "id": "chijdtxbpq9nujor7mq6h7ugfoe",
+      "title": "Royal Pet Shop",
+      "address": "No 12, Royal Pet Shop, 13, 7th Cross Street, Lakshmipuram, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9525208,
+      "lon": 80.1348441
+    },
+    {
+      "id": "chijq9kjhnpnujorunujvls0a84",
+      "title": "PAW'S PROVISION (pet shop, spa & clinic)",
+      "address": "Old No.21, PAW'S PROVISION (pet shop, spa & clinic), New No.48, LB Rd, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.9946922,
+      "lon": 80.2560613
+    },
+    {
+      "id": "chij4wbrtllfujoruj1zbcadzjg",
+      "title": "NRN's SOS Pet shop",
+      "address": "202, NRN's SOS Pet shop, 253, Velachery Main Rd, Leela Colony, East Tambaram, Tambaram, Tamil Nadu 600059",
+      "lat": 12.9227033,
+      "lon": 80.1300667
+    },
+    {
+      "id": "chijru-smpvnujorq39wa5hizdk",
+      "title": "Classic Pet Shop",
+      "address": "94, Jawaharlal Nehru Salai, Bhakthavathchalam Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0557691,
+      "lon": 80.21173189999999
+    },
+    {
+      "id": "chijg2s_uqznujor2otqtrykdaw",
+      "title": "Genuine Pets Chennai",
+      "address": "No5, Venkatachalam St, muthurangam block, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+      "lat": 13.0263388,
+      "lon": 80.2102215
+    },
+    {
+      "id": "chijp1t2k4hjujorqg_6eesm0ku",
+      "title": "Jp pet pharmacy",
+      "address": "No -7, teacher's colony, Kasturba Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.000984299999999,
+      "lon": 80.25209339999999
+    },
+    {
+      "id": "chij9x3eztb9ujorflsnsveizda",
+      "title": "Sri Srinivasa Broilers",
+      "address": "No52D, Kanchipuram High Rd, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6972741,
+      "lon": 79.97212999999999
+    },
+    {
+      "id": "chijn7cbhgt9ujorfleazipav84",
+      "title": "Pet junction",
+      "address": "Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6949916,
+      "lon": 79.9737476
+    },
+    {
+      "id": "chijhwizxgr8ujorkcc2ow_6o8u",
+      "title": "Neelas's Live Colours Aquarium & Pets",
+      "address": "No.1F, Gandeeban Street, V.N.A Complex, behind Axis Bank, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.686193399999999,
+      "lon": 79.9828418
+    },
+    {
+      "id": "chijh9kyhrj9ujorf96mxwa8fg8",
+      "title": "Zam Zam Pet Shop",
+      "address": "No.2, Zam Zam Pet Shop, Jayalakshmi Kalyana Mandapam Complex, GST Rd, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6866972,
+      "lon": 79.9830325
+    },
+    {
+      "id": "chijoqwfqw_8ujor5eg6fyujfck",
+      "title": "MR Aquarium",
+      "address": "J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6932029,
+      "lon": 79.9777412
+    },
+    {
+      "id": "chiji7u2gwb8ujorwrughro6n5q",
+      "title": "THE EXCLUSIVE PET SHOP",
+      "address": "MXQF+GWQ THE EXCLUSIVE PET SHOP, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6888265,
+      "lon": 79.9748444
+    },
+    {
+      "id": "chijdarqzwt9ujorpucidvnotdo",
+      "title": "Neelas live colours aquarium and pets",
+      "address": "391, Neelas live colours aquarium and pets, Melamaiyur, 1, TKM Rd, Anna Nagar, Vallam, Tamil Nadu 603003",
+      "lat": 12.6843463,
+      "lon": 79.9878706
+    },
+    {
+      "id": "chije89jkwd9ujornykr4xm7i_o",
+      "title": "Shepherd grooming centre Dog&cat Chengalpattu",
+      "address": "302, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.695508199999999,
+      "lon": 79.9777637
+    },
+    {
+      "id": "chijl37tuan9ujorepohzd6kow8",
+      "title": "Joseph Pets",
+      "address": "7th street, 5th Cross St, Sakthi Nagar, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.679025399999999,
+      "lon": 79.9919493
+    },
+    {
+      "id": "chijs25wdjl9ujor1uoxuvat9ey",
+      "title": "VIP Pet Shop",
+      "address": "Omampuliyur Road, Kattumannar Koil, Alapakkam, Kanchipuram, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.676580999999999,
+      "lon": 79.9956614
+    },
+    {
+      "id": "chijqeeen6h9ujor5aizednhmb4",
+      "title": "Sugam Pet Clinic",
+      "address": "Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6925595,
+      "lon": 79.9776392
+    },
+    {
+      "id": "chijq120fmr9ujoruy3egpdo-wu",
+      "title": "AUROPET CLINIC & PETSTORE",
+      "address": "Door No. 10, AUROPET CLINIC & PETSTORE, old GST, Pulipakkam Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.7042333,
+      "lon": 79.9767758
+    },
+    {
+      "id": "chijhs8qtsv9ujor1yri7mpifp4",
+      "title": "Guppy fishes",
+      "address": "NO : 148/5, 3rd St, Santhi Nagar, Nenmeli, Vallam, Tamil Nadu 603003",
+      "lat": 12.6747236,
+      "lon": 80.0054924
+    },
+    {
+      "id": "chij0dz9vgn9ujorf53ktmftgti",
+      "title": "Pets Online",
+      "address": "32, 83Pillayar Kovilst, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6812206,
+      "lon": 79.9746133
+    },
+    {
+      "id": "chijd11inln3ujoratp-x5nxzcq",
+      "title": "The Paw hevan Pets",
+      "address": "256, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.847139799999999,
+      "lon": 80.0623689
+    },
+    {
+      "id": "chijtx0s8jr3ujorf9abz15uwsk",
+      "title": "PET'S KINGDOM JEHOVAH - JIREH",
+      "address": "HIG 84, Sekkizhar St, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7951894,
+      "lon": 80.0255732
+    },
+    {
+      "id": "chijm-kxasd3ujorltwziqazoc0",
+      "title": "Feathers and Fur",
+      "address": "No.34, Selva Vinayagar Kovil Street, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8581644,
+      "lon": 80.0617972
+    },
+    {
+      "id": "chijbztctg39ujorywmw1gbq8ri",
+      "title": "Vignesh Kennel",
+      "address": "10/28,kalvari Nagar,Ammanambakkam, kollamedu, near Rice mill, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6885319,
+      "lon": 79.9995923
+    },
+    {
+      "id": "chijybdkdqd9ujora8oratiijxy",
+      "title": "R S Aquarium",
+      "address": "MXQG+CCV R S Aquarium, Chinna kadai, Anna Salai, Varadharaja Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.688618,
+      "lon": 79.9760515
+    },
+    {
+      "id": "chijazaadqd3ujoriqcg6elordm",
+      "title": "Love birds sale",
+      "address": "R25P+J27 Love birds sale, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8090348,
+      "lon": 80.035038
+    },
+    {
+      "id": "chijurgjhjt3ujorw7cbbaz6gtm",
+      "title": "MANI PETS",
+      "address": "No.32, Gnanambigai street, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8108697,
+      "lon": 80.02727089999999
+    },
+    {
+      "id": "chijhzohlavzujoruhvprrjssce",
+      "title": "Siva aquarium & pets shop",
+      "address": "Vengadamangalam Rd, Kandigai, Chennai, Tamil Nadu 600127",
+      "lat": 12.852225599999999,
+      "lon": 80.1409551
+    },
+    {
+      "id": "chijktoztx33ujornllc1fqxq8q",
+      "title": "I N G S WORLD",
+      "address": "165, Adhanur Main Rd, Urapakkam, Chennai, Adhanur, Tamil Nadu 603211",
+      "lat": 12.8699543,
+      "lon": 80.0586572
+    },
+    {
+      "id": "chijy9luli_3ujor1urqiacv2ik",
+      "title": "All Birds farm guduvancherry Chennai",
+      "address": "104, MGR St, opposite Molakalani, near SHRIRAM SHANKARI, Thangappapuram, Guduvancheri, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.8148498,
+      "lon": 80.07934259999999
+    },
+    {
+      "id": "chijhteq50f2ujorinelpofccqc",
+      "title": "OCEAN AQUARIUM & PETS SHOP",
+      "address": "No 865, OCEAN AQUARIUM & PETS SHOP, Main Road, Senthil Nagar, Urapakkam, Karanaipuducheri, Chennai, Tamil Nadu 603210",
+      "lat": 12.8593894,
+      "lon": 80.07427779999999
+    },
+    {
+      "id": "chijgb5ax6r5ujorj1w0mfrznka",
+      "title": "MN aquarium",
+      "address": "7/140, Thangamal Colony, Singaperumal Koil, Tamil Nadu 603204",
+      "lat": 12.7557692,
+      "lon": 80.0093986
+    },
+    {
+      "id": "chija6lm6av3ujormbm-ki_mxlk",
+      "title": "Giffy Pawsitive Tails | Pet Store | Guduvanchery",
+      "address": "First floor, Giffy Pawsitive Tails | Pet Store | Guduvanchery, Max Showroom, No:2, GST Rd, opposite EB Stop, Adhiparasakthi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.851100299999999,
+      "lon": 80.0661789
+    },
+    {
+      "id": "chijk_r53sb7ujorzittjbje7mw",
+      "title": "TINY SOULS PET CLINIC",
+      "address": "shop no:1, building no:7, TINY SOULS PET CLINIC, Veerapandiyan Kattabomman St, Mahindra World City, Veerapuram, Thirutheri R.F., Tamil Nadu 603004",
+      "lat": 12.7391432,
+      "lon": 79.9989664
+    },
+    {
+      "id": "chijq6qqqrpqujorlr5clfvz5em",
+      "title": "CLASSIC PET SHOP",
+      "address": "No, 3/421 OMR Road Kazhipatur Village, Padur, Post, Chennai, Tamil Nadu 603103",
+      "lat": 12.8103669,
+      "lon": 80.22733579999999
+    },
+    {
+      "id": "chijdbjkaqbrujorsgi4-udm7o8",
+      "title": "Aquarium and pet shop",
+      "address": "99, Sandror St, Thiruporur, Tamil Nadu 603110",
+      "lat": 12.7194396,
+      "lon": 80.1888829
+    },
+    {
+      "id": "chijh1gyue33ujormsh8egzis9c",
+      "title": "Mithu's Pet Shop",
+      "address": "No 7, Karanai Puducherry Rd, Thiruvalluvar Salai, Urapakkam, Karanaipuducheri, Tamil Nadu 603210",
+      "lat": 12.8473572,
+      "lon": 80.0867717
+    },
+    {
+      "id": "chijtwpd4qp1ujordqt1yjdyhws",
+      "title": "Ss Pet shop",
+      "address": "V3V4+GGC Ss Pet shop, Sline, Chennai, Varadharajapuram, Tamil Nadu 600048",
+      "lat": 12.8938209,
+      "lon": 80.05625359999999
+    },
+    {
+      "id": "chijgcmsyaz3ujorlwsz85owvvy",
+      "title": "S.B.aquarium shop",
+      "address": "3/4, Nellikuppam Rd, near HDFC ATM, Kamarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.843373099999999,
+      "lon": 80.0602735
+    },
+    {
+      "id": "chiji7jaoq75ujorqi47hlyqukm",
+      "title": "Sri Ganapathi Pets",
+      "address": "13/14, Nagavalli Amman Koil St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.787922199999999,
+      "lon": 80.0380656
+    },
+    {
+      "id": "chijvfusowl5ujorz17tr1_zt1g",
+      "title": "Noor rabbit farm house",
+      "address": "30, pillaiyar kovil Street, Sengunram, chengalpattu dt,tamilnadu,60324, Maraimalai Nagar, Tamil Nadu 603204",
+      "lat": 12.7616485,
+      "lon": 80.0235391
+    },
+    {
+      "id": "chij9rzfz2f3ujorey_pbr_r_ew",
+      "title": "Sri Sai Aquarium And Pets",
+      "address": "Plot no, Sri Sai Aquarium And Pets, 44, Pandian St, Ram Nagar, Urapakkam, Chennai, Mannivakkam, Tamil Nadu 603211",
+      "lat": 12.8691709,
+      "lon": 80.0652254
+    },
+    {
+      "id": "chiji-jmtad3ujorvg9oohxwggu",
+      "title": "Hedgehog pet sale",
+      "address": "Srinivasapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.840340099999999,
+      "lon": 80.05623039999999
+    }
+  ],
+  "updated_at_utc": "2026-09-27T14:17:48.081257+00:00"
+}

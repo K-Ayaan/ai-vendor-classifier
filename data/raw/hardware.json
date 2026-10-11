@@ -1,0 +1,2130 @@
+{
+  "category": "hardware",
+  "status": "complete",
+  "count": 303,
+  "outside": 64,
+  "points": [
+    {
+      "id": "chijc8whbkt5ujorwazb5q_u7oa",
+      "title": "SKS ELECTRICAL & PLUMBING AC SERVICE",
+      "address": "16A/1, Kannadasan St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.791455,
+      "lon": 80.0314583
+    },
+    {
+      "id": "chijyqbnven7ujorcofpd42t7d8",
+      "title": "GML TRADERS Plumbing and Electricals.",
+      "address": "no.286, nathaji street, veerapuram, dt, Mahindra World City, Chengalpattu, Tamil Nadu 603004",
+      "lat": 12.7388683,
+      "lon": 80.00089249999999
+    },
+    {
+      "id": "chijkxjjqgx8ujorpehrtuaedjo",
+      "title": "Suresh Electrical & Plumbing",
+      "address": "Shop No 55, Suresh Electrical & Plumbing, Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6943804,
+      "lon": 79.9738745
+    },
+    {
+      "id": "chijtud1gxn9ujordakz6sofnik",
+      "title": "RAMANAN STORE HARDWARE&ELECTRICAL&PLUMBING",
+      "address": "255A, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693467,
+      "lon": 79.9778894
+    },
+    {
+      "id": "chijz-7gjw78ujor58ymzjw7brs",
+      "title": "Vimal Enterprises",
+      "address": "19/4, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6925157,
+      "lon": 79.9796945
+    },
+    {
+      "id": "chijn1ase2j8ujorrmy2zpbnzgc",
+      "title": "E.V.Shanmugam Hardwares",
+      "address": "Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.686676199999999,
+      "lon": 79.9757142
+    },
+    {
+      "id": "chijsclfp4h9ujor05bzhfvl340",
+      "title": "DINESH ELECTRICALS & HARDWARES",
+      "address": "94/77, DINESH ELECTRICALS & HARDWARES, Big Chetty St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6918916,
+      "lon": 79.9784912
+    },
+    {
+      "id": "chijk5g9bxz8ujorge7bkknxyge",
+      "title": "Ayyan Electricals& plumbing",
+      "address": "203/1, T.K.M Rd, Alapakkam, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6824883,
+      "lon": 79.9879563
+    },
+    {
+      "id": "chiji2ywvat9ujorzzkfy3absac",
+      "title": "MOHANRAJ ELECTRICALS",
+      "address": "Thirumalai Theater, 2, GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.690128099999999,
+      "lon": 79.9816847
+    },
+    {
+      "id": "chijjy48rzv8ujorxgtlxsywmqc",
+      "title": "Ambika Electrical & Hardwares",
+      "address": "Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6778791,
+      "lon": 79.9965309
+    },
+    {
+      "id": "chijz9kb4y73ujorhy6dh7naule",
+      "title": "Electrical & plumbing works",
+      "address": "37, chilam street, Bharani Dharan Boss, Rajiv Gandhi Nagar, Urapakkam, Chennai, Ayyancheri, Tamil Nadu 603210",
+      "lat": 12.8551074,
+      "lon": 80.0763827
+    },
+    {
+      "id": "chijgwknkg78ujoraaaamjuw2hc",
+      "title": "Muthu Enterprises",
+      "address": "No 8/A, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.691963699999999,
+      "lon": 79.98012949999999
+    },
+    {
+      "id": "chijfxmerfrhyo0r83xi1qsgqci",
+      "title": "Bhawani Electrical & Hardware",
+      "address": "Bhawani Electrical And Hardware Palyam, Road, Appur, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7995921,
+      "lon": 80.0041272
+    },
+    {
+      "id": "chij5exi6zt3ujorddsczl5szlc",
+      "title": "PKV ENTERPRISES",
+      "address": "22, GST Rd, Kattankulathur, Maraimalai Nagar, Chengalpattu, Tamil Nadu 603203",
+      "lat": 12.804815399999999,
+      "lon": 80.0270517
+    },
+    {
+      "id": "chijn7yk6av3ujoropd_hssuwoc",
+      "title": "Thangam Hardware Stores",
+      "address": "103, Thangam Hardware Stores, no.4, 5, BUS STAND, 4, GST Rd, opp. GUDUVANCHERY, Gandhi Nagar, Kuberan Nagar, Kamarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.843450299999999,
+      "lon": 80.05949869999999
+    },
+    {
+      "id": "chijsrkya5l3ujor5miqs2jz8fa",
+      "title": "Sri manish tiles and marketing pvt Ltd",
+      "address": "12, GST Rd, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.812999699999999,
+      "lon": 80.03211399999999
+    },
+    {
+      "id": "chijhsb55032ujoro0smd_kmxu0",
+      "title": "H & R Johnson - Sri Dhanalakshmi Traders",
+      "address": "11/4, GST Rd, opposite TNEB Office, Nandivaram-Guduvancheri, Chennai, Tamil Nadu 603202",
+      "lat": 12.8505225,
+      "lon": 80.0656834
+    },
+    {
+      "id": "chijo9gl4px3ujorzksnnedxdxa",
+      "title": "Best Associates",
+      "address": "No 3/2 , LIG C Block Sadhasivam Road, kattankulathur, Chengalpattu, Tamil Nadu 603203",
+      "lat": 12.8082485,
+      "lon": 80.03059739999999
+    },
+    {
+      "id": "chijff-o3yj3ujor5dozjech8oe",
+      "title": "Bhawani Hardware And Electricals",
+      "address": "8, Thiruvalluvar St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.818771799999999,
+      "lon": 80.0366578
+    },
+    {
+      "id": "chijcrln3gt9ujord_-aky9rbui",
+      "title": "Sri Ganesh Power Tools And Plumbing Works",
+      "address": "10 China, Chinna Maniyakara St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6918946,
+      "lon": 79.9778828
+    },
+    {
+      "id": "chij_2snz679ujorneh6cdn-d14",
+      "title": "Mahadev Electrical and Hardwares",
+      "address": "No.113,T.K.M Road, post, Nehru Nagar, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6741918,
+      "lon": 80.0042275
+    },
+    {
+      "id": "chijf0rz3gz_ujorezapm_nt8rk",
+      "title": "H & R Johnson - K.R.Traders",
+      "address": "No 5, H & R Johnson - K.R.Traders, KR Traders, Main Road, opposite Sai Thirumala Nagar, Santhi Nagar, Nenmeli, Chengalpattu, Meleripakkam, Tamil Nadu 603003",
+      "lat": 12.666483999999999,
+      "lon": 80.01301699999999
+    },
+    {
+      "id": "chijncl2wwzdujoricykzxlzsxy",
+      "title": "Tamil Electrical & plumbing Works",
+      "address": "8, Kandhan St, Senthil Nagar, Urapakkam, Chennai, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.862110699999999,
+      "lon": 80.07445659999999
+    },
+    {
+      "id": "chijpzla-0__ujorjaw0qcmxsqu",
+      "title": "KRK HARDWARE & AGRO SERVICES",
+      "address": "No: 132, Karumbakkam Main Road, Chengalpet To Tiruppur main Road, Karumbakkam, T, Kanchipuram, Tamil Nadu 603108",
+      "lat": 12.705471099999999,
+      "lon": 80.08900589999999
+    },
+    {
+      "id": "chijn_btvkr3ujorugrfllaodz0",
+      "title": "Ram Electricals and hardwares",
+      "address": "R35J+423 Ram Electricals and hardwares, Kayarambedu Rd, Guruganesh Nagar, Iyyapa Nagar, Kayarambedu, Tamil Nadu 603202",
+      "lat": 12.807765,
+      "lon": 80.08005849999999
+    },
+    {
+      "id": "chij158k7kb5ujornt0pigxz9dg",
+      "title": "Surya electronic electrical & hardwares",
+      "address": "#7/6, Silapathykaram St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7900761,
+      "lon": 80.0340976
+    },
+    {
+      "id": "chijguzsdrt3ujormmnna2siqag",
+      "title": "Sathya Agencies, Guduvanchery1 - Electronics and Home Appliances Store",
+      "address": "Door No. 22/1, Sathya Agencies, Guduvanchery1 - Electronics and Home Appliances Store, Indian Bank Building, GST Rd, Nandivaram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.849235,
+      "lon": 80.0646586
+    },
+    {
+      "id": "chij2zyhgez2ujorkarspvmj6rm",
+      "title": "HARI OM ELECTRICALS AND HARDWARED",
+      "address": "77, Mahalakshmi Nagar Main Rd, Mahalakshmi Nagar, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.851973399999999,
+      "lon": 80.06885
+    },
+    {
+      "id": "chijzr4bzan3ujoryylbfk37iq8",
+      "title": "Thangam Electricals | Tiles & Sanitarywares",
+      "address": "47, GST Rd, Gandhi Nagar, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.841851799999999,
+      "lon": 80.057823
+    },
+    {
+      "id": "chij74wacgv9ujorsk4kzgxbxfg",
+      "title": "KR tiles and sanitary Wares",
+      "address": "No 5, TKM Road, Santhi Nagar, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.666407099999999,
+      "lon": 80.0127787
+    },
+    {
+      "id": "chijnaulnop9ujorveix1uhc2je",
+      "title": "NITCO - Anu Enterprises",
+      "address": "No 1E/6A, Shop, GST Rd, beside MJ Wheels & Tyres, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.7034931,
+      "lon": 79.97701049999999
+    },
+    {
+      "id": "chijk2l9cpf3ujorrgg5xsnzhug",
+      "title": "MR PVC doors & cupboards",
+      "address": "15/2, MR PVC doors & cupboards, 16/b, Sadhasivam Rd, Kattankulathur, Chengalpattu, Tamil Nadu 603203",
+      "lat": 12.8094679,
+      "lon": 80.0306839
+    },
+    {
+      "id": "chijfzknlv9fujorwtyjgdyzfx4",
+      "title": "Kalanjiam Hardwares World",
+      "address": "82, Grand Southern Trunk Rd, West Tambaram, Tambaram Sanatoruim, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9326742,
+      "lon": 80.1233641
+    },
+    {
+      "id": "chijcw1ts91vujormh_pmwvwmfu",
+      "title": "SRI THIRU MURUGAN TRADERS",
+      "address": "Rajiv Gandhi Salai, Thiruporur, Thandalam, Tamil Nadu 603110",
+      "lat": 12.7139698,
+      "lon": 80.187376
+    },
+    {
+      "id": "chiji4qekrz3ujorkcopiog3qhi",
+      "title": "SRI LAKSHMI TILES",
+      "address": "3, GST Road, Priya Nagar Rd, near SBI) Priyanagar Arch, Urapakkam, Chennai, Tamil Nadu 603210",
+      "lat": 12.859399499999999,
+      "lon": 80.07113009999999
+    },
+    {
+      "id": "chijs-xc7d78ujorjnh7wg694oe",
+      "title": "SK Hardware (ANSARI TYRES)",
+      "address": "407, TKM Rd, Sakthi Nagar, Big, Thenur, Melamaiyur, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6813703,
+      "lon": 79.99060879999999
+    },
+    {
+      "id": "chij4sfz59t9ujoryym2v9tknzq",
+      "title": "JAGAN TRADERS",
+      "address": "Pon Vilaintha Kalathur, Tamil Nadu 603111",
+      "lat": 12.6555327,
+      "lon": 79.9724979
+    },
+    {
+      "id": "chij-6eu1eh8ujort_4nr7afauc",
+      "title": "Balaji Hardware & Glass Plywoods",
+      "address": "ICICI Bank, 32/134, GST Rd, HO, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6844451,
+      "lon": 79.98328839999999
+    },
+    {
+      "id": "chijdrtaof32ujorpl85dj7bg7w",
+      "title": "Venakateswara Hardwares",
+      "address": "12, Station Rd, Sri Balaji Nagar, Urapakkam, Chennai, Mannivakkam, Tamil Nadu 603211",
+      "lat": 12.8679258,
+      "lon": 80.063879
+    },
+    {
+      "id": "chijncgnakz3ujorvbl0glpqhi8",
+      "title": "Sri Mahalakshmi Electricals",
+      "address": "#26, Nellikuppam Rd, Gandhi Nagar, Kamarajapuram, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8428718,
+      "lon": 80.0604422
+    },
+    {
+      "id": "chijkzb20rp3ujormcqyc7-zkf8",
+      "title": "KAG DEALERS VISWA TILES",
+      "address": "47 KAMBAR STREETOPP.G.S.T. ROAD GUDUVANCHERY, Chennai, Tamil Nadu 603202",
+      "lat": 12.841765899999999,
+      "lon": 80.06757259999999
+    },
+    {
+      "id": "chijxxf5icl3ujorkkozjkoyd7o",
+      "title": "QUALITY ELECTRICALS, ELECTRONICS &HARDWARE",
+      "address": "No50, Aadhaar Main road, Kabali Nagar, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8521957,
+      "lon": 80.0535807
+    },
+    {
+      "id": "chijbbqzl1p2ujorazwpdeylkbe",
+      "title": "KAG DEALERS G.M CERAMIC TILE",
+      "address": "# 137 /1 GST ROAD GUDUVANCHERRY, Chennai, Tamil Nadu 603202",
+      "lat": 12.8471526,
+      "lon": 80.06128679999999
+    },
+    {
+      "id": "chije9q3xvl2ujorsyfmsibphu0",
+      "title": "New Parasakthi Department Store",
+      "address": "141, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8474361,
+      "lon": 80.0625766
+    },
+    {
+      "id": "chij51qy3az3ujorbf75sfnai_q",
+      "title": "Pkv Enterprises",
+      "address": "26 114, GST Rd, Peramanur, Maraimalai Nagar, Nandivaram-Guduvancheri, Tamil Nadu 603209",
+      "lat": 12.8451024,
+      "lon": 80.0607009
+    },
+    {
+      "id": "chijdz2cxd72ujorou7f6hr3yey",
+      "title": "Vijayalakshmi Agency",
+      "address": "15, Revathipuram Main Rd, Revathipuram, Urapakkam, Chennai, Ayyancheri, Tamil Nadu 603210",
+      "lat": 12.8657037,
+      "lon": 80.0796768
+    },
+    {
+      "id": "chijdvl7l1j3ujorlpjwq_yh_be",
+      "title": "Asian Paints Colourideas - Arun Hardware",
+      "address": "44, GST Road Vallai MGR Salai, NH 1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.797704999999999,
+      "lon": 80.0224411
+    },
+    {
+      "id": "chij8ypwfkp5ujorodke0izobpo",
+      "title": "Sun Enterprises Hardwares and Electricals",
+      "address": "122, Vivekananda Nagar, Peramanur, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7867786,
+      "lon": 80.01275079999999
+    },
+    {
+      "id": "chijzqlugvt9ujorkemtvjbvla4",
+      "title": "Santhosh",
+      "address": "No 182 chinna thoppu street Vilagam, pandur, post, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6783532,
+      "lon": 79.98862179999999
+    },
+    {
+      "id": "chijvt5t2f75ujorwucuhiaogdq",
+      "title": "GREEN TRADERS ELETRICAL AND HARDWARE SHOP",
+      "address": "NO.1A, GREEN TRADERS ELETRICAL AND HARDWARE SHOP, E.W.S, GUDALUR VILLAGE, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7873135,
+      "lon": 80.0361046
+    },
+    {
+      "id": "chije7rljgd9ujorkuvlnawwogc",
+      "title": "Aruna ceramics -KAJARIA Tiles showroom",
+      "address": "MXV8+V8W Aruna ceramics -KAJARIA Tiles showroom, NH 32, J C K Nagar, Chengalpattu, Tamil Nadu 603101",
+      "lat": 12.6949326,
+      "lon": 79.9661905
+    },
+    {
+      "id": "chij6vs6fubnujorgty-w_3nkjm",
+      "title": "Singapore Hardwares and Interiors",
+      "address": "116/1, Dr Natesan Rd, near Chennai Citi Centre, Jagadambal Colony, Othavadi, Triplicane, Chennai, Tamil Nadu 600004",
+      "lat": 13.0439648,
+      "lon": 80.27410359999999
+    },
+    {
+      "id": "chijoyalaq73ujorixpnwkygwbo",
+      "title": "Bhavan Hardwares",
+      "address": "No.2/29, Bhavan Hardwares, Revathi complex, Medavakkam-Mambakkam Rd, opposite Ramco Cement Factory Road, Soumya Nagar, Medavakkam, Vengavasal, Tamil Nadu 600100",
+      "lat": 12.9084787,
+      "lon": 80.1905417
+    },
+    {
+      "id": "chijnzhipazcujor6ug92tohpym",
+      "title": "VIRAT ELECTRICALS AND HARDWARES",
+      "address": "7/853, Nookampalayam Rd, Nesamani Nagar, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.900991,
+      "lon": 80.1982869
+    },
+    {
+      "id": "chij4bmgi3veujorj-qav53ifxw",
+      "title": "Kasi hardware and electricals",
+      "address": "7, Medavakkam Main Rd, East Madipakkam, Keelkattalai, Tambaram, Tamil Nadu 600091",
+      "lat": 12.9610582,
+      "lon": 80.1873475
+    },
+    {
+      "id": "chiji7bhrh9dujortih7zpxpjq0",
+      "title": "SAI HARDWARE AND PLYWOOD",
+      "address": "33-34, Madipakkam Main Rd, Ram Nagar Police check post, Ram Nagar South, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9640396,
+      "lon": 80.2137872
+    },
+    {
+      "id": "chijd6k8j7bfujorpql9qpkwqic",
+      "title": "Zara Hardware",
+      "address": "Medavakkam Main Rd, opp. to Sathya showroomKovilambakkam, Nanmangalam, Tamil Nadu 600129",
+      "lat": 12.936536,
+      "lon": 80.1822401
+    },
+    {
+      "id": "chijnbk_pbpzujorw5wpq3x0pfe",
+      "title": "HARDWARE",
+      "address": "Kelambakkam - Vandalur Rd, Kandigai, Tamil Nadu 600127",
+      "lat": 12.8456358,
+      "lon": 80.148797
+    },
+    {
+      "id": "chijn5nootznujorl9adoqeu-5o",
+      "title": "HARDWARE CORNER - Showroom",
+      "address": "4, Kanagaraya Malaiyappan St, Mullima Nagar, Mandavelipakkam, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0265252,
+      "lon": 80.2739526
+    },
+    {
+      "id": "chijis6m-7tdujorisbsr40aw9k",
+      "title": "Shyam Electrical and Hardware",
+      "address": "no 421, Viduthalai Nagar 1st Main Rd, S. Kolathur, S.Kolathur, Viduthalai Nagar, Kovilambakkam, Tambaram, Tamil Nadu 600129",
+      "lat": 12.948191399999999,
+      "lon": 80.1988197
+    },
+    {
+      "id": "chijrtbu5cbdujorjmyg8tqaefe",
+      "title": "Ram Electricals And Hardwares",
+      "address": "3/287 ,1st Main Road, Nookampalayam Rd, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9050607,
+      "lon": 80.1995719
+    },
+    {
+      "id": "chijj9v1r0fmujorrtn66_t4huu",
+      "title": "Big Thahir Designer Hardware",
+      "address": "No. 117,118, Big Thahir Designer Hardware, 119, Kodambakkam High Rd, Kamdar Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.0537008,
+      "lon": 80.2361507
+    },
+    {
+      "id": "chijoxdqkoldujorcfbeaiy7n30",
+      "title": "RLP Hardwares",
+      "address": "15, Velachery Bypass Rd, near Vasanth & Co, Rajalakshmi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.983886499999999,
+      "lon": 80.2180917
+    },
+    {
+      "id": "chijrftccodcujornzfoz3dsg-0",
+      "title": "Burhani Industrial Hardware",
+      "address": "3/243, SH 49, Rajendra Garden, Bismillah Nagar, Pandian Nagar, Vettuvankeni, Chennai, Tamil Nadu 600115",
+      "lat": 12.936430699999999,
+      "lon": 80.2525064
+    },
+    {
+      "id": "chijatx7ahxcujorrka_alyqr_c",
+      "title": "SRI DURAI HARDWARE STORES",
+      "address": "No 114, SRI DURAI HARDWARE STORES, Babu Nagar, Medavakkam, Mambakkam, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9125327,
+      "lon": 80.1917797
+    },
+    {
+      "id": "chijx4dh835cujordn-ldvj7qma",
+      "title": "New Balaji Electrical & Hardware Sholinganallur (CRI Pump/Finolex & Ashirvad Pipe Fitting)",
+      "address": "No: 66, OMR, Near by Infosys, Sholinganallur, Tamil Nadu 600119",
+      "lat": 12.889112299999999,
+      "lon": 80.2275104
+    },
+    {
+      "id": "chijo1_nnofeujoraxmijwg_eli",
+      "title": "Sri Kumaran Hardwares",
+      "address": "No 38, Kamarajar Salai, Kovilambakkam, Kanchipuram, Tamil Nadu 600129",
+      "lat": 12.9377433,
+      "lon": 80.1823508
+    },
+    {
+      "id": "chijext7go1zujorf4wh4e0qgca",
+      "title": "SV Hardware Stores",
+      "address": "Mappedu Rd, GKM Nagar, Tambaram, Tiruvancheri, Tamil Nadu 600063",
+      "lat": 12.8917922,
+      "lon": 80.1275206
+    },
+    {
+      "id": "chijwaduu6teujor-rqk15oofio",
+      "title": "New Hardware India",
+      "address": "2/225, New Hardware India, Ottiambakkam Main Rd, Sithalapakkam, Sittalapakkam, Tamil Nadu 600131",
+      "lat": 12.8969068,
+      "lon": 80.18222229999999
+    },
+    {
+      "id": "chijy0x0n-t2ujor1p5754kr1qs",
+      "title": "Nafa Hardwares and Electricals",
+      "address": "7, Kuthanur Bus Stop, Guduvanchery, Madambakkam, Chennai, Tamil Nadu 603202",
+      "lat": 12.8517084,
+      "lon": 80.0408534
+    },
+    {
+      "id": "chijsr64x39zujorvd5zyvgkere",
+      "title": "S.S Hardwares",
+      "address": "No 9, S.S Hardwares, 5, Gandhi Rd, Sadhanandhapuram, Chennai, Sadhanathapuram, Tamil Nadu 600063",
+      "lat": 12.8981478,
+      "lon": 80.10620759999999
+    },
+    {
+      "id": "chijf3er-ljeujorbuqke574zm8",
+      "title": "Raja Hardware Stores",
+      "address": "76, Station Rd, Railway Colony, Doctors Colony, Chromepet, Tambaram, Tamil Nadu 600044",
+      "lat": 12.9503744,
+      "lon": 80.14540149999999
+    },
+    {
+      "id": "chijasmo3ab2ujor8nsi_3kjbky",
+      "title": "Thangam Hardwares",
+      "address": "bazzar street,navasakthi nagar, Vandalur - Oragadam - Walajabad Road, Padapai, Tamil Nadu 601301, Vandalur - Oragadam - Walajabad Rd, Padappai, Tamil Nadu 601301",
+      "lat": 12.887297199999999,
+      "lon": 80.0240396
+    },
+    {
+      "id": "chijnymvzlbnujorw8lye3i9ike",
+      "title": "ABBAS HARDWARE",
+      "address": "92 jn salai, Jawaharlal Nehru Salai, Thirunagar, Bhakthavathchalam Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0547913,
+      "lon": 80.2117174
+    },
+    {
+      "id": "chijq6y9rbxhujor3ewlpwunoda",
+      "title": "Hardware shop",
+      "address": "6/96, Subha Giri Nagar, Iyyappanthangal, Chennai, Tamil Nadu 600077",
+      "lat": 13.048154199999999,
+      "lon": 80.1434257
+    },
+    {
+      "id": "chijldwxhidnujordotywkaksmi",
+      "title": "Vijay Electricals & Hardware Stores",
+      "address": "70, 100 Feet Rd, MGR Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.0340023,
+      "lon": 80.20092149999999
+    },
+    {
+      "id": "chij4q5n3u32ujor67ydpshrxfi",
+      "title": "Kumaran Store",
+      "address": "11/1, GST Rd, opp. to Zudio, Nandhivaram, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8506558,
+      "lon": 80.0656223
+    },
+    {
+      "id": "chijzq7uyrvnujorp3tjha9le0k",
+      "title": "Prince Hardwares Centre",
+      "address": "Shop No. 6, Prince Hardwares Centre, Alwarpet St, Cooperative Colony, Sri Ram Nagar, Alwarpet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0334443,
+      "lon": 80.25261909999999
+    },
+    {
+      "id": "chij-s9tlet0ujorbxvgnhrfks8",
+      "title": "mathaji hardware",
+      "address": "W2XW+WJJ mathaji hardware, Somangalam, Tamil Nadu 600133",
+      "lat": 12.9498395,
+      "lon": 80.0465049
+    },
+    {
+      "id": "chijdxxd91x2ujorgrhyot7wyp4",
+      "title": "Kumar Hardware store",
+      "address": "V323+FGR Kumar Hardware store, Erikarai Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.851239,
+      "lon": 80.0537686
+    },
+    {
+      "id": "chij423xis1mujor9hmfup7k4wa",
+      "title": "The Deluxe Hardwares",
+      "address": "Head Post Office, Old# 163/2 New# 98/2, Kutchery Rd, opp. Mylapore, Girija Garden, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.034733099999999,
+      "lon": 80.2719405
+    },
+    {
+      "id": "chijkeilkq33ujor67nio_fv_au",
+      "title": "Ganesh Hardware And Electricals And Cycles",
+      "address": "144, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8466189,
+      "lon": 80.0620533
+    },
+    {
+      "id": "chijx9ffrpxmujorkhoh3tqamgi",
+      "title": "SARAVANA HARDWARE",
+      "address": "52, Aryagowda Rd, near by Bank Of Baroda, SM Nagar, Vivekanandapuram, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0398912,
+      "lon": 80.2212234
+    },
+    {
+      "id": "chijaqaavjlvujor8-00c-a_gww",
+      "title": "SRI RAM HARDWARE STORES",
+      "address": "No.1, 2 & 4, SRI RAM HARDWARE STORES, TNHB Shopping Complex, S. V. Chidambaram Rd, Pari Nagar, West Jafferkhanpet, Chennai, Tamil Nadu 600083",
+      "lat": 13.0285614,
+      "lon": 80.2088991
+    },
+    {
+      "id": "chij7-kkc9dmujor-ejlgn4oe1e",
+      "title": "A.M.Hardwares",
+      "address": "30, Anna Main Rd, MGR Nagar, Nesapakkam, Chennai, Tamil Nadu 600078",
+      "lat": 13.0365589,
+      "lon": 80.1997401
+    },
+    {
+      "id": "chijtes1getmujord3uef0iwrv0",
+      "title": "Classic Hardware And Tools",
+      "address": "89, Tiruvalluvar Salai, Seethammal Colony, Lubdhi Colony, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.037478,
+      "lon": 80.2512399
+    },
+    {
+      "id": "chij____64hdujorkuav0dbm0mk",
+      "title": "Sri Balaji Hardware Stores",
+      "address": "No.33, By Pass Road, 100 Feet Rd, Rajalakshmi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9847515,
+      "lon": 80.2181208
+    },
+    {
+      "id": "chijvvvvvvzmujorwdc9re4wr64",
+      "title": "Sudharsun Hardware",
+      "address": "New No 28/B, Old No 26/B, Natesan Street, (, Natesan St, near Shiva Vishnu Temple, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.036686999999999,
+      "lon": 80.228686
+    },
+    {
+      "id": "chiju_fiww1fujorchx-wnsvne0",
+      "title": "Sri Patel Hardware ceramic tiles tambarm",
+      "address": "9, Shanmugam Rd, West Tambaram, Tambaram, Chennai, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9268827,
+      "lon": 80.11396309999999
+    },
+    {
+      "id": "chijtwimkbffujor1uwlolrdgn4",
+      "title": "Mahalakshmi Electrical & Hardware",
+      "address": "No.19, Agaram Main Rd., Ranganatha Nagar, Indira Nagar, Selaiyur, Tambaram, Tamil Nadu 600073",
+      "lat": 12.911445299999999,
+      "lon": 80.1433725
+    },
+    {
+      "id": "chijv_jomlfaujorvnuzmcspdc8",
+      "title": "Mahalakshmi Electricals And Hardware",
+      "address": "1/268, Omr, Navalur, Chennai-6000130, Navalur, Tamil Nadu 600130",
+      "lat": 12.8451325,
+      "lon": 80.2264562
+    },
+    {
+      "id": "chijx96qqktmujoryeny619o17e",
+      "title": "Brown Hardware Stores",
+      "address": "110, Eldams Rd, Subbarayan Nagar, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0392461,
+      "lon": 80.2485174
+    },
+    {
+      "id": "chiju3pv6hxcujor9atgeswumvk",
+      "title": "S K Electricals And Hardwares",
+      "address": "439/1b, Old Mahabalipuram Road, Sholinganallur, Near Indian Bank, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8969463,
+      "lon": 80.22743679999999
+    },
+    {
+      "id": "chijf_1zsub2ujor9zvct4i9k6y",
+      "title": "Muthu Hardwares",
+      "address": "Old No-239, New No-218, G.S.T. Road, Karanai Puduchery, Urapakkam, Vandalur R.F., Tamil Nadu 603210",
+      "lat": 12.856829399999999,
+      "lon": 80.07639139999999
+    },
+    {
+      "id": "chijv9na1px3ujorphhc_9dac0e",
+      "title": "AYYANAR HARDWARES & ELECTRCALS",
+      "address": "No. 198/1 Kuthanoor, Main Rd, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8517607,
+      "lon": 80.0414314
+    },
+    {
+      "id": "chijxxgmi0tmujorib6gicpfrbu",
+      "title": "Chennai electricals & tools",
+      "address": "145/90, Tiruvalluvar Salai, Seetammal Colony, Seethammal Colony, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.0364294,
+      "lon": 80.2510546
+    },
+    {
+      "id": "chijz-fo0ndeujorelh8slmjbe4",
+      "title": "Sri Lakshmi Electricals",
+      "address": "3/215, Madipakkam koot road, Medavakkam Main Rd, Chennai, Tamil Nadu 600091",
+      "lat": 12.968748699999999,
+      "lon": 80.18967719999999
+    },
+    {
+      "id": "chijabr5prlcujor6bmmxxf9n2y",
+      "title": "Om Electricals & Electronics| All Kind of Electrical Items",
+      "address": "No. 3/161, Perumbakkam Main Rd, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.916103,
+      "lon": 80.194501
+    },
+    {
+      "id": "chijq9t6uuldujorr_3pqqxbjiy",
+      "title": "J.K Electricals & Electronics",
+      "address": "3/294, 1st Main Road, Nookampalayam Rd, Perumbakkam, Tamil Nadu 600100",
+      "lat": 12.9048983,
+      "lon": 80.1996194
+    },
+    {
+      "id": "chijmvjnb1raujorh2aagjlyoou",
+      "title": "Mohan Electricals OMR",
+      "address": "PG Hostel, No: 366, Rajiv Gandhi Salai, near by prince infocity 1 building, near by ganapathi, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.969220499999999,
+      "lon": 80.2487306
+    },
+    {
+      "id": "chij15pu3vvmujorq_mrrshdzhc",
+      "title": "RATHNA ELECTRICALS",
+      "address": "30, Raja Bather St, near Pondy Bazzar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0411402,
+      "lon": 80.23860669999999
+    },
+    {
+      "id": "chijc4pmwjfdujorsmkriabvtee",
+      "title": "Nirmal Hardwares and Electricals",
+      "address": "87, Velachery Main Rd, Devi Karumariamman Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.928239,
+      "lon": 80.2005185
+    },
+    {
+      "id": "chijzchdeyhdujorqqhpacrpzg0",
+      "title": "Ganga Electricals And Electronics",
+      "address": "No. 6, Ganga Electricals And Electronics, 24, Velachery Main Rd, Vengaivasal, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.917634699999999,
+      "lon": 80.1907056
+    },
+    {
+      "id": "chij220peh5cujorvjyjtqa2l9u",
+      "title": "SHAM Electricals Hardwares & Electronics",
+      "address": "No 3,, Rajiv Gandhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.904157,
+      "lon": 80.22907909999999
+    },
+    {
+      "id": "chijk4zbjpzdujor00ssmsbuyqw",
+      "title": "SHREE MAHAVEER ELECTRICALS",
+      "address": "6A, TARAMANI MAIN ROAD, Varadharajapuram, Tansi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9772933,
+      "lon": 80.22372759999999
+    },
+    {
+      "id": "chijmw2uuo1bujoryecl8k72fjm",
+      "title": "Haazil Electrical Hardwares & Trading",
+      "address": "Chola Akshyam Palazo, near, Ottiambakkam Main Rd, Ottiambakkam, Tamil Nadu 600130",
+      "lat": 12.876620899999999,
+      "lon": 80.1924849
+    },
+    {
+      "id": "chijk7mcngjdujornntqcul7unk",
+      "title": "Havells Galaxy - GP Electricals",
+      "address": "GROUND FLOOR, Havells Galaxy - GP Electricals, No 3/631, Perumbakkam Main Rd, nearby VIDYA MATRIC HIGHER SECONDARY SCHOOL-PERUMBAKKAM, Jalladiampet, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9127263,
+      "lon": 80.19528969999999
+    },
+    {
+      "id": "chijivacyjzcujorvbe_mb3hb04",
+      "title": "JAGADAMBA ELECTRICALLS & ELECTRONICS",
+      "address": "247, Velachery Main Rd, Selvam Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9358553,
+      "lon": 80.2041455
+    },
+    {
+      "id": "chijiy77kx9cujort_c_cryj-bs",
+      "title": "Kanchan Electricals & Hardware",
+      "address": "5/543, Velachery Main Rd, Near Perumal Koli Arch, Vengaivasal, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.917399999999999,
+      "lon": 80.19231549999999
+    },
+    {
+      "id": "chij6zeqsr9cujor8bpweul1s1c",
+      "title": "Sowcar Electricals",
+      "address": "Plot 10/77 Velachery main road, Major Mukund Varadharajan Rd, Medavakkam, Tamil Nadu 600100",
+      "lat": 12.9181387,
+      "lon": 80.1889994
+    },
+    {
+      "id": "chijtzk4zrpdujorfyn9thtapca",
+      "title": "Divya Electricals",
+      "address": "No 52, Vallal Pari Nagar 6th St, Pari Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.9275481,
+      "lon": 80.2088589
+    },
+    {
+      "id": "chijaqlezkbdujorbqaqug223_c",
+      "title": "Schneider Electric - Sri Kumaran Electricals",
+      "address": "2nd Floor, Schneider Electric - Sri Kumaran Electricals, Indian Overseas Bank, 38A, Major Mukund Varadharajan Rd, Kovilambakkam, Chennai, Tamil Nadu 600129",
+      "lat": 12.932701199999999,
+      "lon": 80.20369319999999
+    },
+    {
+      "id": "chijm3vilgbdujorqgb_pr5fola",
+      "title": "Schneider Electric - Sri Balaji Electricals, Hardwares & Plumbing",
+      "address": "202, Nookampalayam Rd, Perumbakkam, Tamil Nadu 600099",
+      "lat": 12.9058979,
+      "lon": 80.19958369999999
+    },
+    {
+      "id": "chijsyaz0lfdujordoy7q0tfige",
+      "title": "Vishnu Electricals",
+      "address": "No:73, Velachery Main Rd, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.928363599999999,
+      "lon": 80.20232159999999
+    },
+    {
+      "id": "chije14egjxnujor0lm5ceepuqg",
+      "title": "Sangam electricals",
+      "address": "2/33 Ambal Nagar Main Road Ekaduthangal, Poomagal Nagar, Gandhi Nagar, Chennai, Tamil Nadu 600032",
+      "lat": 13.017724399999999,
+      "lon": 80.2046453
+    },
+    {
+      "id": "chijpw4yx7xnujorvkjyz-vtzrq",
+      "title": "Mohan Electricals",
+      "address": "New No.13, Old No.20/2, New St, Avvai Colony, Kotturpuram, Chennai, Tamil Nadu 600085",
+      "lat": 13.0169395,
+      "lon": 80.24424069999999
+    },
+    {
+      "id": "chijwur8klp2ujorb78jdudpgea",
+      "title": "Ashok Electrical And Electronics",
+      "address": "No.4, Gandhi St, opp. Masudi, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.846813299999999,
+      "lon": 80.06184329999999
+    },
+    {
+      "id": "chijqec6p1laujortthivrii_oo",
+      "title": "Schneider Electric - Bharath Electricals Electronics",
+      "address": "Plot No 7/73 Rajiv Gandhi Salai, OMR Road Egattur, opposite Marina Mall, Chennai, Tamil Nadu 600130",
+      "lat": 12.8363406,
+      "lon": 80.22812859999999
+    },
+    {
+      "id": "chijjxqiwy31ujorudrc_gfmw-i",
+      "title": "Super Electricals",
+      "address": "Mudichur Rd, Gandhi Nagar, Tambaram, Old Perungalathur, Chennai, Tamil Nadu 600063",
+      "lat": 12.9208503,
+      "lon": 80.0893078
+    },
+    {
+      "id": "chijd4w8oq33ujor3e4qynv_hj0",
+      "title": "Sri Srinivasa Electricals",
+      "address": "No:7, Nandivaram Road, near Fish Market, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.845891799999999,
+      "lon": 80.0626405
+    },
+    {
+      "id": "chijt2kd3hl3ujorna5j6-htg5e",
+      "title": "Sangeetha Electricals",
+      "address": "V3RJ+V3R Sangeetha Electricals, Vandalur, Tamil Nadu 600048",
+      "lat": 12.892231899999999,
+      "lon": 80.0801472
+    },
+    {
+      "id": "chijaz0kv_nnujormdt-88fibce",
+      "title": "STANDARD ELECTRICALS",
+      "address": "Shop No, STANDARD ELECTRICALS, 81, LB Rd, Parameshwari Nagar, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.002450699999999,
+      "lon": 80.2568
+    },
+    {
+      "id": "chij6zf-gkf2ujor9nykhy0xbfq",
+      "title": "Mahesh Electrical",
+      "address": "105, GST Rd, Senthil Nagar, Urapakkam, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.8621916,
+      "lon": 80.073791
+    },
+    {
+      "id": "chijl28pfxrbujorqbwa7-gx8ra",
+      "title": "Schneider Electric - SRI BHERU ELECTRICAL And HARDWARE",
+      "address": "6, Thalambur Rd, Thazhambur, Chennai, Tamil Nadu 600130",
+      "lat": 12.848470899999999,
+      "lon": 80.21321259999999
+    },
+    {
+      "id": "chij4_x0y3tdujorteu0vyrnetg",
+      "title": "Ganesh Electronics & Electricals",
+      "address": "No.17, Kottabomman Street, 100 Feet Road, Kattabomman Street, Anna Nagar, Tharamani, Chennai, Tamil Nadu 600113",
+      "lat": 12.9815889,
+      "lon": 80.2389149
+    },
+    {
+      "id": "chijr3mvi0pmujor1tidzmeqwag",
+      "title": "MK Electricals",
+      "address": "165, Eldams Rd, Sriram Colony, Teynampet, Chennai, Tamil Nadu 600018",
+      "lat": 13.039093999999999,
+      "lon": 80.2486622
+    },
+    {
+      "id": "chijwyfacffnujorrcdihhdr1va",
+      "title": "Jithu electricals",
+      "address": "12/A, 3rd Cross St, Raja Annamalaipuram, Chennai, Tamil Nadu 600028",
+      "lat": 13.0247915,
+      "lon": 80.2576868
+    },
+    {
+      "id": "chijeykxvkhnujor3be4m83oa94",
+      "title": "SRI KRISHNA ELECTRICALS",
+      "address": "No.106, Butt Rd, Ramapuram, Parangi Malai, Gandhi Nagar, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 13.0068302,
+      "lon": 80.19643889999999
+    },
+    {
+      "id": "chijjtdrx4rhujorkehpw-k1bje",
+      "title": "Saravana Electricals",
+      "address": "4/430, Sivan Kovil St, Iyyappanthangal, Ayyappanthangal, Tamil Nadu 600122",
+      "lat": 13.0325794,
+      "lon": 80.1350138
+    },
+    {
+      "id": "chijqxngvcx1ujorfnbwmjulqkm",
+      "title": "JJ ELECTRICAL & HOME APPLIANCES",
+      "address": "1st Main Rd, Ramani Nagar, West Tambaram, Tambaram, Chennai, Tambaram, Tamil Nadu 600045",
+      "lat": 12.920484199999999,
+      "lon": 80.0963964
+    },
+    {
+      "id": "chijbsuovenmujorakwtduoqewg",
+      "title": "R K Traders ( Electrical suppliers)",
+      "address": "New no 4 2nd floor, 9, 5th St, Tirumurthy Nagar, Nungambakkam, Chennai, Tamil Nadu 600034",
+      "lat": 13.054267,
+      "lon": 80.246016
+    },
+    {
+      "id": "chijt_i-6-hnujora92os-cy2t4",
+      "title": "Sri Balaji electricals",
+      "address": "no:15, Gandhi Nagar Main Rd, Achugam Nagar, Gandhi Nagar, Chennai, Tamil Nadu 600032",
+      "lat": 13.0196455,
+      "lon": 80.203436
+    },
+    {
+      "id": "chijxuxhoqbzujorcgmayebio9m",
+      "title": "ASHAPURA ELECTRICALS HARDWARE & SANITARY",
+      "address": "3, Gandhi Rd, New Perungalathur, Nedunkundram, Tamil Nadu 600127",
+      "lat": 12.8823338,
+      "lon": 80.1101396
+    },
+    {
+      "id": "chijbrsrjv9mujorbe9vlmv3nze",
+      "title": "Supreme Electrical And Appliances",
+      "address": "SUPREME ELECTRICALS AND APPLIANCES, H.O. 7, N Usman Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0531207,
+      "lon": 80.2345057
+    },
+    {
+      "id": "chijb1tomdxmujorx0eoa74pad0",
+      "title": "Popular Electricals",
+      "address": "New no.230, Old no, Popular Electricals, 93, Dr Besant Rd, Royapettah, Chennai, Tamil Nadu 600014",
+      "lat": 13.053441399999999,
+      "lon": 80.2699379
+    },
+    {
+      "id": "chij85ffe9znujorn94dgomrx5c",
+      "title": "Kumar Electricals",
+      "address": "Number. 1, Shop NUmber. 4, Santhome, Appu St, Sankarapuram, Mylapore, Chennai, Tamil Nadu 600028",
+      "lat": 13.0297723,
+      "lon": 80.274475
+    },
+    {
+      "id": "chijfx_vzr1nujorcu1kfu_jjle",
+      "title": "Sri Selvi Electricals",
+      "address": "No 26, Sri Selvi Electricals, 100, Ellaiamman Koil St, Vannanthurai, Adyar, Chennai, Tamil Nadu 600020",
+      "lat": 13.0001915,
+      "lon": 80.26242669999999
+    },
+    {
+      "id": "chijqw5v8v1dujorqhobk6k2hka",
+      "title": "Sri Jeewan Electrical",
+      "address": "155, LB Rd, Indira Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600020",
+      "lat": 12.9956579,
+      "lon": 80.25578209999999
+    },
+    {
+      "id": "chij0y5a24bbujorcifimng_bju",
+      "title": "LAMP ELECTRICALS",
+      "address": "3, LAMP ELECTRICALS, CHEMMACHERY, 93, Rajiv Gandhi Salai, Chennai, Tamil Nadu 600119",
+      "lat": 12.873225699999999,
+      "lon": 80.22689129999999
+    },
+    {
+      "id": "chijuwza4ardujororwudoj4r3y",
+      "title": "Bheru Electricals & Hardwares",
+      "address": "1/41, Rajiv Gandhi Salai, Seevaram, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.952789,
+      "lon": 80.24176
+    },
+    {
+      "id": "chijdylcahndujorsgxgebf9ivs",
+      "title": "Sakthi Electricals",
+      "address": "43, MGR Main Rd, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.964958399999999,
+      "lon": 80.246168
+    },
+    {
+      "id": "chijkvya811dujorvolxbxt2yrq",
+      "title": "SURESH ELECTRICALS",
+      "address": "No 79, SURESH ELECTRICALS, New No 193, Old, LB Rd, Kamaraj Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+      "lat": 12.983681599999999,
+      "lon": 80.254971
+    },
+    {
+      "id": "chijkx30wvbnujorcjyulmqxzjq",
+      "title": "Indo Electricals",
+      "address": "306, MKN Rd, Ramapuram, Collectors Nagar, Alandur, St.Thomas Mount, Tamil Nadu 600016",
+      "lat": 12.997098999999999,
+      "lon": 80.19663829999999
+    },
+    {
+      "id": "chiju4sz4wteujor08o73lh4dgg",
+      "title": "Standard electricals and electronics and Hardware",
+      "address": "No.55/85, Ragupathi nagar, M.G.R. Rd, MMTC Colony, Nanganallur, Chennai, Tamil Nadu 600061",
+      "lat": 12.9719026,
+      "lon": 80.182913
+    },
+    {
+      "id": "chij99lpuxjdujorcov4lcepx9o",
+      "title": "Nitesh Electricals",
+      "address": "No.8, Church Main Rd, near Lakshmi Hospital, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.964108999999999,
+      "lon": 80.2458352
+    },
+    {
+      "id": "chijqumguodnujorgby6fni8qie",
+      "title": "Singhvi Electrical and Electronics",
+      "address": "New 312,old, 153, Royapettah High Rd, Mylapore, Chennai, Tamil Nadu 600004",
+      "lat": 13.0391423,
+      "lon": 80.267609
+    },
+    {
+      "id": "chijnypmeyn1ujorricbmkazr0w",
+      "title": "JAYAM ELECTRICALS",
+      "address": "683, Mudichur Rd, Sri Ram Nagar South, West Tambaram, Tambaram, Chennai, Tambaram, Tamil Nadu 600045",
+      "lat": 12.9221192,
+      "lon": 80.0950795
+    },
+    {
+      "id": "chijo696wpdcujoreuipfjsf2rm",
+      "title": "Bajarangbali Electricals & Hardwares",
+      "address": "No.4, Bajarangbali Electricals & Hardwares, 277, Kokilambal nagar, PTC Quarters, Thoraipakkam, Tamil Nadu 600097",
+      "lat": 12.9328019,
+      "lon": 80.2368779
+    },
+    {
+      "id": "chij_0oydxzdujorhpcurvwmfic",
+      "title": "Abhi Vairavan Plumbing Co - Velachery",
+      "address": "17, 15th St, Tansi Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.978043,
+      "lon": 80.2249992
+    },
+    {
+      "id": "chij9wsck_nmujorizk0affbola",
+      "title": "Abhi Vairavan Plumbing Co",
+      "address": "59, Arcot Rd, United India Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0535511,
+      "lon": 80.2256463
+    },
+    {
+      "id": "chijq1lali5fujorqurar4wrwuu",
+      "title": "S.S.K Plumbing & Electrician Shop",
+      "address": "Bus stand, near A.L.S Nagar, ALS Nagar, Madambakkam, Tambaram, Tamil Nadu 600126",
+      "lat": 12.902252599999999,
+      "lon": 80.1548359
+    },
+    {
+      "id": "chijlwz6xsdhujord2bx2y40rn8",
+      "title": "Abhi Vairavan Plumbing Co - Warehouse 1",
+      "address": "No 192/6, Abhi Vairavan Plumbing Co - Warehouse 1, Balambigai Nagar, Rathana Complex, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.035106899999999,
+      "lon": 80.1753513
+    },
+    {
+      "id": "chijq6o2n_zdujordujkxyvhjyi",
+      "title": "ALFA BUILDMAT - plumbing materials wholesale in chennai",
+      "address": "No.33, ALFA BUILDMAT - plumbing materials wholesale in chennai, Om, Toll Plaza, near Porur, Gandhi Nagar, Sakthi Nagar, Porur, Vanagaram, Tamil Nadu 600116",
+      "lat": 13.0455879,
+      "lon": 80.14861979999999
+    },
+    {
+      "id": "chijrwoi5yvdujorzq9gef-ivws",
+      "title": "BALAJI ENTERPRISES",
+      "address": "No.28, 5, Velachery main road, Guru Nanak Rd, Dhadeswaram Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.9827915,
+      "lon": 80.2219331
+    },
+    {
+      "id": "chijq1vft75dujorzcpttvaogy4",
+      "title": "Chandra Enterprises Pvt. Ltd",
+      "address": "Plot No.6, Velachery-Madipakkam Main Road, Ram Nagar, Madipakkam, Chennai, Tamil Nadu 600091",
+      "lat": 12.9639635,
+      "lon": 80.213203
+    },
+    {
+      "id": "chijjybjxd5nujoruqgyetb20bc",
+      "title": "East India Company - Vadapalani",
+      "address": "J.N.Road, 100, feet Road, Bhakthavathchalam Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0564767,
+      "lon": 80.2117758
+    },
+    {
+      "id": "chijw2qguqbdujortzeqdqclwxe",
+      "title": "KOHLER Exclusive Brand Store - The Homemaker",
+      "address": "6, Mailai, KOHLER Exclusive Brand Store - The Homemaker, Balaji Nagar, Velachery Main Rd, Karapagambal Nagar, Pallikaranai, Chennai, Tamil Nadu 600100",
+      "lat": 12.955316499999999,
+      "lon": 80.2123891
+    },
+    {
+      "id": "chij-5ev2kndujorj4rpowa6lc4",
+      "title": "Konarkk & Co - Roca Authorised Dealer",
+      "address": "No 2/162, East Coast Rd, beside TNSC Bank, Kannappa Nagar, Kottivakkam, Chennai, Tamil Nadu 600041",
+      "lat": 12.973860199999999,
+      "lon": 80.25812859999999
+    },
+    {
+      "id": "chiji1h6v7pdujorwkxcp-9g6a0",
+      "title": "Roca Authorised Dealer - Ajantha Bathroom Products & Pipes Pvt Ltd",
+      "address": "98, 7th St, nearby Evergreen Academy, Saraswathi Nagar, Velachery, Chennai, Tamil Nadu 600088",
+      "lat": 12.9771573,
+      "lon": 80.2069526
+    },
+    {
+      "id": "chijxxfdm29bujorbh8de3hw5ws",
+      "title": "Praveen Electricals & Plumbing",
+      "address": "66, East Coast Rd, Adityaram Nagar, Panaiyur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8870782,
+      "lon": 80.2455545
+    },
+    {
+      "id": "chijiynllqxnujorgnqg3nvtkv4",
+      "title": "Jaquar Spare Parts",
+      "address": "RICH BATH FITTINGS, 99 41 587 087Arcot Rd, 344, near post office, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0505432,
+      "lon": 80.21429669999999
+    },
+    {
+      "id": "chiji8bwf6z3ujorxcoqqlonwra",
+      "title": "Pandian Traders",
+      "address": "No.162, G.S.T. Road, Guduvancheri, Near Signal, Chennai, Tamil Nadu 603202",
+      "lat": 12.8436507,
+      "lon": 80.0590551
+    },
+    {
+      "id": "chijcwjz-yvdujorqkx-qwcmvko",
+      "title": "Galaxy Plumbing Solutions",
+      "address": "Plot No.30, 1st Cross St, Phase-1, Thirumalai Nagar Annexe, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.962078199999999,
+      "lon": 80.24148939999999
+    },
+    {
+      "id": "chij2tqguizwujory_neoxd_krg",
+      "title": "Pandiyan Hardwares, Tiles And Ceramics",
+      "address": "New No.9, Old No.5, Station Rd, Ramakrishnapuram, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.0388906,
+      "lon": 80.2250703
+    },
+    {
+      "id": "chij99augnvnujorwaibop-ysok",
+      "title": "Iksha Bath World",
+      "address": "4/36 b thambaiah street extension, junction, near five lights, West Mambalam, Chennai, Tamil Nadu 600033",
+      "lat": 13.044675699999999,
+      "lon": 80.2256202
+    },
+    {
+      "id": "chijpbkfzqrnujorod2gpwcrhg8",
+      "title": "Nellai santary stores",
+      "address": "Motilal St, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0363825,
+      "lon": 80.2328466
+    },
+    {
+      "id": "chijwdxqwjdnujor2yakn5nusye",
+      "title": "Santhosh Electricals and Plumbing",
+      "address": "4, Palandi Amman Koil St, near Mount Railway Station, Ramapuram, Paramesh Nagar, Adambakkam, Chennai, Tamil Nadu 600088",
+      "lat": 12.9951388,
+      "lon": 80.2017772
+    },
+    {
+      "id": "chijyfmowuleujor9fnjubsazcy",
+      "title": "Srinivasaka Enterprises",
+      "address": "122, Velachery Main Rd, Chinmaya Colony, Sembakkam, Rajakilpakkam, Tambaram, Tamil Nadu 600073",
+      "lat": 12.9228594,
+      "lon": 80.15342729999999
+    },
+    {
+      "id": "chijn_intmb9ujorkbslqlrd9u8",
+      "title": "Jaquar Authorized Dealer - Kodambakkam, Chennai",
+      "address": "59, Arcot Rd, nearby Zudio, United India Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.0535517,
+      "lon": 80.2256635
+    },
+    {
+      "id": "chijb8aoxh1hujorpki2hem5uka",
+      "title": "Asian Designer Hardwares- The next level of Home Improvement",
+      "address": "234, Trunk Rd, Bharathi Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.0342843,
+      "lon": 80.1584685
+    },
+    {
+      "id": "chijy7jkcnjnujorggyjy-drfes",
+      "title": "LUXUS",
+      "address": "GF&1st floor, LUXUS, 25, Thirumalai Pillai Rd, near Quality Inn Luxus, Thirumurthy Nagar, Satyamurthy Nagar, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.048181699999999,
+      "lon": 80.2400827
+    },
+    {
+      "id": "chij20_k4fbmujorud4rvefmtmk",
+      "title": "ASM Dhruva & Co , Luxury Bath Fittings & Sanitaryware",
+      "address": "ANKUR PLAZA, 119, Gopathy Narayana Rd, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0442742,
+      "lon": 80.2391976
+    },
+    {
+      "id": "chije_i0nxxnujorihtc6ynno-w",
+      "title": "Krishna Trading Associates Pvt Ltd",
+      "address": "B-184/2, 11th Ave, nearby HDFC Bank, 11th Avenue, Mettuppalayam, Ashok Nagar, Chennai, Tamil Nadu 600083",
+      "lat": 13.031526399999999,
+      "lon": 80.2138909
+    },
+    {
+      "id": "chijc1r9eopnujorvzbaxdfsmwg",
+      "title": "Vijayalakshmi Traders",
+      "address": "num 6, Vijayalakshmi Traders, Karumari Amman Koil St, Bhakthavathchalam Colony, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0555205,
+      "lon": 80.21205429999999
+    },
+    {
+      "id": "chijt8r8-p9dujorjen5-s68wii",
+      "title": "Indian Metal & Hardware Syndicate",
+      "address": "Near, 100 Feet Rd, Periyar Nagar, Velachery, Chennai, Tamil Nadu 600042",
+      "lat": 12.988113,
+      "lon": 80.2186074
+    },
+    {
+      "id": "chijhrohqo1hujorzclptiat5lm",
+      "title": "RK Rajesh Kumar Plumbing & Borewell Work",
+      "address": "No 44, RK Rajesh Kumar Plumbing & Borewell Work, 1st St, Balaji Nagar, Vanagaram, Tamil Nadu 600095",
+      "lat": 13.0583539,
+      "lon": 80.1564463
+    },
+    {
+      "id": "chij21op2ldmujorogv4lgl0tua",
+      "title": "Parryware",
+      "address": "Old No, Parryware, 194, N Usman Rd, Parthsarathy Puram, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+      "lat": 13.0522341,
+      "lon": 80.233943
+    },
+    {
+      "id": "chijeytdoqvnujordra2r36tpbw",
+      "title": "Ashok Sanitaryware",
+      "address": "No 72, Ashok Sanitaryware, 60, W Jones Rd, Appavu Nagar, Saidapet, Chennai, Tamil Nadu 600015",
+      "lat": 13.025212999999999,
+      "lon": 80.2220339
+    },
+    {
+      "id": "chijk8j7np1bujorybtvh5ecyg0",
+      "title": "Rkm Plumbing Works - Plumbing Contractor Works - Commercial & Residential | Bore Motor Services OMR",
+      "address": "435Village, High Rd, Sholinganallur, Chennai, Tamil Nadu 600119",
+      "lat": 12.8950254,
+      "lon": 80.2320483
+    },
+    {
+      "id": "chij7atwebxhujor0jel4k_isrs",
+      "title": "Parryware Sanitary Ware",
+      "address": "143, Kundrathur Main Rd, Ramanatheshwarar Nagar, Porur, Chennai, Tamil Nadu 600116",
+      "lat": 13.0298807,
+      "lon": 80.152082
+    },
+    {
+      "id": "chijndv1jefhujorszg8hg5wvjo",
+      "title": "Rainbow Industries",
+      "address": "3/2 Prithviraj Avenue, KKP Salai, Ponniamman Nagar, Ramapuram, Chennai, Tamil Nadu 600089",
+      "lat": 13.0372703,
+      "lon": 80.1871074
+    },
+    {
+      "id": "chijm4c-yrnkujorgpixfrsjywa",
+      "title": "Kohler Exclusive Showroom - Sri Sai Krishna Agencies",
+      "address": "No: 55/2, Jawaharlal Nehru Salai, J.N. Salai, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.054667199999999,
+      "lon": 80.2111853
+    },
+    {
+      "id": "chijwqs7vxdnujorul3f7mnltee",
+      "title": "Kajaria Tiles Authorised Showroom - Abhi Vairavans Plumbing Co",
+      "address": "No.59/1, Kajaria Tiles Authorised Showroom - Abhi Vairavans Plumbing Co, Arcot Rd, United India Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+      "lat": 13.053514799999999,
+      "lon": 80.225681
+    },
+    {
+      "id": "chijz8bigczhujorsgd47vhtts0",
+      "title": "Sri Ganesh Electricals And Plumbing",
+      "address": "no.193, Perumal Koil St, Alapakkam, Chennai, Tamil Nadu 600116",
+      "lat": 13.041733599999999,
+      "lon": 80.1690909
+    },
+    {
+      "id": "chij0e8somnmujorkkesgjqnaye",
+      "title": "Om Sai Hardware & Electricals - Sri Vinayagar Plumbing Works",
+      "address": "New No : 199, Old No : 107, Anna Library Back Side, Acrot Road, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.050092399999999,
+      "lon": 80.21453679999999
+    },
+    {
+      "id": "chij_sobyopmujora_k4f8ezmba",
+      "title": "Sri Maha Ganapathy Enterprises (Jaquar Dealer)",
+      "address": "No. 30, Jawaharlal Nehru Salai, Thirunagar, Tiru Nagar, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0583967,
+      "lon": 80.2113188
+    },
+    {
+      "id": "chijiueh-yfnujorilpyzqtcrrc",
+      "title": "RKS Plumbing & Painting Works",
+      "address": "No.11/6, kattabomman street, Market, MGR Nagar, K. K. Nagar, Chennai, Tamil Nadu 600078",
+      "lat": 13.0330151,
+      "lon": 80.2007292
+    },
+    {
+      "id": "chijhyspj-lmujork2ls84d1kte",
+      "title": "Dhanalakshmi Sanitary Stores",
+      "address": "69, Duraiswamy Rd, Vadapalani, Chennai, Tamil Nadu 600026",
+      "lat": 13.0490436,
+      "lon": 80.2144278
+    },
+    {
+      "id": "chij2bm1rmxdujoriw2fu8pyjye",
+      "title": "Rheological Enterprises (perungudi)",
+      "address": "Plot No.11, Sai Ayush Pooja Avenue, Thiruvalluvar Road, Thiruvengadam Nagar, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu 600096",
+      "lat": 12.972033999999999,
+      "lon": 80.24695129999999
+    },
+    {
+      "id": "chijr5b770d9ujor43ry3_exsgg",
+      "title": "Sri Ramakrishna Enterprises",
+      "address": "21b, Sri Ramakrishna Enterprises, Kanchipuram High Rd, Mahalakshmi Nagar, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.701968899999999,
+      "lon": 79.9659144
+    },
+    {
+      "id": "chij764e3ah9ujor7ekuxfkejye",
+      "title": "Hariharan electricals & Hardwares",
+      "address": "SH58, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6983286,
+      "lon": 79.9706088
+    },
+    {
+      "id": "chijrbagqxr9ujorrhfysro_oow",
+      "title": "SHREE OM HARDWARES",
+      "address": "2b, GST Rd, J C K Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6901222,
+      "lon": 79.9816957
+    },
+    {
+      "id": "chijb6vlr37-ujoreujowiqq2yq",
+      "title": "Sudha Hardwares",
+      "address": "No: 23/25, Devadoss Street, Vedhachalam Nagar,, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.681218399999999,
+      "lon": 79.9814825
+    },
+    {
+      "id": "chijsyk4sgd9ujordme4chenvb8",
+      "title": "Gowri Ramanan Stores",
+      "address": "76, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.693591999999999,
+      "lon": 79.9776515
+    },
+    {
+      "id": "chij-vex-dx9ujorqusnzkywdss",
+      "title": "Radha hardwares",
+      "address": "57, Devarajanar St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6895926,
+      "lon": 79.9813396
+    },
+    {
+      "id": "chija1etytj9ujorgufpavosjpm",
+      "title": "Mithra Enterprise",
+      "address": "No55, Vedappar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6945452,
+      "lon": 79.9739882
+    },
+    {
+      "id": "chijffkjrad9ujoru_l9z5iuwcg",
+      "title": "SREE VIJAYLAXMI TRADERS",
+      "address": "No .131, SREE VIJAYLAXMI TRADERS, 114, GST Rd, opposite Saradhs LODGE, Anna Nagar, Kanchipuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.688084,
+      "lon": 79.98295879999999
+    },
+    {
+      "id": "chijkrvp8d_9ujornzgpxcl4gwo",
+      "title": "KVM AGENCIES",
+      "address": "52, Kanchipuram High Rd, Natham, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6971948,
+      "lon": 79.97290009999999
+    },
+    {
+      "id": "chijpxqox8d7ujory-zsqtso1ci",
+      "title": "Sri Mahadev Electricals & Hardwares",
+      "address": "122/2, Kanchipuram High Rd, Thimmavaram, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.7094525,
+      "lon": 79.9611109
+    },
+    {
+      "id": "chiju7be2rv9ujor4nummywuue0",
+      "title": "Shri Vijayalakshmi Hardwares",
+      "address": "12AGst road, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6847807,
+      "lon": 79.9834097
+    },
+    {
+      "id": "chijw6gz0fx9ujorbe6djvc8lt8",
+      "title": "Dhanalakshmiglass and Plywood",
+      "address": "SH58, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6821615,
+      "lon": 79.9886971
+    },
+    {
+      "id": "chij5qwsfz39ujormgdbzjuy2fa",
+      "title": "Sri Sakthi Hardwares",
+      "address": "32, GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.689950099999999,
+      "lon": 79.9818358
+    },
+    {
+      "id": "chijw6ljycl9ujorrm6_fd_g9jm",
+      "title": "MERINE STORE",
+      "address": "70, MERINE STORE, 148, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6938052,
+      "lon": 79.97792129999999
+    },
+    {
+      "id": "chijavdsrpj9ujoralbe1lsegzo",
+      "title": "SRI BALAJI ELECTRICAL AND HARDWARE",
+      "address": "No.388/1 Zulaikha Towers Tkm Road, Post, near Vallam, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6808222,
+      "lon": 79.9915832
+    },
+    {
+      "id": "chijj9fed2n8ujorxnpaqzvzrns",
+      "title": "VEL SYSTEMS",
+      "address": "7, Varadhanar St, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6886878,
+      "lon": 79.9822176
+    },
+    {
+      "id": "chijgd56g2z8ujorgsw6tknztp8",
+      "title": "Satyaa Store",
+      "address": "125, Surya Complex, G.S.T. Road,, Opp. New Bus Stand, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6911049,
+      "lon": 79.98118579999999
+    },
+    {
+      "id": "chijqz1zwof9ujorezwu_b6a8qg",
+      "title": "VES SHANMUGAM HARDWARE & ELECTRICALS",
+      "address": "No.229/A Neheru nagar Thiruporur x Road, Vallam, Tamil Nadu 603003",
+      "lat": 12.6746258,
+      "lon": 80.0040587
+    },
+    {
+      "id": "chijb61aifr9ujorycjw0aq_7yi",
+      "title": "HP World - Chengalpattu",
+      "address": "No 7, HP World - Chengalpattu, Rangasamy Complex, GST Rd, Vedachalam Nagar, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6891456,
+      "lon": 79.9822969
+    },
+    {
+      "id": "chij--hxbqd7ujorq_sgclubcb4",
+      "title": "GD Enterprises",
+      "address": "Chengalpattu, Chettipunyam, Tamil Nadu 603004",
+      "lat": 12.7454665,
+      "lon": 79.9874682
+    },
+    {
+      "id": "chiji9wffxf9ujorwe0c_l1vk8k",
+      "title": "Shree Krishna Electronic Electricals",
+      "address": "No 265, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6938052,
+      "lon": 79.97792129999999
+    },
+    {
+      "id": "chijz8jpzad9ujor6stppfnsdxu",
+      "title": "KV ELECTRICAL AND HARDWARE",
+      "address": "167/2, Thirukazukundram Road, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6777426,
+      "lon": 79.9968829
+    },
+    {
+      "id": "chijnzltnpf9ujorafl4lbtipbs",
+      "title": "SS key shop",
+      "address": "22/66, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6957113,
+      "lon": 79.97754979999999
+    },
+    {
+      "id": "chijh7chvav9ujorsyrydboygk0",
+      "title": "Sree Vishnu Hardware & Glass Plywood",
+      "address": "No A1, V. N. D Complex Near More Super Market, TKM Road Melamaiyur, Vallam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6819893,
+      "lon": 79.98898009999999
+    },
+    {
+      "id": "chijzzvpnpd9ujorrq0jilkrmvo",
+      "title": "Sri Sokkanatha Agro Tech",
+      "address": "GST Rd, opposite Rajavawari, Kanchipuram, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6824152,
+      "lon": 79.9823329
+    },
+    {
+      "id": "chijdezltcd9ujork5rwxnhiw7i",
+      "title": "ERS ELECTRONICS",
+      "address": "No 10, ERS ELECTRONICS, No 10, GST Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6931221,
+      "lon": 79.9794488
+    },
+    {
+      "id": "chijh4i1rw_8ujorikpnikzvgmw",
+      "title": "M/S. Amara Harwares",
+      "address": "No 1 Main Road, 76, Anna Salai, J C K Nagar, Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.6934575,
+      "lon": 79.9778249
+    },
+    {
+      "id": "chija7dx5ep8ujorbqzxlxj2wua",
+      "title": "Shoba Electricals & Hardwares",
+      "address": "603 001, Shoba Electricals & Hardwares, 2 A, Alagesan Nagar Chengalpattu, Chennai, Tamil Nadu 603001",
+      "lat": 12.6798205,
+      "lon": 79.98031739999999
+    },
+    {
+      "id": "chij7xmvkyh-ujor2e6mbfuwpdw",
+      "title": "GANESH ELECTRICALS & HARDWARES",
+      "address": "M287+CHR GANESH ELECTRICALS & HARDWARES, SH58, Santhi Nagar, Nenmeli, Nemmeli, Tamil Nadu 603003",
+      "lat": 12.666122399999999,
+      "lon": 80.0138825
+    },
+    {
+      "id": "chijf_nt_w78ujord2indjl2vja",
+      "title": "Ashok Electronics",
+      "address": "#73, Periyar Rd, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692715999999999,
+      "lon": 79.97827
+    },
+    {
+      "id": "chij7u-4mad9ujor13vxhvbzch8",
+      "title": "Mataji electrical and hardwares",
+      "address": "Santhilnagar, Vedhanarayanapuram, Tamil Nadu 603111",
+      "lat": 12.654750499999999,
+      "lon": 79.9669601
+    },
+    {
+      "id": "chijx2werw_8ujoru6ixqssstxu",
+      "title": "Selvaraj And Sons",
+      "address": "No:162, Selvaraj And Sons, 76, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6934575,
+      "lon": 79.9778249
+    },
+    {
+      "id": "chijbz8aen78ujorkqu2fnsrmu0",
+      "title": "Bhavani Hardwares",
+      "address": "28, SH58, Mahalakshmi Nagar, Chengalpattu, Athur, Tamil Nadu 603101",
+      "lat": 12.7011466,
+      "lon": 79.9664076
+    },
+    {
+      "id": "chije2pd2gj8ujorpfsu49wucfo",
+      "title": "Lotus Enterprises",
+      "address": "69/G1, Periya Maniyakara St, Gokulapuram, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.689261799999999,
+      "lon": 79.9778943
+    },
+    {
+      "id": "chijit5019l7ujoropsc-afdk_e",
+      "title": "Alexander & Co",
+      "address": "No:6, Alexander & Co, 289, Chennai - Theni Hwy, thirutheri, Pareri, Tamil Nadu 603204",
+      "lat": 12.7527408,
+      "lon": 80.0001812
+    },
+    {
+      "id": "chijx9zysrl9ujor1xbepc7s6f0",
+      "title": "Sai Paints",
+      "address": "1D, TKM Rd, Alapakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.684396699999999,
+      "lon": 79.9878951
+    },
+    {
+      "id": "chijmy-ny539ujori2csgr0u2dk",
+      "title": "Olympic Colour World",
+      "address": "17,Annasalai G.S.T Road, Opposite to, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.695792599999999,
+      "lon": 79.9774791
+    },
+    {
+      "id": "chijib1mxon8ujorkbyw1sp3blm",
+      "title": "Bhavani Traders",
+      "address": "No: 23-G, GST Rd, opp. to Railway Station, Anna Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.692689,
+      "lon": 79.97959809999999
+    },
+    {
+      "id": "chij1ypt8gz9ujorqhe9fyg21lm",
+      "title": "Varshan CCTV & Networking",
+      "address": "Marriamman koil Street, and, post, Meleripakkam, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.673525099999999,
+      "lon": 80.0058378
+    },
+    {
+      "id": "chijnfqqei79ujorwl9mojbjeo0",
+      "title": "Noorjahan Agencie's",
+      "address": "Murugesanar St, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.6931993,
+      "lon": 79.9734769
+    },
+    {
+      "id": "chijxswz_pb9ujortfkb4xz2tju",
+      "title": "AMUTHA ENTERPRISE",
+      "address": "Panruti Main Road, Sakthi Nagar, Thenur, Panruti, Chengalpattu, Tamil Nadu 603003",
+      "lat": 12.6799217,
+      "lon": 79.98797259999999
+    },
+    {
+      "id": "chijlfp7jzv9ujoruuem6ia1dvm",
+      "title": "Vinayak Hardwares",
+      "address": "bus stop, 146, GST Rd, opposite Rattinakinaru, Rattinakinaru, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.684332699999999,
+      "lon": 79.9832072
+    },
+    {
+      "id": "chijacel2uh8ujorpqvkeb7naea",
+      "title": "MIRACLE COMPUTECH",
+      "address": "130A, 2ND FLOOR, GST Rd, opp. ANGAMUTHU THEATER, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.684614499999999,
+      "lon": 79.98332289999999
+    },
+    {
+      "id": "chijey0l7lv9ujorwv3mgmqxlaq",
+      "title": "Rajesh Hardwears",
+      "address": "18 bsnl, Anumanthaputheri, Municipal Colony, Tamil Nadu 603001",
+      "lat": 12.6824047,
+      "lon": 79.9761615
+    },
+    {
+      "id": "chijq6qqqmb5ujorekqg39cywto",
+      "title": "Mr.Computer",
+      "address": "220, Central Ave, near Apollo Pharmacy, Mahindra World City, Veerapuram, Tamil Nadu 603004",
+      "lat": 12.7383624,
+      "lon": 80.0010855
+    },
+    {
+      "id": "chijhxmvith9ujorxlcs4pjkn7y",
+      "title": "Yesuvadian tarpaulin shop",
+      "address": "258, Anna Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693626199999999,
+      "lon": 79.97793519999999
+    },
+    {
+      "id": "chij54qracj7ujor8i7qzwux924",
+      "title": "Prakash Electrical And Hardwares",
+      "address": "23, Jubilee Rd, Chettipunyam, Tamil Nadu 603204",
+      "lat": 12.743595599999999,
+      "lon": 79.9909246
+    },
+    {
+      "id": "chij17sq9278ujorgy__kymec_q",
+      "title": "SONI COMPLEX",
+      "address": "Soni complex, 31, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.693316099999999,
+      "lon": 79.9790232
+    },
+    {
+      "id": "chijhrbhw9f7ujorfazgey0qab0",
+      "title": "KAVITHA KUMAR",
+      "address": "Nh, Service Road, Kanchipuram, Pareri, Tamil Nadu 603204",
+      "lat": 12.7533841,
+      "lon": 80.0006815
+    },
+    {
+      "id": "chijkv20y5r9ujorbdl64sgbnvg",
+      "title": "Prabhuraj Plywoods & Glass",
+      "address": "MXHV+X73 Prabhuraj Plywoods & Glass, SH58, Sakthi Nagar, Alapakkam, Alappakkam, Tamil Nadu 603003",
+      "lat": 12.6797639,
+      "lon": 79.99328919999999
+    },
+    {
+      "id": "chijj1rfwyx8ujorx-8-ncdhiay",
+      "title": "Ashapura Timber Mart",
+      "address": "Alapakkam, Vallam, Tamil Nadu 603003",
+      "lat": 12.675637499999999,
+      "lon": 80.0021972
+    },
+    {
+      "id": "chijt3mnfqn9ujorewguk7byneq",
+      "title": "Sri KRISHNA ELECTRICAL & HARDWARES",
+      "address": "MX48+5VC Sri KRISHNA ELECTRICAL & HARDWARES, Manapakkam Kanni Koil Rd, Santhilnagar, Vedhanarayanapuram, Tamil Nadu 603111",
+      "lat": 12.6554325,
+      "lon": 79.9671326
+    },
+    {
+      "id": "chijgqkgcwp9ujorye2udtygmcw",
+      "title": "Om Muruga Agencies",
+      "address": "4th St, Alagesan Nagar, Kamarajar Nagar, Chengalpattu, Ammanambakkam, Tamil Nadu 603001",
+      "lat": 12.680030799999999,
+      "lon": 79.97971179999999
+    },
+    {
+      "id": "chijv76vjpv9ujorkfltwdaobye",
+      "title": "i Star Enterprises",
+      "address": "No 80B, Veeralakshmi Street, Mgm Nager Thiruvallur, Tamil Nadu - 602001, Kanchipuram, Tamil Nadu 603002",
+      "lat": 12.6944746,
+      "lon": 79.9731376
+    },
+    {
+      "id": "chijsto9zbv9ujorujes5y4_xsg",
+      "title": "Gokul Wood Corvin",
+      "address": "Indira Nagar, KK Nagar, Chengalpattu, Vallam R.F., Tamil Nadu 603001",
+      "lat": 12.6664643,
+      "lon": 79.9855486
+    },
+    {
+      "id": "chij69uucux3ujorlyficagcifu",
+      "title": "BHARATHI HARDWARES",
+      "address": "Vallancherry, No 75, Anna salai, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8297952,
+      "lon": 80.0554184
+    },
+    {
+      "id": "chij0_zqxl79ujorb4gptvlcrtm",
+      "title": "AMAR HARDWARE AND ELECTRIC",
+      "address": "6 Main Road, ROAD, Maiyur, Kanchipuram, Tamil Nadu 603001",
+      "lat": 12.6751738,
+      "lon": 79.9839197
+    },
+    {
+      "id": "chijduynxj73ujortnp_ubxakzc",
+      "title": "Gopi Electrical & Services",
+      "address": "Sadhasivam Rd, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8093548,
+      "lon": 80.0307322
+    },
+    {
+      "id": "chije8s79sz3ujorqrp3bcffeum",
+      "title": "VINOD ELECTRICALS AND ELECTRONICS",
+      "address": "7, Railway Station Rd, Guduvancheri, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8444159,
+      "lon": 80.0597045
+    },
+    {
+      "id": "chijf2teger3ujoraqx78wol8zc",
+      "title": "Girias",
+      "address": "140, GST Rd, Guduvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.840726499999999,
+      "lon": 80.0567298
+    },
+    {
+      "id": "chijf9yjqqd9ujorhs-y1ohbtqm",
+      "title": "Darling Retail Elite - Chengalpattu",
+      "address": "ICICI Complex, 12A, GST Road Ratina kinaru, junction, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6837114,
+      "lon": 79.98323529999999
+    },
+    {
+      "id": "chijq-akz2d2ujorhipuizcquoy",
+      "title": "New A M Electricals & Hardwares",
+      "address": "no 7, New A M Electricals & Hardwares, rg Square complex, Adhanur Main Rd, Adhanur, Chennai, Tamil Nadu 603202",
+      "lat": 12.870597199999999,
+      "lon": 80.05573129999999
+    },
+    {
+      "id": "chijtydtiav3ujorkqen_xhorvc",
+      "title": "Chellamani & Co.,",
+      "address": "109, Chellamani & Co.,, jmn towers, GST Rd, Gandhi Nagar, Gudvanchery, Chennai, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8426305,
+      "lon": 80.0586216
+    },
+    {
+      "id": "chijcw-5pkf2ujoruyjnhbclen8",
+      "title": "Sri Mahalakshmi Electricals Hardware",
+      "address": "40, GST Rd, Senthil Nagar, Urapakkam, Chennai, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.863002499999999,
+      "lon": 80.0741724
+    },
+    {
+      "id": "chijpyst0kh8ujorizbezy2lad0",
+      "title": "Hari Electronics",
+      "address": "hari electronic, 2A, GST Rd, near clock tower, J C K Nagar, Chengalpattu, Tamil Nadu 603001",
+      "lat": 12.6952138,
+      "lon": 79.9779763
+    },
+    {
+      "id": "chije2wubyl3ujorqigxdgifh_k",
+      "title": "JAYAN ELECTRONICS & ENTERPRISES",
+      "address": "No:57A, KRISHNAPURAM, Nellikuppam Rd, Nandhivaram, Tamil Nadu 603202",
+      "lat": 12.839830899999999,
+      "lon": 80.0630967
+    },
+    {
+      "id": "chij67wuimv3ujorfur5815b10g",
+      "title": "Lenovo Exclusive Store - GBS Systems & Services",
+      "address": "186 Gandhi Complex Grand Southern Trunk Road Guduvanchery, Chengalpattu, Tamil Nadu 603202",
+      "lat": 12.842137899999999,
+      "lon": 80.0575325
+    },
+    {
+      "id": "chijrzkya4j-ujorj80ypyx4liq",
+      "title": "SK Electricals & Hardwares",
+      "address": "ஜெயா டிம்பர் எதிரில், TKM MAIN ROAD, டிகேஎம் மெயின் ரோடு, opp. JAYA TIMBER, Nenmeli, Nemmeli, Tamil Nadu 603405",
+      "lat": 12.665363099999999,
+      "lon": 80.01880369999999
+    },
+    {
+      "id": "chij4cuqd9b3ujor-00wngqexti",
+      "title": "Croma - Urapakkam",
+      "address": "Unit No 1, Croma - Urapakkam, S N 80/3A2, GST Rd, Abnirami Nagar, Urapakkam, Kanchipuram, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.856482999999999,
+      "lon": 80.069013
+    },
+    {
+      "id": "chij98w7qbh9ujordt_bw1ochjq",
+      "title": "JAGDAMBA ELECTRICALS",
+      "address": "#52, GST Rd, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.682533,
+      "lon": 79.982259
+    },
+    {
+      "id": "chijv7aaz_n9ujorywlwe53buoy",
+      "title": "Sri Saradadevi Electricals And Electronics",
+      "address": "1, Eswaran Koil St, opp. to eswaran koil, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6920126,
+      "lon": 79.9788142
+    },
+    {
+      "id": "chijtewf1br3ujorlqn3ac59lio",
+      "title": "Vinayaga Electrical & Hardwares",
+      "address": "BRS building, 1, main road, Guduvancheri, Madambakkam, Tamil Nadu 603202",
+      "lat": 12.8500524,
+      "lon": 80.0525943
+    },
+    {
+      "id": "chijdw98fop5ujorguve82jfuvy",
+      "title": "Kushal Electricals",
+      "address": "HIG-60A , NH-1, anna salai (Entry through bharitiyar street), Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7955816,
+      "lon": 80.0216653
+    },
+    {
+      "id": "chijma7qvnz3ujorr5924bvwcok",
+      "title": "Pushpa Electricals",
+      "address": "22, chozla Nagar, Nellikuppam Rd, next to Lancor luminous & velammal school, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8243583,
+      "lon": 80.0761093
+    },
+    {
+      "id": "chijecjctcb3ujor5oipbirvwh8",
+      "title": "AVG Electricals",
+      "address": "9 Anna Salai, Vallanchery Main Rd, Vallanchery, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8368179,
+      "lon": 80.05472879999999
+    },
+    {
+      "id": "chijy0h4nvr3ujorw5k4oh3z2b4",
+      "title": "S.Manish Hardwares and Electricals",
+      "address": "R25J+P8H S.Manish Hardwares and Electricals, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8093196,
+      "lon": 80.03086809999999
+    },
+    {
+      "id": "chij1fgkwo33ujor-uxi7zy51tk",
+      "title": "Suguna Electricals & Hardwares",
+      "address": "#350/1A Kayarambedu, Nellikuppam Rd, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8124124,
+      "lon": 80.0768587
+    },
+    {
+      "id": "chijn6kh7tz3ujorgeoqtktkv1q",
+      "title": "Devi Enterprises",
+      "address": "21, Kavanur Main Rd, near DSR power system, Kattankulathur, Chennai, Tamil Nadu 603203",
+      "lat": 12.8179608,
+      "lon": 80.02677849999999
+    },
+    {
+      "id": "chijawbsmzz3ujorf97ef8sicoy",
+      "title": "M R electrical",
+      "address": "7/20 MIG, Kambar Rd, NH-2, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7937329,
+      "lon": 80.02847729999999
+    },
+    {
+      "id": "chij5bwzi6f3ujore5nxi26emfg",
+      "title": "AV2M Electronics service centre",
+      "address": "6, Bharathiyar St, near potheri, Potheri, signal, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819108499999999,
+      "lon": 80.03693799999999
+    },
+    {
+      "id": "chijt1kfvml3ujorhvugsyjubce",
+      "title": "Krishna Electrical And Hardware's",
+      "address": "No.18, First Main Rd, Ambal Nagar, Guduvancheri, Madambakkam, Tamil Nadu 603202",
+      "lat": 12.8508556,
+      "lon": 80.0452404
+    },
+    {
+      "id": "chijtv4geg33ujorlm_itiekeju",
+      "title": "L-Tech laptop serivce centre",
+      "address": "Bramanar Cross Street, Bajanai Kovil St, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.820540999999999,
+      "lon": 80.0415846
+    },
+    {
+      "id": "chijofyxqwd5ujord-vtuz1yua0",
+      "title": "Mathaji Electronics And Electricals",
+      "address": "Kambar Rd, NH-2, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.794716,
+      "lon": 80.026843
+    },
+    {
+      "id": "chijr3vgr9z5ujorszcbz927k3k",
+      "title": "Krishna Electronic & Mobile",
+      "address": "Door No. 6, Krishna Electronic & Mobile, 38, Silapathykaram St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7895249,
+      "lon": 80.036284
+    },
+    {
+      "id": "chij5dsbkc_5ujorrnbuphe_nz8",
+      "title": "Sri Kannika Parameshwari Traders",
+      "address": "26, Kambar Rd, NH-2, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7948753,
+      "lon": 80.02695779999999
+    },
+    {
+      "id": "chijp-u-db_3ujorssuu7nj0s5s",
+      "title": "Dhanlakshmi Electrical & Hardware",
+      "address": "6, Usha Nagar, Vanchuvancheri, Nandivaram-Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.827779,
+      "lon": 80.074351
+    },
+    {
+      "id": "chij537rqeb5ujor5ouzh2ktdzs",
+      "title": "Sri Venkateshwara Control And Power Systems",
+      "address": "No 43, singaravelar street, NH-2, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7914313,
+      "lon": 80.0283381
+    },
+    {
+      "id": "chijp5fzwlzvujorbmqlivouxx0",
+      "title": "Ramdev electrical and hardware",
+      "address": "Thiruporur Rd, Chengalpattu, Kottamedu, Tamil Nadu 603108",
+      "lat": 12.711142899999999,
+      "lon": 80.1095328
+    },
+    {
+      "id": "chijwu1v4b73ujork1ijkjhr0mg",
+      "title": "Mahalakshmi flats",
+      "address": "homeo, Baba St, Guduvancheri, Tamil Nadu 603202",
+      "lat": 12.8400986,
+      "lon": 80.0526094
+    },
+    {
+      "id": "chijhxr_sm_8ujorxc_tpimz-qy",
+      "title": "Bhavani Electrical",
+      "address": "No 71, Bhavani Electrical, Anna Salai, J C K Nagar, Chengalpattu, Kanchipuram, Tamil Nadu 603002",
+      "lat": 12.693453199999999,
+      "lon": 79.9778193
+    },
+    {
+      "id": "chija7kjmjd5ujorsqelpkpk_cq",
+      "title": "Mathi Electrical",
+      "address": "Thayumanavar St, NH-1, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7967505,
+      "lon": 80.0274922
+    },
+    {
+      "id": "chijaw5qmpd3ujora8kklnhfrey",
+      "title": "Car sense X",
+      "address": "Sivanantha Gurukulam, service road, Kattankulathur, Chennai, Tamil Nadu 603203",
+      "lat": 12.8105835,
+      "lon": 80.0307168
+    },
+    {
+      "id": "chijzt9juxp5ujortxeq7wtphz4",
+      "title": "GN Tech computer & mobile",
+      "address": "No. 2/3 NH1 LIG Collony, Kalaivanar St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7985332,
+      "lon": 80.0278419
+    },
+    {
+      "id": "chijrulbbjb3ujorp-43zw2xjca",
+      "title": "Blessing Laptech",
+      "address": "Pillayar Koil St, Potheri, Potheri West, Kanchipuram, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8197526,
+      "lon": 80.0382429
+    },
+    {
+      "id": "chijx-xmmgf3ujorcbz9_zhr0tc",
+      "title": "RAINBOW DIGITAL AUDIO & SUPPLIERS",
+      "address": "R25J+MX4 RAINBOW DIGITAL AUDIO & SUPPLIERS, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.809138299999999,
+      "lon": 80.0324626
+    },
+    {
+      "id": "chijr5jzzf33ujoraaaa0j7redk",
+      "title": "Sree Marketing",
+      "address": "R25J+Q3H Sree Marketing, 87, Sadhasivam Rd, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8094518,
+      "lon": 80.0302104
+    },
+    {
+      "id": "chijnwpouwd9ujoreom4yulvsui",
+      "title": "Simla Electrical Chengalpattu",
+      "address": "14/6, Gandhi Salai, J C K Nagar, Chengalpattu, Tamil Nadu 603002",
+      "lat": 12.694837399999999,
+      "lon": 79.9763165
+    },
+    {
+      "id": "chij-zv4qlb9ujorcbuyr6rtxaw",
+      "title": "Sri Vinayaka Electricals",
+      "address": "18/W2, T.K.M Rd, Malalinatha, Nenmeli, Chengalpattu, Vallam R.F., Tamil Nadu 603003",
+      "lat": 12.672190899999999,
+      "lon": 80.007268
+    },
+    {
+      "id": "chijh6at41l5ujoro3tscrqn_sm",
+      "title": "Sri Balaji Traders",
+      "address": "Singaravelan street, 3/16, NH2, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.791789,
+      "lon": 80.02769719999999
+    },
+    {
+      "id": "chijf82yd-l5ujordc1o6vujhgm",
+      "title": "Jpj Electronics",
+      "address": "Q2XF+MV2 Jpj Electronics, Vallal Adhiyaman St, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7991335,
+      "lon": 80.02464309999999
+    },
+    {
+      "id": "chijxbhv3sv3ujorrwx-c6tmygy",
+      "title": "Sri Balaji Electricals And Electronics",
+      "address": "No.38, Road, Sababathy Nagar, Appur, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.8018942,
+      "lon": 80.02593499999999
+    },
+    {
+      "id": "chijh6vsgbv9ujorrxcknxv6he8",
+      "title": "Rajguru electricals & electronics",
+      "address": "48, Rajaji St, Chengalpattu, Gokulapuram, Tamil Nadu 603001",
+      "lat": 12.6914657,
+      "lon": 79.97990519999999
+    },
+    {
+      "id": "chij6xctt2z3ujor4bpmtdxcpqo",
+      "title": "Salala Mobiles",
+      "address": "38, Pillayar Koil St, near srm university, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.819415999999999,
+      "lon": 80.0390618
+    },
+    {
+      "id": "chijwsoukad3ujorzw8arpz5ycg",
+      "title": "S.R.Batteries shop potheri",
+      "address": "R29P+MP8 S.R.Batteries shop potheri, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8191519,
+      "lon": 80.0368251
+    },
+    {
+      "id": "chijn1-hmrv3ujor3llzpjdeljs",
+      "title": "Better Beats Car Audio & Accessories",
+      "address": "93, GST Rd, NINNAGARAI village, Kattankulathur, Maraimalai Nagar, Tamil Nadu 603203",
+      "lat": 12.8080795,
+      "lon": 80.02831909999999
+    },
+    {
+      "id": "chijfzgdxmt3ujort_urg8-ivr0",
+      "title": "THETECHTHEORY",
+      "address": "PG HOSTEL, Potheri, SRM Nagar, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8257924,
+      "lon": 80.0476573
+    },
+    {
+      "id": "chijtyz8jrn3ujor_qwxoxyd2y8",
+      "title": "SRI DEVESH ENTERPRISES",
+      "address": "NO1, Kavanoor Road, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8106248,
+      "lon": 80.0260576
+    },
+    {
+      "id": "chijozyduad3ujorwm3zl9_kgfg",
+      "title": "Shamini Enterprises (Electrical & Hardwares)",
+      "address": "R2CG+6QC Shamini Enterprises (Electrical & Hardwares), Kattankulathur Main Rd, Kavanur, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.820079999999999,
+      "lon": 80.0266379
+    },
+    {
+      "id": "chijzfpws333ujorzv8mnb8ubcm",
+      "title": "R R ELECTRICALS AND HARDWARES",
+      "address": "No.15, R R ELECTRICALS AND HARDWARES, RR Building, GST Rd, Abnirami Nagar, Urapakkam, Chengalpattu, Urappakkam, Tamil Nadu 603210",
+      "lat": 12.860632299999999,
+      "lon": 80.07231399999999
+    },
+    {
+      "id": "chijdsdb--h5ujorxjzev9bgzwu",
+      "title": "Sri Raga Enterprises",
+      "address": "42, Thayumanavar St, Maraimalai Nagar, Kanchipuram, Tamil Nadu 603209",
+      "lat": 12.796876,
+      "lon": 80.0272198
+    },
+    {
+      "id": "chijowgepqv3ujorywioj6krfqg",
+      "title": "Hi-Tech Computers",
+      "address": "yadhavar street, Ninakarai, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8104132,
+      "lon": 80.0352805
+    },
+    {
+      "id": "chijx8a15en5ujordnf8ynoxdqc",
+      "title": "BHAVANI HOME APPLIANCE",
+      "address": "Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.7943263,
+      "lon": 80.0258721
+    },
+    {
+      "id": "chijca5raqd5ujor-7lphiihsu8",
+      "title": "One click services",
+      "address": "16/32, vallal sethakathi street, Chenna, Maraimalai Nagar, Tamil Nadu 603209",
+      "lat": 12.798868899999999,
+      "lon": 80.0253017
+    },
+    {
+      "id": "chijte9zjnf3ujorgfth7npbo_q",
+      "title": "YS COOL CARE",
+      "address": "Pillayar Koil St, Potheri, Kattankulathur, Tamil Nadu 603203",
+      "lat": 12.8189365,
+      "lon": 80.03634869999999
+    }
+  ],
+  "updated_at_utc": "2026-09-27T13:34:30.039606+00:00"
+}

@@ -1,0 +1,46 @@
+pair_id,blind_score,rationale
+P029,40,"Florist, but 40 km against a 5 km limit; no sign of a nursery."
+P031,30,Milk parlour is not really a food stall; partly helpful nearby.
+P036,55,"Tiffin centre is the right category, about double the 5 km radius."
+P037,55,"Tea stall is the right category, 10.7 km is outside the 5 km radius."
+P040,40,"Tea and tiffin stall, 21.6 km is far outside the radius."
+P041,50,"Food street is the right category, 14 km is outside the radius."
+P055,0,"Horoscope service, unrelated to kirana or pets."
+P074,3,"Vegetable store, not beauty care, and far away."
+P079,85,Auto spares shop very close; probably stocks bike parts.
+P084,40,"Automobile parts shop, 35 km is far outside the radius."
+P100,10,"Textile shop, not household plastics."
+P123,8,"Household traders, not a ration shop, and 21 km away."
+P159,50,Eyewear store matches eyeglasses but is 48 km away.
+P160,10,"Pharmacy, not optical, and outside the radius."
+P174,100,Mobile shop 1.7 km away; no preference needed.
+P178,5,"Household store, not mobile accessories, and 32 km away."
+P180,55,"Mobile accessories shop, 15.6 km is outside the 10 km radius."
+P192,45,"Auto parts shop, 16.8 km against a 3 km limit."
+P193,40,"Auto works shop at 29 km, well outside the radius."
+P197,0,"Meat shop, not a pharmacy."
+P214,85,Fruit stall nearby inside a supermarket; vegetables likely nearby.
+P217,0,"Pharmacy, not fruits."
+P220,3,Handicrafts shop; fruits category listing looks wrong.
+P237,20,"Supermarket, not a street market, and 31 km away."
+P244,90,Hardware traders 0.3 km away; title is a little generic.
+P268,70,"Kirana store, just outside the 5 km radius."
+P278,35,Supermarket nearby may have some stationery; not a fancy store.
+P282,35,"Xerox and stationery shop, 39 km away, not fancy."
+P289,65,"Computer shop nearby is electronics, but not appliances."
+P302,0,"Pharmacy, not vegetables."
+P308,50,"Market sells vegetables, 14 km is outside the radius; farm unclear."
+P314,5,"Fish stall, not vegetables."
+P316,75,"Grocery shop nearby; ""fresh"" preference unclear."
+P319,15,"Vegetable store only partly meets grocery need, and 24 km away."
+P331,65,Pharmacy just outside the 5 km radius.
+P337,15,"Provisions store, not a pharmacy; very close."
+P339,0,"Textile shop, not a pharmacy."
+P353,55,Dry fruits shop nearby; not fresh fruit.
+P357,40,"Fruits and vegetables shop, 37 km is far outside the radius."
+P367,85,Rathna Stores is known for home appliances; very close.
+P380,55,"Aquarium fish shop matches the preference, but 6.8 km against 1 km."
+P391,100,Fish stall 1.1 km away; no preference needed.
+P398,50,"Chicken shop, 9.9 km is outside the 5 km radius."
+P407,35,Hypermarket may sell bakery items; listed as apparel; very close.
+P433,50,"Fabric shop is the right category, 3.2 km against a 1 km radius."

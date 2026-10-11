@@ -1,0 +1,95 @@
+{
+  "status": "fitted",
+  "target": "AI-judged expected_score",
+  "total_rows": 450,
+  "complete_rows": 450,
+  "rater_1_filled": 0,
+  "rater_2_filled": 0,
+  "required_complete_rows": 300,
+  "ready": true,
+  "target_note": "AI-judged expected_score: judged by Claude Code against RUBRIC.md; not human-annotated, not ground truth.",
+  "test_retest_consistency": {
+    "non_blind": {
+      "n_pairs": 45,
+      "pearson_r": 0.9957341877482497,
+      "pearson_p_value": 3.816806826496691e-46,
+      "mean_abs_difference": 3.0,
+      "n_abs_difference_gt_25": 0,
+      "max_abs_difference": 10.0,
+      "mean_signed_difference_first_minus_retest": 2.8222222222222224,
+      "n_identical": 15,
+      "blind": false,
+      "file": "data\\annotation\\ai_rescore_check.csv",
+      "note": "Same AI judge re-scored without re-reading ai_scores.csv, but its first scores were in its working context; upper bound on consistency."
+    },
+    "blind": {
+      "n_pairs": 45,
+      "pearson_r": 0.9761757423278349,
+      "pearson_p_value": 3.621126815421109e-30,
+      "mean_abs_difference": 4.133333333333334,
+      "n_abs_difference_gt_25": 1,
+      "max_abs_difference": 30.0,
+      "mean_signed_difference_first_minus_retest": -1.5555555555555556,
+      "n_identical": 15,
+      "blind": true,
+      "file": "data\\annotation\\ai_rescore_blind.csv",
+      "note": "Fresh AI agent given only RUBRIC.md and the 45 pairs' sheet details; it never saw the first scores."
+    }
+  },
+  "human_agreement": {
+    "rater_1_filled": 0,
+    "rater_2_filled": 0,
+    "status": "no human scores filled; human validation not done"
+  },
+  "split": {
+    "method": "GroupShuffleSplit by requirement_id",
+    "seed": 42,
+    "train_requirements": 24,
+    "test_requirements": 6,
+    "n_train": 360,
+    "n_test": 90
+  },
+  "coefficients": {
+    "intercept": 0.2961848665889691,
+    "distance_km": -0.15676824029094272,
+    "within_radius": 18.135654555418288,
+    "category_match": 59.441115793406425,
+    "keyword_in_title": 15.46759315260137,
+    "n_categories": -3.2396417115124114,
+    "is_chain": 3.474621568882355
+  },
+  "ols": {
+    "rank": 7,
+    "n": 360,
+    "p": 7,
+    "cond_X": 114.44973798258862,
+    "max_abs_diff_inverse_vs_lstsq": 7.460698725481052e-14,
+    "max_abs_diff_sklearn_vs_lstsq": 2.1316282072803006e-14
+  },
+  "train": {
+    "n": 360,
+    "RSS": 80739.87979933686,
+    "MSE": 224.27744388704684,
+    "RMSE": 14.975895428556079,
+    "MAE": 11.360027364742354,
+    "R2": 0.7982983495131152
+  },
+  "test": {
+    "n": 90,
+    "RSS": 27430.065190277623,
+    "MSE": 304.7785021141958,
+    "RMSE": 17.457906578802508,
+    "MAE": 13.977534304884209,
+    "R2": 0.7509610058616393
+  },
+  "gaussian_mle": {
+    "sigma2_mle": 224.27744388704684,
+    "sigma_mle": 14.975895428556079,
+    "s2_unbiased": 228.72487195279564,
+    "s_unbiased": 15.123652731823606,
+    "loglik_direct_sum": -1485.1369693129582,
+    "loglik_formula": -1485.1369693129582,
+    "loglik_match": true
+  },
+  "mse_equals_sigma2_mle_train": true
+}
