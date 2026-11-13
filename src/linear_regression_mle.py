@@ -1,7 +1,7 @@
-"""Step 5 - linear regression of the AI-judged expected_score, fitted by Gaussian MLE /
+"""Step 5 - linear regression of the  expected_score, fitted by Gaussian MLE /
 least squares.
 
-Target: the AI-judged expected_score column of data/annotation/annotation_sheet.csv.
+Target: the expected_score column of data/annotation/annotation_sheet.csv.
 These scores were judged by Claude Code pair by pair against RUBRIC.md (authorised by the
 project owner in place of human raters). They are AI-judged labels, NOT human annotations
 and NOT ground truth. Consistency is measured by a test-retest check on a fixed sample

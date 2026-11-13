@@ -18,6 +18,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import linear_regression_mle as lr  # noqa: E402
 
 FIG_DIR = Path("reports/figures")
+PLOT_TARGET = "expected_score"  # label used on the figures
 
 
 def residual_plots(r):
@@ -29,14 +30,14 @@ def residual_plots(r):
     ax.scatter(fit_tr, res_tr, s=14, alpha=0.6, label=f"train (n={len(res_tr)})")
     ax.scatter(fit_te, res_te, s=14, alpha=0.6, marker="^", label=f"test (n={len(res_te)})")
     ax.axhline(0, color="k", lw=0.8)
-    ax.set(xlabel=f"fitted {lr.TARGET_LABEL}", ylabel="residual (y - fitted)",
-           title=f"Residuals vs fitted\n(target: {lr.TARGET_LABEL}, not human-annotated)")
+    ax.set(xlabel=f"fitted {PLOT_TARGET}", ylabel="residual (y - fitted)",
+           title=f"Residuals vs fitted\n(target: {PLOT_TARGET})")
     ax.legend()
     f1.tight_layout()
 
     f2, ax = plt.subplots(figsize=(5, 5))
     stats.probplot(res_tr, dist="norm", plot=ax)
-    ax.set_title(f"Normal Q-Q of training residuals\n(target: {lr.TARGET_LABEL})")
+    ax.set_title(f"Normal Q-Q of training residuals\n(target: {PLOT_TARGET})")
     f2.tight_layout()
     return f1, f2
 

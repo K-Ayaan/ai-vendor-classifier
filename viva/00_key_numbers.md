@@ -2,7 +2,7 @@
 
 Every number below was computed by re-fitting the models in this run.
 
-## A. Linear regression (target: AI-judged expected_score, not ground truth)
+## A. Linear regression (target: expected_score, not ground truth)
 
 * n_train = 360 pairs (24 requirements), n_test = 90 pairs (6 requirements), p = 7
   columns (intercept + 6 features).
@@ -82,7 +82,7 @@ which are impossible as probabilities. The logistic model's σ(Xβ̂) is always 
 
 Same data, splits and seed as above; every hyperparameter chosen by CV on the training split.
 
-### D1. Regression (target: AI-judged expected_score, not ground truth)
+### D1. Regression (target: expected_score, not ground truth)
 
 | model | train R² | test R² | test RMSE | test MAE |
 |---|---|---|---|---|

@@ -1,0 +1,403 @@
+{
+  "phase": 2,
+  "target_note": "Relevance uses the AI-judged expected_score (not ground truth).",
+  "setup": {
+    "test_requirements": [
+      "R09",
+      "R10",
+      "R16",
+      "R18",
+      "R24",
+      "R28"
+    ],
+    "pairs_per_requirement": 15,
+    "n_pairs": 90,
+    "relevant_threshold": 70,
+    "k": 5,
+    "n_relevant": 23,
+    "random_seed": 42,
+    "eligibility_rules": "R1 category + R2 distance (R3 keyword not required)",
+    "pool": "each method re-ranks the 15 annotated vendors of the requirement",
+    "eligible_pairs_by_sampling_stratum": {
+      "near_in_category": 30
+    },
+    "relevant_pairs_by_sampling_stratum": {
+      "near_in_category": 23
+    }
+  },
+  "summary": {
+    "pipeline": {
+      "mean_ndcg@5": 0.9601065947059505,
+      "mean_precision@5": 0.7666666666666666,
+      "relevant_excluded_by_eligibility": 0
+    },
+    "nearest": {
+      "mean_ndcg@5": 0.8740828644779696,
+      "mean_precision@5": 0.7666666666666666,
+      "relevant_excluded_by_eligibility": 0
+    },
+    "random": {
+      "mean_ndcg@5": 0.13217719553595206,
+      "mean_precision@5": 0.16666666666666666,
+      "relevant_excluded_by_eligibility": null
+    }
+  },
+  "random_mean_ndcg@5_over_1000_permutations": 0.2969942451485614,
+  "per_requirement": {
+    "R09": {
+      "pipeline": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "top5": [
+          "V3988",
+          "V4102",
+          "V3977",
+          "V1483",
+          "V2024"
+        ]
+      },
+      "nearest": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "top5": [
+          "V4102",
+          "V3988",
+          "V3977",
+          "V1483",
+          "V2024"
+        ]
+      },
+      "random": {
+        "ndcg@5": 0.14606834984270645,
+        "precision@5": 0.2,
+        "top5": [
+          "V2251",
+          "V2809",
+          "V3123",
+          "V1483",
+          "V0144"
+        ]
+      },
+      "eligibility": {
+        "n_pairs": 15,
+        "n_relevant": 5,
+        "n_eligible": 5,
+        "relevant_excluded_by_eligibility": 0,
+        "relevant_excluded": [],
+        "eligible_not_relevant": 0
+      }
+    },
+    "R10": {
+      "pipeline": {
+        "ndcg@5": 1.0,
+        "precision@5": 0.6,
+        "top5": [
+          "V1880",
+          "V3352",
+          "V1058",
+          "V1560",
+          "V2714"
+        ]
+      },
+      "nearest": {
+        "ndcg@5": 0.8529278650606567,
+        "precision@5": 0.6,
+        "top5": [
+          "V1880",
+          "V1560",
+          "V2714",
+          "V3352",
+          "V1058"
+        ]
+      },
+      "random": {
+        "ndcg@5": 0.0,
+        "precision@5": 0.0,
+        "top5": [
+          "V0185",
+          "V4464",
+          "V2598",
+          "V1560",
+          "V2071"
+        ]
+      },
+      "eligibility": {
+        "n_pairs": 15,
+        "n_relevant": 3,
+        "n_eligible": 5,
+        "relevant_excluded_by_eligibility": 0,
+        "relevant_excluded": [],
+        "eligible_not_relevant": 2
+      }
+    },
+    "R16": {
+      "pipeline": {
+        "ndcg@5": 1.0,
+        "precision@5": 0.2,
+        "top5": [
+          "V3264",
+          "V3944",
+          "V3643",
+          "V2682",
+          "V0026"
+        ]
+      },
+      "nearest": {
+        "ndcg@5": 0.6309297535714575,
+        "precision@5": 0.2,
+        "top5": [
+          "V2682",
+          "V3264",
+          "V3944",
+          "V0026",
+          "V3643"
+        ]
+      },
+      "random": {
+        "ndcg@5": 0.0,
+        "precision@5": 0.0,
+        "top5": [
+          "V2685",
+          "V0191",
+          "V1551",
+          "V2723",
+          "V0135"
+        ]
+      },
+      "eligibility": {
+        "n_pairs": 15,
+        "n_relevant": 1,
+        "n_eligible": 5,
+        "relevant_excluded_by_eligibility": 0,
+        "relevant_excluded": [],
+        "eligible_not_relevant": 4
+      }
+    },
+    "R18": {
+      "pipeline": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "top5": [
+          "V2232",
+          "V2504",
+          "V2682",
+          "V0026",
+          "V3520"
+        ]
+      },
+      "nearest": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "top5": [
+          "V2682",
+          "V0026",
+          "V2232",
+          "V3520",
+          "V2504"
+        ]
+      },
+      "random": {
+        "ndcg@5": 0.30078518014914984,
+        "precision@5": 0.4,
+        "top5": [
+          "V2758",
+          "V2425",
+          "V2232",
+          "V3431",
+          "V2504"
+        ]
+      },
+      "eligibility": {
+        "n_pairs": 15,
+        "n_relevant": 5,
+        "n_eligible": 5,
+        "relevant_excluded_by_eligibility": 0,
+        "relevant_excluded": [],
+        "eligible_not_relevant": 0
+      }
+    },
+    "R24": {
+      "pipeline": {
+        "ndcg@5": 0.7606395682357036,
+        "precision@5": 0.8,
+        "top5": [
+          "V3693",
+          "V2963",
+          "V0404",
+          "V3360",
+          "V2496"
+        ]
+      },
+      "nearest": {
+        "ndcg@5": 0.7606395682357036,
+        "precision@5": 0.8,
+        "top5": [
+          "V3693",
+          "V3360",
+          "V2963",
+          "V2496",
+          "V0404"
+        ]
+      },
+      "random": {
+        "ndcg@5": 0.34620964322385606,
+        "precision@5": 0.4,
+        "top5": [
+          "V4556",
+          "V1081",
+          "V0404",
+          "V0545",
+          "V2963"
+        ]
+      },
+      "eligibility": {
+        "n_pairs": 15,
+        "n_relevant": 4,
+        "n_eligible": 5,
+        "relevant_excluded_by_eligibility": 0,
+        "relevant_excluded": [],
+        "eligible_not_relevant": 1
+      }
+    },
+    "R28": {
+      "pipeline": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "top5": [
+          "V2822",
+          "V3270",
+          "V3039",
+          "V1931",
+          "V2278"
+        ]
+      },
+      "nearest": {
+        "ndcg@5": 1.0,
+        "precision@5": 1.0,
+        "top5": [
+          "V2822",
+          "V3270",
+          "V3039",
+          "V1931",
+          "V2278"
+        ]
+      },
+      "random": {
+        "ndcg@5": 0.0,
+        "precision@5": 0.0,
+        "top5": [
+          "V4200",
+          "V0814",
+          "V1075",
+          "V4239",
+          "V3056"
+        ]
+      },
+      "eligibility": {
+        "n_pairs": 15,
+        "n_relevant": 5,
+        "n_eligible": 5,
+        "relevant_excluded_by_eligibility": 0,
+        "relevant_excluded": [],
+        "eligible_not_relevant": 0
+      }
+    }
+  },
+  "worst_pipeline_errors": [
+    {
+      "pair_id": "P258",
+      "requirement_id": "R18",
+      "needed_category": "kirana_provisions",
+      "vendor_id": "V3520",
+      "title": "D-Mart - Chengalpattu",
+      "vendor_categories": "apparel_footwear;bakery_sweets;beauty_personal_care;dairy_eggs;grocery_supermarket;household_homeware;kirana_provisions;mobile_accessories;stationery_books;street_markets",
+      "distance_km": 1.5503,
+      "max_distance_km": 5.0,
+      "eligible": true,
+      "failed_rules": "",
+      "expected_score": 92,
+      "raw_score": 45.233500297366525,
+      "display_score": 45.233500297366525,
+      "error_display_minus_expected": -46.766499702633475,
+      "reason": "listed in 10 categories, so the n_categories term adds -32.40; the judge saw a large multi-category store as a strong fit",
+      "judge_rationale": "D-Mart within radius; full provisions range"
+    },
+    {
+      "pair_id": "P269",
+      "requirement_id": "R18",
+      "needed_category": "kirana_provisions",
+      "vendor_id": "V0026",
+      "title": "Home Needs Super Market",
+      "vendor_categories": "bakery_sweets;beauty_personal_care;dairy_eggs;florists;grocery_supermarket;household_homeware;kirana_provisions;optical;street_markets;vegetables",
+      "distance_km": 0.9182,
+      "max_distance_km": 5.0,
+      "eligible": true,
+      "failed_rules": "",
+      "expected_score": 92,
+      "raw_score": 45.33259350205443,
+      "display_score": 45.33259350205443,
+      "error_display_minus_expected": -46.66740649794557,
+      "reason": "listed in 10 categories, so the n_categories term adds -32.40; the judge saw a large multi-category store as a strong fit",
+      "judge_rationale": "Supermarket within radius; provisions available"
+    },
+    {
+      "pair_id": "P262",
+      "requirement_id": "R18",
+      "needed_category": "kirana_provisions",
+      "vendor_id": "V2682",
+      "title": "Nilgiris Canopy",
+      "vendor_categories": "bakery_sweets;dairy_eggs;fruits;grocery_supermarket;household_homeware;kirana_provisions;stationery_books;street_markets;vegetables",
+      "distance_km": 0.1685,
+      "max_distance_km": 5.0,
+      "eligible": true,
+      "failed_rules": "",
+      "expected_score": 92,
+      "raw_score": 48.689764363312946,
+      "display_score": 48.689764363312946,
+      "error_display_minus_expected": -43.310235636687054,
+      "reason": "listed in 9 categories, so the n_categories term adds -29.16; the judge saw a large multi-category store as a strong fit",
+      "judge_rationale": "Nilgiris supermarket very close; provisions available"
+    },
+    {
+      "pair_id": "P229",
+      "requirement_id": "R16",
+      "needed_category": "street_markets",
+      "vendor_id": "V0980",
+      "title": "Fruits",
+      "vendor_categories": "fruits",
+      "distance_km": 23.6394,
+      "max_distance_km": 5.0,
+      "eligible": false,
+      "failed_rules": "R1 category: not listed in street_markets (listed in: fruits); R2 distance: 23.64 km > 5 km limit",
+      "expected_score": 40,
+      "raw_score": -6.649363984457153,
+      "display_score": 0.0,
+      "error_display_minus_expected": -40.0,
+      "reason": "not listed in street_markets, so no category credit, and 23.64 km is outside the 5 km limit; the judge still gave partial credit; keyword 'fruit' is not a whole token of the title ('Fruits'), so keyword_in_title = False",
+      "judge_rationale": "Fruit seller 24 km away; fruit match but far"
+    },
+    {
+      "pair_id": "P235",
+      "requirement_id": "R16",
+      "needed_category": "street_markets",
+      "vendor_id": "V3643",
+      "title": "V style & minimart",
+      "vendor_categories": "apparel_footwear;beauty_personal_care;grocery_supermarket;street_markets",
+      "distance_km": 3.0806,
+      "max_distance_km": 5.0,
+      "eligible": true,
+      "failed_rules": "",
+      "expected_score": 30,
+      "raw_score": 64.43144812832375,
+      "display_score": 64.43144812832375,
+      "error_display_minus_expected": 34.43144812832375,
+      "reason": "listed in street_markets (category_match adds 59.44) but the judge read the title as a different or weaker kind of shop: noisy source-file category label",
+      "judge_rationale": "Mini-mart and clothing; weak fit"
+    }
+  ],
+  "score_error_test_pairs": {
+    "MAE_display_vs_expected": 12.829678950097213,
+    "n_raw_below_0": 14,
+    "n_raw_above_100": 0
+  }
+}

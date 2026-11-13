@@ -1,4 +1,4 @@
-"""Step 4 - logistic regression for is_pharmacy, fitted by maximum likelihood.
+"""Step 4 - logistic regression fitted by maximum likelihood.
 
 Usage: python src/logistic_regression_classification.py
 Reads data/processed/vendors.csv and writes:

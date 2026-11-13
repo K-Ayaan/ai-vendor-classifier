@@ -1,7 +1,10 @@
-# Phase 1 dependencies (Python 3.14.7). Only these six packages are allowed.
+# Phase 1 dependencies (Python 3.14.7).
 pandas==3.0.6
 numpy==2.5.4
 scipy==1.18.1
 scikit-learn==1.9.1
 matplotlib==3.11.2
 jupyter==1.1.1
+# Phase 2 (prototype app and tests). Only these two were added.
+streamlit==1.65.0
+pytest==9.1.1

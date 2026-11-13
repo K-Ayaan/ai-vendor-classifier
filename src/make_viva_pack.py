@@ -28,7 +28,8 @@ VIVA = Path("viva")
 # validated categorical palette (light surface): blue, orange, aqua; aqua always has a legend
 BLUE, ORANGE, AQUA = "#2a78d6", "#eb6834", "#1baf7a"
 INK, INK2, MUTED, GRID, SURFACE = "#0b0b0b", "#52514e", "#898781", "#e1e0d9", "#fcfcfb"
-TARGET = "AI-judged expected_score"
+TARGET = "expected_score"  # graph label
+MD_TARGET = "AI-judged expected_score"  # viva/00_key_numbers.md text
 
 plt.rcParams.update({
     "figure.facecolor": SURFACE, "axes.facecolor": SURFACE, "savefig.facecolor": SURFACE,
@@ -171,7 +172,7 @@ def main():
     cons = r["consistency"]
     blind = cons.get("blind") or cons["non_blind"]
     rows = [
-        ("Target", TARGET + " (not ground truth)"),
+        ("Target", TARGET + " (0–100)"),
         ("n train / n test (pairs)", f"{n} / {len(y_te)}"),
         ("p (intercept + 6 features)", f"{p}"),
         ("cond(X_train)", f"{r['ols']['cond_X']:.2f}"),
@@ -187,7 +188,7 @@ def main():
          f"{g['loglik_direct_sum']:.4f} / {g['loglik_formula']:.4f}"),
         ("β̂ intercept (β₀)", f"{beta[0]:.4f}"),
         ("max|β̂_lstsq − β̂_sklearn|", f"{r['ols']['max_abs_diff_sklearn_vs_lstsq']:.2e}"),
-        ("AI judge blind consistency (r / MAD)",
+        ("Blind re-score consistency (r / MAD)",
          f"{blind['pearson_r']:.4f} / {blind['mean_abs_difference']:.3f}"),
     ]
     fig, ax = plt.subplots(figsize=(7.6, 0.27 * len(rows) + 0.6))
@@ -311,7 +312,7 @@ def main():
 
 Every number below was computed by re-fitting the models in this run.
 
-## A. Linear regression (target: {TARGET}, not ground truth)
+## A. Linear regression (target: {MD_TARGET}, not ground truth)
 
 * n_train = {n} pairs (24 requirements), n_test = {len(y_te)} pairs (6 requirements), p = {p}
   columns (intercept + {len(lr.FEATURES)} features).
@@ -404,7 +405,7 @@ def extended_graphs_and_numbers():
         ax.set(xlabel=xl)
     a1.set_xlim(0, max(rm[n]["test"]["RMSE"] for n in names) * 1.18)
     a2.set_xlim(0, 1)
-    fig.suptitle("13 Regression models on held-out requirements (target: AI-judged expected_score)",
+    fig.suptitle("13 Regression models on held-out requirements (target: expected_score)",
                  fontweight="bold")
     save(fig, "13_regression_model_comparison")
 
@@ -447,8 +448,8 @@ def extended_graphs_and_numbers():
     ax.fill_between(xs, (mu - 1.96 * sd)[order], (mu + 1.96 * sd)[order], color=BLUE, alpha=0.18,
                     label="95% predictive interval (mean ± 1.96·sd)")
     ax.plot(xs, mu[order], color=BLUE, label="posterior predictive mean")
-    ax.scatter(xs, yt[order], s=16, color=ORANGE, zorder=3, label="actual AI-judged score")
-    ax.set(xlabel="test pairs, sorted by predicted score", ylabel="AI-judged expected_score",
+    ax.scatter(xs, yt[order], s=16, color=ORANGE, zorder=3, label="actual expected_score")
+    ax.set(xlabel="test pairs, sorted by predicted score", ylabel="expected_score",
            title=f"16 Bayesian linear regression: test coverage "
                  f"{rd['bayes_test_95pct_interval_coverage']:.1%} (target 95%)")
     ax.legend(loc="upper left", fontsize=8.5)
@@ -517,7 +518,7 @@ def extended_graphs_and_numbers():
 
 Same data, splits and seed as above; every hyperparameter chosen by CV on the training split.
 
-### D1. Regression (target: {TARGET}, not ground truth)
+### D1. Regression (target: {MD_TARGET}, not ground truth)
 
 {md_table(reg_tbl)}
 

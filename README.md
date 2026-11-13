@@ -1,9 +1,13 @@
-# Intelligent Agent Mapping: Vendor Matching — Phase 1
+# Intelligent Agent Mapping: Vendor Matching — Phases 1 and 2
 
 Phase 1 is limited to maximum likelihood estimation (MLE), linear regression
 (least squares / RSS, Gaussian likelihood) and logistic regression for
 classification. It uses a single snapshot (2026-09-27) of Google Maps place
 records for 23 retail categories between South Chennai and Chengalpattu.
+
+Phase 2 is a working vendor-matching prototype in Streamlit built on the Phase 1
+models: deterministic eligibility rules, then the saved linear model's predicted
+score, with explanations from real values. See [Phase 2](#phase-2-vendor-matching-prototype).
 
 ## Setup
 
@@ -85,7 +89,7 @@ Notebooks are re-executed with `jupyter nbconvert --to notebook --execute --inpl
   Bayesian linear regression, kernel ridge (kernel trick), Fisher LDA, Bernoulli naive Bayes,
   Bayesian logistic regression via the Laplace approximation, and SVMs. They use the same
   data, splits and seed; hyperparameters are tuned by CV on train only; no new dependencies.
-  There is still no Phase 2–4 work (no UI, database, embeddings or LLMs).
+  This extension added no Phase 2–4 work (no UI, database, embeddings or LLMs).
 - **Label audit filled by the AI judge (owner's decision).** Claude Code labelled all 200
   audit rows from title and address only, in a new `expected_is_pharmacy` column
   (rationales in `data/annotation/ai_pharmacy_labels.csv`). The original sheet is backed up as
@@ -146,3 +150,115 @@ Notebooks are re-executed with `jupyter nbconvert --to notebook --execute --inpl
 - **Locality is often city-level.** `locality` is the address part just before
   the state, which is often a city ("Chennai", "Chengalpattu") rather than a
   neighbourhood.
+
+## Phase 2: vendor-matching prototype
+
+### Setup and run
+
+`requirements.txt` adds exactly two packages for Phase 2: `streamlit==1.65.0`
+and `pytest==9.1.1` (installed into the same venv as above).
+
+```powershell
+python src/build_artifacts.py        # once: saves the Phase 1 models to artifacts/
+python -m pytest tests -q            # eligibility, pipeline and app (AppTest) tests
+python src/phase2_evaluation.py      # reports/phase2_results.md, reports/phase2_metrics.json
+streamlit run app/streamlit_app.py   # opens http://localhost:8501
+```
+
+`build_artifacts.py` refits both models with the Phase 1 code, data, split and seed,
+stops if they differ from the Phase 1 reports, and writes `artifacts/linear_model.joblib`,
+`artifacts/pharmacy_l2.joblib` and `artifacts/model_card.json` (training data hashes,
+feature list, coefficients, test metrics, the AI-judged-target caveat, creation time).
+The loader (`src/matching/artifacts.py`) refuses an artifact whose feature list or order
+differs from `src/matching/features.py` or the model card.
+
+### Demo walkthrough
+
+1. **Overview**: dataset counts, the 23 categories, the Phase 1 headline metrics (read
+   from `reports/metrics.json`) and the caveats.
+2. **Find vendors**: keep the default requirement *R01* or pick another. Tick
+   **Keyword required** to switch on rule R3, and choose a chain preference. Or switch to
+   **New requirement**: pick a category, a location (pincode or locality centroid, or
+   lat/lon), a distance and an optional keyword. You get:
+   - the ranked eligible list, with the score labelled *Predicted match score (model
+     trained on AI-judged scores)*;
+   - a map (orange buyer, blue eligible, grey not eligible);
+   - one expandable explanation per vendor: each rule's pass/fail with the actual numbers,
+     and β × x per feature summing to the raw prediction;
+   - a separate **Not eligible** table listing the failed rules.
+
+   For a pharmacy requirement, a *category check* column shows the L2 classifier's
+   probability, with ⚠️ when it is below 0.5. It is advisory and never changes eligibility.
+3. **Compare**: pick 2–4 vendors from the current result to see their rules, features,
+   contributions, categories and address side by side.
+4. **Evaluation**: the Step 5 results on the 6 held-out requirements.
+
+### Architecture
+
+```mermaid
+flowchart LR
+    subgraph Phase1["Phase 1 (unchanged outputs)"]
+        V[data/processed/vendors.csv] --> MR[make_requirements.py]
+        MR --> P[pairs.csv + annotation sheet]
+        P --> LR[linear_regression_mle.py]
+        V --> LC[logistic_regression_classification.py]
+    end
+    F[[src/matching/features.py<br/>shared feature code]] -.-> MR & LR & LC
+    LR & LC --> BA[build_artifacts.py] --> A[(artifacts/<br/>joblib + model_card.json)]
+    subgraph App["Phase 2 matching (src/matching + app/)"]
+        REQ[requirement] --> C[candidates<br/>pipeline.py]
+        C --> FE[features.py] --> EL[eligibility.py<br/>R1 R2 R3]
+        FE --> SC[scoring.py<br/>linear model]
+        EL & SC --> RK[ranking.py<br/>eligible always first]
+        RK --> EX[explain.py] --> UI[Streamlit pages]
+    end
+    A --> SC
+    A -.pharmacy only.-> EX
+    V --> C
+```
+
+- **Candidates:** every vendor within max(2 × max_distance_km, 5 km), capped at the 200
+  nearest. If fewer than 10 of those are eligible, every vendor listed in the category is
+  added. For an existing requirement, its buyer-anchor vendor is excluded, as in Phase 1.
+- **Eligibility** (`eligibility.py`) is deterministic and separate from the model:
+  - R1: the vendor is listed in the needed category.
+  - R2: `distance_km ≤ max_distance_km`.
+  - R3 (only if "keyword required"): the keyword is a whole token of the title.
+
+  Eligible vendors always rank above ineligible ones.
+- **Ranking:** eligible vendors are ordered by chain-preference group (if set), then raw
+  predicted score, then distance, then vendor_id.
+- **One feature function:** training and the app both call `pair_features()`. A test
+  checks it reproduces the annotation features for all 450 pairs and Phase 1's fitted
+  values to 1e-9.
+
+### Phase 2 decisions
+
+- The vendor table stays CSV (`vendors.csv`), not parquet, as in Phase 1. `joblib`
+  (1.6.0) is already installed as a scikit-learn dependency and is not pinned separately.
+- The scikit-learn tokenizer in `FeatureBuilder` was changed from a lambda to the named
+  function `title_token_list` (same behaviour), because lambdas cannot be saved with joblib.
+  The Phase 1 rerun after this change is byte-identical (69 output files).
+- When "keyword required" is ticked but no keyword is given, R3 is skipped.
+- Ties and order use the **raw** prediction; only the display is clipped to 0–100.
+- `streamlit` brings its own dependencies (e.g. pyarrow, starlette, uvicorn). Phase 2 code
+  does not import them.
+
+### Phase 2 limitations
+
+- **AI-judged target.** The model was trained on, and evaluated against, AI-judged
+  `expected_score`s (Claude Code with the rubric). These are not human ground truth.
+- **Noisy category labels.** R1 trusts source-file categories. Mislabelled vendors (e.g. a
+  mini-mart or a toll plaza under street_markets) pass R1 and get the +59.44
+  category_match credit. Large supermarkets listed in up to 10 categories are pushed
+  down by the n_categories term.
+- **Snapshot dataset.** One snapshot (2026-09-27), with no opening hours, stock or prices.
+  Shops may have closed or moved.
+- **Clipped scores.** The linear model is unbounded (14 of the 90 test pairs have a raw
+  prediction below 0). The displayed score is clipped to 0–100; the raw value is shown in
+  the explanation.
+- **Only pharmacy has a category check.** No classifier exists for the other 22
+  categories, so their category labels are taken as given.
+- **Small, easy evaluation.** 6 test requirements × 15 judged vendors. The judged pool's
+  sampling strata make eligibility easy (see `reports/phase2_results.md`), and most
+  vendors the app shows are unjudged.
