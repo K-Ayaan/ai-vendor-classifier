@@ -1,0 +1,241 @@
+{
+  "data": {
+    "train_addresses": 3688,
+    "train_segments": 22584,
+    "test_addresses": 923,
+    "test_segments": 5778,
+    "empty_addresses_dropped": 1,
+    "gold_addresses": 60,
+    "gold_segments": 371,
+    "towns": [
+      "ammanambakkam",
+      "chengalpattu",
+      "chennai",
+      "gokulapuram",
+      "kanchipuram",
+      "kattankulathur",
+      "kilampakkam",
+      "maraimalai nagar",
+      "medavakkam",
+      "nandivaram-guduvancheri",
+      "perumbakkam",
+      "tambaram",
+      "urappakkam"
+    ],
+    "symbols": [
+      "STATEPIN",
+      "PLUSCODE",
+      "NUMBER",
+      "TOWN",
+      "ROAD",
+      "NAGAR",
+      "LANDMARK",
+      "BUILDING",
+      "SHORT",
+      "WORD"
+    ],
+    "states": [
+      "PREMISE",
+      "STREET",
+      "AREA",
+      "CITY",
+      "STATE"
+    ]
+  },
+  "markov": {
+    "order0_heldout_ll_per_symbol": -2.04337,
+    "order1_heldout_ll_per_symbol": -1.37189,
+    "hmm_supervised_heldout_ll_per_symbol": -1.48348
+  },
+  "baum_welch": {
+    "from_supervised": {
+      "iterations": 106,
+      "train_ll_start": -32997.6,
+      "train_ll_end": -30741.7,
+      "seconds": 32.9383,
+      "heldout_ll_per_symbol": -1.38336
+    },
+    "random_starts": [
+      {
+        "iterations": 85,
+        "train_ll_end": -30723.9
+      },
+      {
+        "iterations": 67,
+        "train_ll_end": -30724.2
+      },
+      {
+        "iterations": 146,
+        "train_ll_end": -30724.2
+      },
+      {
+        "iterations": 129,
+        "train_ll_end": -30723.9
+      },
+      {
+        "iterations": 107,
+        "train_ll_end": -32175.1
+      }
+    ],
+    "best_random_heldout_ll_per_symbol": -1.38303,
+    "best_random_state_to_role": {
+      "state_0": "CITY",
+      "state_1": "STREET",
+      "state_2": "AREA",
+      "state_3": "PREMISE",
+      "state_4": "STATE"
+    },
+    "supervised_train_ll": -32997.6,
+    "monotone_from_supervised": true
+  },
+  "scaling": {
+    "long_sequence_length": 5778,
+    "unscaled_forward_result": 0.0,
+    "scaled_log10_likelihood": -4124.24,
+    "float64_underflow_after_symbols": 424,
+    "c_t_min": 0.000416811,
+    "c_t_max": 0.855506
+  },
+  "sum_product_check": {
+    "sequence_length": 7,
+    "paths_enumerated": 78125,
+    "abs_diff_loglik": 2.30926e-14,
+    "max_abs_diff_marginals": 1.63203e-14,
+    "viterbi_equals_brute_force": true
+  },
+  "decoding_on_gold": {
+    "majority_state": {
+      "segment_accuracy": 0.221024,
+      "macro_f1": 0.0724062,
+      "per_state_f1": {
+        "PREMISE": 0.362031,
+        "STREET": 0.0,
+        "AREA": 0.0,
+        "CITY": 0.0,
+        "STATE": 0.0
+      },
+      "address_exact_match": 0.0
+    },
+    "rules": {
+      "segment_accuracy": 0.913747,
+      "macro_f1": 0.921064,
+      "per_state_f1": {
+        "PREMISE": 0.834225,
+        "STREET": 0.877193,
+        "AREA": 0.901099,
+        "CITY": 0.992806,
+        "STATE": 1.0
+      },
+      "address_exact_match": 0.633333
+    },
+    "hmm_supervised_viterbi": {
+      "segment_accuracy": 0.943396,
+      "macro_f1": 0.942987,
+      "per_state_f1": {
+        "PREMISE": 0.891429,
+        "STREET": 0.877193,
+        "AREA": 0.969072,
+        "CITY": 0.985507,
+        "STATE": 0.991736
+      },
+      "address_exact_match": 0.7
+    },
+    "hmm_supervised_posterior": {
+      "segment_accuracy": 0.943396,
+      "macro_f1": 0.942987,
+      "per_state_f1": {
+        "PREMISE": 0.891429,
+        "STREET": 0.877193,
+        "AREA": 0.969072,
+        "CITY": 0.985507,
+        "STATE": 0.991736
+      },
+      "address_exact_match": 0.7
+    },
+    "hmm_baum_welch_from_supervised": {
+      "segment_accuracy": 0.886792,
+      "macro_f1": 0.892035,
+      "per_state_f1": {
+        "PREMISE": 0.825581,
+        "STREET": 0.790323,
+        "AREA": 0.873684,
+        "CITY": 0.970588,
+        "STATE": 1.0
+      },
+      "address_exact_match": 0.55
+    },
+    "hmm_baum_welch_random_best": {
+      "segment_accuracy": 0.876011,
+      "macro_f1": 0.879345,
+      "per_state_f1": {
+        "PREMISE": 0.825581,
+        "STREET": 0.790323,
+        "AREA": 0.873684,
+        "CITY": 0.939394,
+        "STATE": 0.967742
+      },
+      "address_exact_match": 0.483333
+    }
+  },
+  "rules_vs_viterbi_disagreements": {
+    "segments": 14,
+    "viterbi_right": 12,
+    "rules_right": 1
+  },
+  "anomaly": {
+    "heldout_ll_per_part_median": -1.4324,
+    "lowest": [
+      {
+        "vendor_id": "V2903",
+        "ll_per_part": -3.457,
+        "address": "Pareri, Tamil Nadu 603204"
+      },
+      {
+        "vendor_id": "V1867",
+        "ll_per_part": -3.38868,
+        "address": "Q254+5XC செந்தூர் காய்கறி கடை, Singaperumal Koil, Tamil Nadu 603204"
+      },
+      {
+        "vendor_id": "V3156",
+        "ll_per_part": -3.29917,
+        "address": "GST Rd, Singaperumal Koil, Tamil Nadu 603204"
+      },
+      {
+        "vendor_id": "V1865",
+        "ll_per_part": -3.17752,
+        "address": "CAR STREET, Theradi St, Singaperumal Koil, Tamil Nadu 603204"
+      },
+      {
+        "vendor_id": "V1694",
+        "ll_per_part": -3.17752,
+        "address": "Gandhi street, Railway Station Rd, Singaperumal Koil, Tamil Nadu 603204"
+      }
+    ]
+  },
+  "area_extraction_coverage_test": 0.855905,
+  "lds": {
+    "SIMULATED": true,
+    "n_steps": 595,
+    "dt_s": 2.0,
+    "true_gps_sigma_m": 20.0,
+    "ml_gps_sigma_m": 20.5353,
+    "ml_q": 1.77828e-07,
+    "route_km": 7.34638,
+    "rmse_m": {
+      "raw_gps": 27.781,
+      "moving_average_5": 12.0191,
+      "kalman_filter": 15.5626,
+      "rts_smoother": 8.39404
+    },
+    "stops": [
+      "Eswaran Medicals",
+      "SUYAMBULINGAM PHARMACY",
+      "SIVA SHAKTHI COUNTRY DRUGS SHOP",
+      "Apollo Pharmacy Ram Nagar South Bazaar Road",
+      "Siloam Pharmacy",
+      "JEYA MEDICALS",
+      "Athithya Pharmacy",
+      "Sri Guna Pharmacy"
+    ]
+  }
+}

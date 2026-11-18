@@ -1,0 +1,61 @@
+vendor_id,address,gold_labels
+V3537,"Devi Nagar, Porur, Chennai, Tamil Nadu 600116",AREA|AREA|CITY|STATE
+V2000,"71/1, Gandhi Nagar 1st Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020",PREMISE|STREET|AREA|AREA|CITY|STATE
+V1277,"11, Thiruvalluvar St, Potheri, Kattankulathur, Tamil Nadu 603203",PREMISE|STREET|AREA|CITY|STATE
+V3661,"No. 7, Arignar Anna Street Railway, Railway Station Rd, Guduvancheri, Chennai, Tamil Nadu 603202",PREMISE|STREET|STREET|AREA|CITY|STATE
+V1251,"42, Velachery Bypass Rd, near Dindigul Thalappakatti Restaurant, Velachery, Chennai, Tamil Nadu 600042",PREMISE|STREET|PREMISE|AREA|CITY|STATE
+V2674,"MS Complex, Anna St, Ambedkar Nagar, Madavakkam, Medavakkam, Tamil Nadu 600100",PREMISE|STREET|AREA|AREA|CITY|STATE
+V0046,"No 4 40, Eswaran Koil St, RE Nagar, Porur, Chennai, Tamil Nadu 600116",PREMISE|STREET|AREA|AREA|CITY|STATE
+V2293,"No.7, GST Rd, Chengalpattu, Thirutheri R.F., Tamil Nadu 603001",PREMISE|STREET|CITY|CITY|STATE
+V3853,"No 618/1, Rajiv Gandhi Salai, Gandhi Nagar, Sholinganallur, Chennai, Tamil Nadu 600119",PREMISE|STREET|AREA|AREA|CITY|STATE
+V2290,"1 Lakshmi Garden Street, Nellikuppam Rd, Nandivaram, Guduvancheri, Tamil Nadu 603202",STREET|STREET|AREA|CITY|STATE
+V2887,"No 24, Theobroma Bakery and Cake Shop - Porur,Chennai, New, Trunk Rd, next to Go Gas, opposite State Bank Of India, Nethaji Nagar, Ramakrishna Nagar, Porur, Chennai, Tamil Nadu 600116",PREMISE|PREMISE|CITY|STREET|STREET|PREMISE|PREMISE|AREA|AREA|AREA|CITY|STATE
+V4214,"No.240, Sathya Agencies, Tambaram - Electronics and Home Appliances Store, 238, Mudichur Rd, West Tambaram, Tambaram, Tamil Nadu 600045",PREMISE|PREMISE|PREMISE|PREMISE|STREET|AREA|CITY|STATE
+V3502,"R S NAGAR, 1/260, DR, Radha Krishnan St, JALLADIANPET, Medavakkam, Chennai, Tamil Nadu 600100",AREA|PREMISE|STREET|STREET|AREA|AREA|CITY|STATE
+V1132,"No: 58 mudichur road, Grand Southern Trunk Rd, near new market, West Tambaram, Tamil Nadu 600045",STREET|STREET|PREMISE|CITY|STATE
+V3968,"no.9, Andal Ave St, Gandhi Salai, Thirumalairayanpattinam, Seva Nagar, Velachery, Chennai, Tamil Nadu 600042",PREMISE|STREET|STREET|AREA|AREA|AREA|CITY|STATE
+V3482,"603001, Vedachalam Nagar, Gokulapuram, Tamil Nadu 603001",PREMISE|AREA|CITY|STATE
+V1669,"20, Bajanai Kovil St, Potheri, SRM Nagar, Chengalpattu, Kattankulathur, Tamil Nadu 603203",PREMISE|STREET|AREA|AREA|CITY|CITY|STATE
+V0178,"#350/1A Kayarambedu, Nellikuppam Rd, Guduvancheri, Tamil Nadu 603202",PREMISE|STREET|CITY|STATE
+V2015,"LOCATION. 147, Thirupathi Nagar Main Street On Shridevikuppam Main Road, Thirupathi Nagar Main Rd, Valasaravakkam, Chennai, Tamil Nadu 600087",PREMISE|STREET|STREET|AREA|CITY|STATE
+V1944,"SH 49, adjacent Valmiki, Ambedkar Nagar, Kamaraj Nagar, templeThiruvanmiyur, Chennai, Tamil Nadu 600041",STREET|PREMISE|AREA|AREA|AREA|CITY|STATE
+V3804,"X7X2+F8W TNPDS Adyar Ration Shop XNC669, Aishwarya Colony, Venkata Rathinam Nagar, Adyar, Chennai, Tamil Nadu 600020",PREMISE|AREA|AREA|AREA|CITY|STATE
+V1067,"C7/13, Anna Nagar, Chengalpattu, Pattaravakkam, Tamil Nadu 603001",PREMISE|AREA|CITY|CITY|STATE
+V1904,"13, 2nd St, Dr.Subbaraya Nagar, Kodambakkam, Chennai, Tamil Nadu 600024",PREMISE|STREET|AREA|AREA|CITY|STATE
+V3738,"HIG 84, Sekkizhar St, NH-1, Maraimalai Nagar, Tamil Nadu 603209",PREMISE|STREET|STREET|CITY|STATE
+V3033,"Door No 1, Kabilai Farm - Fresh Cow Milk, Plot No 5, Indian Colony, Balaji Nagar, Keelkattalai, Tambaram, Tamil Nadu 600117",PREMISE|PREMISE|PREMISE|AREA|AREA|AREA|CITY|STATE
+V0751,"334, Nellikuppam Rd, Melakottaiyur, Kandigai, Tamil Nadu 600127",PREMISE|STREET|AREA|CITY|STATE
+V3281,"No.38A, Alagesan Rd, Vedachalam Nagar, Anna Nagar, Chengalpattu, Tamil Nadu 603001",PREMISE|STREET|AREA|AREA|CITY|STATE
+V3625,"South Chennai, J C K Nagar, Chengalpattu, Tamil Nadu 603001",AREA|AREA|CITY|STATE
+V1210,"No.13, Gandhi Rd, Perumal Nagar, Alappakam, Alapakkam, New Perungalathur, Chennai, Sadhanathapuram, Tamil Nadu 600063",PREMISE|STREET|AREA|AREA|AREA|AREA|CITY|CITY|STATE
+V3547,"31, Rajaji St, J C K Nagar, Chengalpattu, Tamil Nadu 603001",PREMISE|STREET|AREA|CITY|STATE
+V0215,"Door No 18 GST, Ather Service Center - Chengalpattu pulipakkam, Road, J C K Nagar, Pulipakkam, Tamil Nadu 603002",PREMISE|PREMISE|STREET|AREA|CITY|STATE
+V0120,"21, Muthu St, Ganapathy Colony, Royapettah, Chennai, Tamil Nadu 600014",PREMISE|STREET|AREA|AREA|CITY|STATE
+V3394,"Clock Tower, 14/3A, GST Road, Periyar Rd, Chengal, Chengalpattu, Tamil Nadu 603001",PREMISE|PREMISE|STREET|STREET|AREA|CITY|STATE
+V1347,"No.G1, Ellaiamman Koil St, Besant Nagar, Chennai, Tamil Nadu 600090",PREMISE|STREET|AREA|CITY|STATE
+V1086,"165/361, Pycrofts Rd, near Express Avenue Mall, Bharathi Salai, Royapettah, Chennai, Tamil Nadu 600014",PREMISE|STREET|PREMISE|STREET|AREA|CITY|STATE
+V4534,"D. No. 292, Bata Shoe Store - Sholinganallur, Chennai, Kailash Building, P. No. 155, Rajiv Gandhi Salai, Elcot Sez, Sholinganallur, Chennai, Tamil Nadu 600119",PREMISE|PREMISE|CITY|PREMISE|PREMISE|STREET|AREA|AREA|CITY|STATE
+V0545,"W585+H2W Ration Shop, Tellus Avenue Phase 2, Sembakkam, Rajakilpakkam, Tamil Nadu 600073",PREMISE|AREA|AREA|CITY|STATE
+V0205,"J C K Nagar, Chengalpattu, Tamil Nadu 603001",AREA|CITY|STATE
+V3995,"Chengalpattu, 14, Bharathi Nagar, Vedhanarayanapuram, Chengalpattu, Tamil Nadu 603111",CITY|PREMISE|AREA|AREA|CITY|STATE
+V1810,"MXJQ+PVF KAAPI JUNCTION, SH58, Sakthi Nagar, Alapakkam, Chengalpattu, Tamil Nadu 603003",PREMISE|STREET|AREA|AREA|CITY|STATE
+V1973,"X57X+2C4 Ration Shop - Madipakkam, Bajanai Koil St, Balaiah Garden, Madipakkam, Chennai, Tamil Nadu 600091",PREMISE|STREET|AREA|AREA|CITY|STATE
+V0019,"Vasantham Nagar Thimavaram, No.1099/4A, Kangichipuram High Road, Palur, Athur, Tamil Nadu 603101",AREA|PREMISE|STREET|AREA|CITY|STATE
+V0633,"No 176 Maniyan Street Tkm Bridge, Service Road, Flyover, Chengalpattu, Tamil Nadu 603003",STREET|STREET|PREMISE|CITY|STATE
+V2907,"Shop No B6, GLOBAL MOBILES, 2nd Main Rd, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",PREMISE|PREMISE|STREET|AREA|AREA|CITY|STATE
+V3437,"PXVR+CF6 SHAHAN CHICKEN & MUTTON STALL, Bagavathsingh Nagar, Chettipunyam, Tamil Nadu 603004",PREMISE|AREA|CITY|STATE
+V0979,"No.388/1 Zulaikha Towers Tkm Road, Post, near Vallam, Vallam, Chengalpattu, Tamil Nadu 603003",STREET|PREMISE|PREMISE|AREA|CITY|STATE
+V1150,"2. Plot No14, Sathya Agencies, Velacherry - Electronics and Home Appliances Store, Veejay Towers, No.371, 1, 371, 100 Feet Rd, Officer Colony, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",PREMISE|PREMISE|PREMISE|PREMISE|PREMISE|PREMISE|PREMISE|STREET|AREA|AREA|AREA|CITY|STATE
+V2758,"No 33 Jazz Nivas Blossom Avenue, Mahindra World City, Chengalpattu, Tamil Nadu 603004",STREET|AREA|CITY|STATE
+V0990,"6, 6th cross st , SriRam Nagar S, Ramani Nagar, West Tambaram, Tambaram, Tamil Nadu 600045",PREMISE|STREET|AREA|AREA|AREA|CITY|STATE
+V4057,"17, Vallal MGR Salai, near ESAF Small Finance Bank, Maraimalai Nagar, Tamil Nadu 603209",PREMISE|STREET|PREMISE|CITY|STATE
+V1020,"177, Luz Church Rd, Kattukoil Garden, Mylapore, Chennai, Tamil Nadu 600004",PREMISE|STREET|AREA|AREA|CITY|STATE
+V0521,"Landmark: Manikandan Nagar Bus Stop, 27 Mettu Street, Pallavaram - Kundrathur Main Rd, Karaima Nagar, Kundrathur, Chennai, Tamil Nadu 600069",PREMISE|STREET|STREET|AREA|AREA|CITY|STATE
+V1811,"Door No 37, VANATHI HOME APPLIANCES, 37, Lakeview St, Parthasarathy Nagar, Adambakkam, Chennai, Kanchipuram, Tamil Nadu 600088",PREMISE|PREMISE|PREMISE|STREET|AREA|AREA|CITY|CITY|STATE
+V1412,"12, Station Rd, Sri Balaji Nagar, Urapakkam, Chennai, Mannivakkam, Tamil Nadu 603211",PREMISE|STREET|AREA|AREA|CITY|CITY|STATE
+V1342,"Medavakkam Main Rd, opp. to Sathya showroomKovilambakkam, Nanmangalam, Tamil Nadu 600129",STREET|PREMISE|CITY|STATE
+V4137,"No. 9/10, 4th Street, Sri Devi Karumari Amman Nagar Main Rd, Devi Karumariamman Nagar Extension, Velachery, Chennai, Tamil Nadu 600042",PREMISE|STREET|STREET|AREA|AREA|CITY|STATE
+V4607,"#B/6, Pavendar Salai, Maraimalai Nagar, Tamil Nadu 603209",PREMISE|STREET|CITY|STATE
+V2109,"Express Avenue Mall SHOP 272 & 273 SECOND FLOOR, 49/50L, Whites Rd, Royapettah, Chennai, Tamil Nadu 600014",PREMISE|PREMISE|STREET|AREA|CITY|STATE
+V1562,"No. 42/2, City Link Road, Maduvinkarai, Ramapuram, Old Narasingapuram, Race View Colony, Guindy, Chennai, Tamil Nadu 600032",PREMISE|STREET|AREA|AREA|AREA|AREA|AREA|CITY|STATE
+V2580,"Saminathan Street, 9, GST Rd, Guduvancheri, Tamil Nadu 603202",STREET|PREMISE|STREET|CITY|STATE
